@@ -117,6 +117,14 @@ description: >-
 > - **เปิดดูรูปเรฟทุกใบด้วยตา** ก่อนเขียนบรรทัดที่อ้างถึงมัน
 > - **ห้ามส่ง base64** (รูปเดียวกิน context หลายหมื่นโทเคน)
 
+### 4.0 · เจนรูปเรฟ (ฉาก/พร็อพ/แก้ภาพ) — ใช้ Seedream 5.5 เป็นหลัก
+
+> - ⭐ **โมเดลหลัก = Seedream 5.5 (`byteplus-seedream-5-5`)** — user 2026-11-11 *"ต่อไปให้ใช้ sd 5.5 เป็นหลักนะ นอกจากจะสั่งเฉพาะ"* · ใช้โมเดลอื่นเฉพาะเมื่อ user ระบุ
+> - **ทางที่ใช้ได้: Workspace Gen แบบไม่ผูกโปรเจกต์** (`generate_workspace_media_batch` ไม่ใส่ `studio_project_id`) · `image_size: "16:9"` + `resolution: "2K"` · ขอราคา `quote_only` ก่อน แล้วส่ง `accepted_quote` เดิมพร้อม `idempotency_key` เดิม · ราคา 2K 16:9 ≈ 1.2 พอยต์ (ลด 40% จาก 1.9 · 2026-11-11)
+> - ⛔ ผูก `studio_project_id` แล้วรูปขอราคาไม่ได้ (`quote_request_invalid` / `authoritative_price_unavailable`) · ⛔ เจนผ่าน Set entity (`generate_entity_image`) ได้แค่จัตุรัส 1024×1024
+> - ผลที่ได้อยู่โฟลเดอร์ Default ของ /image → ดาวน์โหลด → `prepare_reference_upload` (ใส่ `studio_project_id` + `can_upload_raw_bytes: true`) → `curl PUT` → `finalize_reference_upload` → `save_to_mix_stage`
+> - ⛔⛔ ขอราคาได้เสมอ แต่ **ห้ามยิงจนกว่า user ยืนยัน** (ดูขั้น 8)
+
 ### 4.1 · เอาเรฟเข้า Fortal (บทเรียน 2026-10-12)
 
 > - ⛔ **รูปที่แนบในแชต / path `G:\` / ลิงก์ Dropbox เข้า Fortal ไม่ได้** — cloud session มองไม่เห็นเครื่อง user และ network บล็อก `*.supabase.co` (ที่เก็บไฟล์ของ Fortal) เลย `prepare_reference_upload` + PUT เองไม่ผ่าน · Fortal ไม่มีเครื่องมือดึงรูปจากลิงก์เข้า Studio
