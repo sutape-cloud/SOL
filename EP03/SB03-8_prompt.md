@@ -108,3 +108,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A4 ช็อต 2 *a bald guard glances at the security chief* = user *"คนหัวโล้นเหลือบมองหัวหน้า"* · ช็อต 3 *glances back over his shoulder ... looking for someone to help him* = user *"เหลือบมองข้ามไหล่กลับไปทางประตูกระจกด้านใน เหมือนหาคนช่วย"* · A23 BEFORE (เล่าเหตุการณ์คลิปก่อน: tears) · AOY'S FACE *traces of her tears ... serious face* = user *"คราบน้ำตาจางแล้ว ตีหน้าขรึมตามยาย"*
 - เปิดบ็อก `e516803e-3d4f-4246-9856-72078df33d71` (บท 03) · ผูกเรฟ 11 + เสียง 1 · roles ตั้งแล้ว · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 21 วิ · full · manual · quote `81ef06c0` **185.4 พอยต์** · หมดอายุ 15:02 น. · รอ "ยิง"
+- เทค 1 ยิง 2026-11-12 — run `060c9c24-1070-4406-967e-99de328e38f1` · quote `81ef06c0` · Seedance 2.5 · references · 16:9 · 720p · 21 วิ · full · manual · เรฟ 11 + เสียง 1 · 185.4 พอยต์ · user สั่ง "ยิง"
