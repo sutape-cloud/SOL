@@ -17,13 +17,13 @@ Her skin tone is natural, as in her character references, with her event makeup 
 ACTIVE REFERENCES
 @Image1 — THE LOBBY, LOOKING ACROSS THE ROW OF GLASS SECURITY GATES TO THE REVOLVING DOORS. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY, THE SECURITY GATES, THE MATERIALS AND THE LOW SUN.
 @Image2 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
-@Image3 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes, her glasses and her staff. HER FACE COMES FROM @Image2.
+@Image3 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image2.
 @Image4 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
 @Image5 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image7 is the authority for what she is wearing today.
 @Image6 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image7 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
 @Image8 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
-@Image2 carries Nuch's face, and her disguise comes from @Image3. @Image5 and @Image6 carry Aoy's face, and her clothes come from @Image7. @Image4 carries the staff. Two of the guards in @Image8 appear in Shot 3. The whole video takes place in the lobby in @Image1.
+@Image2 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image3. @Image5 and @Image6 carry Aoy's face, and her clothes come from @Image7. @Image4 carries the staff. Two of the guards in @Image8 appear in Shot 3. The whole video takes place in the lobby in @Image1.
 
 WHAT THEY WEAR, AS IN @Image3, @Image7 AND @Image8
 - Nuch in disguise: a wide straw hat wrapped with a red printed cloth, short curly grey hair, gold-framed glasses with tea-tinted lenses, a red polo shirt, a red and white checked cloth over her neck, a carved wooden flower pendant on a cord, a woven red and navy striped shoulder bag, a woven navy and red striped sarong, brown flip-flops. In her right hand, the bamboo staff, about as tall as her shoulder, its tip resting on the floor.
@@ -111,3 +111,5 @@ The old woman on the left of frame, facing right, frowning, the tip of her staff
 - ลำดับเรฟตามที่ user แนบ: 9380eb89 (X 01) · e1776aa2 (Nuch CU = ยายนุชหน้า) · 60be2a31 (disguised Nuch FS = ยายนุชตัว) · 12d53b5e (ไม้เท้า = ไม้พลอง) · 647d4b67 (Aoy C2 X CU) · c87d5782 (Aoy C2 X CU 3Q) · de7e4e99 (Aoy C2 X FS หน้า+หลัง) · 17b738cc (SG 01)
 - เปิดบ็อก `59e802c5` (บท 03) · ผูกเรฟ 8 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 18 วิ · full · manual · quote `98c4fd76` **158.9 พอยต์** · หมดอายุ 12:12 น. · รอ "ยิง"
+- user 2026-11-12 *"ผมอัพรูปยาย นุชไปใหม่แล้ว"* → เจอใหม่ 2 ใบ: `disguised Nuch CU` `f62fa024` (หน้าในชุดปลอมตัว หมวกสาน แว่นกรอบทองเลนส์ชา ผ้าขาวม้า) · `disguised Nuch FS` `fc6b25b4` (เต็มตัวด้านหน้าอย่างเดียว ถือไม้ไผ่ หน้าถมสีฟ้า) · แทน @Image2 `Nuch CU` → `f62fa024` · แทน @Image3 FS เดิม `60be2a31` → `fc6b25b4` · แก้บรรทัด @Image3: ตัด *FROM THE FRONT AND FROM BEHIND* · เติม *THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image2* · ประโยคสรุป: หน้า+หมวก+แว่นจาก @Image2 · เรฟใหม่ต้องขอราคาใหม่ + "ยิง" ใหม่ (quote `98c4fd76` เดิมใช้ไม่ได้)
+- ถอด `Nuch CU` `e1776aa2` กับ FS เดิม `60be2a31` ออกจากบ็อก · roles ใหม่ valid · อัปพรอมป์ใหม่ขึ้น Fortal · ขอราคาใหม่ quote `77dc31df` **158.9 พอยต์** (เท่าเดิม) · idempotency `sb03-2-take1b-20261112` · หมดอายุ 12:15 น. · รอ "ยิง"
