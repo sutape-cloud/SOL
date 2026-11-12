@@ -91,6 +91,18 @@ user 2026-10-26 สั่ง "ยิง" SB02-59 หลังเสนอบร�
 
 **ชื่อในพรอมป์ อลิซ = Aoy · แจ็ค = Juk** — user 2026-10-26 ถาม *"เปลี่ยนชื่อเรียกตอนพร้อมพ์ให้SD จากอลิซเป็น อ้อย ดีมั้ย แจ็ค ก็เปลี่ยนเป็น จุก"* แล้วสั่ง *"เปลี่ยนเป็น Aoy / Juk"* (ชื่อฝรั่งอาจดึงหน้าฝรั่ง · ทดลอง) · ใช้กับบ็อกที่ยิงตั้งแต่ SB02-52 · บ็อกเก่าไม่ย้อนแก้ · บทพูดไทยยังเรียก "พี่แจ็ค" "อลิซ" ตามเสียงจริง
 
+### ASSISTANT WITH THE BOB (STAFF 02)
+```
+ASSISTANT WITH THE BOB: 28, Thai, an assistant in the secretary team, short black bob and glasses. 100% matches the reference for her face and her clothes.
+```
+user เคาะ 2026-11-12 (สั่ง "ยิง" SB03-1 หลังเสนอบรรทัดนี้) · Mix Stage `STAFF02 sheet sd55 v1` `da09a0d3` · ใบเดียวมีทั้งหน้าและชุด · ลูกทีมฝ่ายเลขา ซีน 3-0
+
+### ASSISTANT WITH THE PONYTAIL (STAFF 01)
+```
+ASSISTANT WITH THE PONYTAIL: 25, Thai, an assistant in the secretary team, low black ponytail. 100% matches the reference for her face and her clothes.
+```
+user เคาะ 2026-11-12 (สั่ง "ยิง" SB03-1 หลังเสนอบรรทัดนี้) · Mix Stage `STAFF01 sheet sd55 v1` `549e9f59` · ใบเดียวมีทั้งหน้าและชุด · ลูกทีมฝ่ายเลขา ซีน 3-0
+
 ## รอ user เคาะ
 
 (ว่าง)
@@ -111,3 +123,4 @@ THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 ```
 THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
 ```
+

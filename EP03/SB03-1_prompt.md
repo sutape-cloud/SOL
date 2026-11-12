@@ -179,3 +179,6 @@ DIALOGUE, IN THIS ORDER
 - ด่าน A8/A1/สำนวน/A13 ที่ติด: แก้คำแล้ว (Without taking her eyes off → Still looking · says without words → makes it clear · says nothing more → stays silent · not going to deny → owns up · glint in her eyes → glint of fun · as if to wave → halfway to wave · quieter → calm)
 - ด่านที่เก็บไว้พร้อมเหตุผล: A4 สายตา — ทุกบรรทัดการมองคือตัวแอ็กชัน (ชะเง้อ · มองข้ามขอบแว่น · เหลือบลูกทีม · ลูกทีมหันหานุช) · A20 คอมโพส — ตามสตอรี่บอร์ด user · A23 *knowing, amused* = user *"ยิ้มรู้ทัน"* · *teasing and fond* = แท็ก 带着笑意探问 + user *"แฝงความเอ็นดู"*
 - ลำดับเรฟตามที่ user แนบ: eb45e123 (S01) · a5978344 (S02) · e1776aa2 (Nuch CU) · e08d25d1 (Nuch FS) · 2aec936c (WIN CU) · 516647b1 (WIN Suit FS) · da09a0d3 (STAFF02 บ็อบ) · 549e9f59 (STAFF01 หางม้า) · @Audio1 d6ad6165 · @Audio2 9308d93c · @Audio3 cedad906 · @Audio4 c10dfbe8 · @Audio5 054f6b61 · @Audio6 5c653e9c
+- ด่านยกเว้น: A23 *knowing, amused* (ช็อต 3) = user สตอรี่บอร์ด *"มุมปากเม้มเป็นยิ้มรู้ทัน"* · *teasing and fond* (ช็อต 6) = แท็ก 带着笑意探问 + user *"'น้องอลิซ' เน้นเบาๆ แฝงความเอ็นดู"*
+- user 2026-11-12 "ยิง" → เคาะบรรทัดเรฟลูกทีม 2 คนด้วย · เติม `REF_LINES.md` ในหมวดล็อกแล้ว · A16 ผ่าน
+- เทค 1 ยิง 2026-11-12 — run `51501f75-ee17-4300-8407-2edd2c00fb03` · Seedance 2.5 · references · 16:9 · 720p · 28 วิ · full · manual · เรฟ 8 + เสียง 6 · 247.2 พอยต์ · user สั่ง "ยิง"
