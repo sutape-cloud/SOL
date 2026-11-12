@@ -26,13 +26,14 @@ ACTIVE REFERENCES
 @Image9 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
 @Image10 — SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
 @Image11 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
+@Image12 — THE LOBBY SEEN ACROSS, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 3, SHOT 5, SHOT 6 AND SHOT 7.
 @Audio1 — THE OLD WOMAN'S VOICE, HER FIRST LINE, IN SHOT 1.
 @Audio2 — THE SECURITY CHIEF'S VOICE, HIS LINE, IN SHOT 2.
 @Audio3 — THE OLD WOMAN'S VOICE, HER SECOND LINE, IN SHOT 4.
 @Audio4 — AOY'S VOICE, HER FIRST LINE, IN SHOT 5.
 @Audio5 — THE OLD WOMAN'S VOICE, HER THIRD LINE, IN SHOT 6.
 @Audio6 — AOY'S VOICE, HER SECOND LINE, IN SHOT 7.
-@Image4 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image5. @Image6 carries the staff. @Image7 and @Image8 carry Aoy's face, and her clothes come from @Image9. @Image10 carries the security chief. Two of the guards in @Image11 follow him. The whole video takes place in the lobby in @Image1, @Image2 and @Image3.
+@Image4 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image5. @Image6 carries the staff. @Image7 and @Image8 carry Aoy's face, and her clothes come from @Image9. @Image10 carries the security chief. Two of the guards in @Image11 follow him. The whole video takes place in the lobby in @Image1, @Image2, @Image3 and @Image12.
 
 WHAT THEY WEAR, AS IN @Image5, @Image9, @Image10 AND @Image11
 - Nuch in disguise: a wide straw hat wrapped with a red printed cloth, short curly grey hair, gold-framed glasses with tea-tinted lenses, a red polo shirt, a red and white checked cloth over her neck, a carved wooden pendant on a cord, a woven striped shoulder bag, a woven navy and red striped sarong, flip-flops. The bamboo staff in her right hand.
@@ -41,8 +42,12 @@ WHAT THEY WEAR, AS IN @Image5, @Image9, @Image10 AND @Image11
 
 WHERE EVERYONE IS
 - The ground-floor lobby: the revolving doors and the row of glass security gates at the entrance end, the low golden sun shining in, as in @Image1. The inner hall, with the marble reception counter in front of the tall wooden wall with gold strips and the tall glass wall onto the garden, as in @Image2. At the far end of the inner hall, the blue-green glass double doors to the lifts and the hall, as in @Image3.
-- At the start: the old woman stands just past the security gates, facing into the building. Aoy stands two steps in front of her, facing out toward the revolving doors, her back to the glass doors of the inner hall. The security chief comes running out of those glass doors.
-- THE OLD WOMAN IS ON THE LEFT OF FRAME, FACING RIGHT; AOY IS ON THE RIGHT OF FRAME, FACING LEFT; THE SECURITY CHIEF COMES FROM THE RIGHT.
+- At the start: the old woman stands just past the security gates, facing into the building. Aoy stands two steps in front of her, facing her and the revolving doors; the blue-green glass doors of the inner hall are off to her side, where she came from. The security chief comes running out of those glass doors.
+- THE FOUR SIDES OF THE LOBBY, AND WHERE EVERYONE IS IN EACH:
+  - LOOKING TOWARD THE REVOLVING DOORS, AS IN @Image1: THE OLD WOMAN FACES THE CAMERA, WITH THE SUN BEHIND HER.
+  - LOOKING INTO THE BUILDING, AS IN @Image2: THE OLD WOMAN HAS HER BACK TO THE CAMERA AND AOY FACES HER; THE BLUE-GREEN GLASS DOORS ARE OFF TO THE RIGHT, SO THE SECURITY CHIEF AND THE GUARDS COME FROM THE RIGHT.
+  - LOOKING AT THE BLUE-GREEN GLASS DOORS, AS IN @Image3: AOY IS ON THE LEFT, SIDE-ON, FACING RIGHT; THE OLD WOMAN IS ON THE RIGHT, SIDE-ON, FACING LEFT.
+  - LOOKING ACROSS THE LOBBY WITH THE RECEPTION COUNTER AT THE RIGHT EDGE, AS IN @Image12: THE OLD WOMAN IS ON THE LEFT, SIDE-ON, FACING RIGHT; AOY IS ON THE RIGHT, SIDE-ON, FACING LEFT.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.5 s — THE STAFF IN HER FACE
@@ -53,22 +58,22 @@ Picture, in this order:
   - Emotion from the script: 满腹狐疑，粗声质问.
   - Performance: suspicious and gruff, peering hard through her tea-tinted glasses, because the girl's clothes are completely different from what she wrote down.
 - 3. Aoy leans her face back away from the tip of the staff in front of her nose.
-Camera: MS, 150 cm high, eye level, 24mm lens, locked-off, OTS over Aoy's shoulder.
+Camera: MS, 150 cm high, eye level, 24mm lens, locked-off, OTS over Aoy's shoulder, from the side of @Image1, looking toward the revolving doors.
 Meaning: the wide lens makes the tip of the staff coming at the camera big and threatening, so the audience gets pointed at along with Aoy.
 Composition: Aoy's shoulder soft at the right edge of frame; the old woman on the left third, facing right; the tip of the staff thrust toward the lens and held in the foreground.
 Light: the golden sun behind the old woman rims the brim of her hat and her shoulders.
 
 Shot 2 — 3.5–8.0 s — THE CHIEF RUNS OUT
 Picture, in this order:
-- 1. The old woman still holds the tip of her staff at Aoy's face. The glass doors behind Aoy are pushed open with a bang, and Aoy turns her head and shoulders to look back, because someone has come out after her.
-- 2. Far behind Aoy, the security chief runs out of the glass double doors, out of breath, his radio in his hand, because Aoy ran off from the rehearsal and he has chased her down several floors; two guards run behind him.
+- 1. The old woman still holds the tip of her staff out at Aoy's face. The glass doors in the background are pushed open with a bang, and Aoy turns her head toward them, because someone has come out after her.
+- 2. The security chief runs out of the glass double doors, out of breath, his radio in his hand, because Aoy ran off from the rehearsal and he has chased her down several floors; two guards run behind him.
 - 3. The security chief calls out @Audio2 from far away, waving the hand that holds the radio.
   - Security chief: "คุณอลิซ กลับมาก่อน"
   - Emotion from the script: 气喘吁吁，大声呼喊.
   - Performance: out of breath from running down the stairs, calling her back with all he has.
-Camera: MS to WS, 150 cm high, eye level, 35mm lens, locked-off, OTS over the old woman's shoulder, looking past Aoy at the glass double doors of @Image3.
+Camera: MS to WS two-shot, 150 cm high, eye level, 35mm lens, locked-off, from the side of @Image3, looking at the glass double doors.
 Meaning: the shot carries straight on from Shot 1: the staff is still pointed at Aoy when the chief comes out, and the audience sees at once that everyone from inside the building comes out through these doors.
-Composition: the old woman's shoulder, the brim of her hat and her staff soft in the foreground on the left, the tip of the staff held toward Aoy; Aoy right of centre in the middle ground, turning to look back; the glass double doors in the background on the right, the security chief running out of them toward the camera.
+Composition: Aoy side-on on the left, facing right; the old woman side-on on the right, facing left; the staff held out between them at Aoy's face; the glass double doors in the background between them, the security chief running out of them toward the camera.
 Sound: the glass door banging open; leather shoes running, echoing on the marble.
 
 Shot 3 — 8.0–10.0 s — SHE KNOWS
@@ -76,20 +81,20 @@ Picture, in this order:
 - 1. Hearing the chief call the girl by her name, the old woman's look jumps up above the rim of her glasses in surprise, because this is the girl she came for.
 - 2. Her look moves slowly from the security chief back to Aoy.
 - 3. A wide smile slowly spreads across the face that was stern a moment ago.
-Camera: CU, 150 cm high, eye level, 85mm lens, locked-off.
+Camera: CU, 150 cm high, eye level, 85mm lens, locked-off, from the side of @Image12.
 Meaning: the close shot lets the audience see the moment she knows this is Aoy, just before she turns into someone else.
 Composition: the old woman's face on the left third, facing right.
 
 Shot 4 — 10.0–16.5 s — GRANNY'S HERE
 Picture, in this order:
-- 1. The old woman stands with her back to the camera in the foreground, off to the left. Aoy, right of centre, turns back to look at her.
+- 1. The old woman stands with her back to the camera in the foreground, left of centre. Aoy stands in front of her, facing her and the camera, and turns back to look at her.
 - 2. The old woman spreads her arms, the staff raised in her right hand, and booms @Audio3 for everyone in the lobby to hear, because she wants the whole building to believe her story.
   - Old woman: "เอ้า อีหนู มากะยายเร็ว ลุงวินของเอ็งคงจะอยู่ไม่พ้นคืนนี้แล้ว"
   - Emotion from the script: 心领神会，故意夸张大喊.
   - Performance: overjoyed on purpose, waving the girl over to her, making sure Aoy catches ลุง's name, then putting on a tragic face like a soap-opera granny.
 - 3. In the background on the right, the security chief and the two guards stop in their tracks and look at one another, because they are lost for what to do with this granny.
 Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, from the side of @Image2.
-Composition: the old woman's back in the foreground, off to the left; Aoy right of centre; the security chief and the two guards in the background on the right; the reception counter and the wooden wall with gold strips behind; the sunlit glass wall at the far left.
+Composition: the old woman's back in the foreground, left of centre; Aoy beyond her, facing the camera; the security chief and the two guards in the background on the right; the reception counter and the wooden wall with gold strips behind; the sunlit glass wall at the far left.
 Light: the afternoon sun from the glass wall on the left lays long stripes across the marble floor.
 
 Shot 5 — 16.5–18.5 s — HIS NAME
@@ -99,7 +104,7 @@ Picture, in this order:
   - Emotion from the script: 错愕茫然，不知所措.
   - Performance: stunned, her lips staying parted after the words, because she cannot understand how this stranger knows ลุง or what has happened to him.
 - 2. Her look darts between the old woman and the security chief.
-Camera: CU, 155 cm high, eye level, 85mm lens, locked-off.
+Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, from the side of @Image12.
 Composition: Aoy's face on the right third, facing left.
 
 Shot 6 — 18.5–23.5 s — TO THE HOSPITAL
@@ -110,8 +115,8 @@ Picture, in this order:
   - Emotion from the script: 火急火燎，催促上车.
   - Performance: in a frantic hurry, a tug on the wrist to get her moving.
 - 3. On her last words she raises her eyebrows at Aoy, a signal to play along.
-Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, from the side.
-Composition: the old woman on the left third, facing right; Aoy on the right third, being pulled by the arm; the security chief soft in the background on the right.
+Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, from the side of @Image12, where the security chief stands.
+Composition: the old woman on the left third, facing right; Aoy on the right third, being pulled by the arm; the security chief's shoulder, his back to the camera, soft at the right edge of frame.
 
 Shot 7 — 23.5–26.0 s — PLAYING ALONG
 Picture, in this order:
@@ -120,7 +125,7 @@ Picture, in this order:
   - Aoy: "เอ่อ ค่ะ"
   - Emotion from the script: 顺水推舟，结巴应和.
   - Performance: still confused, but her instinct tells her to go with the old woman: a moment of doubt, then she decides.
-Camera: CU, 155 cm high, eye level, 85mm lens, locked-off.
+Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, from the side of @Image12.
 Composition: Aoy's face on the right third, facing left; the old woman's hand on her wrist soft at the bottom edge.
 
 THE LAST FRAME
@@ -174,3 +179,13 @@ DIALOGUE, IN THIS ORDER
   - ช็อต 4: ยายหันหลังหน้ากล้อง ขวา → **ซ้าย** · อลิซ ซ้ายค่อนกลาง → **ขวาค่อนกลาง** · Composition เพิ่ม *the security chief and the two guards in the background on the right* — ตรงกับแกนช็อต 1 และ SB03-5 (ยาย/อลิซซ้าย · แจ็ค/รปภ. ขวา)
 - ด่านยกเว้น: A20 ช็อต 2 / ช็อต 4 ตำแหน่งในเฟรม = คำ user เรื่องยามต้องอยู่ขวา + ช็อตต้องต่อกัน · A4 ช็อต 4 *turns back to look at her* คงเดิมจากเทค 1
 - เทค 2 พรอมป์อัปขึ้น Fortal แล้ว · roles valid · ขอราคา quote `8fda067b` **229.6 พอยต์** · หมดอายุ 12:47 น. · รอ "ยิง"
+- เทค 2 แก้รอบสอง ตามผัง 4 ด้านของ user (`EP03/SCENE_3-1_RULES.md`) — ราคา `8fda067b` เดิมใช้ไม่ได้แล้ว (พรอมป์+เรฟเปลี่ยน):
+  - WHERE: บรรทัดฝั่งเดียวทั้งคลิป → ผัง 4 ด้าน (@Image1 ยายหันหน้า แดดหลัง · @Image2 ยายหันหลัง อลิซหันหน้าเข้าหา ประตูอยู่ขวา · @Image3 อลิซซ้ายหันขวา ยายขวาหันซ้าย · @Image12 ยายซ้ายหันขวา อลิซขวาหันซ้าย)
+  - เรฟ: เพิ่ม @Image12 = X05 v4 `be82b08e` (ด้าน D มุมมอง รปภ.) ต่อท้ายรูป ก่อนเสียง · ช็อต 3 / 5 / 6 / 7 ใส่ *from the side of @Image12*
+  - ช็อต 1: กล้องเติม *from the side of @Image1, looking toward the revolving doors* (ด้าน A)
+  - ช็อต 2 (ด้าน C): OTS ไหล่ยาย → *two-shot from the side of @Image3* · อลิซซ้ายหันขวา · ยายขวาหันซ้าย ยื่นไม้ค้างที่หน้าอลิซ · ประตูกลางฉากหลัง · อลิซหันหัวไปทางประตู
+  - ช็อต 4 (ด้าน B): ยายหันหลัง *left of centre* · อลิซ *in front of her, facing her and the camera* · รปภ. ฉากหลังขวา (คงจากรอบก่อน)
+  - ช็อต 6 (ด้าน D): หัวหน้า รปภ. *soft in the background on the right* → *shoulder, his back to the camera, soft at the right edge* เพราะด้าน D คือมุมของ รปภ.
+  - WHERE ตอนเริ่ม: *her back to the glass doors of the inner hall* → *the blue-green glass doors of the inner hall are off to her side, where she came from* (user: อลิซเข้ามาจากทางขวาของด้าน B ซึ่งเป็นประตู)
+- ด่านยกเว้น: A20 ช็อต 1/4 ตำแหน่งในเฟรม = ผัง 4 ด้านของ user · A4 ช็อต 4/7 คงเดิมจากเทค 1
+- เทค 2 (รอบผัง 4 ด้าน) อัปพรอมป์ + เรฟ 12 รูป + เสียง 6 · roles valid · quote `1f7bb1e7` **229.6 พอยต์** · idempotency `sb03-4-take2b-20261112` · หมดอายุ 13:01 น. · รอ "ยิง"
