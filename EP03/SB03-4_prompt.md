@@ -163,3 +163,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1 *Her confusion shows in her look and her mouth* = user *"ความงงเล่นด้วยสายตาและปาก"* · *her lips staying parted after the words* = user *"ปากอ้าค้างหลังพูด"* · A4 ทุกบรรทัดการมองเป็นตัวแอ็กชัน (อลิซหันกลับมามองยาย · รปภ. มองหน้ากัน · อลิซเห็นคิ้วที่เลิก) · A23 *stern* = user *"หน้าที่เคยบึ้ง"* · *sure* = บท *"ร่างย้อนแสงของคนที่เธอคิดว่าคือวิน"* · A20 คอมโพสตามสตอรี่บอร์ด user ทุกช็อต
 - เปิดบ็อก `c3743ee0` (บท 03) · ผูกเรฟ 11 + เสียง 6 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · quote `71f1d3c9` **229.6 พอยต์** · หมดอายุ 12:26 น. · รอ "ยิง"
+- เทค 1 ยิง 2026-11-12 — run `04c48b6a-fa91-4b1e-a0fd-6a7bb6118a67` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · เรฟ 11 + เสียง 6 · 229.6 พอยต์ · user สั่ง "ยิง"
