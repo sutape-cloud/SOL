@@ -6,7 +6,7 @@ LIP SYNC
 The old woman speaks in Shot 1 and Shot 2. Aoy speaks in Shot 5. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 across Shot 1 and Shot 2, @Audio2 in Shot 5. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. Juk, the young executive who wants Aoy to stay and finish the launch rehearsal, has had the security chief and five guards surround them. The old woman tried to march Aoy out through the revolving doors, but two guards stepped together and shut the way out; now the two of them stand with their backs to the glass wall beside the revolving doors.
+All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. Juk, the young executive who wants Aoy to stay and finish the launch rehearsal, has had the security chief and five guards surround them. The old woman tried to march Aoy out through the revolving doors, but two guards stepped together and shut the way out; she was stopped dead in front of their backs and looked up at them, with Aoy right behind her, as in @Image13.
 
 SCENE
 Cornered, the old woman pulls out her phone like a gun and pretends to go live, so that the men are scared of being filmed. The whole ring freezes: one covers his face, one fixes his tie, and Juk's smile goes stiff. Aoy peeks at the screen and hears a silly cat filter, and has to fight back a laugh; the old woman gives her a quick secret wink. Aoy understands and joins the show: she steps forward with tears running down her face and begs to be let go to see her dying uncle for the last time, then turns and wais to every man in the ring. The old woman looks at her, impressed by her granddaughter's acting.
@@ -27,9 +27,10 @@ ACTIVE REFERENCES
 @Image10 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image9.
 @Image11 — SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
 @Image12 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
+@Image13 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE OLD WOMAN, AOY AND THE TWO GUARDS AT THE REVOLVING DOORS STAND AT THE START OF SHOT 1.
 @Audio1 — THE OLD WOMAN'S VOICE, HER LINE, IN SHOT 1 AND SHOT 2.
 @Audio2 — AOY'S VOICE, HER LINE, IN SHOT 5.
-@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries Juk's face, and his clothes come from @Image10. @Image11 carries the security chief. Five of the guards in @Image12 are in the lobby. The whole video takes place in the lobby in @Image1 and @Image2.
+@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries Juk's face, and his clothes come from @Image10. @Image11 carries the security chief. Five of the guards in @Image12 are in the lobby. @Image13 shows where everyone stands as the video begins. The whole video takes place in the lobby in @Image1 and @Image2.
 
 WHAT THEY WEAR, AS IN @Image4, @Image8, @Image10, @Image11 AND @Image12
 - Nuch in disguise: a wide straw hat wrapped with a red cloth, short curly grey hair, tea-tinted glasses, a red polo shirt, a red and white checked cloth over her neck, a wooden pendant, a woven shoulder bag, a striped sarong, flip-flops. The bamboo staff in her right hand. A smartphone in a plain case in her shoulder bag.
@@ -39,13 +40,14 @@ WHAT THEY WEAR, AS IN @Image4, @Image8, @Image10, @Image11 AND @Image12
 
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon: polished white marble floor and round marble pillars, the tall glass wall with the gold-framed revolving doors, the low golden sun coming in, the reception counter in front of the wooden wall with gold strips.
-- The old woman and Aoy stand with their backs to the tall glass wall beside the revolving doors. The five guards stand around them in a half circle. Juk and the security chief stand in the middle of the ring, on the right.
+- At the start, as in @Image13: the old woman stands right in front of the two guards who block the revolving doors, looking up at their backs, and Aoy stands behind her. The old woman steps back half a step from them, so that she and Aoy stand beside the revolving doors with the tall glass wall behind them.
+- THE RING IS A CURVE, LIKE THE LETTER C, ITS TWO ENDS AT THE GLASS WALL: the two guards at the revolving doors close one end; the other three guards, the security chief and Juk stand along the curve around the old woman and Aoy, each at a different distance from them; Juk and the security chief are in the middle of the curve. The tall glass wall closes the circle behind the old woman and Aoy.
 - THE OLD WOMAN AND AOY ARE ON THE LEFT OF FRAME, FACING RIGHT; JUK, THE SECURITY CHIEF AND THE GUARDS ARE ON THE RIGHT OF FRAME, FACING LEFT.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–4.0 s — THE PHONE COMES OUT
 Picture, in this order:
-- 1. The old woman reaches into her shoulder bag and whips out her phone, fast, like drawing a gun, because filming is the one weapon these men are scared of.
+- 1. The old woman steps back half a step from the two guards at the revolving doors, Aoy behind her, and turns to face the ring; she reaches into her shoulder bag and whips out her phone, fast, like drawing a gun, because filming is the one weapon these men are scared of.
 - 2. She holds the phone out at arm's length in front of her face, its back turned toward the ring.
 - 3. She says @Audio1, sweeping the phone slowly from one guard's face to the next; as she tells them to look at the camera, she pushes the phone right up to the face of the nearest guard.
   - Old woman: "แบบนี้ มันต้องไลฟ์ไปออกสรยุทธ เอ้า มองกล้องหน่อย ไลฟ์แล้ว ไลฟ์แล้ว"
@@ -63,7 +65,7 @@ Picture, in this order:
 - 3. At the end of the line, Juk keeps his smile on, but it has gone stiff; he smooths his hair down with one hand.
 Camera: MCU, 160 cm high, eye level, 85mm lens, a slow truck to the left along the front of the line, as in @Image1.
 Meaning: the camera passes one face after another, so the audience sees each reaction and feels how many men are in the ring.
-Composition: everyone faces left, toward the phone, which stays out of frame in this shot; the shot ends with Juk on the right third, facing left.
+Composition: everyone faces left, toward the phone, which stays out of frame in this shot; the men stand at different distances along the curve, some nearer and some farther; the shot ends with Juk on the right third, facing left.
 Light: the sun from the glass wall falls across their faces in stripes, some in the light and some in the shade, by where they stand.
 
 Shot 3 — 8.5–11.5 s — A PEEK AT THE SCREEN
@@ -78,7 +80,7 @@ Sound: one clear, cute meow from the phone; the lobby is quiet.
 
 Shot 4 — 11.5–14.0 s — THE WINK
 Picture, in this order:
-- 1. The old woman still holds the phone up in front of her face toward the ring.
+- 1. The old woman, side-on and facing the ring, still holds the phone out at arm's length in front of her face with one hand, its back toward the ring. Aoy stands behind her, keeping a straight face.
 - 2. She tips her face out from behind the phone, just a little, toward Aoy, and gives her a quick wink with the hint of a smile, a secret signal to join in.
 - 3. She turns back to the ring and slowly lowers the phone from her face, her stern face back exactly as before.
 Camera: CU, 150 cm high, eye level, 85mm lens, locked-off, from the side, as in @Image1.
@@ -105,7 +107,7 @@ Picture, in this order:
 - 3. A young guard bows back by reflex, and the guard beside him jabs him with an elbow.
 Camera: WS, 600 cm high from the ceiling, straight down, 24mm lens, locked-off.
 Meaning: from above, the audience sees the whole ring in one picture, counts how many men surround them, and laughs at the wai going round like a shape.
-Composition: the glass wall a straight line along the left edge; the old woman and Aoy against that line; the dark grey ring curving around them; Juk's white suit a bright spot in the middle of the ring; everyone's shadow stretching long to the right with the sun.
+Composition: the glass wall a straight line along the left edge; the old woman and Aoy against that line, beside the revolving doors; the guards, the security chief and Juk standing on a curve like the letter C around them, its two ends at the glass wall, the two guards at the revolving doors closing one end; Juk's white suit a bright spot in the middle of the ring; everyone's shadow stretching long to the right with the sun.
 Light: the low sun slants through the glass and lays golden stripes on the marble floor.
 
 Shot 7 — 26.0–28.0 s — GRANNY IS IMPRESSED
@@ -116,7 +118,7 @@ Camera: CU, 150 cm high, eye level, 85mm lens, locked-off, as in @Image1.
 Composition: the old woman's face on the left third, facing right; Aoy, in the middle of a wai, soft at the right edge.
 
 THE LAST FRAME
-The old woman on the left of frame, her stern face back, the phone hanging at her side, the staff in her right hand. Aoy stands beside her, her palms still pressed together. The ring on the right stands still.
+The old woman on the left of frame, her stern face back, the phone hanging at her side, the staff in her right hand. Aoy stands beside her, her palms still pressed together. The curved ring on the right stands still; the two guards still block the revolving doors.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1 and Shot 2, @Audio1, OLD WOMAN: "แบบนี้ มันต้องไลฟ์ไปออกสรยุทธ เอ้า มองกล้องหน่อย ไลฟ์แล้ว ไลฟ์แล้ว"
@@ -155,3 +157,12 @@ DIALOGUE, IN THIS ORDER
   - สาเหตุ: เขียนตำแหน่งจากบรีฟอย่างเดียว ไม่ได้เปิดเฟรมท้ายคลิป 5 (ตอนเขียน SB03-6 เทค 2 ยังเรนเดอร์อยู่) · พรอมป์เขียน *in a half circle* คำเดียว ไม่บอกรูปทรงพอ
   - ⚠️ ช็อต 4 ขยิบตา ออกมาเป็นยาย+อลิซถ่ายเซลฟี่คู่ ยิ้มทั้งคู่
   - ✓ มือถือเห็นแค่ด้านหลัง · ช็อต 2 ปฏิกิริยา รปภ./แจ็คลูบผม · ช็อต 5 น้ำตาใส พนมมือ · ช็อต 6 ไหว้รอบ + รปภ.ไหว้กลับ · ช็อต 7 ยายทึ่งกลั้นยิ้ม
+- เทค 2 — user *"แก้คลิป 6 ตามที่เสนอ"* (ข้อเสนอ: เปิดต่อจากเฟรมท้ายคลิป 5 · บอกรูปทรงวงล้อม · ใช้เฟรมท้ายคลิป 5 เป็นเรฟ · ช็อต 4 ไม่ใช่เซลฟี่คู่)
+  - เรฟใหม่ @Image13 = `SB03-6 V2 last frame` `e6a46f14` (อัปจาก `EP03/frames/SB03-6_V2_last.png` → asset `f746be6e` → Mix Stage) ต่อท้ายรูป ก่อนเสียง
+  - BEFORE: *now the two of them stand with their backs to the glass wall* → *stopped dead in front of their backs and looked up at them, with Aoy right behind her, as in @Image13*
+  - WHERE: ครึ่งวงกลมคำเดียว → ตอนเริ่มตาม @Image13 ยายถอยครึ่งก้าวจาก รปภ. 2 คนที่ประตูหมุน · วงล้อมเป็นโค้งรูปตัว C ปลายสองข้างชนผนังกระจก แต่ละคนห่างไม่เท่ากัน แจ็ค+หัวหน้ากลางโค้ง
+  - ช็อต 1 บีต 1: เพิ่มถอยครึ่งก้าวจาก รปภ. ที่ประตูหมุน แล้วหันหาวงล้อมก่อนชักมือถือ
+  - ช็อต 2 Composition: เพิ่ม *at different distances along the curve*
+  - ช็อต 4: ยายหันข้างหาวงล้อม ยื่นมือถือสุดแขนมือเดียว หลังเครื่องหันหาวงล้อม · อลิซอยู่ข้างหลัง *keeping a straight face* (เทค 1 ออกเซลฟี่คู่)
+  - ช็อต 6 / LAST FRAME: โค้งตัว C · รปภ. 2 คนยังปิดประตูหมุน
+- เทค 2 อัปพรอมป์ + เรฟ 13 รูป + เสียง 2 · roles ตั้งแล้ว · quote `981a3461` **247.2 พอยต์** · idempotency `sb03-7-take2-20261112` · หมดอายุ 15:10 น. · รอ "ยิง"
