@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, has told everyone that Aoy's "ลุงวิน" is dying and grabbed Aoy's wrist to take her to the hospital, and Aoy has decided to play along. The old woman has set off toward the revolving doors, pulling Aoy by the wrist. The security chief and two guards stand a little way off, between them and the glass doors of the inner hall. Juk, the young executive who wants Aoy to stay and finish the launch rehearsal, is coming down after them with more guards.
 
 SCENE
-Juk hurries out of the inner hall to stop them, with a polite smile that is only a mask. The old woman pulls Aoy behind her, backs off deeper into the lobby, plants her staff on the floor like a line he must not cross, and demands what right he has to stop her granddaughter. The guards close in and block the way out. Juk tries to talk her round, still inching closer and watching the staff. The old woman raises her staff over her head and threatens to crack his head open, so fiercely that everyone takes a step back.
+Juk hurries out of the inner hall to stop them, with a polite smile that is only a mask. The old woman pulls Aoy behind her, backs off toward the wall at the far side of the lobby, plants her staff on the floor like a line he must not cross, and demands what right he has to stop her granddaughter. The guards close in and block the way out. Juk tries to talk her round, still inching closer and watching the staff. The old woman raises her staff over her head and threatens to crack his head open, so fiercely that everyone takes a step back.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references, with her event makeup as in @Image6. She is startled, but she holds on to the old woman.
@@ -42,11 +42,11 @@ WHAT THEY WEAR, AS IN @Image4, @Image7, @Image9, @Image10 AND @Image11
 WHERE EVERYONE IS
 - The ground-floor lobby in the late afternoon: polished white marble floor and round marble pillars, the tall glass wall onto the garden with the low golden sun coming in, tall wooden doors, potted trees, the marble reception counter in front of the wooden wall with gold strips, as in @Image1. At the far end of the inner hall, the blue-green glass double doors, as in @Image2.
 - At the start: the old woman and Aoy are in the middle of the hall on their way to the revolving doors, the old woman holding Aoy's wrist. The security chief and two guards stand a little way off, toward the glass doors. Juk and three more guards are about to come out through the glass double doors.
-- During the video: the old woman pulls Aoy behind her and backs away from the men, deeper into the lobby. The security chief's two guards move round between them and the revolving doors to block the way out, and Juk, the security chief and the other guards close in from the side of the glass doors. The only open space left is behind the old woman and Aoy.
+- During the video: the old woman pulls Aoy behind her and backs away from the men, toward the wall at the far side of the lobby. The guards close in around them from the sides to squeeze them, one or two of them blocking the way out, and Juk, the security chief and the other guards close in from the side of the glass doors. By the end, the old woman and Aoy are cornered at the left of the lobby.
 - THE FOUR SIDES OF THE LOBBY, AND WHERE EVERYONE IS IN EACH:
-  - LOOKING AT THE BLUE-GREEN GLASS DOORS, AS IN @Image2: AOY IS ON THE LEFT AND THE OLD WOMAN ON THE RIGHT; JUK AND THE GUARDS COME OUT OF THE DOORS.
-  - LOOKING ACROSS THE LOBBY WITH THE RECEPTION COUNTER AT THE RIGHT EDGE, AS IN @Image1: THE OLD WOMAN IS ON THE LEFT, FACING RIGHT; AOY STARTS ON THE RIGHT, FACING LEFT; JUK AND THE SECURITY CHIEF COME IN FROM THE CAMERA'S SIDE.
-  - LOOKING INTO THE BUILDING, AS IN @Image12: THE OLD WOMAN AND AOY ARE AT THE LEFT OF FRAME; THE GUARDS BLOCKING THE WAY OUT HAVE THEIR BACKS TO THE CAMERA IN THE FOREGROUND; JUK, THE SECURITY CHIEF AND THE OTHER GUARDS ARE ON THE RIGHT.
+  - LOOKING AT THE BLUE-GREEN GLASS DOORS WHERE JUK COMES OUT, AS IN @Image2: AOY HAS HER BACK TO THE CAMERA, ON THE LEFT, LOOKING AT JUK AT THE DOORS; THE OLD WOMAN IS TO HER RIGHT.
+  - JUK'S SIDE, LOOKING ACROSS THE LOBBY WITH THE RECEPTION COUNTER AT THE RIGHT EDGE, AS IN @Image1: JUK AND THE SECURITY CHIEF HAVE THEIR BACKS TO THE CAMERA; THE OLD WOMAN AND AOY ARE NEAR THE WALL; THE GUARDS, SIDE-ON, LOOK AT THEM AND CLOSE IN FROM THE SIDES.
+  - LOOKING INTO THE LOBBY, AS IN @Image12: THE OLD WOMAN AND AOY ARE IN THE LEFT CORNER OF FRAME; ONE OR TWO GUARDS BLOCKING THE WAY OUT HAVE THEIR BACKS TO THE CAMERA, COVERING ONE CORNER OF THE FOREGROUND; JUK AND THE OTHER GROUP OF GUARDS ARE ON THE RIGHT.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–4.5 s — JUK ARRIVES
@@ -58,22 +58,22 @@ Picture, in this order:
   - Performance: a little out of breath; a big polite smile that stays on the surface; his raised hand held politely, like a hotel receptionist's.
 - 3. Behind him, three more guards follow him out of the doors.
 Camera: MS, 150 cm high, eye level, 35mm lens, locked-off, from the side of @Image2.
-Composition: the backs of Aoy and the old woman soft in the foreground on the left, Aoy on the left and the old woman to her right, both stopped and turned toward the doors; Juk coming from the glass doors in the middle of the frame toward the camera, facing the camera; his white suit the brightest thing in the frame.
+Composition: Aoy with her back to the camera, soft in the foreground on the left, looking at Juk at the doors, the old woman to her right; Juk coming from the glass doors in the middle of the frame toward the camera, facing the camera; his white suit the brightest thing in the frame.
 Sound: the glass doors opening; sneakers and several pairs of leather shoes on the marble.
 
 Shot 2 — 4.5–11.5 s — PULLING HER BACK
 Picture, in this order:
 - 1. Juk and the security chief, their backs to the camera in the foreground on the right, walk toward the old woman and Aoy.
 - 2. The old woman, side-on on the left, facing right, and Aoy, side-on on the right, facing left: the old woman sees that Aoy is standing closer to Juk than she is.
-- 3. The old woman yanks Aoy by the wrist behind her own back, and the two of them back away a few steps, deeper into the lobby, because she will not let them take the girl.
-- 4. She plants the tip of her staff on the floor in front of her like a line drawn across the floor; the guards coming after Juk spread out into a half circle.
+- 3. The old woman yanks Aoy by the wrist behind her own back, and the two of them back away a few steps toward the wall, because she will not let them take the girl.
+- 4. She plants the tip of her staff on the floor in front of her like a line drawn across the floor; the guards, side-on, look at the old woman and Aoy and close in from the sides to squeeze them.
 - 5. The old woman says @Audio2.
   - Old woman: "เอ็งเป็นใคร มีสิทธิ์อะไรมาห้ามหลานข้า"
   - Emotion from the script: 泼辣蛮横，声色俱厉.
   - Performance: standing her ground, fierce and rude, her free hand keeping Aoy behind her.
-Camera: MS to WS, 150 cm high, eye level, 35mm lens, locked-off, from the side of @Image1.
-Meaning: the backs of Juk and the security chief walking in take over the foreground and push the old woman and her granddaughter back, deeper into the lobby.
-Composition: the backs of Juk and the security chief in the foreground on the right; the old woman and Aoy centre left, backing away; the tall windows behind them on the left; the reception counter at the right edge; the guards spreading out on the right.
+Camera: MS to WS, 150 cm high, eye level, 35mm lens, locked-off, from Juk's side, as in @Image1.
+Meaning: the backs of Juk and the security chief walking in take over the foreground and push the old woman and her granddaughter back against the wall.
+Composition: the backs of Juk and the security chief in the foreground on the right; the old woman and Aoy centre left, backing toward the wall; the reception counter at the right edge; the guards side-on, closing in from both sides.
 Light: the afternoon sun from the tall windows on the left rims the brim of her hat and Aoy's ponytail.
 Sound: the tip of the staff striking the marble floor with a thud.
 
@@ -95,14 +95,14 @@ Picture, in this order:
   - Emotion from the script: 凶神恶煞，扬声恐吓.
   - Performance: fierce and deadly serious, the staff held over her head, so convincing that the audience believes her.
 - 3. Juk, the security chief and every guard flinch and step back one step together.
-Camera: MS to WS, 90 cm high, a low angle, 24mm lens, locked-off, from the side of @Image12, behind the guards who block the way out.
+Camera: MS to WS, 90 cm high, a low angle, 24mm lens, locked-off, from the side of @Image12, looking into the lobby, behind the guards who block the way out.
 Meaning: the low angle makes the small old woman look as big as a warrior, cornered but ready to fight.
-Composition: the shoulders of two guards, their backs to the camera, soft in the foreground, blocking the way out; the old woman and Aoy at the left of frame, the old woman facing the men with the staff raised, Aoy sheltering behind her; Juk, the security chief and the other guards closing in on the right; the open space behind the old woman and Aoy.
+Composition: one or two guards, their backs to the camera, soft in the left corner of the foreground, blocking the way out; the old woman and Aoy in the left corner of frame, the old woman facing the men with the staff raised, Aoy sheltering behind her; Juk and the other group of guards closing in on the right.
 Light: the low sun from the revolving doors behind the camera lights the old woman, her hat and the staff in gold; long shadows stretch away from the camera across the marble.
 Sound: many pairs of shoes scraping back on the marble at once.
 
 THE LAST FRAME
-The old woman at the left of frame, the staff raised and held, Aoy sheltering behind her. The shoulders of the guards blocking the way out in the foreground; Juk, the security chief and the other guards on the right, everyone one step back.
+The old woman and Aoy in the left corner of frame, the staff raised and held, Aoy sheltering behind her. One or two guards blocking the way out in the left corner of the foreground; Juk and the other group of guards on the right, everyone one step back.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JUK: "ไปไม่ได้นะครับ"
@@ -153,3 +153,11 @@ DIALOGUE, IN THIS ORDER
   - SCENE / ช็อต 2 Meaning: *toward the glass wall* · *against the glass* → *deeper into the lobby* · *guards spread out around them* → *close in and block the way out*
 - ด่านยกเว้น: A20 ทุกช็อต = ผัง 4 ด้านของ user + สตอรี่บอร์ด
 - เทค 2 อัปพรอมป์ + เรฟ 12 รูป + เสียง 4 · roles valid · quote `7740d671` **176.6 พอยต์** · idempotency `sb03-5-take2-20261112` · หมดอายุ 13:31 น. · รอ "ยิง"
+- เทค 2 รอบสอง — user *"ก็ ทำยังไงก็ได้ ต้องจบที่ อลิช ยาย อยู่มุม ซ้ายของเฟรม ที่ มุมสถานที่ หันหน้าไปล็อบบี้ ... เพื่อให้ ยาม ปิดทาง บังเฟรม หน้าล็อบบี้ มุมนึง สัก 1-2 คน และ ทางฝั่งขวาจะเห็นแจค กับยามอีกกลุ่ม และ ถ้ามาในมุมมอง แจค ... X05_lateafternoon_sd55_v4_clean ... จะเห็นอลิช กับยาย อยู่ตรง แถวพนัง ... ยามที่ หันหลัง จาก คัตก่อนหน้า เขาจะหันข้าง มองไปที่ยายอลิช เพื่อบีบ ส่วนฝั่ง แจค ... จะหันหลังให้กล้อง ... มุมประตูที่แจค เข้ามา เราจะเห็นว่า อลิชหันหลังให้กับเฟรมกล้อง มองไปที่ ประตูที่ แจคอยู่"*
+  - ผังรายด้าน: ด้านประตู → อลิซหันหลังให้กล้อง ซ้าย มองแจคที่ประตู · X05 = ด้านแจค แจค+หัวหน้าหันหลัง ยาย/อลิซแถวผนัง รปภ.หันข้างบีบเข้ามา · X04 = ยาย/อลิซมุมซ้าย รปภ. 1–2 คนหันหลังบังมุมหน้า แจค+รปภ.อีกกลุ่มขวา
+  - SCENE/WHERE/ช็อต 2: *deeper into the lobby* → *toward the wall* · รปภ. *spread out into a half circle* → *side-on ... close in from the sides to squeeze them* · กล้อง *from Juk's side, as in @Image1* · ตัดหน้าต่างซ้ายออกจาก Composition (เห็นผนังแทน)
+  - ช็อต 1: *backs of Aoy and the old woman* → *Aoy with her back to the camera ... looking at Juk at the doors*
+  - ช็อต 4 / LAST FRAME: *two guards* → *one or two guards ... in the left corner of the foreground* · ยาย/อลิซ *in the left corner of frame* · ขวา *Juk and the other group of guards*
+  - ⚠️ มุมที่ รปภ. บังหน้า: user บอก *"มุมนึง"* ไม่ระบุซ้าย/ขวา → เลือกมุมซ้าย (ฝั่งเดียวกับยาย/อลิซ = ขวางทางออกของสองคน) รายงาน user แล้ว
+- ด่านยกเว้น: A4 WHERE บรรทัด X05 + ช็อต 2 บีต 4 *the guards, side-on, look at the old woman and Aoy* = user *"เขาจะหันข้าง มองไปที่ยายอลิช เพื่อบีบ"* · A20 ทุกช็อต = ผังของ user
+- เทค 2 รอบสอง อัปพรอมป์แล้ว · quote `d69b6e0a` **176.6 พอยต์** · idempotency `sb03-5-take2b-20261112` · หมดอายุ 13:37 น. · รอ "ยิง"
