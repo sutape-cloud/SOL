@@ -143,3 +143,5 @@ DIALOGUE, IN THIS ORDER
 - ด่านสำนวน: แก้ *as if* 3 จุด (*for her to tell him where to go* · *the way people talk to a small child* · *because for her the matter is settled*)
 - ด่านยกเว้น: A4 ช็อต 3 *glances at the shoulders* = user *"ยายนุชเหลือบมองไหล่ที่บีบเข้ามา"* · ช็อต 5 *looks up at the wall of men* = user *"ยายเงยหน้ามองกำแพงคนตรงหน้า"* · A20 ทุกช็อต = องค์ประกอบจากสตอรี่บอร์ด user
 - เปิดบ็อก `527416d9-6076-4975-b6e5-3d83291a31e6` (บท 03) · ผูกเรฟ 12 รูป + เสียง 1–2 (`aaf850f6` 7.17 วิ · `f9f295b4` 5.53 วิ) · roles ตั้งแล้ว 14 รายการ · พรอมป์อัปขึ้น Fortal แล้ว · **ยังไม่ขอราคา — รอเสียง 3–4**
+- user *"อัปเสียงแล้ว เช็คใน mix ดีดี เพิ่มอีก 12 ไฟล์ เห็นไหม"* → get_project entities diff เจอ 13 ไฟล์ใหม่ · @Audio3 `4d5cf880` C3 1 clip05 3 Aliz 2.50 วิ (พูด 0–1.48) · @Audio4 `53773bde` C3 1 clip05 4 YaiNuch 4.24 วิ (เต็มไฟล์) · เวลาช็อต 4 (17.0–20.5) และ 5 (20.5–27.0) พอดีกับเสียงจริง คงไว้
+- ผูกเสียง 3–4 · roles 16 รายการ valid · ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 27 วิ · full · manual · quote `04df9311` **238.4 พอยต์** · หมดอายุ 14:09 น. · รอ "ยิง"

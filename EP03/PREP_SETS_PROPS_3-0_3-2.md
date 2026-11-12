@@ -279,3 +279,20 @@
 - SB03-5 เทค 2 ยิง run `6530e716` · 176.6 พอยต์
 - SB03-5 เทค 2 ผล asset `a67ae4e5` · ตัด 3.71/11.00/15.38 · ช็อต 1–3 ตรงผัง · ⚠️ ช็อต 4 ฉากหลังไม่ใช่ X04 (ผังคนถูก)
 - SB03-6 (3-1 คลิป 5 · ล้อมหลัง ล้อมข้าง · 27 วิ) เปิดบ็อก `527416d9` · เรฟ 12 + เสียง 1–2 · ⚠️ ไม่พบ `C3 1 clip05 3 Aliz` / `C3 1 clip05 4 YaiNuch` ใน Mix Stage · รอ user อัป
+- user 2026-11-12 *"อัปเสียงแล้ว เช็คใน mix ดีดี เพิ่มอีก 12 ไฟล์ เห็นไหม"* → diff get_project entities เจอเสียงใหม่ 13 รายการ:
+  | ไฟล์ | id |
+  |---|---|
+  | C3 1 clip05 3 Aliz | `4d5cf880` (2.50 · พูด 0–1.48) |
+  | C3 1 clip05 4 YaiNuch | `53773bde` (4.24 · เต็มไฟล์) |
+  | C3 1 clip06 1 YaiNuch | `58bcfc3e` |
+  | C3 1 clip06 2 Aliz | `62bca061` |
+  | C3 1 clip07 1 YaiNuch | `6d42dde9` |
+  | C3 1 clip08 1 YaiNuch | `412d2af8` |
+  | C3 1 clip08 2 Jack | `0e7b8948` |
+  | C3 1 clip08 3 Tin | `cedadc55` |
+  | C3 1 clip08 4 Jack | `0d0f0586` |
+  | C3 1 clip09 1 Jack | `0a4ad37d` |
+  | C3 1 clip09 2 YaiNuch | `39af1e05` ⚠️ ชื่อซ้ำ |
+  | C3 1 clip09 2 YaiNuch | `251349d5` ⚠️ ชื่อซ้ำ |
+  | C3 1 clip09 3 Aliz | `14c26a53` |
+- SB03-6 ผูกเสียง 3–4 · roles valid · quote `04df9311` 238.4 · รอ "ยิง"
