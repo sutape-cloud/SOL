@@ -126,3 +126,4 @@ DIALOGUE, IN THIS ORDER
   - ช็อต 3: ตัด *toward the glass doors of the inner hall* (ทิศประตูด้านในไม่ตรงผังใหม่) คง *glances back over his shoulder, looking for someone to help him*
   - ช็อต 4 แสง: ⚠️ บรีฟ *"แดดทองย้อนหลังทั้งคู่ เกือบเงา"* ทำไม่ได้ในผังนี้ (แดดมาจากฝั่งผู้ชาย) → แดดส่องหน้าทั้งคู่ เงายาวไปข้างหลัง · รายงาน user แล้ว
 - เทค 2 อัปพรอมป์ + เรฟ 12 รูป + เสียง 1 · roles ตั้งแล้ว · quote `932f3402` **185.4 พอยต์** · idempotency `sb03-8-take2-20261112` · หมดอายุ 15:35 น. · รอ "ยิง"
+- เทค 2 ยิง 2026-11-12 — run `ed2ce631-2397-4320-ad39-555048b3bf51` · quote `932f3402` · Seedance 2.5 · references · 16:9 · 720p · 21 วิ · full · manual · เรฟ 12 + เสียง 1 · 185.4 พอยต์ · user สั่ง "ยิง"
