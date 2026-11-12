@@ -15,8 +15,8 @@ AOY'S FACE
 Her skin tone is natural, as in her character references, with her event makeup as in @Image6. Her discomfort and her pity for ลุง show in her look and her shoulders, natural and understated, at the size of real life.
 
 ACTIVE REFERENCES
-@Image1 — THE LOBBY LOOKING TOWARD THE RECEPTION COUNTER IN FRONT OF THE WOODEN WALL WITH GOLD STRIPS, WITH THE TALL GLASS WALL AND THE REVOLVING DOORS ON THE LEFT AND THE BLUE-GREEN GLASS ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 1, SHOT 3 AND SHOT 5.
-@Image2 — THE LOBBY SEEN ACROSS, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 2 AND SHOT 4.
+@Image1 — THE LOBBY LOOKING TOWARD THE RECEPTION COUNTER IN FRONT OF THE WOODEN WALL WITH GOLD STRIPS, WITH THE BLUE-GREEN GLASS AND A ROUND PILLAR ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 1 AND SHOT 5.
+@Image2 — THE LOBBY SEEN ACROSS FROM JUK'S SIDE, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 2, SHOT 3 AND SHOT 4.
 @Image3 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
 @Image4 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image3.
 @Image5 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
@@ -44,6 +44,8 @@ WHERE EVERYONE IS
 - At the start: the old woman and Aoy stand a few steps from the glass wall, near the revolving doors; the old woman has lowered her staff and holds it across in front of her. Juk stands in the middle of the hall with the security chief beside him. The first two guards stand in front of the revolving doors with their arms folded. The other three guards stand in a half circle on Juk's side.
 - During the video: on Juk's hand signal, the guards move round to the sides and behind the old woman and Aoy, until the two of them have to back up against the glass wall. The only way out, the revolving doors, is already blocked.
 - THE OLD WOMAN AND AOY ARE ON THE LEFT OF FRAME, FACING RIGHT; JUK, THE SECURITY CHIEF AND THE GUARDS ARE ON THE RIGHT OF FRAME, FACING LEFT.
+- IN THE VIEW OF @Image1: THE OLD WOMAN AND AOY ARE ON THE LEFT, SIDE-ON, LOOKING RIGHT AT JUK; JUK IS SIDE-ON, LOOKING LEFT AT THEM.
+- IN THE VIEW OF @Image2, JUK'S POINT OF VIEW: THE OLD WOMAN AND AOY FACE THE CAMERA, BECAUSE THEY ARE LOOKING AT JUK; THE TALL WINDOWS ARE THE WALL BEHIND THEM.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–5.0 s — CALM DOWN
@@ -64,23 +66,23 @@ Picture, in this order:
 - 3. The focus moves from his hand to the space beyond it: two guards in the background nod to each other, then split up and walk round to the left and to the right, and the ring around the old woman and Aoy grows wider.
 Camera: CU insert, 100 cm high, eye level, 50mm lens, locked-off, behind Juk at the height of his hand, from Juk's side, as in @Image2.
 Meaning: the audience sees what the old woman and Aoy cannot see: in front, Juk smiles to calm them; behind his back, he orders them surrounded.
-Composition: his hand and the hem of the white jacket in the lower left foreground; the old woman and Aoy small and soft in the middle of the background, in front of the glass wall; the guards walking apart at the two edges of the frame.
+Composition: his hand and the hem of the white jacket in the lower left foreground; the old woman and Aoy small and soft in the middle of the background, facing the camera, in front of the tall windows; the guards walking apart at the two edges of the frame.
 Sound: the leather shoes of the guards walking softly on the stone floor.
 
 Shot 3 — 8.5–17.0 s — A WALL OF SHOULDERS
 Picture, in this order:
-- 1. The old woman and Aoy stand centre left, the old woman in front of Aoy, facing right toward Juk. Juk stands centre right, in front of the blue-green glass.
+- 1. Juk stands with his back to the camera, soft in the foreground on the right. The old woman and Aoy stand centre left, the old woman in front of Aoy, both facing the camera and Juk.
 - 2. The old woman thumps the tip of her staff on the floor and says @Audio2 at Juk.
   - Old woman: "ไม่เอา ต้องไปเดี๋ยวนี้ ลุงวินของมันจะขาดใจตายอยู่แล้วถ้าไม่ได้เห็นหน้าหลาน"
   - Emotion from the script: 胡搅蛮缠，寸步不让.
   - Performance: she turns her face away as she refuses, thumps the staff as she insists, and plays the dying uncle like a soap opera while her look stays sharp and steady; she keeps talking as she backs away.
 - 3. While she speaks, the shoulders and backs of the guards in dark grey shirts slide into the edges of the frame one by one: the lower left corner, the right edge, then the right foreground. They become a wall of shoulders closing in from behind and from the sides.
-- 4. The old woman glances at the shoulders closing in and pulls Aoy back to the left one step at a time; Aoy backs up after her until her back touches the glass wall.
+- 4. The old woman glances at the shoulders closing in and pulls Aoy back one step at a time; Aoy backs up after her until her back touches the tall windows.
 - 5. Far off to the left, two guards still stand with their arms folded in front of the revolving doors: the way out is shut.
-Camera: WS, 140 cm high, eye level, 35mm lens, a slow dolly forward at the pace of the guards' feet, as in @Image1.
+Camera: WS, 140 cm high, eye level, 35mm lens, a slow dolly forward at the pace of the guards' feet, from Juk's side, his point of view, as in @Image2.
 Meaning: the camera moves in with the line of guards, so the audience becomes one of the ring; the shoulders at the edge of frame and the blocked revolving doors are the reason the old woman and Aoy back away to the left.
-Composition: at the start, the old woman and Aoy centre left with wide space around them; at the end, the two of them pressed against the glass wall on the left quarter, the soft shoulders of the guards filling almost the lower half of the foreground, Juk centre right; the wooden wall with gold strips and the counter in the middle of the background.
-Light: the afternoon sun from the glass wall on the left lays long stripes across the floor; the old woman and Aoy stand in the last stripe of sun before the glass, the edges of her hair and the brim of the hat lit gold; the guards' shoulders in the foreground are in shadow.
+Composition: at the start, the old woman and Aoy centre left, facing the camera, with wide space around them; at the end, the two of them pressed against the tall windows on the left quarter, the soft shoulders of the guards filling almost the lower half of the foreground, Juk's back soft in the foreground on the right; the wooden wall panels in the middle of the background and the reception counter at the right edge.
+Light: the afternoon sun from the tall windows lays long stripes across the floor; the old woman and Aoy stand in the last stripe of sun before the windows, the edges of her hair and the brim of the hat lit gold; the guards' shoulders in the foreground are in shadow.
 Sound: the tip of the staff thumping the stone floor; several pairs of feet stepping in together; Aoy's bare feet scuffing backward on the floor.
 
 Shot 4 — 17.0–20.5 s — OH, LUNG
@@ -152,3 +154,12 @@ DIALOGUE, IN THIS ORDER
   - ⚠️ ช็อต 3 X04 ✓ ยาย/อลิซกลางค่อนซ้าย แจ็คกลางขวา · กล้องเคลื่อนเข้า ไหล่ รปภ. โผล่ขอบล่างซ้าย-ขวา ✓ · รปภ.2 คนยืนไกลซ้าย ✓ · ✗ ไม่ถอยไปชิดผนังกระจก (ฝั่งซ้ายของ X04 ไม่มีผนังกระจกให้ชน) · อลิซหันหาแจ็ค/ยาย
   - ✓ ช็อต 4 อลิซ CU ถอนใจ หลับตา ไหล่ตก · สวนแดดเบลอซ้าย
   - ✓ ช็อต 5 หลัง รปภ.2 คนเป็นกรอบ ยาย/อลิซเดินเข้ามา · รปภ.ก้าวชิดปิดช่อง · ยายชะงัก เงยหน้ามอง
+- เทค 2 — user *"ก็ พนัง ภาพนี้ไง X05_lateafternoon_sd55_v4_clean มันมุมที่ แจค pov มองอลิชกับยาย ละมุม X04_inner_hall_sd55_v2_clean ถ้าจะใช้ อลิชกับยายต้องอยู่ ซ้ายเฟรมแล้วจะหันข้างมองไปขวา มองแจค ส่วนแจคจะหันข้างมองซ้าย มองอลิชกับยาย ส่วนมุม X05 ... อลิชกับยาย จะมองมาที่กล้อง เพราะมันเป็นมุมของ แจคที่ มอง อลิชกับยาย"*
+  - @Image1 X04: ตัดคำ *TALL GLASS WALL AND THE REVOLVING DOORS ON THE LEFT* (รูปจริงไม่มี) → *BLUE-GREEN GLASS AND A ROUND PILLAR ON THE RIGHT* · ครอบช็อต 1, 5
+  - @Image2 X05: *SEEN ACROSS FROM JUK'S SIDE* · ครอบช็อต 2, 3, 4
+  - WHERE: เพิ่มบรรทัดมุม X04 (ยาย/อลิซซ้ายหันข้างมองขวา แจ็คหันข้างมองซ้าย) · มุม X05 = แจ็ค POV ยาย/อลิซหันหน้าเข้ากล้อง หน้าต่างคือผนังข้างหลัง
+  - ช็อต 3: ย้ายจาก X04 → X05 แจ็ค POV · หลังแจ็คหน้ากล้องขวา · ยาย/อลิซหันหน้าเข้ากล้อง · ถอยจนหลังอลิซชน *the tall windows* · ฉากหลังผนังไม้ + เคาน์เตอร์ขอบขวา
+  - ช็อต 2: ยาย/อลิซฉากหลัง *facing the camera, in front of the tall windows* (เทค 1 ไม่เห็นสองคนนี้เลย)
+- ด่านยกเว้น: A20 ช็อต 3 = มุมของ user
+- ด่านยกเว้น: A4 WHERE *LOOKING RIGHT AT JUK / LOOKING LEFT AT THEM / FACE THE CAMERA* = user *"หันข้างมองไปขวา มองแจค ... หันข้างมองซ้าย ... จะมองมาที่กล้อง"*
+- เทค 2 อัปพรอมป์แล้ว · roles เดิม valid (16) · quote `e581c998` **238.4 พอยต์** · idempotency `sb03-6-take2-20261112` · หมดอายุ 14:32 น. · รอ "ยิง"
