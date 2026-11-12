@@ -60,15 +60,15 @@ Light: the golden sun behind the old woman rims the brim of her hat and her shou
 
 Shot 2 — 3.5–8.0 s — THE CHIEF RUNS OUT
 Picture, in this order:
-- 1. The glass doors are pushed open with a bang behind Aoy, and Aoy turns quickly to look, so that her back is to the camera.
-- 2. Far away, the security chief runs out of the glass double doors, out of breath, his radio in his hand, because Aoy ran off from the rehearsal and he has chased her down several floors; two guards run behind him.
+- 1. The old woman still holds the tip of her staff at Aoy's face. The glass doors behind Aoy are pushed open with a bang, and Aoy turns her head and shoulders to look back, because someone has come out after her.
+- 2. Far behind Aoy, the security chief runs out of the glass double doors, out of breath, his radio in his hand, because Aoy ran off from the rehearsal and he has chased her down several floors; two guards run behind him.
 - 3. The security chief calls out @Audio2 from far away, waving the hand that holds the radio.
   - Security chief: "คุณอลิซ กลับมาก่อน"
   - Emotion from the script: 气喘吁吁，大声呼喊.
   - Performance: out of breath from running down the stairs, calling her back with all he has.
-Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, from the side of @Image3, looking at the glass double doors.
-Meaning: the audience sees at once that everyone from inside the building comes out through these doors.
-Composition: Aoy's back soft in the foreground on the left; the glass double doors in the middle of the background; the security chief running straight toward the camera.
+Camera: MS to WS, 150 cm high, eye level, 35mm lens, locked-off, OTS over the old woman's shoulder, looking past Aoy at the glass double doors of @Image3.
+Meaning: the shot carries straight on from Shot 1: the staff is still pointed at Aoy when the chief comes out, and the audience sees at once that everyone from inside the building comes out through these doors.
+Composition: the old woman's shoulder, the brim of her hat and her staff soft in the foreground on the left, the tip of the staff held toward Aoy; Aoy right of centre in the middle ground, turning to look back; the glass double doors in the background on the right, the security chief running out of them toward the camera.
 Sound: the glass door banging open; leather shoes running, echoing on the marble.
 
 Shot 3 — 8.0–10.0 s — SHE KNOWS
@@ -82,14 +82,14 @@ Composition: the old woman's face on the left third, facing right.
 
 Shot 4 — 10.0–16.5 s — GRANNY'S HERE
 Picture, in this order:
-- 1. The old woman stands with her back to the camera in the foreground, off to the right. Aoy, left of centre, turns back to look at her.
+- 1. The old woman stands with her back to the camera in the foreground, off to the left. Aoy, right of centre, turns back to look at her.
 - 2. The old woman spreads her arms, the staff raised in her right hand, and booms @Audio3 for everyone in the lobby to hear, because she wants the whole building to believe her story.
   - Old woman: "เอ้า อีหนู มากะยายเร็ว ลุงวินของเอ็งคงจะอยู่ไม่พ้นคืนนี้แล้ว"
   - Emotion from the script: 心领神会，故意夸张大喊.
   - Performance: overjoyed on purpose, waving the girl over to her, making sure Aoy catches ลุง's name, then putting on a tragic face like a soap-opera granny.
 - 3. In the background on the right, the security chief and the two guards stop in their tracks and look at one another, because they are lost for what to do with this granny.
 Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, from the side of @Image2.
-Composition: the old woman's back in the foreground, off to the right; Aoy left of centre; the reception counter and the wooden wall with gold strips behind; the sunlit glass wall at the far left.
+Composition: the old woman's back in the foreground, off to the left; Aoy right of centre; the security chief and the two guards in the background on the right; the reception counter and the wooden wall with gold strips behind; the sunlit glass wall at the far left.
 Light: the afternoon sun from the glass wall on the left lays long stripes across the marble floor.
 
 Shot 5 — 16.5–18.5 s — HIS NAME
@@ -164,3 +164,13 @@ DIALOGUE, IN THIS ORDER
 - เปิดบ็อก `c3743ee0` (บท 03) · ผูกเรฟ 11 + เสียง 6 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · quote `71f1d3c9` **229.6 พอยต์** · หมดอายุ 12:26 น. · รอ "ยิง"
 - เทค 1 ยิง 2026-11-12 — run `04c48b6a-fa91-4b1e-a0fd-6a7bb6118a67` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · เรฟ 11 + เสียง 6 · 229.6 พอยต์ · user สั่ง "ยิง"
+- เทค 1 ผล (asset `1f676e63` · 26.04 วิ) — จุดตัด 2.75 / 7.29 / 10.46 / 16.38 / 18.83 / 23.46 · เฟรม `EP03/frames/SB03-4_V1_0-10.png` · `SB03-4_V1_10-26.png`
+  - ✗ ช็อต 2 อลิซยืนคนเดียว ไม่เห็นยายกับไม้ที่ยังชี้อยู่ → ต่อจากช็อต 1 ไม่ติด · user *"ตอนยามมา มันยังอยู่ในจังหวะ ที่ ยายชี้ ไม้ใส่อลิช มันไม่เห็น ยายชี้ไม้ละมอง ... ช็อตมันต้องต่อกัน"*
+  - ✗ ช็อต 4 หัวหน้า รปภ. + รปภ. อยู่ฝั่งซ้ายของเฟรม · user *"ตำแหน่ง ยาม มันผิด มันต้องอยู่ ฝั่งขวา ไม่ใช่ฝั่งซ้าย เพราะ เดี่ยว อลิชกับ ยาย จะไปตำแหน่งนั้น ในฉาก ต่อๆ ไป"*
+  - ⚠️ ช็อต 1 ไม้เท้าตั้งตรงข้างหน้า ไม่พุ่งเข้าเลนส์
+- เทค 2 แก้ (diff กับเทค 1 เฉพาะช็อต 2 กับ 4):
+  - ช็อต 2 บีต 1: เพิ่ม *The old woman still holds the tip of her staff at Aoy's face* · อลิซ *turns her head and shoulders to look back, because someone has come out after her* (เดิม *turns quickly to look, so that her back is to the camera*)
+  - ช็อต 2 กล้อง: WS from the side of @Image3 → *MS to WS ... OTS over the old woman's shoulder, looking past Aoy at the glass double doors of @Image3* · Meaning เพิ่ม *carries straight on from Shot 1* · Composition: ไหล่/หมวก/ไม้ยายหน้ากล้องซ้าย · อลิซขวาค่อนกลาง · ประตูกระจก + หัวหน้า รปภ. ฉากหลังขวา
+  - ช็อต 4: ยายหันหลังหน้ากล้อง ขวา → **ซ้าย** · อลิซ ซ้ายค่อนกลาง → **ขวาค่อนกลาง** · Composition เพิ่ม *the security chief and the two guards in the background on the right* — ตรงกับแกนช็อต 1 และ SB03-5 (ยาย/อลิซซ้าย · แจ็ค/รปภ. ขวา)
+- ด่านยกเว้น: A20 ช็อต 2 / ช็อต 4 ตำแหน่งในเฟรม = คำ user เรื่องยามต้องอยู่ขวา + ช็อตต้องต่อกัน · A4 ช็อต 4 *turns back to look at her* คงเดิมจากเทค 1
+- เทค 2 พรอมป์อัปขึ้น Fortal แล้ว · roles valid · ขอราคา quote `8fda067b` **229.6 พอยต์** · หมดอายุ 12:47 น. · รอ "ยิง"
