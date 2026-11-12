@@ -41,7 +41,7 @@ WHAT THEY WEAR, AS IN @Image4, @Image8, @Image10, @Image11 AND @Image12
 
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon: polished white marble floor and round marble pillars. One side is a tall glass wall up to the ceiling, with the gold-framed revolving doors set into it, and the low golden sun lays long stripes across the floor. In the middle of the hall, the marble reception counter with a wooden band, in front of the tall wooden wall with vertical gold strips. On the other side, the blue-green glass and the round pillars, where Juk and the guards came out, as in @Image1 and @Image2.
-- At the start: the old woman and Aoy stand a few steps from the glass wall, near the revolving doors; the old woman has lowered her staff and holds it across in front of her. Juk stands in the middle of the hall with the security chief beside him. The first two guards stand in front of the revolving doors with their arms folded. The other three guards stand in a half circle on Juk's side.
+- At the start: the old woman and Aoy stand a few steps from the glass wall, near the revolving doors; the old woman still holds her staff raised over her head with both hands, as at the end of the last video. Juk stands in the middle of the hall with the security chief beside him. The first two guards stand in front of the revolving doors with their arms folded. The other three guards stand in a half circle on Juk's side.
 - During the video: on Juk's hand signal, the guards move round to the sides and behind the old woman and Aoy, until the two of them have to back up against the glass wall. The only way out, the revolving doors, is already blocked.
 - THE OLD WOMAN AND AOY ARE ON THE LEFT OF FRAME, FACING RIGHT; JUK, THE SECURITY CHIEF AND THE GUARDS ARE ON THE RIGHT OF FRAME, FACING LEFT.
 - IN THE VIEW OF @Image1: THE OLD WOMAN AND AOY ARE ON THE LEFT, SIDE-ON, LOOKING RIGHT AT JUK; JUK IS SIDE-ON, LOOKING LEFT AT THEM.
@@ -50,13 +50,15 @@ WHERE EVERYONE IS
 SHOT-BY-SHOT
 Shot 1 — 0.0–5.0 s — CALM DOWN
 Picture, in this order:
-- 1. Juk takes half a step in and slowly presses both hands, palms down, on the air, to soothe her, his head tilted a little, with a big smile.
-- 2. Juk says @Audio1. As he offers to take the girl there himself, he touches his own chest; as he asks the old woman for the address, he holds out an open hand for her to tell him where to go.
+- 1. The old woman, soft at the left edge of frame, still holds the staff raised over her head with both hands, as at the end of the last video. Juk takes half a step in and slowly presses both hands, palms down, on the air, to soothe her, his head tilted a little, with a big smile.
+- 2. Juk says @Audio1.
   - Juk: "โถ คุณยายครับ ใจเย็นๆ ก่อน น้องเขายังติดงานอยู่ เดี๋ยวเสร็จแล้ว ผมพาไปส่งให้นะครับ ยายบอกโลเคชั่นมาได้เลย"
   - Emotion from the script: 极力安抚，试图和解.
   - Performance: talking to her the way people talk to a small child; the smile stays on for the whole line, but he keeps a wary eye on the staff every time she moves it.
+- 3. As Juk asks her to calm down, the old woman slowly brings the staff down and holds it across in front of her with both hands, because the men have stepped back and she has made her point; she keeps it ready, in case he comes any closer.
+- 4. As he offers to take the girl there himself, he touches his own chest; as he asks the old woman for the address, he holds out an open hand for her to tell him where to go.
 Camera: MCU, 160 cm high, eye level, 85mm lens, locked-off, from the side of the old woman and Aoy, as in @Image1.
-Composition: Juk on the right third, facing left; the security chief and two guards soft behind him.
+Composition: the old woman soft at the left edge of frame, the staff raised at first and then held across in front of her; Juk on the right third, facing left; the security chief and two guards soft behind him.
 Light: the afternoon sun from the glass wall falls warm and golden on Juk's face; his white suit catches the light, very bright.
 
 Shot 2 — 5.0–8.5 s — THE SIGNAL BEHIND HIS BACK
@@ -163,3 +165,8 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A20 ช็อต 3 = มุมของ user
 - ด่านยกเว้น: A4 WHERE *LOOKING RIGHT AT JUK / LOOKING LEFT AT THEM / FACE THE CAMERA* = user *"หันข้างมองไปขวา มองแจค ... หันข้างมองซ้าย ... จะมองมาที่กล้อง"*
 - เทค 2 อัปพรอมป์แล้ว · roles เดิม valid (16) · quote `e581c998` **238.4 พอยต์** · idempotency `sb03-6-take2-20261112` · หมดอายุ 14:32 น. · รอ "ยิง"
+- เทค 2 รอบสอง — user *"ละก็ เฟรมสุดท้ายของ คลิป 4 ถ้าอ่านเฟรม ยายจะยกไม้ 2ข้างอยู่ ถ้าจะให้ต่อกัน จากคลิป 5 ท่าจะต้อง ต่อกัน หรือจะใช้ คัตกล้อง ระยะใกล้ แล้วหาเหตุผล ทำไม ยายลดไม้ลง เพราะอะไร"* · เฟรมท้าย SB03-5 เทค 2 (`a67ae4e5`): ยายชูไม้เหนือหัวสองมือ
+  - WHERE ตอนเริ่ม: *has lowered her staff and holds it across* → *still holds her staff raised over her head with both hands, as at the end of the last video*
+  - ช็อต 1: บีต 1 เพิ่มยายเบลอขอบซ้ายยังชูไม้ค้าง · แยกบีต 3 ยายค่อยๆ ลดไม้ลงถือขวางหน้า *because the men have stepped back and she has made her point; she keeps it ready, in case he comes any closer* ตอนแจ็คขอให้ใจเย็น · ท่าแตะอก/แบมือย้ายเป็นบีต 4 · Composition เพิ่มยายขอบซ้าย
+  - เหตุผลที่ยายลดไม้: ทุกคนถอยแล้ว (ปลายคลิป 4) + แจ็คขอให้ใจเย็น → ขู่สำเร็จ ลดลงแต่ถือขวางไว้พร้อม · ใช้คัตใกล้ (MCU แจ็ค) ตามที่ user เสนอ
+- เทค 2 รอบสอง อัปพรอมป์แล้ว · quote `d2b8998c` **238.4 พอยต์** · idempotency `sb03-6-take2b-20261112` · หมดอายุ 14:35 น. · รอ "ยิง"
