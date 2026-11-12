@@ -155,3 +155,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1+A4 ช็อต 5 *cups a hand to his mouth ... glances toward the old woman and Aoy* = user *"แจ็คเอามือป้องปาก ... ตรงคำว่า 'จะตาย' ตาเหลือบไปทางยายหลานแวบหนึ่ง"* · A20 = องค์ประกอบจากสตอรี่บอร์ด user
 - เปิดบ็อก `249c5594-4213-4cf7-b83d-b565f83029d1` (บท 03) · ผูกเรฟ 13 + เสียง 4 · roles ตั้งแล้ว · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 28 วิ · full · manual · quote `7a2b19f3` **247.2 พอยต์** · หมดอายุ 15:55 น. · รอ "ยิง"
+- เทค 1 ยิง 2026-11-12 — run `9391dfbe-5600-4f18-86a7-bd70b564f7f6` · quote `7a2b19f3` · Seedance 2.5 · references · 16:9 · 720p · 28 วิ · full · manual · เรฟ 13 + เสียง 4 · 247.2 พอยต์ · user สั่ง "ยิง"
