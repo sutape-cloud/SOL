@@ -17,7 +17,7 @@ Her skin tone is natural, as in her character references, with her event makeup 
 ACTIVE REFERENCES
 @Image1 — THE LOBBY, LOOKING ACROSS THE ROW OF GLASS SECURITY GATES TO THE REVOLVING DOORS. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY, THE SECURITY GATES, THE MATERIALS AND THE LOW SUN.
 @Image2 — THE INNER HALL FROM THE SIDE, WITH THE TALL GLASS WALL ON THE LEFT AND THE RECEPTION COUNTER ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE INNER HALL IN SHOT 4.
-@Image3 — THE INNER HALL LOOKING TOWARD THE BLUE-GREEN GLASS DOUBLE DOORS THAT LEAD TO THE LIFTS. THIS REFERENCE IS THE AUTHORITY FOR THE DOORS AND THE INNER HALL IN SHOT 2.
+@Image3 — THE INNER HALL LOOKING TOWARD THE BLUE-GREEN GLASS DOUBLE DOORS THAT LEAD TO THE LIFTS. THIS REFERENCE IS THE AUTHORITY FOR THE DOORS AND THE INNER HALL IN SHOT 2 AND SHOT 3.
 @Image4 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image5 is the authority for what she is wearing today.
 @Image5 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image4.
 @Image6 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
@@ -26,7 +26,7 @@ ACTIVE REFERENCES
 @Image9 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
 @Image10 — SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
 @Image11 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
-@Image12 — THE LOBBY SEEN ACROSS, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 3, SHOT 5, SHOT 6 AND SHOT 7.
+@Image12 — THE LOBBY SEEN ACROSS, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 5, SHOT 6 AND SHOT 7.
 @Audio1 — THE OLD WOMAN'S VOICE, HER FIRST LINE, IN SHOT 1.
 @Audio2 — THE SECURITY CHIEF'S VOICE, HIS LINE, IN SHOT 2.
 @Audio3 — THE OLD WOMAN'S VOICE, HER SECOND LINE, IN SHOT 4.
@@ -81,9 +81,9 @@ Picture, in this order:
 - 1. Hearing the chief call the girl by her name, the old woman's look jumps up above the rim of her glasses in surprise, because this is the girl she came for.
 - 2. Her look moves slowly from the security chief back to Aoy.
 - 3. A wide smile slowly spreads across the face that was stern a moment ago.
-Camera: CU, 150 cm high, eye level, 85mm lens, locked-off, from the side of @Image12.
+Camera: CU, 150 cm high, eye level, 85mm lens, locked-off, from the side of @Image3, the same side as Shot 2.
 Meaning: the close shot lets the audience see the moment she knows this is Aoy, just before she turns into someone else.
-Composition: the old woman's face on the left third, facing right.
+Composition: the old woman's face on the right third, facing left toward Aoy; the glass double doors soft behind her.
 
 Shot 4 — 10.0–16.5 s — GRANNY'S HERE
 Picture, in this order:
@@ -129,7 +129,7 @@ Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, from the side of @Ima
 Composition: Aoy's face on the right third, facing left; the old woman's hand on her wrist soft at the bottom edge.
 
 THE LAST FRAME
-The old woman on the left of frame, holding Aoy's wrist, turned toward the revolving doors. Aoy on the right of frame, nodding. The security chief and the two guards standing further off on the right.
+Aoy's face on the right third, facing left, nodding; the old woman's hand on her wrist soft at the bottom edge, pulling her toward the revolving doors.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, OLD WOMAN: "เอ็งเป็นใครเนี่ย"
@@ -189,3 +189,9 @@ DIALOGUE, IN THIS ORDER
   - WHERE ตอนเริ่ม: *her back to the glass doors of the inner hall* → *the blue-green glass doors of the inner hall are off to her side, where she came from* (user: อลิซเข้ามาจากทางขวาของด้าน B ซึ่งเป็นประตู)
 - ด่านยกเว้น: A20 ช็อต 1/4 ตำแหน่งในเฟรม = ผัง 4 ด้านของ user · A4 ช็อต 4/7 คงเดิมจากเทค 1
 - เทค 2 (รอบผัง 4 ด้าน) อัปพรอมป์ + เรฟ 12 รูป + เสียง 6 · roles valid · quote `1f7bb1e7` **229.6 พอยต์** · idempotency `sb03-4-take2b-20261112` · หมดอายุ 13:01 น. · รอ "ยิง"
+- เทค 2 รอบสาม — user *"ก็ให้มันสมเหตุสมผลไม่งง อะ ให้มันต่อเนื่องเวลา คัตกล้อง และมุมสถานที่ถูก ละยิง"*:
+  - ช็อต 3 ย้ายจากด้าน D ไปด้าน C (ต่อจากช็อต 2 ฝั่งเดียวกัน) · *from the side of @Image3, the same side as Shot 2* · ยายขวาหันซ้ายไปทางอลิซ · ประตูเบลอข้างหลัง · @Image3 ครอบช็อต 2–3 · @Image12 ครอบช็อต 5–7
+  - ลำดับด้าน: 1 A → 2–3 C → 4 B → 5–7 D
+  - THE LAST FRAME เดิมเขียนเป็นภาพสองคน + รปภ. ไกล ขัดกับช็อต 7 ที่เป็น CU → เขียนตาม CU ช็อต 7
+- ด่านยกเว้น: A20 ช็อต 3 ตำแหน่งในเฟรม = ผัง 4 ด้านของ user (ด้าน C)
+- เทค 2 ยิง 2026-11-12 — run `1309b7ef-c81c-432b-857c-48b5001fe0db` · quote `785642fa` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · เรฟ 12 + เสียง 6 · 229.6 พอยต์ · user *"...ให้มันต่อเนื่องเวลา คัตกล้อง และมุมสถานที่ถูก ละยิง"*
