@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Six shots, 28 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. The only light is the low late-afternoon sun through the tall glass wall, the downlights in the ceiling and the lights of the corridor behind the glass doors. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. The wardrobe assistant hugs her tablet to her chest with its screen against her; the camera sees only its black back. The camera keeps one fixed focal length per shot. The only sound is the real sound of the lobby.
+All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. The only light is the low late-afternoon sun through the tall glass wall, the downlights in the ceiling and the lights of the corridor behind the glass doors. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. The guards stay where they stand, on both sides of the old woman and Aoy, for the whole video; whenever the old woman and Aoy are in frame, the guards are in frame with them. The wardrobe assistant hugs her tablet to her chest with its screen against her; the camera sees only its black back. The camera keeps one fixed focal length per shot. The only sound is the real sound of the lobby.
 
 LIP SYNC
 The old woman speaks in Shot 2 and Shot 3; her one line runs across both shots. Juk and Tin speak in Shot 5. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 across Shot 2 and Shot 3, then @Audio2, @Audio3 and @Audio4 in Shot 5. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
@@ -44,7 +44,7 @@ WHAT THEY WEAR, AS IN @Image4, @Image6, @Image7, @Image9, @Image10, @Image11 AND
 
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon. At the far end of the inner hall, the glass double doors with long stainless steel handles in a blue-green glass frame, with the corridor to the lifts beyond them; the reception counter and a potted tree on their left, a round marble pillar on their right, as in @Image1. Across the hall, the tall glass wall onto the garden, with the low golden sun coming in, as in @Image2.
-- At the start, as in @Image13: the old woman and Aoy stand in the middle of the hall, the old woman with her staff planted and Aoy behind her; the guards stand back on both sides. Tin and the two stylists are about to come out of the glass double doors.
+- At the start, as in @Image13: the old woman and Aoy stand in the middle of the hall, the old woman with her staff planted and Aoy behind her; the guards stand in two lines on both sides of them, facing them, and stay there for the whole video. Tin and the two stylists are about to come out of the glass double doors.
 - During the video: Tin turns back toward the doors, and Juk hurries after him; the two of them talk in front of the doors with their backs to the old woman and Aoy.
 - LOOKING AT THE GLASS DOORS, AS IN @Image1: THE OLD WOMAN AND AOY HAVE THEIR BACKS TO THE CAMERA IN THE FOREGROUND; WHOEVER COMES OUT OF THE DOORS FACES THE CAMERA.
 - FROM THE SIDE: THE OLD WOMAN AND AOY ARE ON THE LEFT OF FRAME, FACING RIGHT; TIN'S SIDE IS ON THE RIGHT OF FRAME.
@@ -56,7 +56,7 @@ Picture, in this order:
 - 2. Tin walks toward the camera, growing bigger in the frame with each step, then stops to take in the scene.
 Camera: WS to MS as Tin walks in, 150 cm high, eye level, 50mm lens, locked-off, as in @Image1.
 Meaning: these are the same doors the security chief and Juk came out of, so the audience knows at once that this man comes from the same place, and that he is bigger than all of them.
-Composition: Aoy's back and the brim of the old woman's hat soft in the left foreground; Tin in the middle of the frame, the glass doors framing him from behind; the two stylists a little behind him on the left and the right.
+Composition: Aoy's back and the brim of the old woman's hat soft in the left foreground, the guards standing on both sides of them, soft at the left and right edges of the foreground; Tin in the middle of the frame, the glass doors framing him from behind; the two stylists a little behind him on the left and the right.
 Light: the ceiling lights of the corridor behind the glass make a line of light behind Tin; the afternoon sun from the glass wall falls warm and golden on his face, and his black lenses gleam.
 Sound: the glass doors opening; leather shoes and flats walking on the stone floor.
 
@@ -68,7 +68,7 @@ Picture, in this order:
   - Emotion from the script: 借题发挥，当头棒喝.
   - Performance: pleased to have a new target; certain, like she has caught the culprit red-handed.
 Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, from the side, as in @Image2.
-Composition: the old woman on the left third, facing right; the staff a diagonal line pointing out of the right edge of frame; Aoy a little behind her.
+Composition: the old woman on the left third, facing right; the staff a diagonal line pointing out of the right edge of frame; Aoy a little behind her; the guards standing around them, soft in the background and at the edges of frame.
 
 Shot 3 — 6.5–12.5 s — ME?
 Picture, in this order:
@@ -87,7 +87,7 @@ Picture, in this order:
 - 2. Juk half runs after Tin and catches up with him at the glass doors, taking hold of his sleeve gently, because he has to fix this before the boss leaves.
 Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, as in @Image1.
 Meaning: the white suit passing the lens joins the cuts and shows that Juk comes from the ring of guards toward Tin.
-Composition: at the end, Tin and Juk stand in front of the glass doors in the middle of the frame, their backs to the camera; the two stylists stand aside, by the reception counter.
+Composition: the old woman and Aoy, with the guards on both sides of them, soft in the left foreground; at the end, Tin and Juk stand in front of the glass doors in the middle of the frame, their backs to the camera; the two stylists stand aside, by the reception counter.
 
 Shot 5 — 15.0–25.0 s — THE SECRET MEETING
 Picture, in this order:
@@ -106,7 +106,7 @@ Picture, in this order:
   - Performance: he bows deep at once, his hands clasped in front of his stomach.
 Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, beside the glass doors, looking back across the lobby toward the tall sunlit windows, as in @Image2.
 Meaning: the two men decide the fate of the old woman and Aoy with their backs to them; the audience sees the private talk and the victims waiting far away in one frame.
-Composition: Tin on the left third and Juk on the right third, leaning in to each other; far away in the background on the left, the old woman and Aoy small in front of the sunlit glass wall, the staff standing straight; the ring of guards soft in between.
+Composition: Tin on the left third and Juk on the right third, leaning in to each other; far away in the background on the left, the old woman and Aoy small in front of the sunlit glass wall, the staff standing straight, the guards standing in two lines on both sides of them.
 Light: the afternoon sun from the far glass wall rims both men's shoulders; their faces take the soft light of the ceiling lights.
 Sound: the lobby goes quiet; only their low talk and the rustle of Tin's suit as he brushes his sleeve.
 
@@ -115,11 +115,11 @@ Picture, in this order:
 - 1. Tin turns and walks in through the glass doors, the shoulder of his navy suit passing close to the lens and out of the right edge; the two stylists follow him in.
 - 2. Juk stands alone, lets out a sigh, pulls the hem of his jacket straight, and turns to walk back toward the old woman and Aoy.
 Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, the same place as Shot 5, as in @Image2.
-Composition: at the end, the back of Juk's white suit on the right third; the old woman and Aoy far away on the left.
+Composition: at the end, the back of Juk's white suit on the right third; the old woman and Aoy far away on the left, with the guards on both sides of them.
 Sound: the glass doors beside the camera opening, then closing softly.
 
 THE LAST FRAME
-Juk stands with his back to the camera, walking back toward the old woman and Aoy. The old woman and Aoy are far away on the left, in front of the glass wall. Tin and the two stylists have gone back through the doors.
+Juk stands with his back to the camera, walking back toward the old woman and Aoy. The old woman and Aoy are far away on the left, in front of the glass wall, with the guards on both sides of them. Tin and the two stylists have gone back through the doors.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 2 and Shot 3, @Audio1, OLD WOMAN: "นั่นใครมาอีกคน ไอ้ตี๋ เอ้อ เอ็งนั่นแหละ เอ็งเป็นตัวบงการรึเปล่า ใช่แน่ๆ ไอ้พวกค้ามนุษย์"
@@ -164,3 +164,9 @@ DIALOGUE, IN THIS ORDER
   - ✓ ช็อต 5 กล้องข้างประตูมองออกไปทางหน้าต่างแดด · ทินซ้าย แจ็คขวาป้องปากกระซิบ · สองสาวขนาบ · ยาย/อลิซตัวเล็กไกลๆ · แจ็คค้อมตัว
   - ✓ ช็อต 6 ทินผ่านเลนส์ออกไป แจ็คหันหลังเดินกลับไปทางยาย/อลิซ
   - จอไอแพดไม่โผล่ (ผู้ช่วยประสานมือ ไม่เห็นไอแพด) · ไม่มีซับ
+- เทค 2 — user *"ละคือยาม หายไปไหน ตำแหน่ง ที่ยืนอีก มันไม่ต่อจาก คลิป 7 เลย งง"* · เทค 1 ✗ รปภ. หายทั้งคลิป (ช็อต 1, 2, 4, 5, 6 ไม่มี รปภ.) · ตอนรีวิวเทค 1 รายงานว่าต่อคลิป 7 ได้ = พลาด ไม่ได้นับ รปภ.
+  - สาเหตุ: พรอมป์เทค 1 เอ่ยถึง รปภ. แค่ใน WHERE ตอนเริ่ม (*stand back on both sides*) กับช็อต 5 (*ring of guards soft in between*) · Composition ช็อต 1/2/4/6 ไม่มี รปภ. เลย → SD ตัดทิ้ง
+  - GLOBAL เพิ่ม *The guards stay where they stand ... whenever the old woman and Aoy are in frame, the guards are in frame with them*
+  - WHERE: *stand back on both sides* → *stand in two lines on both sides of them, facing them, and stay there for the whole video* (ตามเฟรมท้ายคลิป 7 @Image13)
+  - Composition ช็อต 1 / 2 / 4 / 5 / 6 + LAST FRAME: เติม รปภ. สองข้างยาย/อลิซทุกช็อตที่ยาย/อลิซอยู่ในเฟรม
+- เทค 2 อัปพรอมป์แล้ว · roles เดิม valid · quote `b6ccf322` **247.2 พอยต์** · idempotency `sb03-9-take2-20261112` · หมดอายุ 16:16 น. · รอ "ยิง"
