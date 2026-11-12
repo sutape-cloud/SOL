@@ -170,3 +170,4 @@ DIALOGUE, IN THIS ORDER
   - WHERE: *stand back on both sides* → *stand in two lines on both sides of them, facing them, and stay there for the whole video* (ตามเฟรมท้ายคลิป 7 @Image13)
   - Composition ช็อต 1 / 2 / 4 / 5 / 6 + LAST FRAME: เติม รปภ. สองข้างยาย/อลิซทุกช็อตที่ยาย/อลิซอยู่ในเฟรม
 - เทค 2 อัปพรอมป์แล้ว · roles เดิม valid · quote `b6ccf322` **247.2 พอยต์** · idempotency `sb03-9-take2-20261112` · หมดอายุ 16:16 น. · รอ "ยิง"
+- เทค 2 ยิง 2026-11-12 — run `f885a1cf-b2f5-4aa7-8d4c-cf95a35d06c8` · quote `b6ccf322` · Seedance 2.5 · references · 16:9 · 720p · 28 วิ · full · manual · เรฟ 13 + เสียง 4 · 247.2 พอยต์ · user สั่ง "ยิง"
