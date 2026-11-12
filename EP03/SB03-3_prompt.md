@@ -86,3 +86,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A4 ช็อต 2 *looks up at Win* = user *"แล้วเงยหน้ามองวิน"*
 - เปิดบ็อก `d5bad19b` (บท 03) · ผูกเรฟ 6 + เสียง 2 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · full · manual · quote `0ad2351e` **88.3 พอยต์** · หมดอายุ 12:20 น. · รอ "ยิง"
+- เทค 1 ยิง 2026-11-12 — run `f797de6f-7d67-4e21-8373-39d6c7d69b64` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · full · manual · เรฟ 6 + เสียง 2 · 88.3 พอยต์ · user สั่ง "ยิง"
