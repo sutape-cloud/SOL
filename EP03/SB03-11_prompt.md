@@ -131,3 +131,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน A8/สำนวน: *says nothing* → *only waves* · *not really an old woman* → *a younger woman in disguise* · *as if it is nothing special* → *because to her it is an everyday thing* · *as if walking with them* → *walking with them* · *as if ticking off a list* → *ticking off the list she wrote down*
 - เปิดบ็อก `aed465d3-0c22-447b-a29f-11c8f56b942c` (บท 03) · ผูกเรฟ 10 + เสียง 3 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว · เติมแถว BOX_MAP
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · full · manual · quote `13135fa5` **211.9 พอยต์** · หมดอายุ 2026-11-13 21:29 UTC · idempotency `sb03-11-take1-20261113` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-13 — run `4402a276-ddd0-4f64-a034-59d2c05b331f` · quote `13135fa5` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · full · manual · เรฟ 10 + เสียง 3 · 211.9 พอยต์ · user สั่ง "ยิง"
