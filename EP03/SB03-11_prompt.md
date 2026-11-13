@@ -194,3 +194,4 @@ DIALOGUE, IN THIS ORDER
   - ด่านยกเว้น: A1 AOY'S FACE คิ้ว/สายตา = user · A4 มองหัวจรดเท้า = user · A20 องค์ประกอบช็อต 1, 4 + บรรทัดสถานที่ช็อต 4 = สตอรี่บอร์ด user
   - roles เทค 4: P01 v2c · นุช CU/FS · ไม้ · อลิซ CU/3Q/FS · วิน CU/FS · @Audio1–3 · valid · duration บ็อก 24 → 26 · พรอมป์เทค 4 อัปขึ้น Fortal แล้ว (MCP รีสตาร์ตกลางทาง → select_workspace Aliz Arinya ใหม่)
   - ขอราคาเทค 4 · 26 วิ · quote `8c2c7f41` **229.6 พอยต์** · หมดอายุ 2026-11-13 23:44 UTC · idempotency `sb03-11-take4-20261113` · รอ "ยิง"
+- เทค 4 ยิง 2026-11-13 — run `401d9f72-80ba-418c-9823-485ad5bc4387` · quote `8c2c7f41` · 26 วิ · เรฟ 9 + เสียง 3 · 229.6 พอยต์ · user สั่ง "ยิง"
