@@ -153,3 +153,4 @@ DIALOGUE, IN THIS ORDER
   - ฝั่งสลับเทค 1 (ข้อเสนอผม user ไม่ค้าน) → ผูกตำแหน่งกับของใหญ่: ยายเดินข้างกำแพงกระจก+แถวกระถาง อลิซเดินข้างรถจอด · ใส่ใน WHERE EVERYONE IS + Composition ช็อต 1, 2 · เพิ่มบรรทัด *IN THE CAR PARK: THE OLD WOMAN ... LEFT ... AOY ... RIGHT*
   - ผูกเรฟเพิ่ม `755c585a` · roles: @Image1–11 แล้ว @Audio1–3 · valid · พรอมป์เทค 2 อัปขึ้น Fortal แล้ว · check_prompt ขึ้นเฉพาะข้อยกเว้นเดิม + A20 ช็อต 4 *Win in the middle of the frame, waist up* = user *"ใช้ กล้องครึ่งตัว"*
   - ขอราคาเทค 2 · 24 วิ · quote `8dbb12ba` **211.9 พอยต์** · หมดอายุ 2026-11-13 21:54 UTC · idempotency `sb03-11-take2-20261113` · รอ "ยิง"
+- เทค 2 ยิง 2026-11-13 — run `12f2f653-7854-42b4-8973-f7ef0624d398` · quote `8dbb12ba` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · full · manual · เรฟ 11 + เสียง 3 · 211.9 พอยต์ · user สั่ง "ยิง"
