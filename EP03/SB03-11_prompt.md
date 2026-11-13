@@ -1,109 +1,121 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Four shots, 24 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small, simple and unhurried, like ordinary people talking while they walk. Feelings show quietly. The only light is the low late-afternoon sun and its reflection off the glass of the building; the only lens flare comes from the real sun. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. The camera keeps one fixed focal length per shot. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Five shots, 26 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life: small, simple and unhurried, like ordinary people talking while they walk. Feelings show quietly. The only light is the low late-afternoon sun and its reflection off the glass of the building; the only lens flare comes from the real sun. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. Every car parked in the car park is white or grey. The camera keeps one fixed focal length per shot. The only sound is the real sound of the place.
 
 LIP SYNC
-Aoy speaks in Shot 1. The old woman speaks in Shot 2 and Shot 4. Win is far away across the road and only waves. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 in Shot 1, @Audio2 in Shot 2, @Audio3 in Shot 4. Everything ends within 24 seconds.
+Aoy speaks in Shot 1. The old woman speaks across Shot 2 and Shot 3, and again in Shot 5. Win is far away across the road and only waves and gestures. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 in Shot 1, @Audio2 starting in Shot 2 and running on into Shot 3, @Audio3 in Shot 5. Everything ends within 26 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. In the lobby of the office building, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, came to take Aoy out, saying that Aoy's "ลุงวิน" is dying. The young executive let them go, and Aoy asked to change out of her red qipao first. Now she is in her own clothes, and the two of them have just come out of the building onto the walkway beside the car park, the old woman marching ahead.
+All of this has already happened before the first frame. In the lobby of the office building, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, came to take Aoy out, saying that Aoy's "ลุงวิน" is dying. The young executive let them go, and Aoy asked to change out of her red qipao first. Now she is in her own clothes, and the two of them are just coming out of the building's big glass door.
 
 SCENE
-Aoy runs after the old woman and asks who she really is and whether ลุงวิน is all right, because she is worried about him. The old woman drops the act: she checks Aoy over once, sees she is dressed as she was told, introduces herself as Nuch, says ลุงวิน is fine, and points across the road. Across eight lanes of traffic, Win stands small under the trees on the far pavement and waves. Nuch signals him to stay where he is, tells Aoy she will walk over to him herself, and points to her own car, the black sedan first in the row, which leaves Aoy quietly impressed.
+The old woman marches out of the building and Aoy runs after her, asking who she really is and whether ลุงวิน is all right, because she is worried about him. The old woman drops the act: she checks Aoy over once, sees she is dressed as she was told, introduces herself as Nuch, says ลุงวิน is fine, and leads Aoy down into the car park to point across the road. Across eight lanes of traffic, Win stands small under a big tree on the far pavement, waves, and offers to walk across. Nuch waves him back, tells Aoy she will walk over to him herself, nods back toward her car parked further into the car park, and walks off toward it at once, Aoy following.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. She is a little out of breath from running after the old woman, and her worry for ลุง shows in her brows and her eyes.
 
 ACTIVE REFERENCES
-@Image1 — THE WALKWAY BESIDE THE GLASS OFFICE BUILDING, WITH THE GLASS WALL AND THE TREES IN STONE PLANTERS ON THE LEFT, THE PARKED CARS ON THE RIGHT. THIS REFERENCE SHOWS WHAT IS WHERE ON THE WALKWAY IN SHOT 1 AND SHOT 2; EACH SHOT FRAMES ONLY THE PART OF IT THAT THE SHOT NEEDS, AND THE FAR END OF THE WALKWAY IS A SOFT GOLDEN BLUR OF SUNLIGHT.
-@Image2 — THE FAR SIDE OF THE BIG ROAD, SEEN ACROSS THE TRAFFIC: THE ROW OF TREES ON THE FAR PAVEMENT IN FRONT OF THE GLASS BUILDINGS. THIS REFERENCE SHOWS WHAT IS WHERE ACROSS THE ROAD IN SHOT 3; THE LONG LENS FRAMES ONLY A NARROW PART OF IT: THE FAR PAVEMENT, ITS TREES AND WIN.
-@Image3 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
-@Image4 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image3.
-@Image5 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
-@Image6 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image8 is the authority for what she is wearing today.
-@Image7 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
-@Image8 — HER FULL BODY. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image6 AND @Image7.
-@Image9 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image10 is the authority for what he is wearing today.
-@Image10 — HIS FULL BODY. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image9.
-@Image11 — THE CAR PARK BESIDE THE GLASS BUILDING, WITH THE GLASS WALL AND THE PLANTERS ON THE LEFT AND THE BLACK SEDAN PARKED AT THE FRONT OF THE ROW. THIS REFERENCE SHOWS WHAT IS WHERE BEHIND THEM IN SHOT 4, AND IT IS THE AUTHORITY FOR NUCH'S CAR.
+@Image1 — THE WALKWAY AND THE CAR PARK BESIDE THE GLASS OFFICE BUILDING. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE: THE GLASS WALL, THE TREES IN DARK GRANITE PLANTERS HELD UP BY WOODEN STAKES, THE STAINLESS STEEL BOLLARDS, THE CREAM STONE WALKWAY, THE PARKING BAYS WITH THE PARKED CARS, AND THE LOW GOLDEN SUN. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
+@Image2 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image3 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image2.
+@Image4 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
+@Image5 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image7 is the authority for what she is wearing today.
+@Image6 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
+@Image7 — HER FULL BODY. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image5 AND @Image6.
+@Image8 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image9 is the authority for what he is wearing today.
+@Image9 — HIS FULL BODY. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image8.
 @Audio1 — AOY'S VOICE, HER LINE, IN SHOT 1.
-@Audio2 — THE OLD WOMAN'S VOICE, HER LINE, IN SHOT 2.
-@Audio3 — THE OLD WOMAN'S VOICE, HER LINE, IN SHOT 4.
-@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries Win's face, and his clothes come from @Image10. @Image1, @Image2 and @Image11 show what is where in each place.
+@Audio2 — THE OLD WOMAN'S VOICE, HER LINE, FROM SHOT 2 INTO SHOT 3.
+@Audio3 — THE OLD WOMAN'S VOICE, HER LINE, IN SHOT 5.
+@Image2 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image3. @Image4 carries the staff. @Image5 and @Image6 carry Aoy's face, and her clothes come from @Image7. @Image8 carries Win's face, and his clothes come from @Image9. @Image1 only tells what is where at the office building; the far side of the road in Shot 4 is described in words.
 
-WHAT THEY WEAR, AS IN @Image4, @Image8 AND @Image10
+WHAT THEY WEAR, AS IN @Image3, @Image7 AND @Image9
 - Nuch in disguise: a wide straw hat wrapped with a red printed cloth, short curly grey hair, gold-rimmed tea-tinted glasses, a red polo shirt, a red and white checked cloth over her neck, a carved wooden flower pendant on a cord, a woven red and navy striped shoulder bag, a woven navy and red striped sarong, brown flip-flops. The bamboo staff, about shoulder high, in her right hand.
 - Aoy: a grey short-sleeved knit top with a small high neck, high-waisted black shorts with a black leather belt with gold studs and an engraved buckle, sheer black tights, low-heeled black leather ankle boots, a black leather bag on a long strap on her right shoulder, gold hoop earrings, a thin gold necklace, a gold watch on her left wrist, a gold bracelet on her right wrist. Her long straight black hair parted in the middle, down over her shoulders.
 - Win: a light green nylon jacket with a stand-up collar and a front zip, grey piping along the sleeves, a dark T-shirt under it, black jeans, black leather boots. His black hair swept back, grey at the temples.
 
 WHERE EVERYONE IS
-- The walkway beside the glass office building, late in the afternoon, near evening: on the left, the glass wall of the building and a row of trees in dark granite planters, held up by wooden stakes; a cream stone walkway with stainless steel bollards; on the right, the parking bays with saloon cars and SUVs parked in a row, and beyond them the big eight-lane road.
-- ON THE WALKWAY AND IN THE CAR PARK: THE OLD WOMAN IS ON THE LEFT OF FRAME, ON THE SIDE OF THE GLASS WALL AND THE PLANTERS; AOY IS ON THE RIGHT OF FRAME, HALF A STEP BEHIND HER, ON THE SIDE OF THE PARKED CARS. THE ROAD IS TO THE RIGHT OF FRAME, BEYOND THE PARKED CARS.
-- Across the road: the far pavement, with a row of trees growing along it in front of the glass buildings, as in @Image2.
-- WIN STANDS ON THE FAR PAVEMENT UNDER THE ROW OF TREES, RIGHT NEXT TO THE TRUNK OF ONE TREE, IN THE SHADE OF ITS LEAVES, WITH THE GLASS BUILDING BEHIND HIM. HE STAYS BESIDE THAT TREE, IN ONE PLACE, FOR THE WHOLE VIDEO. All eight lanes of traffic are between him and the camera.
-- IN THE VIEW ACROSS THE ROAD: WIN IS LEFT OF CENTRE.
+- The office building, late in the afternoon, near evening: a floor-to-ceiling glass wall with a big glass door; a cream stone walkway along the glass wall; a row of trees in dark granite planters held up by wooden stakes; stainless steel bollards. One step down from the walkway is the car park: a grey floor with white parking lines and concrete wheel stops, white and grey saloon cars and SUVs parked in rows. Beyond the car park is the big eight-lane road.
+- The far side of the road: a wide stone pavement with a row of big trees and street lamps, and behind it glass office buildings with warm lights on their ground floors. A low hedge runs along the middle of the road.
+- At the start: the old woman and Aoy come out of the big glass door onto the walkway; the old woman leads, on the side of the glass wall; Aoy follows half a step behind, on the side of the car park.
+- During the video: the two of them step down off the walkway into the car park and stand facing the road; at the end they turn their backs to the camera and walk deeper into the car park.
+- WIN STANDS ON THE WIDE FAR PAVEMENT, UNDER ONE BIG TREE, WITH THE GLASS OFFICE BUILDING BEHIND HIM. HE STAYS BESIDE THAT TREE FOR THE WHOLE VIDEO.
+- IN EVERY SHOT WITH BOTH WOMEN, THE OLD WOMAN IS ON THE LEFT OF FRAME AND AOY IS ON THE RIGHT OF FRAME: WHILE THEY WALK SIDEWAYS ACROSS THE FRAME, WHILE THEY FACE THE CAMERA, AND WHILE THEIR BACKS ARE TO THE CAMERA. THE ROAD AND WIN ARE TO THE RIGHT OF FRAME.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–6.5 s — ON THE WALKWAY
+Shot 1 — 0.0–6.0 s — OUT OF THE BUILDING
 Picture, in this order:
-- 1. A wide view of the walkway: the glass wall of the building on the left glowing with the golden sun, the trees in their stone planters, the parked cars on the right.
-- 2. The old woman walks fast out of the sunlight at the far end of the walkway, straight toward the camera, the staff tapping the stone in step.
-- 3. Aoy jogs after her, half a step behind, leaning forward a little; her left hand holds the strap of her bag steady.
+- 1. The big glass door of the building is pushed open; the old woman marches out first, the tip of the staff tapping the stone.
+- 2. Aoy comes out right behind her and jogs half a step behind; her right hand holds the strap of her bag steady.
+- 3. The two of them walk fast toward the left of frame along the walkway beside the glass wall, their reflections walking with them in the glass.
 - 4. Aoy says @Audio1 as she catches up with her.
   - Aoy: "เอ่อ คุณพี่เป็นใครนะคะ แล้ว... ลุงวินเป็นอะไรรึเปล่าคะ"
   - Emotion from the script: 气喘吁吁，满腹疑虑带着关切.
   - Performance: small and natural; she is unsure what to call her, because she has only just found out this is a younger woman in disguise; when she asks about ลุง, she is truly worried for him.
-Camera: WS becoming an MS two-shot as they come toward the camera, 110 cm high, looking up slightly, 35mm lens, dolly moving back a little slower than they walk.
-Meaning: the camera walks backward ahead of them, walking with them; the wide opening tells the audience this is the walkway beside the car park, and as they come closer, the two of them fill the end of the walkway.
-Composition: at first the two of them small in the middle of the frame, the line of planters and the lines of the stone floor leading the eye to them; at the end, the old woman on the left third, on the side of the glass wall and the planters, and Aoy just behind her on the right third, on the side of the parked cars; the far end of the walkway behind them a soft golden blur.
-Light: the low sun behind them rims the brim of the straw hat and Aoy's hair in gold; their faces take soft light bounced from the cream stone floor and the glass wall.
-Sound: the old woman's flip-flops slapping the stone; the heels of Aoy's boots tapping quickly; the tip of the staff tapping the stone; the traffic on the big road, far away.
+Camera: MS two-shot, 120 cm high, eye level, 50mm lens, trucking left at walking speed, from the car park side, facing the glass wall.
+Meaning: it opens on the door of the building they have just come out of, so the audience knows at once they have left the company; the camera moves beside them, walking with them.
+Composition: the old woman leading on the left third, Aoy following on the right third, a little closer to the camera; the glass wall behind them reflecting the two of them and the golden sun; the trunks of the trees in their planters sliding past soft in the foreground.
+Light: the low sun falls slanting across the two of them and bounces back off the glass wall as a soft golden light.
+Sound: the glass door opening and slowly swinging shut behind them; the old woman's flip-flops slapping the stone; the heels of Aoy's boots tapping quickly; the tip of the staff tapping the stone; the traffic on the big road, far away.
 
-Shot 2 — 6.5–13.0 s — EXACTLY AS NOTED
+Shot 2 — 6.0–10.8 s — EXACTLY AS NOTED
 Picture, in this order:
-- 1. Through her tea-tinted glasses, the old woman glances over Aoy once from head to foot, checking her grey top and her black shorts against what she was told.
-- 2. She gives a small nod to herself, satisfied: correct.
-- 3. She says @Audio2 as herself now, the polite secretary.
+- 1. From the front, the two of them walk toward the camera along the walkway: the glass wall and the row of trees on the left of frame, the parked cars on the right.
+- 2. Through her tea-tinted glasses, the old woman glances over Aoy once from head to foot, checking her grey top and her black shorts against what she was told, and gives a small nod to herself: correct.
+- 3. She begins @Audio2 as herself now, the polite secretary, and keeps talking.
   - Old woman: "เรียกพี่นุชก็ได้ค่ะ ลุงวินสบายดี ยืนรออยู่ฝั่งโน้น โน่นไง"
   - Emotion from the script: 卸下伪装，轻松指路.
-  - Performance: small and natural; she simply stops playing the old woman and talks like the calm, professional secretary she is, with a slight smile under the brim of her hat, to put Aoy at ease.
-- 4. As she says he is waiting on the other side, she stops walking and raises the staff to point across the car park toward the road on the right of frame, and the staff stays pointing to the end of her line.
-- 5. Aoy turns to look where the tip of the staff is pointing, to the right.
-Camera: MS two-shot, 140 cm high, eye level, 50mm lens, dolly moving back with them and stopping when the old woman stops.
-Meaning: the camera stops because she stops; the staff pointing out of the right edge of frame carries the audience's eye to what is across the road.
-Composition: the old woman on the left third, in front of the glass wall and the planters, the staff a diagonal line pointing out of the right edge of frame; Aoy on the right third, in front of the parked cars, turning to look; the background soft.
+  - Performance: small and natural; she simply stops playing the old woman and talks like the calm, professional secretary she is, with a slight smile under the brim of her hat, telling Aoy that ลุงวิน is fine to put her at ease.
+- 4. As she talks, the two of them turn toward the right of frame and step down off the edge of the walkway into the car park, through the gap between two parked cars.
+Camera: MS two-shot, 100 cm high, looking up slightly, 35mm lens, dolly moving back ahead of them.
+Meaning: the low camera backing away ahead of them makes the small old woman the one in control; the camera is low and close, so the two of them fill the far end of the walkway.
+Composition: the old woman on the left third, Aoy on the right third; the far end of the walkway behind them a soft golden blur.
+Light: the low sun behind them rims the brim of the straw hat and Aoy's hair in gold; their faces take soft light bounced from the cream stone floor.
 
-Shot 3 — 13.0–18.5 s — THE FAR SIDE
+Shot 3 — 10.8–14.5 s — RIGHT THERE
 Picture, in this order:
-- 1. Seen from this side of the road, through the long lens: cars pass as streaks of blur in the foreground, one after another, all the time.
-- 2. In the gaps between the cars, Win stands small on the far pavement, right next to the trunk of a tree, in the shade of its leaves, and waves to them with a big, simple wave, glad to see her.
-- 3. A blue bus drives past in front of him and hides him completely for a moment; when it has gone, Win is still standing beside the same tree, waiting.
-Camera: WS of the far pavement, 150 cm high, eye level, 200mm lens, locked-off, from this side of the road.
+- 1. The two of them stop and stand in the car park between two parked cars, side-on, facing the road.
+- 2. @Audio2 carries straight on: as she says he is waiting on the other side, the old woman raises the staff and points it past Aoy, across the road, to the right of frame, and the staff stays pointing to the end of her line.
+- 3. Aoy turns to look where the tip of the staff is pointing and lifts herself a little to see.
+Camera: MS two-shot, 140 cm high, eye level, 50mm lens, locked-off, from the side.
+Meaning: from the side, the staff pointing out of the right edge of frame carries the audience's eye to what is across the road.
+Composition: the old woman on the left third and Aoy just right of centre, both side-on, facing right; the staff a diagonal line pointing out of the right edge of frame; open space on the right of frame for their eyes; the white and grey parked cars and the trees soft behind them.
+Light: the low sun slanting in rims the brim of her hat, Aoy's long hair and the roofs of the parked cars.
+
+Shot 4 — 14.5–19.5 s — THE FAR SIDE
+Picture, in this order:
+- 1. Seen from the car park on this side, across the big eight-lane road: cars pass as streaks of blur in the foreground, one after another, all the time.
+- 2. In the gaps between the cars, Win stands small on the wide far pavement under a big tree and waves broadly, glad to see her.
+- 3. Win points at himself, then down at the road, and shrugs with his palms up, asking if he should walk across to them; he steps one foot down off the kerb, the other foot still on the pavement.
+- 4. A bus drives past in front of him and hides him completely for a moment; when it has gone, Win is still waiting in the same place under the tree, one foot still down off the kerb.
+Camera: WS of the far pavement, 150 cm high, eye level, 200mm lens, locked-off.
+The place in this shot: the wide stone pavement on the far side of the road, its row of big trees and street lamps, and behind it a glass office building with warm lights on its ground floor; the low hedge along the middle of the road; the far side of the road and its buildings fill the whole frame.
 Meaning: the long lens squeezes the eight lanes together so the cars pass close in front of Win, and the audience feels the distance between the two of them that cannot be crossed.
-Composition: Win left of centre, small, beside the tree trunk on the far pavement; the glass building behind him; a stainless steel bollard soft at the bottom edge of the foreground; the cars streaking across the middle of the frame.
-Light: the low sun behind the buildings across the road rims Win's shoulders and hair in gold.
+Composition: Win small, left of centre, under the big tree; the cars streaking across the middle of the frame; the leaves of the trees on the far side framing the top.
+Light: the low sun behind the buildings on the far side rims Win's shoulders and hair in gold.
 Sound: cars rushing past; the engine of the bus drowning everything for a moment.
 
-Shot 4 — 18.5–24.0 s — MY CAR IS RIGHT HERE
+Shot 5 — 19.5–26.0 s — MY CAR'S RIGHT HERE
 Picture, in this order:
-- 1. The old woman raises her palm toward the far side of the road, a small signal to Win to stay where he is.
-- 2. She turns back to Aoy and says @Audio3: as she says she will walk over to him herself, she tips her thumb toward the road on the right; as she says her car is right here, she opens her hand toward the black sedan of @Image11, parked first in the row.
+- 1. The old woman raises her palm toward the far side of the road and shakes her head, to stop Win from crossing.
+- 2. She turns to Aoy and says @Audio3: as she says she will walk over to him herself, she tips her thumb toward the right, out of frame; as she says her car is right here, she nods back over her shoulder, toward the rows of cars parked further into the car park.
   - Old woman: "เดี๋ยวหนูเดินข้ามสะพานลอยไปหาแกเองนะ รถพี่อยู่ตรงนี้"
   - Emotion from the script: 爽朗干练，轻松交代.
-  - Performance: small and natural; quick and practical, like a secretary arranging her boss's day; she keeps her eyes on Aoy as she opens her hand toward the car, because to her it is an everyday thing.
-- 3. Aoy looks where the old woman's hand points, at the black sedan, quietly impressed that a secretary drives a car this grand.
-Camera: MCU, 145 cm high, eye level, 85mm lens, locked-off, over Aoy's shoulder, from the same side as Shot 2.
-Meaning: the close view lets the audience see clearly the hand opening toward the black sedan, so the audience believes with Aoy that it is Nuch's car.
-Composition: Aoy's shoulder and long hair soft at the right edge of frame; the old woman on the left third, facing right; the black sedan of @Image11 soft in the background where her hand points; the glass wall and the trees behind her on the left.
-Light: the golden sun from behind rims the brim of her hat; her face is in the soft shade of the brim.
+  - Performance: small and natural; quick and practical, like a secretary arranging her boss's day; she says her car is right here because to her it is the most ordinary thing in the world.
+- 3. Aoy looks where she nodded, curious which car it is.
+- 4. The old woman turns at once and walks off toward it; Aoy turns and follows. The two of them walk away from the camera, deeper into the car park, the old woman still on the left and Aoy still on the right.
+Camera: MS two-shot, 140 cm high, eye level, 50mm lens, locked-off, from the same side as Shot 3.
+Meaning: the camera stays still and lets them turn and walk away by themselves; the shot ends on the two of them from behind, walking toward the car, which joins on to the next video, which opens on their backs as well.
+Composition: while she talks, the old woman on the left third facing right toward Aoy, and Aoy on the right third facing left; at the end, the old woman's back on the left and Aoy's back on the right, walking away into the car park; the rows of white and grey parked cars ahead of them soft.
+Light: the golden sun from behind rims the brim of her hat and Aoy's hair; their two shadows stretch long across the floor of the car park.
 
 THE LAST FRAME
-The old woman on the left of frame, her hand still open toward the black sedan first in the row. Aoy on the right of frame, looking at that car.
+The old woman and Aoy with their backs to the camera, walking deeper into the car park: the old woman on the left, the staff in her right hand; Aoy on the right, her bag on her right shoulder.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "เอ่อ คุณพี่เป็นใครนะคะ แล้ว... ลุงวินเป็นอะไรรึเปล่าคะ"
-2. Shot 2, @Audio2, OLD WOMAN: "เรียกพี่นุชก็ได้ค่ะ ลุงวินสบายดี ยืนรออยู่ฝั่งโน้น โน่นไง"
-3. Shot 4, @Audio3, OLD WOMAN: "เดี๋ยวหนูเดินข้ามสะพานลอยไปหาแกเองนะ รถพี่อยู่ตรงนี้"
+2. Shot 2 into Shot 3, @Audio2, OLD WOMAN: "เรียกพี่นุชก็ได้ค่ะ ลุงวินสบายดี ยืนรออยู่ฝั่งโน้น โน่นไง"
+3. Shot 5, @Audio3, OLD WOMAN: "เดี๋ยวหนูเดินข้ามสะพานลอยไปหาแกเองนะ รถพี่อยู่ตรงนี้"
 
 ---
 
@@ -168,3 +180,17 @@ DIALOGUE, IN THIS ORDER
   - ✓ ช็อต 3 วินอยู่บนฟุตบาทฝั่งโน้น หลังแนวกระถาง/ต้นไม้ หน้าหน้าร้านตึกกระจก ข้างโคนต้นไม้ · โบกมือ · ไม่ขยับ · รถเมล์ฟ้าผ่าน *ข้างหน้า* บังมิด · (ครั้งแรกที่วินไม่อยู่บนถนน)
   - ✓ ช็อต 4 ยายยกฝ่ามือไปทางถนน (หลังยาย ย้อนแดด) · ฉากหลัง P01 pick mirror ✓ · ยายผายมือไปเบนซ์ดำ ✓
   - ⚠️ ช็อต 4 กล้องอยู่หลังไหล่ *ยาย* ไม่ใช่หลังไหล่อลิซ (สตอรี่บอร์ด) · กลางช็อตอลิซหันหน้าเข้ากล้องกลางเฟรม ยายขอบซ้าย ✓ · ⚠️ เฟรมท้ายอลิซถูกตัวยายบังเกือบหมด (เหลือท้ายทอยกับไหล่) · แสงช็อต 4 ขาวกว่าช็อต 1–2
+- เทค 3 ไม่ผ่าน — user *"ไม่ผ่านนะ เอาใหม่"* + สตอรี่บอร์ดใหม่ *"คลิป 1 · "พี่นุช" · 26 วิ"* 5 ช็อต + *"ทำตามนี้"*
+- เทค 4 (เตรียม 2026-11-13) — เขียนใหม่ทั้งตัวตามสตอรี่บอร์ดใหม่ (ก๊อปโครง/บรรทัดเรฟ/ชุด จากเทค 3) · 26 วิ · 5 ช็อต: 1 ออกจากตึก (truck ซ้าย 0–6.0) · 2 เดินเข้าหากล้อง ก้าวลงลานจอด (dolly ถอย 6.0–10.8) · 3 โน่นไง มุมข้าง (10.8–14.5) · 4 ฝั่งโน้น สถานที่ใหม่ไม่มีเรฟ (200mm 14.5–19.5) · 5 รถพี่อยู่ตรงนี้ หมุนตัวเดินหันหลังเข้าลานจอด (19.5–26.0)
+  - เรฟตามที่แนบ 9 ใบ: P01_v2c `8424fc87` · นุช `f62fa024` / `fc6b25b4` · ไม้ `12d53b5e` · อลิซ `b95c75c6` / `85720ff3` / `6abc3bd8` · วิน `2aec936c` / `b0b68bd1` · ถอด R01 crop / P01 pick mirror (สตอรี่บอร์ดไม่แนบ · ช็อต 4 สร้างใหม่จากคำบรรยาย)
+  - @Image1 บรรทัดเรฟ *ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE ... EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE* ตาม user *"ใช้เป็นข้อมูลสถานที่เท่านั้น ... ไม่ลอกมุมกล้องของภาพ"*
+  - เสียง 2 คร่อมช็อต 2 → 3 ตามสตอรี่บอร์ด *"เสียง 2 พูดต่อเนื่องไปจนจบในช็อต 3"* · ตัดที่ ~10.8 (เสียง 2 เริ่ม ~7.6 ไม่มีช่องเงียบ ≥0.12 วิ ในไฟล์)
+  - ประโยคปฏิเสธ → บอกเล่า: *"ไม่เห็นรถเก๋งหรูสีดำคันใหญ่"* → GLOBAL *Every car parked in the car park is white or grey.* (ไม่เอ่ยรถดำเลย) · *"ไม่มีสะพานลอยในเฟรม"* → *the far side of the road and its buildings fill the whole frame* · ห้ามเห็นสะพานทั้งคลิป → ไม่เอ่ยคำว่าสะพานในบรรทัดภาพ · ไม่ zoom/slow/ดนตรี/ฝุ่น/แก้มแดง → แบบเทคก่อน · *says nothing* → *only waves and gestures* · *as if it were* → *because to her it is*
+  - กำกับเสียง → ตัด: *"หายใจหอบแทรกระหว่างคำ"* · *"ด้วยเสียงสุภาพของตัวเอง ไม่ใช่เสียงยายแล้ว"* → *as herself now, the polite secretary* · *"พูดเร็วคล่อง"* → *quick and practical*
+  - สั่งอวัยวะ/นับ → เจตนา: *"มุมปากยก"* → *gives a small nod to herself* · *"ส่ายหัวสองที"* → *shakes her head* · *"สะบัดหัวไปข้างหลังตัวเอง"* → *nods back over her shoulder* · *"คิ้วยกนิดๆ"* → *curious which car it is* · *"ชะเง้อตัว"* → *lifts herself a little to see*
+  - คำไทยในเครื่องหมายคำพูดกลางแอ็กชัน → ความหมาย (ยืนรออยู่ฝั่งโน้น / ข้ามสะพานลอยไปหาแกเอง / รถพี่อยู่ตรงนี้)
+  - แอคติ้ง: คง *small and natural* ทุก Performance ตามที่ user ติเทค 1–2 ว่าเวอร์
+  - ⚠️ ท่าวินช็อต 4 (ชี้ตัวเอง ชี้ถนน ยักไหล่ ก้าวลงขอบถนน เท้าค้างที่ขอบถนน) — user เคยติว่าตลกในภาพครึ่งตัว แต่สตอรี่บอร์ดใหม่ใส่กลับมาและสั่ง *"ทำตามนี้"* → เขียนตามสตอรี่บอร์ด (ภาพ WS 200mm ตัวเล็ก) · ผูกวินกับ *one big tree* บนฟุตบาท · *"เกาะกลางถนนเป็นพุ่มไม้เตี้ย"* อยู่ในคำบรรยาย user จึงคงไว้ (เสี่ยงลากวินไปเกาะเหมือนเทค 1–2)
+  - ด่านยกเว้น: A1 AOY'S FACE คิ้ว/สายตา = user · A4 มองหัวจรดเท้า = user · A20 องค์ประกอบช็อต 1, 4 + บรรทัดสถานที่ช็อต 4 = สตอรี่บอร์ด user
+  - roles เทค 4: P01 v2c · นุช CU/FS · ไม้ · อลิซ CU/3Q/FS · วิน CU/FS · @Audio1–3 · valid · duration บ็อก 24 → 26 · พรอมป์เทค 4 อัปขึ้น Fortal แล้ว (MCP รีสตาร์ตกลางทาง → select_workspace Aliz Arinya ใหม่)
+  - ขอราคาเทค 4 · 26 วิ · quote `8c2c7f41` **229.6 พอยต์** · หมดอายุ 2026-11-13 23:44 UTC · idempotency `sb03-11-take4-20261113` · รอ "ยิง"
