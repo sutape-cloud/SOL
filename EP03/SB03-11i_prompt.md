@@ -96,3 +96,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1 *shakes her head* = user *"ส่ายหัว"* · *keeps her eyes on Aoy* = user *"ไม่หันไปมองรถเลย"* · A4 *Aoy turns her head to look where the old woman's hand points* = user *"อลิซมองตามมือนุช"* · A20 องค์ประกอบช็อต 1–3 = จุดแดง user / *"ใช้ กล้องครึ่งตัว"* / สตอรี่บอร์ด
 - ผูกเรฟเพิ่ม `ecaccd2e` · roles (insert): R01 crop · P01 pick mirror · นุช CU/FS · ไม้ · อลิซ CU/3Q/FS · วิน CU/FS · @Audio1 `92a5f287` · valid · พรอมป์ insert อัปเป็น prompt ของบ็อก (พรอมป์เทคเต็มอยู่ใน `SB03-11_prompt.md`)
 - ขอราคา insert · Seedance 2.5 · references · 16:9 · 720p · 11 วิ · full · manual · output insert · quote `8a676552` **97.2 พอยต์** · หมดอายุ 2026-11-13 22:15 UTC · idempotency `sb03-11i-take1-20261113` · รอ "ยิง"
+- insert ยิง 2026-11-13 — run `a2b67b66-de6d-4a36-9b5f-211790444bb0` · quote `8a676552` · 11 วิ · output insert · 97.2 พอยต์ · user สั่ง "ยิง"
