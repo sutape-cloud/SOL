@@ -145,3 +145,10 @@ Win running toward the right along the far pavement, behind the red and white ke
   - WHEN THEY RUN: *EACH RUNNING SHOT SHOWS ONE OF THEM ALONE* → *WHENEVER BOTH ARE IN THE FRAME, ONE IS CLOSE ON THIS SIDE OF THE ROAD AND THE OTHER IS SMALL AND FAR AWAY ON THE FAR PAVEMENT* · SCENE *They have found each other but have not met yet ... with the whole road still between them* (ไม่เอ่ยสะพาน)
   - พรอมป์เทค 2 (แก้ช็อต 5) อัปขึ้น Fortal แล้ว · quote ใหม่ `7625ce22` **176.6 พอยต์** · หมดอายุ 2026-11-14 01:51 UTC · idempotency `sb03-14-take2b-20261114` · รอ "ยิง" (quote `2b7ab41c` เดิมใช้ไม่ได้แล้ว)
 - เทค 2 ยิง 2026-11-14 — run `2b607431-79a0-4e15-83d5-15dcc7a274f0` · quote `7625ce22` · 20 วิ · เรฟ 10 · 176.6 พอยต์ · user สั่ง "ยิง"
+- เทค 2 ผล (asset `70a995b7` · 20.04 วิ) — จุดตัด 5.42 / 8.04 / 10.33 / 12.21 / 15.96 · contact `EP03/frames/SB03-14_V2_contact.png` · ซูมวิน `SB03-14_V2_win_zoom.png` · เฟรมท้าย `SB03-14_V2_last.png`
+  - ✓ ช็อต 1 อลิซเดินมาหยุดระหว่างเสาหลัก เบนซ์ดำข้างหลัง ยิ้ม
+  - ✓ ช็อต 2 วินบนฟุตบาทฝั่งโน้น หลังขอบทางแดงขาว ข้างต้นไม้ใหญ่ หน้าตึก · เกาะกลางพุ่มไม้ฉากหน้า · รถเลนฝั่งโน้นผ่านหน้าวิน (ตรงเรฟ @Image10)
+  - ⚠️ ช็อต 3 OTS หลังอลิซโบก · วินตัวเล็กมาก ฝั่งโน้น มีรถเมล์ฟ้าอยู่ข้างๆ — ดูไม่ชัดว่าอยู่บนฟุตบาทหรือริมเลน
+  - ✓ ช็อต 4 OTS ไหล่วิน อลิซไกลอยู่ฝั่งลานจอดหน้าเบนซ์
+  - ⚠️ ช็อต 5 มุมข้างอลิซวิ่งขวา (ไม่ใช่หลังไหล่ตรงๆ) · รถเมล์แดงผ่าน · ไม่วิ่งคู่กันแล้ว ✓ · แต่ไม่เห็นวินชัดอีกฝั่ง
+  - ✓ ช็อต 6 วินวิ่งคนเดียวไปขวา รถเบลอฉากหน้า · ไม่เห็นสะพาน
