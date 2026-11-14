@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. An old woman in a straw hat, really Nuch, Win's secretary, in disguise, brought Aoy out of the office building and into the car park. Aoy thanked her; Nuch waved it off and handed Aoy her bamboo staff to throw away. They stopped beside the big black luxury sedan parked first in the row, and Aoy, holding the staff upright in her left hand, is impressed, because she believes the black sedan is Nuch's car. Nuch stands beside the front of the car, Aoy in the driving lane, as in @Image9.
 
 SCENE
-Nuch walks round the front of the black sedan to its far side, and her straw hat sinks out of sight behind the roof, and Aoy takes it that she has got into the driver's seat; Aoy is impressed. Then the clack of a kickstand: Nuch wheels out a little cream scooter from behind the sedan, where it was hidden all along. Aoy's amazement turns into a laugh she has to hold in. Nuch swaps her straw hat for a white helmet, starts the scooter, says goodbye, and rides off along the driving lane, while Aoy wais after her with the staff tucked in her arm.
+Nuch walks round the front of the black sedan to the driver's side, and Aoy takes it that she is getting into the driver's seat; Aoy is impressed. On the driver's side, in the narrow gap by the hedge, a little cream scooter has been hidden all along; Nuch kicks up its stand and wheels it out past the back of the car. Aoy's amazement turns into a laugh she has to hold in. Nuch swaps her straw hat for a white helmet, starts the scooter, says goodbye, and rides off along the driving lane, while Aoy wais after her with the staff tucked in her arm.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. Her amazement, and then the laugh she holds in, show in her eyes and her mouth.
@@ -23,7 +23,7 @@ ACTIVE REFERENCES
 @Image6 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image8 is the authority for what she is wearing today.
 @Image7 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image8 — HER FULL BODY. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image6 AND @Image7.
-@Image9 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE OLD WOMAN, AOY AND THE BLACK SEDAN ARE AS THE VIDEO BEGINS.
+@Image9 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE OLD WOMAN, AOY AND THE BLACK SEDAN ARE AS THE VIDEO BEGINS, AND FOR THE CAMERA OF SHOT 1, WHICH CARRIES STRAIGHT ON FROM IT.
 @Audio1 — THE OLD WOMAN'S VOICE, HER LINE, IN SHOT 5.
 @Audio2 — AOY'S VOICE, HER LINE, IN SHOT 5.
 @Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff, which Aoy now holds. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image2 carries the scooter and the helmet. @Image9 shows where everyone is as the video begins. @Image1 only tells what is where in the car park.
@@ -34,31 +34,30 @@ WHAT THEY WEAR, AS IN @Image4 AND @Image8
 - The scooter: a classic shape in glossy cream, a dark brown leather seat, a round chrome-rimmed headlight, round mirrors, a chrome rear rack. The white open-face helmet with a brown leather rim and strap rests on its seat.
 
 WHERE EVERYONE IS
-- The car park in front of the glass office building, late in the afternoon, near evening. The big black luxury sedan is parked first in the row. Its passenger side faces the camera; its driver's side faces the hedge and the granite planters, with a narrow gap between the car and the hedge. The cream scooter stands in that narrow gap on the driver's side, completely behind the black sedan, until Nuch wheels it out.
+- The car park in front of the glass office building, late in the afternoon, near evening. The big black luxury sedan is parked first in the row. Its passenger side faces the camera; its driver's side faces the hedge and the granite planters, with a narrow gap between the car and the hedge. The cream scooter stands in that narrow gap on the driver's side, out of sight from the driving lane behind the black sedan, until Nuch wheels it out.
 - At the start, carrying on from @Image9: the old woman stands beside the front of the black sedan; Aoy stands in the driving lane in front of the car, on the side that faces the camera.
-- During the video: the old woman walks round the front of the car to the driver's side, wheels the scooter out past the back of the car, and rides off along the driving lane to the left of frame.
+- During the video: the old woman walks round the front of the car to the driver's side, kicks up the scooter's stand in the narrow gap, wheels it out past the back of the car into the driving lane, and later rides off along the driving lane to the left of frame.
 - AOY IS ON THE RIGHT OF FRAME. THE BLACK SEDAN IS IN THE MIDDLE OF THE FRAME. THE OLD WOMAN LEAVES TOWARD THE LEFT OF FRAME.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–6.0 s — INTO THE DRIVER'S SEAT
+Shot 1 — 0.0–5.5 s — ROUND TO THE DRIVER'S SIDE
 Picture, in this order:
-- 1. The old woman walks round the front of the black sedan to the driver's side, the far side from the camera.
-- 2. Once she is behind the car, only her straw hat shows, gliding slowly along the line of the roof until it stops where the driver's door is.
-- 3. The straw hat slowly sinks out of sight behind the roof, the way someone bends down into a driver's seat.
-- 4. In the foreground, Aoy nods slowly and mouths a silent word of amazement.
-Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, over Aoy's shoulder.
-Meaning: the camera stays still at Aoy's eyeline, and the car becomes a wall that hides the truth; the audience is fooled along with her into believing that Nuch has got into this grand car.
-Composition: Aoy's left shoulder and long hair soft at the right edge of frame, the staff a vertical line in the foreground; the long black sedan across the middle of the frame; the straw hat a single pale spot above the black roof.
+- 1. Carrying straight on from @Image9, the same framing: the old woman beside the front of the black sedan on the left, Aoy in the driving lane on the right with the staff upright in her left hand.
+- 2. The old woman walks round the front of the car to the driver's side, the far side from the camera; once she is behind the car, only her straw hat shows above the roof, moving along it toward the back of the car, then dipping down as she bends.
+- 3. Aoy nods slowly and mouths a silent word of amazement, because she takes it that the old woman is getting into the driver's seat.
+Camera: cowboy shot, two-shot, 140 cm high, eye level, 35mm lens, locked-off, on the driving lane, looking at the side of the car, exactly as in @Image9.
+Meaning: the shot carries straight on from the previous video, so the audience is still standing with Aoy, believing the grand car is Nuch's.
+Composition: the long black sedan across the middle of the frame; the straw hat a single pale spot moving above the black roof; Aoy on the right third.
 Light: the low sun slanting in lays a long line of light along the black roof; the straw hat catches the gold of the sun.
 Sound: it grows quiet; only the traffic on the road far away.
 
-Shot 2 — 6.0–10.0 s — A STRANGE SOUND
+Shot 2 — 5.5–10.0 s — WHAT WAS HIDING THERE
 Picture, in this order:
-- 1. The metal clack of a kickstand springing up comes from behind the sedan; Aoy tilts her head a little, puzzled, because that is no sound a sedan makes.
-- 2. The old woman wheels the cream scooter of @Image2 out of the narrow gap past the back of the black sedan, both hands on the handlebars, with a perfectly straight face.
-Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, the same position as Shot 1.
-Meaning: the same angle in every way, so the twist happens in the same frame that fooled the audience; the scooter comes out from behind the back of the car, on the right of the car.
-Composition: the cream scooter and the old woman's red shirt come out against the black car, the brightest spot in the frame.
+- 1. From the back corner of the black sedan, looking along its driver's side: the narrow gap between the car and the hedge, and in it the cream scooter of @Image2, and the old woman bent over it.
+- 2. She kicks up the stand with a metal clack, takes the handlebars in both hands and wheels the scooter out of the gap toward the camera, past the back of the car and out into the driving lane, with a perfectly straight face.
+Camera: MS, 120 cm high, eye level, 35mm lens, locked-off, at the back corner of the black sedan, looking along the driver's side.
+Meaning: now the audience sees what the car was hiding: the old woman came round for the little scooter parked behind it all along.
+Composition: the black flank of the sedan on one side and the hedge on the other make a narrow lane; the cream scooter and the old woman's red shirt come out of it toward the camera, the brightest spot in the frame.
 Sound: the kickstand springing up; small rubber tyres rolling on stone; the freewheel ticking.
 
 Shot 3 — 10.0–13.0 s — THE TWIST
@@ -143,3 +142,10 @@ DIALOGUE, IN THIS ORDER
   - ✓ ช็อต 3 CU อลิซ อ้าปากทึ่ง แล้วหลุดยิ้มกลั้นขำ · ไม้ขอบซ้าย
   - ✓ ช็อต 4 ถอดหมวกสานแขวนแฮนด์ สวมหมวกกันน็อกขาว ขึ้นนั่ง · สกู๊ตเตอร์ครีม ไม่มีโลโก้
   - ✓ ช็อต 5 ยายบนสกู๊ตเตอร์ซ้าย อลิซขวา · แตะหมวกวันทยหัตถ์ · ขี่ออกซ้าย · อลิซไหว้ทั้งถือไม้ · เฟรมท้ายอลิซคนเดียวขวา ✓ · ไม่เห็นสะพาน
+- เทค 2 (เตรียม 2026-11-14) — user *"ปรับ คลิป 3 ใหม่หน่อย ใช้ เฟรมสุดท้าย คลิป 2 ต่อฉากเลย แล้วให้เห็นแก เดินอ้อมไปอีกมุมของรถ ฝั่งคนขับละเข็ญรถออกมา ก่อน กล้องต้องให้เห็นแก เข็ญออกมา อะ"*
+  - ช็อต 1 เปลี่ยนจาก MS OTS ผ่านไหล่อลิซ → **cowboy two-shot ต่อจากเฟรมท้ายคลิป 2 เป๊ะ** (*exactly as in @Image9*) · @Image9 บรรทัดเรฟเติม *AND FOR THE CAMERA OF SHOT 1, WHICH CARRIES STRAIGHT ON FROM IT* · ยายเดินอ้อมหัวรถไปฝั่งคนขับ หมวกเลื่อนตามหลังคาไปทางท้ายรถแล้วก้มลง · อลิซพยักหน้าว้าว (คงมุกจากสตอรี่บอร์ด) · 0–5.5
+  - ช็อต 2 เปลี่ยนจาก มุมเดิม OTS → **มุมใหม่ที่มุมท้ายเบนซ์ มองเลียบฝั่งคนขับ** เห็นช่องแคบกับสกู๊ตเตอร์ ยายดีดขาตั้ง จับแฮนด์ เข็นออกมาหากล้อง ผ่านท้ายรถออกทางวิ่ง · 5.5–10.0 · ตาม *"กล้องต้องให้เห็นแก เข็ญออกมา"*
+  - SCENE / WHERE EVERYONE IS แก้ให้ตรง (ยายดีดขาตั้งในช่องแคบ เข็นผ่านท้ายรถ) · ช็อต 3–5 คงเดิม
+  - ด่าน A8: *was never getting in* → *came round for the little scooter parked behind it all along*
+  - roles เดิม (เรฟ 9 + เสียง 2) valid · พรอมป์เทค 2 อัปขึ้น Fortal แล้ว
+  - ขอราคาเทค 2 · 24 วิ · quote `475b1d25` **211.9 พอยต์** · หมดอายุ 2026-11-14 00:41 UTC · idempotency `sb03-13-take2-20261114` · รอ "ยิง"
