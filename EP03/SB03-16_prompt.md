@@ -113,3 +113,4 @@ Win on the left of frame, side-on, facing right. Aoy on the right of frame, side
 - ด่านยกเว้น: A4 AOY'S FACE *how she looks at him* = user *"ความดีใจกับความเขินเล่นด้วยลมหายใจ สายตา และรอยยิ้ม"* · A20 ช็อต 1–2 แผ่นหลังเบลอฉากหน้า = สตอรี่บอร์ด user (OTS)
 - เปิดบ็อก `1aee678d-6a1e-4b59-b74d-50f079547f27` (บท 03) · ผูกเรฟ 7 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 18 วิ · full · manual · quote `86e1aa9c` **158.9 พอยต์** · หมดอายุ 2026-11-14 04:35 UTC · idempotency `sb03-16-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — run `f9d6137b-f018-4936-9022-7d93d0d0b49b` · quote `86e1aa9c` · 18 วิ · เรฟ 7 · 158.9 พอยต์ · user สั่ง "ยิง"
