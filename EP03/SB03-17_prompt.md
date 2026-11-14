@@ -118,3 +118,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1 AOY'S FACE *eyes / smile* = user *"ความขำกับความชื่นชมเล่นด้วยตาและรอยยิ้ม"* · A1 ช็อต 1 *a smile only in his eyes* = user *"หน้าตายแต่ตายิ้ม"* · A4 ช็อต 1 *glances down at the staff ... back up at her* / ช็อต 3 *looks away, down at the traffic* / *head tips down toward the traffic* = user *"ตาวินลดลงมองไม้พลอง" / "ตาวินหลบไปทางรถที่วิ่งข้างล่าง" / "หัวเอียงลงไปทางรถข้างล่าง"* (การมองคือแอ็กชัน: เลี่ยงสายตาตอนโกหก) · A20 ช็อต 2 องค์ประกอบ = สตอรี่บอร์ด user
 - เปิดบ็อก `ce6b322c-85c2-4484-bfe7-9098e77db217` (บท 03) · ผูกเรฟ 8 + เสียง 3 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 20 วิ · full · manual · quote `885ce8c4` **176.6 พอยต์** · หมดอายุ 2026-11-14 04:47 UTC · idempotency `sb03-17-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — run `640bf35f-98c9-4a52-b882-2c1fa40986eb` · quote `885ce8c4` · 20 วิ · เรฟ 8 + เสียง 3 · 176.6 พอยต์ · user สั่ง "ยิง"
