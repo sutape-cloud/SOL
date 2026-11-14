@@ -136,3 +136,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1 AOY'S FACE *eyes and her mouth* = user *"ความทึ่งแล้วหักมุมเป็นขำ เล่นด้วยตาและปาก"* · ช็อต 4 *fastens the strap under her chin* = user *"คาดสายใต้คาง"* (แอ็กชันกับหมวก) · A20 ช็อต 1 องค์ประกอบ/ฉากหน้า = สตอรี่บอร์ด user · A4 ช็อต 3 *looks from the sedan to the scooter, then back* = user *"ตาเลื่อนจากรถเก๋งไปที่สกู๊ตเตอร์ แล้วกลับไปที่รถเก๋ง"* (ตัวมุก)
 - เปิดบ็อก `efdb9589-8135-4bd5-bb18-8e6a21fb4791` (บท 03) · ผูกเรฟ 9 + เสียง 2 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว · เติมแถว BOX_MAP
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · full · manual · quote `ee2acff1` **211.9 พอยต์** · หมดอายุ 2026-11-14 00:23 UTC · idempotency `sb03-13-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — run `dc7ca4b3-6285-4942-901a-62460e09e066` · quote `ee2acff1` · 24 วิ · เรฟ 9 + เสียง 2 · 211.9 พอยต์ · user สั่ง "ยิง"
