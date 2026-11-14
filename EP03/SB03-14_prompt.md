@@ -128,3 +128,4 @@ Aoy running toward the right along the pavement on the car park side, and Win ru
 - ด่านยกเว้น: A1 AOY'S FACE *smile and eyes* = user *"ความดีใจเล่นด้วยรอยยิ้มกับแววตา"* · A4 *glances at the empty bay* / *glance across the road at each other* / *WHEN THEY LOOK AT EACH OTHER* = user *"เหลือบมองช่องจอดว่าง" / "เหลือบมองกันข้ามถนนเป็นระยะ" / "ตอนมองกัน"* · A20 องค์ประกอบ = สตอรี่บอร์ด user
 - เปิดบ็อก `c79a24b0-fbad-44bc-b494-bbe503642785` (บท 03) · ผูกเรฟ 9 · roles valid · พรอมป์อัปขึ้น Fortal แล้ว · เติมแถว BOX_MAP
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 20 วิ · full · manual · quote `7ddff2be` **176.6 พอยต์** · หมดอายุ 2026-11-14 01:31 UTC · idempotency `sb03-14-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — run `95d91a3e-d855-4fae-bfcf-909053cbf7ab` · quote `7ddff2be` · 20 วิ · เรฟ 9 · 176.6 พอยต์ · user สั่ง "ยิง"
