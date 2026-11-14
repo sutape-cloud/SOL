@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Nuch, Win's secretary, came to the office in disguise as an old woman to bring Aoy out, showed her Win waiting on the far side of the big road, and has just ridden off on her little cream scooter, leaving Aoy alone beside the big black sedan with the bamboo staff in her left hand, still smiling at the trick, as in @Image9. Win is waiting for her on the far side of the eight-lane road.
 
 SCENE
-Aoy, still smiling at Nuch's trick, walks to the edge of the road and looks for Win across the traffic; when she finds him, her face lights up. Win sees her, straightens up and waves. They wave to each other across eight lanes; Win points along the road to where they will meet, Aoy nods eagerly and points the same way with the staff. Then each of them runs the same way along the pavement on his or her own side of the road, glancing across the traffic for the other, toward a meeting point ahead that the audience has not seen yet.
+Aoy, still smiling at Nuch's trick, walks to the edge of the road and looks for Win across the traffic; when she finds him, her face lights up. Win sees her, straightens up and waves. They wave to each other across eight lanes; Win points along the road to where they will meet, Aoy nods eagerly and points the same way with the staff. They have found each other but have not met yet: each of them runs the same way along the pavement on his or her own side of the road, with the whole road still between them, glancing across the traffic for the other, toward a meeting point ahead that the audience has not seen yet.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. Her happiness shows in her smile and in her eyes.
@@ -37,7 +37,7 @@ WHERE EVERYONE IS
 - The far side of the road: a pavement under a row of trees in front of glass buildings, as in @Image2; the low sun behind the buildings on the far side.
 - At the start, Aoy walks from beside the black sedan to the edge of the pavement by the road. WIN STANDS ON THE FAR PAVEMENT, AS IN @Image10: BEHIND THE RED AND WHITE KERB, NEXT TO THE TRUNK OF A BIG TREE, WITH THE GLASS BUILDING BEHIND HIM; THE CARS OF THE FAR LANES PASS IN FRONT OF HIM. HE STAYS ON THAT PAVEMENT FOR THE WHOLE VIDEO.
 - WHEN THEY LOOK AT EACH OTHER ACROSS THE ROAD: WIN IS ON THE LEFT OF FRAME, AOY IS ON THE RIGHT OF FRAME.
-- WHEN THEY RUN: BOTH RUN TOWARD THE RIGHT OF FRAME, EACH ON THE PAVEMENT ON HIS OR HER OWN SIDE OF THE ROAD, WITH ALL EIGHT LANES OF TRAFFIC BETWEEN THEM. EACH RUNNING SHOT SHOWS ONE OF THEM ALONE.
+- WHEN THEY RUN: BOTH RUN TOWARD THE RIGHT OF FRAME, EACH ON THE PAVEMENT ON HIS OR HER OWN SIDE OF THE ROAD, WITH ALL EIGHT LANES OF TRAFFIC BETWEEN THEM. WHENEVER BOTH ARE IN THE FRAME, ONE IS CLOSE ON THIS SIDE OF THE ROAD AND THE OTHER IS SMALL AND FAR AWAY ON THE FAR PAVEMENT.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–5.0 s — TO THE EDGE OF THE ROAD
@@ -75,15 +75,16 @@ Camera: MS of Aoy far away, 160 cm high, eye level, 135mm lens, locked-off, over
 Composition: the shoulder of Win's green jacket soft at the left edge of frame; Aoy small on the right third; behind her, the glass building and the trees of the car park.
 Light: the low sun shines full on Aoy's face on the far side; she is the brightest spot in the frame.
 
-Shot 5 — 12.5–16.0 s — AOY RUNNING
+Shot 5 — 12.5–16.0 s — RUNNING, OVER AOY'S SHOULDER
 Picture, in this order:
-- 1. Aoy turns and runs alone toward the right of frame along her pavement, the staff in her left hand bobbing with her stride, her bag bouncing at her hip.
-- 2. A red bus rushes past on the road beside her; she cranes to glance across the road over the traffic, looking for Win.
-- 3. She smiles and runs faster.
-Camera: MS of Aoy alone, 120 cm high, eye level, 85mm lens, trucking right at her speed, on the building side of her pavement.
-Meaning: the camera runs with Aoy; she is alone on her side, and all she has of Win is a glance across the traffic.
-Composition: Aoy on the left third, facing right, with open space ahead of her in the direction she runs; the planters and bollards of her pavement sliding past; the red bus a blur on the road behind her.
-Light: the low sun shines through the gaps in the trees; Aoy's face moves in and out of the sunlight as she runs.
+- 1. Aoy runs toward the right of frame along her pavement, the staff in her left hand bobbing with her stride, her bag bouncing at her hip.
+- 2. Far away across all eight lanes, small on the far pavement behind the red and white kerb, Win runs the same way, at about the same speed.
+- 3. A red bus drives past on the road between them and hides Win completely; Aoy cranes to see him for a moment.
+- 4. When the bus has gone, Win is still running over there on the far pavement; Aoy smiles and runs faster.
+Camera: MS, 130 cm high, eye level, 85mm lens, trucking right at Aoy's speed, just behind her left shoulder, looking past her across the road.
+Meaning: they have found each other but have not met yet; the whole road is still between them, so the audience sees Win only far away over Aoy's shoulder, running toward the same place.
+Composition: Aoy's left shoulder, long hair and the staff close and soft at the left edge of frame; Win small and far away on the far pavement, in front of the glass building, with all eight lanes of traffic between them; open space ahead on the right.
+Light: the low sun shines through the gaps in the trees; Aoy's hair catches the gold of the sun as she runs.
 Sound: Aoy's boots hitting the pavement fast; the staff tapping the ground in rhythm; the bus rushing past; her quick breathing.
 
 Shot 6 — 16.0–20.0 s — WIN RUNNING, ACROSS THE ROAD
@@ -140,3 +141,6 @@ Win running toward the right along the far pavement, behind the red and white ke
   - เฟรมท้าย: เดิมสองคนในเฟรมเดียว (ทำไม่ได้เมื่อแยกช็อต) → วินวิ่งพ้นขอบขวาบนฟุตบาทฝั่งโน้น
   - roles เทค 2: P03 · R01 crop · อลิซ 3 · ไม้ · วิน 2 · เฟรมท้ายคลิป 3 `c4171662` · ตำแหน่งวิน `b39818fc` · valid · พรอมป์เทค 2 อัปขึ้น Fortal แล้ว
   - ขอราคาเทค 2 · 20 วิ · quote `2b7ab41c` **176.6 พอยต์** · หมดอายุ 2026-11-14 01:47 UTC · idempotency `sb03-14-take2-20261114` · รอ "ยิง"
+  - user *"คือ มันจะยังไม่เจอกันไง ไหนจะ ขึ้นสะพานอีก เพราะงั้น มันจะไม่วิ่ง คู่กันข้างๆ กัน มีแต่ มุมผ่านไหล่ ละเห็นอีกคนไกลๆ วิ่งเหมือนกัน หรือ มุมข้างที่เห็นอีกคนวิ่งจากอีกฝั่งไกลๆ สิ"* → ช็อต 5 จาก *อลิซคนเดียว* → **OTS ผ่านไหล่ซ้ายอลิซ trucking ขวา เห็นวินตัวเล็กไกลบนฟุตบาทฝั่งโน้นวิ่งทางเดียวกัน** รถเมล์แดงผ่านกลางถนนบังวิน อลิซชะเง้อ พ้นแล้ววินยังวิ่งอยู่ฝั่งโน้น อลิซยิ้มเร่ง · ช็อต 6 คงเดิม (มุมข้างจากฝั่งอลิซ เห็นวินวิ่งไกลอีกฝั่ง 200mm)
+  - WHEN THEY RUN: *EACH RUNNING SHOT SHOWS ONE OF THEM ALONE* → *WHENEVER BOTH ARE IN THE FRAME, ONE IS CLOSE ON THIS SIDE OF THE ROAD AND THE OTHER IS SMALL AND FAR AWAY ON THE FAR PAVEMENT* · SCENE *They have found each other but have not met yet ... with the whole road still between them* (ไม่เอ่ยสะพาน)
+  - พรอมป์เทค 2 (แก้ช็อต 5) อัปขึ้น Fortal แล้ว · quote ใหม่ `7625ce22` **176.6 พอยต์** · หมดอายุ 2026-11-14 01:51 UTC · idempotency `sb03-14-take2b-20261114` · รอ "ยิง" (quote `2b7ab41c` เดิมใช้ไม่ได้แล้ว)
