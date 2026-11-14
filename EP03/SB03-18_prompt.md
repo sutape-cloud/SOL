@@ -35,19 +35,19 @@ WHAT THEY WEAR, AS IN @Image4 AND @Image7
 
 WHERE EVERYONE IS
 - The middle of the footbridge over the eight-lane road, late in the afternoon, near evening. White steel railings on both sides; the low orange-gold sun on the same side as in @Image1, behind the two of them; the glass towers around reflect the gold; the traffic passes under the bridge all the time.
-- Win and Aoy lean side by side on the railing on the camera side of the bridge, half an arm's length apart; they turn to face each other when they talk.
+- Win and Aoy lean forward side by side on the railing, half an arm's length apart, their forearms on the top rail, facing out over the road, with their backs to the walkway; they turn their heads and shoulders to face each other when they talk.
 - WIN IS ALWAYS ON THE LEFT OF FRAME. AOY IS ALWAYS ON THE RIGHT OF FRAME. THE STAFF LEANS ON THE RAILING BESIDE AOY.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–7.0 s — SO GLAD
 Picture, in this order:
-- 1. 0.0–1.0 s: Aoy leans the staff on the railing, rests both forearms on the white steel railing and looks down at the traffic passing under the bridge; Win leans on the railing beside her.
+- 1. 0.0–1.0 s: Aoy leans the staff on the railing beside her, leans forward with both forearms on the top of the white steel railing and looks down at the traffic passing under the bridge; Win leans forward on the railing beside her in the same way.
 - 2. 1.0–6.4 s: She says @Audio1.
   - Aoy: "ดีจังเลยที่พี่เค้ามาช่วย ถ้าลุงไปเอง พวกนั้นคงไม่ยอมปล่อยหนูกลับบ้านแน่ๆ"
   - Emotion from the script: 心有余悸，深感庆幸.
   - Performance: still a little scared, but relieved it is over; when she talks about those people, her shoulders give a small shiver, because she can still picture it, and her hands grip the railing tighter.
 - 3. 6.4–7.0 s: She lets out a long breath of relief.
-Camera: MS two-shot, at the level of the walkway, eye level, 50mm lens, locked-off, outside the railing, looking at the two of them leaning on it.
+Camera: MS two-shot, at the level of the walkway, eye level, 50mm lens, locked-off, outside the bridge, in the air in front of the railing, looking back at their faces as they lean over it.
 Meaning: the railing is the foreground they lean into, so the audience is close to them as she opens up.
 Composition: Win on the left third, Aoy on the right third; the white railing a horizontal line along the bottom of the frame; the far side of the bridge and the golden glass towers soft behind them.
 Light: the sun behind them puts a line of gold along their hair; their faces take the soft light reflected from the white railing and the floor of the bridge.
@@ -82,7 +82,7 @@ Sound: the traffic below is still there, but soft enough to hear her breathing.
 Shot 5 — 15.0–19.0 s — SOMETHING ON MY CHEEK
 Picture, in this order:
 - 1. 15.0–15.5 s: Win nods and scratches his cheek with a finger, embarrassed.
-- 2. 15.5–18.9 s: Then he puts on a straight face, pretending he has just felt something, and says @Audio3; at the first words he touches his own right cheek with a fingertip; then he turns his face to his own left, offers his right cheek to Aoy, leans down so his cheek is at her height, and taps the middle of his cheek with his fingertip; then he sneaks a glance back at her, holding back a smile.
+- 2. 15.5–18.9 s: Then he puts on a straight face, pretending he has just felt something, and says @Audio3; at the first words he touches his own right cheek with a fingertip; then he turns his head to the side so that his right cheek faces Aoy and the camera, bends down so his cheek is at her height, and taps the middle of that cheek with his forefinger; then he sneaks a glance back at her, holding back a smile.
   - Win: "เอ๊ะ อะไรเนี่ย ช่วยดูทีเหมือนมีอะไรติดแก้ม"
   - Emotion from the script: 故作正经，暗戳戳索吻邀功.
   - Performance: a straight, serious face, while everything he does makes it plain that he is asking for a kiss on the cheek; he offers the cheek, leans down, taps the same spot, and waits.
@@ -94,9 +94,9 @@ Light: the golden sun rims his ear and the grey at his temples.
 
 Shot 6 — 19.0–22.0 s — A SLAP ON THE ARM
 Picture, in this order:
-- 1. 19.0–19.5 s: Aoy gets it at once, caught off guard.
-- 2. 19.5–20.2 s: She slaps Win's upper arm with her right hand.
-- 3. 20.2–22.0 s: She bites her lip to hold back a smile and turns her face away to the right, her shoulders shaking, laughing and shy at the same time; Win rubs his upper arm, laughing quietly in his throat, and keeps looking at her.
+- 1. 19.0–19.5 s: Aoy gets it at once, caught off guard; Win is still bent toward her, his hands down by his sides.
+- 2. 19.5–20.2 s: With her open hand she gives the green sleeve of Win's upper arm, halfway between his shoulder and his elbow, one light slap; Win straightens up.
+- 3. 20.2–22.0 s: She bites her lip to hold back a smile and turns her face away to the right, her shoulders shaking with a laugh she keeps inside, shy, with a closed-lip smile; her hands are empty and the staff stays leaning on the railing beside her; Win rubs his upper arm, laughing quietly in his throat, and keeps looking at her.
 Camera: MS two-shot, at the level of the walkway, eye level, 135mm lens, locked-off, side-on to the bridge, on the side away from the sun.
 Meaning: it ends on the same side angle as when they walked toward each other, the sun between them once more; the last picture the audience takes home.
 Composition: Win on the left third, facing right; Aoy on the right third, turning her face away to the right; the low sun in the gap between them; the white railing at waist height; the lights of the traffic under the bridge in soft streaks.
@@ -153,4 +153,9 @@ DIALOGUE, IN THIS ORDER
   - ⚠️ ช็อต 5 (14.71–18.54) วินพูด แตะ/ชี้แก้ม ✓ · แต่ไม่เห็นหันยื่นแก้มขวาเข้ากล้องและก้มตัวลงชัดๆ
   - ✓ ช็อต 6 (18.54–22.0) มุมข้าง อลิซยื่นมือตีแขนวิน วินลูบแขน ยิ้มมองเธอ · พระอาทิตย์อยู่ช่องว่าง · ⚠️ ไม้อยู่ในมืออลิซ ไม่ได้พิงราว
   - เฟรมท้าย: วินกอดอกลูบต้นแขน ยิ้มมองอลิซ ✓ · อลิซหันหน้าไปทางขวา ✓ แต่หัวเราะเห็นฟัน (ขัดกฎยิ้มปิดปาก) · ไม้ในมือซ้าย
-
+- เทค 2 (2026-11-14) — user *"เจนมาอีกรอบหน่อย ในเฟรมมันตบหน้าเลยอะดิ ปรับอันไหนแปลกๆ"*
+  - ช็อต 6 ตบหน้า (เทค 1 ที่ 18.7 วิ มือวินยังอยู่ที่แก้ม มืออลิซพุ่งไปทางหน้า) → *one light slap* ที่ *the green sleeve of Win's upper arm, halfway between his shoulder and his elbow* · เปิดช็อต *his hands down by his sides* · ตัด *with her right hand* → *with her open hand* (มือขวาไกลจากวิน ต้องเอื้อมข้ามตัว)
+  - ช็อต 1 อลิซเอาหลังพิงราว → WHERE EVERYONE IS + บีต 1 *lean forward ... forearms on the top rail, facing out over the road, with their backs to the walkway* · กล้อง *outside the bridge, in the air in front of the railing, looking back at their faces*
+  - ช็อต 5 ยื่นแก้มไม่ชัด → *turns his head to the side so that his right cheek faces Aoy and the camera, bends down so his cheek is at her height*
+  - ช็อต 6 / เฟรมท้าย ไม้อยู่ในมือ + หัวเราะเห็นฟัน → *her hands are empty and the staff stays leaning on the railing beside her* · *a laugh she keeps inside ... with a closed-lip smile*
+  - พรอมป์เทค 2 อัปขึ้น Fortal แล้ว · เรฟ/เสียงชุดเดิม · quote `372adf29` **194.3 พอยต์** · หมดอายุ 2026-11-14 06:17 UTC · idempotency `sb03-18-take2-20261114` · รอ "ยิง"
