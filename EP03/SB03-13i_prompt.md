@@ -55,3 +55,7 @@ The old woman standing in the driving lane in front of the black sedan, both han
 - roles (insert): P01 pick · สกู๊ตเตอร์ · นุช CU/FS · valid · พรอมป์ insert อัปเป็น prompt ของบ็อก (พรอมป์เทคเต็มอยู่ใน `SB03-13_prompt.md`)
 - ขอราคา insert · Seedance 2.5 · references · 16:9 · 720p · 6 วิ · full · manual · output insert · quote `447dc403` **53.0 พอยต์** · หมดอายุ 2026-11-14 00:57 UTC · idempotency `sb03-13i-take1-20261114` · รอ "ยิง"
 - insert ยิง 2026-11-14 — run `4d0fced1-1ca5-4579-91aa-7b96725f3d38` · quote `447dc403` · 6 วิ · output insert · 53.0 พอยต์ · user สั่ง "ยิง"
+- insert ผล (asset `7063da7d` · shot asset `d4a5b4d8` ลงทะเบียน insert อัตโนมัติ · 6.04 วิ) · contact `EP03/frames/SB03-13i_V1_contact.png` · เฟรมท้าย `SB03-13i_V1_last.png`
+  - ✓ กล้องหน้ารถ เห็นกระจังกับไฟหน้าเบนซ์ซ้ายเฟรม · ยายอยู่ข้างหัวรถในช่องหน้าพุ่มไม้/กระถาง · ดีดขาตั้ง เดินเข็นสกู๊ตเตอร์ครีมออกมาหากล้อง เท้าแตะพื้น (ไม่ได้ขี่) · หมวกกันน็อกขาวยังไม่เห็นบนเบาะชัด
+  - ⚠️ หน้าสกู๊ตเตอร์มีป้ายโลโก้เล็กๆ ลางๆ
+  - ตัวอย่างต่อ: เทค 2 `3e53c97d` 0–4.54 + insert + เทค 2 10.0–24.04 = 24.69 วิ (ไฟล์ใน scratchpad ไม่ได้ commit)
