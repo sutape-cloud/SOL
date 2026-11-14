@@ -149,3 +149,4 @@ DIALOGUE, IN THIS ORDER
   - ด่าน A8: *was never getting in* → *came round for the little scooter parked behind it all along*
   - roles เดิม (เรฟ 9 + เสียง 2) valid · พรอมป์เทค 2 อัปขึ้น Fortal แล้ว
   - ขอราคาเทค 2 · 24 วิ · quote `475b1d25` **211.9 พอยต์** · หมดอายุ 2026-11-14 00:41 UTC · idempotency `sb03-13-take2-20261114` · รอ "ยิง"
+- เทค 2 ยิง 2026-11-14 — run `ee37ce66-2e87-458a-87d2-4c861c18a0e0` · quote `475b1d25` · 24 วิ · เรฟ 9 + เสียง 2 · 211.9 พอยต์ · user สั่ง "ยิง"
