@@ -159,3 +159,4 @@ DIALOGUE, IN THIS ORDER
   - ช็อต 5 ยื่นแก้มไม่ชัด → *turns his head to the side so that his right cheek faces Aoy and the camera, bends down so his cheek is at her height*
   - ช็อต 6 / เฟรมท้าย ไม้อยู่ในมือ + หัวเราะเห็นฟัน → *her hands are empty and the staff stays leaning on the railing beside her* · *a laugh she keeps inside ... with a closed-lip smile*
   - พรอมป์เทค 2 อัปขึ้น Fortal แล้ว · เรฟ/เสียงชุดเดิม · quote `372adf29` **194.3 พอยต์** · หมดอายุ 2026-11-14 06:17 UTC · idempotency `sb03-18-take2-20261114` · รอ "ยิง"
+- เทค 2 ยิง 2026-11-14 — run `8d240db9-c17a-47a6-b197-3f938060f81d` · quote `372adf29` · 22 วิ · เรฟ 8 + เสียง 3 · 194.3 พอยต์ · user สั่ง "ยิง"
