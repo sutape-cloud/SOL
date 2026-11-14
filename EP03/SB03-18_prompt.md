@@ -144,3 +144,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน: SCENE *Win is not looking at the road* → *Instead of the road, Win is looking at her*
 - เฟรมท้ายคลิป 7 อัปเป็น `SB03-17 V1 last frame` `1508aa87` · เปิดบ็อก `7d114774-e853-4ef0-9775-b56288688f67` · ผูกเรฟ 8 + เสียง 3 · roles valid
 - พรอมป์อัปขึ้น Fortal แล้ว · ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 22 วิ · full · manual · quote `4e1bca70` **194.3 พอยต์** · หมดอายุ 2026-11-14 05:58 UTC · idempotency `sb03-18-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — ครั้งแรก Bad Gateway · `list_runs` ว่าง (ไม่มี run) · ยิงซ้ำ key เดิม quote เดิม → run `da74c59d-6961-4232-981e-b9a3a2ec78a2` · 22 วิ · เรฟ 8 + เสียง 3 · 194.3 พอยต์ · user สั่ง "ยิง"
