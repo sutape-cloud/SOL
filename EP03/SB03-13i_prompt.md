@@ -73,3 +73,4 @@ The black sedan side-on across the middle of the frame, facing left. The old wom
   - ด่านยกเว้น: A4 *THE CAMERA LOOKS AT THE BLACK SEDAN* = ทิศกล้อง ไม่ใช่สายตาตัวละคร (user *"ใช้มุมกล้องหันข้าง"*)
   - roles insert เทค 2: P01 pick · สกู๊ตเตอร์ · นุช CU/FS · ไม้ · อลิซ CU/3Q/FS · valid · พรอมป์อัปขึ้น Fortal แล้ว
   - ขอราคา · 6 วิ · insert · quote `e75af036` **53.0 พอยต์** · หมดอายุ 2026-11-14 01:12 UTC · idempotency `sb03-13i-take2-20261114` · รอ "ยิง"
+- insert เทค 2 ยิง 2026-11-14 — run `9d57744d-36cf-46d4-9bfa-1c199e961701` · quote `e75af036` · 6 วิ · insert · 53.0 พอยต์ · user สั่ง "ยิง"
