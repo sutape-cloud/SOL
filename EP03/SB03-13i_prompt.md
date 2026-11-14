@@ -74,3 +74,7 @@ The black sedan side-on across the middle of the frame, facing left. The old wom
   - roles insert เทค 2: P01 pick · สกู๊ตเตอร์ · นุช CU/FS · ไม้ · อลิซ CU/3Q/FS · valid · พรอมป์อัปขึ้น Fortal แล้ว
   - ขอราคา · 6 วิ · insert · quote `e75af036` **53.0 พอยต์** · หมดอายุ 2026-11-14 01:12 UTC · idempotency `sb03-13i-take2-20261114` · รอ "ยิง"
 - insert เทค 2 ยิง 2026-11-14 — run `9d57744d-36cf-46d4-9bfa-1c199e961701` · quote `e75af036` · 6 วิ · insert · 53.0 พอยต์ · user สั่ง "ยิง"
+- insert เทค 2 ผล (asset `89d0425c` · shot asset `e394096c` ลงทะเบียน insert อัตโนมัติ · 6.04 วิ) · contact `EP03/frames/SB03-13i_V2_contact.png` · เฟรมท้าย `SB03-13i_V2_last.png`
+  - ✓ มุมหันข้างแบบ P01 pick เบนซ์หัวไปซ้าย · หมวกสานโผล่เหนือหลังคาแถวหัวรถ · สกู๊ตเตอร์ครีมหันซ้าย โผล่พ้นหัวรถออกมาทางซ้าย · ยายเดินเข็น (ไม่ขี่) หยุดหน้ารถ · อลิซยืนขวาข้างท้ายรถ ถือไม้
+  - ⚠️ ภาพกว้าง คนตัวเล็ก (WS ตามที่เขียน)
+  - ตัวอย่างต่อ: เทค 2 `3e53c97d` 0–4.54 + insert เทค 2 + เทค 2 10.0–จบ = 24.69 วิ (scratchpad ไม่ได้ commit)
