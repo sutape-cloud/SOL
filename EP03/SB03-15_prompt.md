@@ -123,3 +123,4 @@ The bridge deck side-on. Win at the left end of the bridge, facing right; Aoy at
 - ด่านยกเว้น: A4 ช็อต 5 *look up at the same moment; they see each other* = user *"เงยหน้าพร้อมกัน เห็นกันและกัน"* (การมองคือตัวแอ็กชัน) · A20 องค์ประกอบช็อต 1 = สตอรี่บอร์ด user (บันไดวินซ้าย บันไดอลิซขวา)
 - เปิดบ็อก `baffac1e-fad3-4699-8fb6-6e7a5e088dac` (บท 03) · ผูกเรฟ 7 · roles valid · เติมแถว BOX_MAP
 - พรอมป์อัปขึ้น Fortal แล้ว · ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · full · manual · quote `d093f367` **229.6 พอยต์** · หมดอายุ 2026-11-14 03:42 UTC · idempotency `sb03-15-take1-20261114` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-14 — run `46af1f30-c6f8-4dbe-a09d-4015858dffd9` · quote `d093f367` · 26 วิ · เรฟ 7 · 229.6 พอยต์ · user สั่ง "ยิง"
