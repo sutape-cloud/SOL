@@ -165,3 +165,4 @@ DIALOGUE, IN THIS ORDER
   - 👗 *"กระเป๋า … วางอยู่บนตัก"* → *resting on her lap*
   - ด่าน: SCENE เขียนใหม่ (A8 *no intention / never* · A1 *chin* · A4 *steals a look*) · LIP SYNC *Juk says nothing* → *stays silent* · BEFORE A23 *sweetly* → ตัด · ช็อต 1 *turns his chin* → *gently turns him toward her* · *dabs his chin* → *wipes him clean, lightly* (บท *"ใช้ทิชชู่เช็ดมุมปากให้"*) · ช็อต 2 สำนวน *as if he had said nothing* → *the line already behind him* · A20 *at the top of the frame* → *fully in view*
 - เปิดช็อต `5aa4fd77` · roles 11 ภาพ + 3 เสียง `valid: true` · อัปพรอมป์ · ราคา 211.9 · quote `e2d391f7` หมดอายุ 2026-11-20 16:22 UTC · key `sb03-28-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 16:16 UTC · 211.9 · run `a6b1fdd7-66fa-42ff-bffe-d18c4e4b4c1e`
