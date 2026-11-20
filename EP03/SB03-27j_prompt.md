@@ -68,3 +68,4 @@ DIALOGUE, IN THIS ORDER
 - แก้: เปิดช็อตแยก `SB03-27i` ใน Fortal · เรฟเหลือ 7 ใบ (front v3 · อลิซ CU/FS · วิน CU/กลับเสื้อ · แจ็ค face/sheet) + เสียง 1 · พรอมป์สั้น · กล้อง *in the middle of the back seat, between Win and Aoy* · วินซ้ายติดกล้อง อลิซขวาติดกล้อง · *Exactly three people* · เบาะหน้าสองตัวว่าง *red leather backs and headrests bare* · ประตูหน้าซ้าย *beyond the empty front passenger seat, out at the front of the car* · *Both rear doors, beside Win and beside Aoy, stay shut*
 - ด่าน A20 *fill the left/right edge of the frame* → *we see … up close, on the left/right of frame* (คงข้างซ้ายขวาไว้ เพราะ user สั่ง *"อลิชจะหันหลังเฟรมขวา … วินจะหันหลัง เฟรมซ้าย"*)
 - ช็อตแยก `404d43b1` · roles 7 ภาพ + 1 เสียง `valid: true` · อัปพรอมป์ · ราคา 44.2 · quote `52a9f1cf` หมดอายุ 2026-11-20 15:44 UTC · key `sb03-27j-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 15:38 UTC · 44.2 · run `188607a5-0871-46f9-b37e-20a459380316`
