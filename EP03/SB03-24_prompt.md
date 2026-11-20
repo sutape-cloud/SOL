@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Eight shots, 24 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Seven shots, 24 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small and natural. Feelings show quietly. The only light is the downlights, the brass wall lamps, the warm hidden lights along the edge of the ceiling, and the morning sun coming through the glass front wall of the lobby. The corridor to the lift is closed in by marble walls on both sides, lit only by its downlights and its brass wall lamps. The air is clear and clean. Every surface is plain. The lift door and its panel are plain brushed steel with only a plain call button. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. Whenever Aoy smiles, it is a closed-lip smile. The only sound is the real sound of the place.
 
 LIP SYNC
-Juk speaks in Shots 1, 2 and 3; Aoy speaks in Shots 4 and 8. Each line is lip-synced to the person saying it. In Shot 3 the end of Juk's line goes on while the picture shows his back. The voice files play in order, each exactly once: @Audio1 (Juk) from 0.4 s, @Audio2 (Aoy) from 10.0 s, @Audio3 (Aoy) from 19.6 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 24 seconds.
+Juk speaks in Shot 1; Aoy speaks in Shots 3 and 7. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 (Juk) from 0.4 s, @Audio2 (Aoy) from 10.0 s, @Audio3 (Aoy) from 19.6 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 24 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. Juk walked into the lobby to go up and meet Aoy's sick "uncle"; Aoy followed him into the corridor to the lift and grabbed his sleeve just as he reached for the call button, and he turned round to her smiling, sure he had caught her lying. The last video ended seen from the side, against the lift wall: Aoy on the left of frame, her hand on the sleeve of Juk's jacket, her back toward the far end of the corridor; Juk on the right of frame, beside the lift door, facing her. Behind the wooden door at the far end of the corridor, in the housekeeper's rest room, Win, who is the "uncle", turned his light-green jacket inside out so that it is now white with green trim, and put on the housekeeper's pink knitted hat with the big cream flower.
+All of this has already happened before the first frame. Juk walked into the lobby to go up and meet Aoy's sick "uncle"; Aoy followed him into the corridor to the lift and grabbed his sleeve just as he reached for the call button, and he turned round to her smiling, sure he had caught her lying. The last video ended with the two of them face to face beside the lift door, Aoy's hand on Juk's arm. Round the corner at the far end of the corridor, in the housekeeper's rest room, Win, who is the "uncle", turned his light-green jacket inside out so that it is now white with green trim, and put on the housekeeper's pink knitted hat with the big cream flower. Now he steps out to play the sick uncle.
 
 SCENE
-Juk is sure there is no uncle, and he gives Aoy one last chance to confess. Then the uncle walks out of the corridor behind him: Win, in a white jacket and a pink flowered hat, standing very still and trying to look like a sick old man. Aoy is so stunned she says "uncle" out loud before she can think. Juk turns round, and for once he has no plan for what he sees. Aoy snaps straight into the part of the bossy niece: she runs to her "uncle", takes his arm, scolds him for wandering off on his own, and walks him out into the lobby, while Juk backs out after them.
+Juk is sure there is no uncle, and he gives Aoy one last chance to confess. Behind his back, the uncle comes round the corner at the far end of the corridor: Win, in a white jacket and a pink flowered hat, trying to look like a sick old man. Aoy sees him first, over Juk's shoulder, and her face gives it away before the audience knows why; the word "uncle" slips out of her. Juk turns round and sees him, and for once he has no plan for what he sees. Then Aoy snaps into the part of the bossy niece: she hurries to her "uncle", takes his arm and scolds him right there in the corridor for wandering off on his own.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. First the shock empties her completely; then, in a moment, she is the bossy niece.
@@ -25,9 +25,9 @@ ACTIVE REFERENCES
 @Image8 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
 @Image9 — JUK: 28, Thai. 100% matches the reference, and @Image10 is the authority for what he is wearing today.
 @Image10 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes and for how he looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image9.
-@Audio1 — JUK'S VOICE, HIS LINE, IN SHOTS 1, 2 AND 3.
-@Audio2 — AOY'S VOICE, HER FIRST LINE, IN SHOT 4.
-@Audio3 — AOY'S VOICE, HER SECOND LINE, IN SHOT 8.
+@Audio1 — JUK'S VOICE, HIS LINE, IN SHOT 1.
+@Audio2 — AOY'S VOICE, HER FIRST LINE, IN SHOT 3.
+@Audio3 — AOY'S VOICE, HER SECOND LINE, IN SHOT 7.
 @Image3 and @Image4 carry Aoy's face, and her clothes, front and back, come from @Image5. @Image6 carries Win's face, and his clothes and the hat come from @Image7; @Image8 shows the same hat from every side. @Image9 carries Juk's face, and his clothes, front and back, come from @Image10. @Image1 and @Image2 only tell what is where in the lobby and the corridor.
 
 WHAT THEY WEAR, AS IN @Image5, @Image7, @Image8 AND @Image10
@@ -36,106 +36,94 @@ WHAT THEY WEAR, AS IN @Image5, @Image7, @Image8 AND @Image10
 - Win: his same jacket turned inside out, so it is now a glossy white nylon jacket with green trim at the stand-up collar, along the zip, along the sleeve seams, at the cuffs and at the hem; only the trim is green. A white crew-neck T-shirt; black jeans; black leather boots. On his head, the housekeeper's pink knitted hat with a folded brim and a big knitted cream flower, pulled down low over his forehead; a little of the grey at his temples shows under it.
 
 WHERE EVERYONE IS
-- The lobby, in the morning, as in @Image1: the gold-toned abstract painting on the far inner wall; the wall of black mailboxes; the beige sofa. In the inner corner on the mailbox side, the mouth of the corridor to the lift.
-- The corridor to the lift, as in @Image2: warm grey marble walls, a cream stone floor, downlights along the ceiling. Walking in from the lobby, the stainless-steel lift door is on the right-hand wall, with a call button beside it and a brass wall lamp. At the far end of the corridor is the light-brown wooden door of the housekeeper's rest room.
-- At the start, exactly as the last video ended: Aoy stands on the far-end side, her back to the far end of the corridor, her right hand holding Juk's arm; Juk stands beside the lift door on the lobby side, facing her. Win is behind the wooden door at the far end.
-- Then Juk strolls round behind Aoy to her other side and leans against the marble wall, so that his back is to the far end of the corridor and Aoy, turning with him, faces into the corridor.
-- During the video, Win opens the wooden door, walks up the corridor and stops beside the lift door, a few steps behind Juk. Juk turns round and sees him. Aoy runs past Juk, takes Win's arm and walks him out into the lobby in front of the mouth of the corridor. Juk backs out after them and stands in front of the wall with the painting.
-- AT THE START OF SHOT 1, AOY IS ON THE LEFT OF FRAME AND JUK ON THE RIGHT, AS THE LAST VIDEO ENDED. FROM THE END OF SHOT 1 ON, IN EVERY SHOT WHERE JUK TALKS TO AOY, JUK IS ON THE LEFT OF FRAME AND AOY IS ON THE RIGHT OF FRAME. IN THE SHOT THAT REVEALS WIN, LOOKING PAST JUK'S SHOULDER INTO THE CORRIDOR, JUK IS ON THE LEFT OF FRAME, WIN IS JUST RIGHT OF CENTRE, AND THE LIFT DOOR IS ON THE RIGHT OF FRAME. AT THE END, FROM LEFT TO RIGHT: JUK, AOY, WIN.
+- The corridor to the lift, as in @Image2: warm grey marble walls, a cream stone floor, downlights along the ceiling. Walking in from the lobby, the stainless-steel lift door is on the right-hand wall, with a call button beside it and a brass wall lamp. Deep inside, at the far end, the corridor turns a corner to the left. The lobby, as in @Image1, is behind the mouth of the corridor.
+- At the start, as the last video ended: Aoy and Juk face to face beside the lift door, her right hand on his arm. In Shot 1, Juk strolls round her and leans his shoulder against the marble wall opposite the lift, his arms folded; then his back is to the far end of the corridor and he faces the lobby, and Aoy stands in front of him, facing into the corridor, toward the far end.
+- During the video, Win comes round the corner at the far end and stops in the corridor a few steps behind Juk. Juk turns round and sees him. Aoy hurries past Juk to Win and takes his arm. All three stay right there in the corridor until the end.
+- IN SHOT 1, THE CAMERA LOOKS INTO THE CORRIDOR FROM THE LOBBY SIDE: JUK FACES THE CAMERA, AOY HAS HER BACK TO THE CAMERA, AND THE FAR END OF THE CORRIDOR IS BEHIND JUK. AT THE END, FROM LEFT TO RIGHT: JUK, AOY, WIN.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–3.7 s — HE CIRCLES HER · the two of them from the side
+Shot 1 — 0.0–6.4 s — YOU CAN TELL ME · Juk facing the camera, Aoy's back to it
 Picture, in this order:
-- 1. 0.0–0.4 s: Exactly as the last video ended: Aoy on the left of frame, her right hand on Juk's arm; Juk on the right of frame beside the lift door, smiling at her.
-- 2. 0.4–3.7 s: He says the first part of @Audio1 while he slips his sleeve free and strolls slowly round behind Aoy to her other side, then leans his shoulder against the marble wall and folds his arms; Aoy turns on the spot to keep facing him. Now Juk is on the left of frame, his back to the far end of the corridor, and Aoy is on the right of frame, facing into the corridor.
+- 1. 0.0–0.4 s: As the last video ended: Aoy and Juk face to face beside the lift door, her right hand on his arm.
+- 2. 0.4–3.7 s: He says the first part of @Audio1 while he slips his arm free, strolls slowly round her and leans his shoulder against the marble wall opposite the lift, folding his arms; Aoy turns to keep facing him, so that her back is to the camera.
   - Juk: "ทำไมเหรอที่รัก จะบอกว่าลุงไม่ได้อยู่บนห้อง"
-  - Performance: he takes his time, circling her like a man who has already won.
-Camera: MS two-shot, 140 cm high, eye level, 35mm lens, locked-off, side-on; against the wall opposite the lift door, the same angle as the end of the last video.
-Meaning: the picture carries straight on from the last video; his slow circle shows how much he is enjoying this.
-Light: the brass wall lamp throws warm light on both of them.
-
-Shot 2 — 3.7–5.4 s — YOU CAN TELL ME · Juk, over Aoy's shoulder
-Picture, in this order:
-- 1. 3.7–5.4 s: Leaning on the wall with his arms folded, Juk goes on with @Audio1, his half smile widening on "ไม่มีลุงจริงๆ"; the line carries on into Shot 3.
-  - Juk: "หรือยอมรับว่าไม่มีลุงจริงๆ"
+- 3. 3.7–6.4 s: Leaning on the wall, facing the camera, he goes on with @Audio1, his half smile widening on "ไม่มีลุงจริงๆ".
+  - Juk: "หรือยอมรับว่าไม่มีลุงจริงๆ ก็บอกมาได้นะ"
   - Emotion from the script: 胸有成竹，得意拆台.
-  - Performance: sure he has caught her; he talks like a kind man giving her the chance to confess.
-Camera: MCU, 160 cm high, eye level, 85mm lens, locked-off, over Aoy's shoulder.
-Meaning: behind Juk, the corridor runs all the way to the wooden door; the audience sees that door behind the man who is most sure of himself.
-Composition: Aoy's hair and the shoulder of her yellow top soft at the right edge; Juk's face on the left third, facing right; beyond him, the marble corridor running deep to the wooden door at its far end, soft.
-Light: the brass wall lamp throws warm light across the front of him.
+  - Performance: sure he has caught her; he takes his time and talks like a kind man giving her the chance to confess.
+Camera: MS, 160 cm high, eye level, 35mm lens, locked-off; in the corridor on the lobby side, looking into the corridor, as in @Image2.
+Meaning: behind Juk, the corridor runs deep to the corner at the far end; the audience sees that empty corner behind the man who is most sure of himself.
+Composition: Aoy's back close to the camera; Juk beyond her, facing the camera; the lift door on the right of frame; the far end of the corridor and its corner deep behind Juk, empty.
+Light: the brass wall lamp throws warm light across the front of Juk.
 
-Shot 3 — 5.4–9.2 s — UP THE CORRIDOR · a moving view from the wooden door
+Shot 2 — 6.4–8.8 s — HER FACE · Aoy, over Juk's shoulder
 Picture, in this order:
-- 1. 5.4–6.3 s: A view moving slowly forward from the wooden door at the far end of the corridor, walking up the corridor toward the back of Juk's white suit, where he leans by the lift door; the end of @Audio1 goes on.
-  - Juk: "ก็บอกมาได้นะ"
-- 2. 6.3–7.4 s: Beyond Juk, Aoy's face shows half past his shoulder.
-- 3. 7.4–9.2 s: Her attention moves from Juk to the camera, and the life drains out of her expression.
-Camera: MS, 170 cm high, eye level, 35mm lens, steadicam moving slowly forward up the corridor from the wooden door; the picture holds only the corridor, Juk's back and Aoy.
-Meaning: the audience walks up the corridor before seeing who is walking; Aoy's reaction is the first sign of what is coming.
-Composition: the two marble walls draw in toward Juk's back in the middle of the frame; the lift door on the left of frame; Aoy's face beside Juk's right shoulder; the bright lobby far away at the end.
-Light: the downlights fall on the stone floor, one after another.
-Sound: soft footsteps on the stone floor, under Juk's voice.
+- 1. 6.4–8.8 s: Aoy is about to answer when something past Juk's shoulder catches her; she stops dead, and the life drains out of her expression. She stares, frozen. The audience cannot yet see what she sees.
+Camera: CU, 155 cm high, eye level, 85mm lens, dolly pushing in slowly on her; over Juk's shoulder, from the far-end side, looking toward the lobby.
+Meaning: the slow push into her frozen face makes the audience ask what on earth she is looking at.
+Composition: the shoulder of the white suit soft at the left edge; Aoy's face on the right third, staring past his shoulder, straight past the camera.
+Sound: the corridor goes quiet.
 
-Shot 4 — 9.2–11.8 s — UNCLE · Aoy, over Juk's shoulder
+Shot 3 — 8.8–11.6 s — WHAT SHE SEES HIM SEE · a point of view from behind Juk
 Picture, in this order:
-- 1. 9.2–10.0 s: Aoy stares past Juk's shoulder, frozen, stunned.
+- 1. 8.8–10.0 s: A point of view at a man's eye height, coming round the corner at the far end and walking slowly up the corridor, stopping a few steps behind Juk: Juk's back in the white suit, leaning on the wall, still facing Aoy; beyond his shoulder, Aoy, staring straight into the lens.
 - 2. 10.0–10.7 s: @Audio2 slips out of her.
   - Aoy: "…ลุง"
   - Emotion from the script: 目瞪口呆，难以置信.
   - Performance: it slips out by itself, to the air. Everything about her is frozen while the shock slowly lands.
-- 3. 10.7–11.8 s: She stays frozen.
-Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, over Juk's right shoulder.
-Composition: the shoulder of the white suit soft at the left edge; Aoy's face on the right third, staring past his shoulder.
-Sound: the corridor goes quiet at once.
+- 3. 10.7–11.6 s: The view holds still, a few steps behind Juk.
+Camera: MS, 170 cm high, eye level, 35mm lens, steadicam moving slowly up the corridor, then stopping; the picture holds only the corridor, Juk's back and Aoy.
+Meaning: now the audience stands where the uncle stands and sees Aoy's frozen face from his side.
+Composition: Juk's back close to the camera, on the left of frame; Aoy beyond his shoulder, on the right of frame, staring into the lens; the bright lobby far away at the end.
+Sound: soft footsteps on the stone floor, then stillness.
 
-Shot 5 — 11.8–13.8 s — HE TURNS · Juk
+Shot 4 — 11.6–13.6 s — HE TURNS · Juk
 Picture, in this order:
-- 1. 11.8–12.8 s: Juk, his back to the camera, still smiling at Aoy, sees where she is staring and turns his head to follow it.
-- 2. 12.8–13.8 s: Then he turns his whole body round to face the camera.
-Camera: MCU, 165 cm high, eye level, 50mm lens, locked-off; deep in the corridor, a few steps from Juk on the wooden-door side, looking back toward the lobby.
-Composition: Juk in the middle of the frame, turning from his back to his front; Aoy soft beyond him; the lift door on the left of frame.
+- 1. 11.6–12.6 s: Still smiling, Juk hears her and sees where she is staring.
+- 2. 12.6–13.6 s: He turns round, his back to the camera, to look behind him.
+Camera: MCU, 160 cm high, eye level, 50mm lens, locked-off; on the lobby side, facing Juk.
+Composition: Juk in the middle of the frame, turning away from the camera; the corridor deep behind him.
 
-Shot 6 — 13.8–16.6 s — THE UNCLE IN THE FLOWER HAT · Win revealed
+Shot 5 — 13.6–16.8 s — THE UNCLE IN THE FLOWER HAT · Juk's point of view
 Picture, in this order:
-- 1. 13.8–14.6 s: Over Juk's shoulder, into the corridor: Win stands beside the lift door, a few steps from Juk, in the white jacket with green trim and the pink knitted hat with the big cream flower on its brim.
-- 2. 14.6–16.6 s: He stands straight and still, small and meek, arms hanging at his sides, blank, trying to look like a sick man. All three hold still.
-Camera: MS to FS, 165 cm high, eye level, 50mm lens, locked-off, over Juk's right shoulder.
+- 1. 13.6–14.6 s: Juk's view: a few steps away in the corridor, just come round the corner at the far end, Win stands in the white jacket with green trim and the pink knitted hat with the big cream flower on its brim.
+- 2. 14.6–16.8 s: He stands straight and still, small and meek, arms hanging at his sides, blank, trying to look like a sick man. All three hold still.
+Camera: MS to FS, 165 cm high, eye level, 50mm lens, locked-off; Juk's point of view, looking deep into the corridor.
 Meaning: Win stands in the middle of the corridor with the two walls drawing in to him evenly; the still, symmetrical picture makes the strange outfit funny by itself, with no extra acting.
-Composition: the shoulder of the white suit soft at the left edge; Win just right of centre, full length; the stainless-steel lift door and the brass wall lamp on the right of frame beside him; the wooden door at the far end standing open behind him.
+Composition: Win in the middle of the frame, full length; the stainless-steel lift door and the brass wall lamp on the right of frame; the corner at the far end behind him.
 Light: the downlight above Win makes the pink hat stand out; the brass lamp catches the side of his cheek.
 Sound: silence; the lift machinery humming far off inside the wall.
 
-Shot 7 — 16.6–18.6 s — JUK'S LOOK
+Shot 6 — 16.8–18.6 s — JUK'S LOOK
 Picture, in this order:
-- 1. 16.6–17.4 s: Juk's smile stays stuck on him, neither going nor moving.
-- 2. 17.4–18.6 s: His attention climbs to the flower on the hat, and the puzzlement grows slowly.
+- 1. 16.8–17.6 s: Juk's smile stays stuck on him, neither going nor moving.
+- 2. 17.6–18.6 s: His attention climbs to the flower on the hat, and the puzzlement grows slowly.
   - Performance: the confusion of a clever man who has just met something outside his plan; small and real.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off, a single on Juk; in the corridor a few steps in front of him.
-Composition: Juk's face in the middle of the frame, a glint of light on his gold-rimmed glasses; Aoy small and soft behind him.
+Composition: Juk's face in the middle of the frame, a glint of light on his gold-rimmed glasses.
 
-Shot 8 — 18.6–24.0 s — NO WANDERING OFF ON YOUR OWN
+Shot 7 — 18.6–24.0 s — NO WANDERING OFF ON YOUR OWN · the three of them, right there in the corridor
 Picture, in this order:
-- 1. 18.6–19.6 s: Aoy lets go of Juk's arm and trots past him to Win.
+- 1. 18.6–19.6 s: Aoy hurries past Juk to Win.
 - 2. 19.6–21.2 s: She hooks her arm tightly through Win's right arm, pats his arm lightly, and says the first part of @Audio3.
   - Aoy: "ลุง ออกจากห้องมาทำไม"
-- 3. 21.2–23.5 s: As she goes on with @Audio3, she walks Win out of the mouth of the corridor and stops in the lobby; on "ห้ามเดินไปไหนเอง" she gives Win a quick warning look: play along. Win takes small steps as she pulls him. Behind them, Juk backs out of the corridor after them and stops in front of the wall with the painting, an arm's length or two from Aoy, facing the two of them.
+- 3. 21.2–23.5 s: Standing right there with him in the corridor, she goes on with @Audio3; on "ห้ามเดินไปไหนเอง" she gives Win a quick warning look: play along. Win stays meek and blank. Juk stands where he is, watching the two of them.
   - Aoy: "บอกแล้วใช่ไหมว่าห้ามเดินไปไหนเอง"
   - Emotion from the script: 秒进戏精状态，娇嗔训斥.
   - Performance: in a moment she is the bossy, fussing niece, cross but sweet with it.
-- 4. 23.5–24.0 s: The three of them stand facing each other.
-Camera: MS two-shot, 150 cm high, eye level, 50mm lens, dollying slowly backward with the two of them as they come out, then stopping; in the lobby, looking toward the mouth of the corridor.
-Meaning: the camera backs away with the two of them until Juk comes into the frame, ending on the three of them face to face.
-Composition: at the end, Juk on the left of frame in front of the gold painting, at the same distance from the camera as Aoy and Win; Aoy in the middle, her arm through Win's; Win on the right of frame, the mouth of the corridor behind him.
-Light: the warm hidden lights along the edge of the ceiling; the morning sun through the glass wall behind the camera falls softly on all three faces.
+- 4. 23.5–24.0 s: The three of them stand where they are.
+Camera: MS three-shot, 150 cm high, eye level, 35mm lens, locked-off, side-on; against the lift wall, looking across the corridor at the opposite marble wall.
+Meaning: the three of them in one frame: the niece and her strange uncle on one side, Juk on the other.
+Composition: Juk on the left of frame; Aoy in the middle, her arm through Win's; Win on the right of frame; all three at the same distance from the camera.
+Light: the brass wall lamp and the downlights; warm and soft.
 
 THE LAST FRAME
-The three of them stand in the lobby in front of the mouth of the corridor to the lift. Juk is on the left of frame in front of the wall with the painting, facing right. Aoy is in the middle, her arm through Win's right arm, facing Juk; her bag on her left shoulder. Win is on the right of frame, in the white jacket with green trim and the pink knitted hat with the cream flower, blank.
+The three of them stand in the corridor, side-on to the camera. Juk is on the left of frame, facing right. Aoy is in the middle, her arm through Win's right arm, facing Juk; her bag on her left shoulder. Win is on the right of frame, in the white jacket with green trim and the pink knitted hat with the cream flower, blank.
 
 DIALOGUE, IN THIS ORDER
-1. Shots 1–3, @Audio1, JUK: "ทำไมเหรอที่รัก จะบอกว่าลุงไม่ได้อยู่บนห้อง หรือยอมรับว่าไม่มีลุงจริงๆ ก็บอกมาได้นะ"
-2. Shot 4, @Audio2, AOY: "…ลุง"
-3. Shot 8, @Audio3, AOY: "ลุง ออกจากห้องมาทำไม บอกแล้วใช่ไหมว่าห้ามเดินไปไหนเอง"
+1. Shot 1, @Audio1, JUK: "ทำไมเหรอที่รัก จะบอกว่าลุงไม่ได้อยู่บนห้อง หรือยอมรับว่าไม่มีลุงจริงๆ ก็บอกมาได้นะ"
+2. Shot 3, @Audio2, AOY: "…ลุง"
+3. Shot 7, @Audio3, AOY: "ลุง ออกจากห้องมาทำไม บอกแล้วใช่ไหมว่าห้ามเดินไปไหนเอง"
 
 ---
 
@@ -195,3 +183,11 @@ DIALOGUE, IN THIS ORDER
 - เทค 2: อัปพรอมป์เข้าช็อต `bc43a138` · ราคา 211.9 · quote `58d7238c` หมดอายุ 2026-11-20 12:54 UTC · key `sb03-24-take2-20261120` · รอ "ยิง"
 - ยิงเทค 2 2026-11-20 12:46 UTC · 211.9 · run `cd125b09-945f-4339-bc59-9960f848ff91`
 - เทค 2 เสร็จ · asset `a7576fc9` · 24.04 วิ · รอ user ดู
+- อ่านเฟรมเทค 2 (`a7576fc9` · จุดตัด 4.67 / 6.88 / 9.00 / 11.88 / 14.29 / 16.42 / 18.50 · contact `EP03/frames/SB03-24_V2_contact.jpg`): ช็อต 1 แจ็คเดินอ้อมไปพิงผนัง หันหน้าเข้ากล้อง อลิซหันหลังให้กล้อง ✓ · ช็อต 3 เห็นประตูไม้ข้างหลังสองคน · ช็อต 6 วินยืนหน้าประตูไม้ · ช็อต 8 เดินออกล็อบบี้ แจ็คค้างไกล
+- เทค 3 แก้ (2026-11-20) — user *"คือ ให้แจค มันหันหลัง Lcorr_A ในฉากนี้ คือมันจะหันหน้า เข้าเฟรมกล้อง แต่อลิชหันหลัง แล้ว ลุงวิน จะโผล่มาจากข้างหลังแจค คือตรงมุมสุดทางเดิน ไม่ต้องไปเห็นประตูอะไร คือการโผล่ออกมาให้สมเหตุสมผล หน่อย คัตมันจะได้ต่อเนื่อง ใช้กล้องให้คนดู ตกใจ ทำไมอลิชทำหน้าแบบนั้น ละมามุมมอง pov วินที่ เห็นอลิชมอง แจคหันหลัง ละ กล้องไปหาแจค แจคหันหลัง แล้ว pov แจค เห็น ลุง แล้วอลิชถึงรีบไปหา ดิ ละคุยกันตรงนั้นก่อน ไม่ต้องรีบเดินไปไหนสิ"*
+  - 8 → 7 ช็อต · ลำดับใหม่: 1 แจ็คอ้อม+พิงผนัง หันหน้าเข้ากล้อง อลิซหันหลัง กล้องฝั่งล็อบบี้มองเข้าทางเดินแบบ Lcorr_A · พูดครบ @Audio1 · 2 หน้าอลิซ CU ข้ามไหล่แจ็ค dolly ดันเข้าช้าๆ เงียบ (คนดูสงสัยว่าเห็นอะไร) · 3 POV ลุงจากมุมสุดทางเดิน เห็นหลังแจ็ค อลิซจ้องกล้อง + "…ลุง" · 4 แจ็คหันหลังให้กล้อง · 5 POV แจ็ค เห็นลุง · 6 แจ็ค CU งง (คงจากสตอรี่บอร์ด) · 7 อลิซรีบไปหาลุง คล้องแขน ดุ **อยู่ตรงนั้นในทางเดิน** มุมข้าง L→R แจ็ค อลิซ วิน
+  - ตัดประตูไม้ออกทั้งหมด · วินโผล่จาก *the corner at the far end … turns a corner to the left* (ตาม Lcorr_A + คลิป 3)
+  - ตัดล็อบบี้ออกจากตอนจบ (*All three stay right there in the corridor*)
+  - "…ลุง" ย้ายจากช็อตหน้าอลิซ ไปอยู่ในช็อต POV ลุง (ช็อต 3) ให้หน้าอลิซในช็อต 2 เงียบ ตาม *"ทำไมอลิชทำหน้าแบบนั้น"* แล้วคำนี้เป็นเหตุให้แจ็คหันในช็อต 4
+  - ด่าน A20 *in the foreground* ×2 → *close to the camera*
+- เทค 3: อัปพรอมป์เข้าช็อต `bc43a138` · ราคา 211.9 · quote `eb4f6228` หมดอายุ 2026-11-20 13:14 UTC · key `sb03-24-take3-20261120` · รอ "ยิง"
