@@ -69,3 +69,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน A20 *fill the left/right edge of the frame* → *we see … up close, on the left/right of frame* (คงข้างซ้ายขวาไว้ เพราะ user สั่ง *"อลิชจะหันหลังเฟรมขวา … วินจะหันหลัง เฟรมซ้าย"*)
 - ช็อตแยก `404d43b1` · roles 7 ภาพ + 1 เสียง `valid: true` · อัปพรอมป์ · ราคา 44.2 · quote `52a9f1cf` หมดอายุ 2026-11-20 15:44 UTC · key `sb03-27j-take1-20261120` · รอ "ยิง"
 - ยิงเทค 1 2026-11-20 15:38 UTC · 44.2 · run `188607a5-0871-46f9-b37e-20a459380316`
+- เทค 1 เสร็จ · asset `5408ee26` · 5.04 วิ · รอ user ดู
