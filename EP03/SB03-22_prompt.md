@@ -198,3 +198,5 @@ DIALOGUE, IN THIS ORDER
   - ด่าน: A8 *nobody is in the lobby* → *the lobby stands empty* · A1 *closes/opens her eyes* → *eyes closed* / *Aoy's eyes open* · A23 *cold underneath* → *hard underneath* · สำนวน *as if that settles it* → *to settle it* · A20 *spills past the edge of the frame* → *grows large and close* · A19 *pulls the strap … up … lifts* → *hitches her bag higher*
   - ไม่ฝุ่น/หมอก/ตัวหนังสือ/โลโก้/ป้ายทะเบียน/zoom/slow/ดนตรี/แก้มแดง → ประโยคบอกเล่าใน GLOBAL
 - อัปพรอมป์เข้าช็อต `f3c09394` (`update_shot`) · ราคา 238.4 (exact · 27 วิ 720p) · quote `fbe82ed9` หมดอายุ 2026-11-20 11:26 UTC · key `sb03-22-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 11:26 UTC (quote เดิมหมดอายุ ขอใหม่ `6154c2bc` ราคาเท่าเดิม 238.4) · run `33d6ab87-f8d8-4f79-8621-fb1d33820e00`
+- เทค 1 เสร็จ · asset `5be68ced` · 27.04 วิ · รอ user ดู
