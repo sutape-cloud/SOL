@@ -39,7 +39,7 @@ Picture, in this order:
 - 1. 0.0–4.8 s: Aoy, palms pressed together in a wai, says @Audio1 to the men.
   - Aoy: "ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
   - Emotion: 眼眶泛红，苦苦哀求.
-- 2. 0.5–3.0 s: As they hear her, the five men feel sorry for her and lower their faces, one after another, each at his own moment. The bald guard turns his face a little aside and quietly wipes a tear from his eye with the back of his hand, keeping it to himself.
+- 2. 0.5–3.0 s: As they hear her, the five men feel sorry for her and lower their faces, one after another, each at his own moment. The bald guard lowers his face and quietly wipes a tear from his eye with the back of his hand.
 - 3. 2.0–3.8 s: The old woman turns her head to look at Aoy beside her, impressed by her granddaughter's acting.
 - 4. 3.8–5.0 s: While Aoy is still saying the last words, the old woman turns back to the men and steps forward toward them, the staff in her right hand, because now it is her turn; she is still walking toward them as the shot ends.
 Camera: LS, 150 cm high, eye level, locked-off, the camera angle of @Image2.
@@ -72,3 +72,5 @@ DIALOGUE, IN THIS ORDER
 - ด่าน A8: *hoping nobody sees* → *keeping it to himself* · ด่านยกเว้น: A4 ยายหันมองอลิซ = user *"นุชหันมองอลิซแบบชื่นชม"* · SCENE (เล่าเรื่อง) · A23 *wipes a tear* = user *"คนหัวโล้นแอบปาดน้ำตา"* · *feel sorry* = user *"สงสาร"* · *impressed* = user *"ชื่นชม"*
 - roles insert เทค 2: 9380eb89 X01 · fac38e04 ภาพตำแหน่งถมม่วง · f62fa024 · fc6b25b4 นุช · 12d53b5e ไม้ · 647d4b67 · c87d5782 · de7e4e99 อลิซ · 4e5b84cc หัวหน้า · 17b738cc รปภ. · f66dc1f5 เสียง
 - refs เข้าถึงได้ (check_reference_asset_access ✓) · roles ตั้งแล้ว · ขอราคา Seedance 2.5 · references · 16:9 · 720p · 5 วิ · full · manual · audio true · insert · quote `6f5222cd` **44.2 พอยต์** · หมดอายุ 2026-11-20 14:22 UTC · idempotency `sb03-7i2-take1-20261120` · รอ "ยิง" (user พิมพ์ "ยิงแก้" ก่อนมีเรฟ/พรอมป์ชุดนี้ → ขอยืนยันใหม่ตามกฎ)
+- user *""คนหัวโล้นเบือนหน้านิดๆ" ไม่ต้องเบือน ก้มหน้าแล้วปาดน้ำตาได้เลย ยิง"* → ตัด *turns his face a little aside ... keeping it to himself* → *lowers his face and quietly wipes a tear* · ขอราคาใหม่แล้วยิงตามคำสั่ง
+- insert ยิง 2026-11-20 — run `5d44d92f-f709-4123-b750-8bd62299a8d1` · quote `ce1f0970` · 5 วิ · insert · 44.2 พอยต์ · user สั่ง "ยิง"
