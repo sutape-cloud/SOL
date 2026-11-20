@@ -36,7 +36,7 @@ WHAT THEY WEAR, AS IN @Image4, @Image8, @Image9 AND @Image10
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon: polished white marble floor and round marble pillars, the tall glass wall with the gold-framed revolving doors, the low golden sun coming in.
 - IN SHOT 1: THE CAMERA IS BETWEEN TWO GUARDS, BEHIND THEIR SHOULDERS. AOY IS IN THE MIDDLE OF FRAME, FACING THE CAMERA; THE OLD WOMAN IS JUST BEHIND AOY ON THE LEFT OF FRAME.
-- IN SHOT 2, THE REVERSE ANGLE, OVER THEIR BACKS: AOY IS ON THE LEFT OF FRAME AND THE OLD WOMAN IS ON THE RIGHT OF FRAME, BOTH WITH THEIR BACKS TO THE CAMERA; THE SECURITY CHIEF AND THE FOUR GUARDS ARE BEYOND THEM, FACING THE CAMERA.
+- IN SHOT 2, THE REVERSE ANGLE: THE CAMERA STANDS BEHIND AOY AND THE OLD WOMAN AND OFF TO THEIR LEFT, SO THE TWO OF THEM ARE SEEN THREE-QUARTER FROM BEHIND, THE SIDE OF THEIR FACES SHOWING. AOY IS ON THE LEFT OF FRAME, NEARER THE CAMERA; THE OLD WOMAN IS ON THE RIGHT OF FRAME, JUST BEYOND HER. THE SECURITY CHIEF AND THE FOUR GUARDS ARE BEYOND THEM, FACING THE TWO OF THEM.
 - The security chief and the four guards stand in front of Aoy in a loose, uneven curve of five men, with a small gap between each man and the next, each at his own distance from her. The security chief is the second man from the left end. The man at the far left end and the man at the far right end stand a little farther away than the three in the middle.
 
 SHOT-BY-SHOT
@@ -54,17 +54,17 @@ Light: the sun from the glass behind her rims her hair and her shoulders.
 
 Shot 2 — 8.8–12.0 s — THEY STEP BACK · the closing shot
 Picture, in this order:
-- 1. 8.8–9.5 s: Over their backs: Aoy stands in the left foreground, her back to the camera, her palms still pressed together in a wai, bowing her head to the guards. The old woman stands in the right foreground, her back to the camera, the staff upright in her right hand, the phone hanging at her side. Beyond the two of them, the security chief and the four guards stand in their loose curve, looking at Aoy, the security chief second from the left.
+- 1. 8.8–9.5 s: Aoy stands in the left foreground, seen three-quarter from behind, the side of her face and her red eyes showing, her palms still pressed together in a wai, bowing her head to the guards. The old woman stands just beyond her on the right, seen three-quarter from behind, the side of her face under the straw hat showing, the staff upright in her right hand, the phone hanging at her side. Beyond the two of them, the security chief and the four guards stand in their loose curve, looking at Aoy, the security chief second from the left.
 - 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the one at the far right end, then another, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
 - 3. All five men keep their eyes on Aoy the whole time.
-Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and the old woman, between their shoulders, looking at the guards, toward the glass front of the building in @Image2.
+Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and the old woman and off to their left, looking past them at the guards, toward the glass front of the building in @Image2.
 Meaning: the audience sees what Aoy sees: the ring of men loosening in front of her, step by step, because she has made them feel sorry for her.
-Composition: Aoy's back and her red qipao in the left foreground; the old woman's back and her straw hat in the right foreground; the security chief and the four guards spread across the middle of the frame between and beyond the two of them, with gaps between them, the two outermost farther away; the sunlit glass front of the building behind them.
+Composition: Aoy three-quarter from behind in the left foreground, her red qipao and the side of her face; the old woman three-quarter from behind just beyond her on the right, her straw hat and the side of her face; the security chief and the four guards spread across the middle of the frame beyond the two of them, with gaps between them, the two outermost farther away; the sunlit glass front of the building behind them.
 Light: the low sun through the glass behind the guards lights them from behind, rims their shoulders and lays long golden stripes on the marble toward Aoy.
 Sound: the quiet of the lobby; the soft scuff of shoes on marble as each man steps back.
 
 THE LAST FRAME
-Over their backs: Aoy in the left foreground, her palms pressed together in a wai; the old woman in the right foreground, the staff in her right hand. The security chief and the four guards spread in a loose curve beyond them, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
+Aoy three-quarter from behind in the left foreground, her palms pressed together in a wai; the old woman three-quarter from behind just beyond her on the right, the staff in her right hand. The security chief and the four guards spread in a loose curve beyond them, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "ปล่อยหนูไปเถอะ ให้หนูได้ไปหาลุงของหนูนะ ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
@@ -96,3 +96,13 @@ DIALOGUE, IN THIS ORDER
 - user *"มีนุชด้วยใช่มั้ย?ทั้ง 2 คัท"* · *"นุชต้องอยู่ขวาเฟรมสิ เพราะเป็นมุมกลับของคัทแรก"* → ช็อต 2 เพิ่มยายเป็นฉากหน้าขวา หันหลังให้กล้อง อลิซฉากหน้าซ้าย · ช็อต 1 ระบุยายอยู่หลังอลิซ **ทางซ้าย** (ขอบซ้ายเฟรม แบบ V2) ให้มุมกลับสลับข้างถูก · WHERE แยกบรรทัดช็อต 1 / ช็อต 2 · กล้องช็อต 2 อยู่ระหว่างไหล่สองคน
 - user แนบเฟรมช็อต 5 V2 (อลิซกลางเฟรม ยายหลังอลิซทางซ้าย หลัง รปภ. สองคนเบลอขอบซ้าย/ขวา) → คอมโพสช็อต 1 เปลี่ยนตามเฟรมนี้: กล้องอยู่ระหว่างไหล่ รปภ. สองคน อลิซกลางเฟรมหันเข้ากล้อง ยายหลังอลิซทางซ้าย (เดิมเขียนอลิซ 1/3 ซ้าย หันขวา) · มุมกลับช็อต 2 ยายขวาเฟรม สอดคล้อง
 - ขอราคาใหม่ (ยายขวาเฟรมช็อต 2 + คอมโพสช็อต 1 ตามเฟรม V2) quote `a2d93888` **106.0 พอยต์** · หมดอายุ 2026-11-20 12:08 UTC · idempotency `sb03-7i-take1-v2frame-20261120` · รอ "ยิง"
+- user *"ย้ายกล้องมาเยื้องซ้ายของ อลิซ+นุช ดีกว่า จะได้ไม่เป็นหลังเต็มๆ"* → กล้องช็อต 2 จากระหว่างไหล่ → หลังสองคนเยื้องซ้าย เห็นสองคนสามส่วนสี่จากด้านหลัง เห็นข้างหน้า · อลิซซ้ายใกล้กล้อง ยายขวาถัดไป
+- ขอราคาใหม่ (กล้องช็อต 2 เยื้องซ้าย) quote `f861be15` **106.0 พอยต์** · หมดอายุ 2026-11-20 12:14 UTC · idempotency `sb03-7i-take1-leftangle-20261120` · รอ "ยิง"
+- user *"เขียนพรอมป์ภาพคัท 2 แล้วขอราคามา"* → ภาพเฟรมเปิดช็อต 2 · Seedream 5.5 · Workspace Gen · 16:9 2K · เรฟ 8: X01 · อลิซ 3Q · อลิซ CU · ยาย CU · ยาย FS · ไม้ · หัวหน้า · รปภ. (อลิซ FS `de7e4e99` ไฟล์อยู่อีกบัญชี ขึ้น asset_not_authorized → ตัด เขียนชุดเป็นคำ) · quote `72a26adb` **2.4 พอยต์** · หมดอายุ 2026-11-20 12:15 UTC · idempotency `ep03-sb03-7i-shot2-frame-sd55-b-20261120` · รอ "ยิง"
+- ภาพเฟรมช็อต 2 ยิงแล้ว (user "ยิง") · run `d9f1bd9e` · 2.4 พอยต์ · `EP03/SB03-7i_shot2_frame_sd55_v1.png` · รอ user ดู
+- ภาพเฟรมช็อต 2 v1 ✗ user *"ใช้ไม่ได้ อันนี้มันเยื้องขวาโว้ย ดูมุมเป็นมั้ย แล้ว อลิซดันไปยืนหลังนุช พวก รปภ ก็ยืนกันเป็นหน้ากระดานอีกแล้ว แถม ลำดับก็ผิด คนซ้ายสุดดันเป็น หัวหน้า รปภ แล้ว2 คนที่ยืนติดกับ หัวหน้า ก็ต้องเป็น 2 คนนี้"* (แนบภาพ รปภ.หัวโล้น + รปภ.ผมเถิกสูงวัย) · *"2 คนนี้คือคนที่ยืนหน้าอลิซในคัทแรก ที่เห็นแค่ไหล่ 2 คนซ้ายขวา"*
+  - หน้าตาจากชีท: หัวหน้า = หนวด ผมดำแสกข้าง (`SG 02`) · รปภ. ใน `SG 01`: ตัวใหญ่ผมเกรียน · หนุ่มผมดำเรียบ · หัวโล้น · สูงวัยผมเถิก · หนุ่มผมดำสั้น
+  - ภาพ v2: กล้องหลังสองคนเยื้องซ้าย เห็นหลังหัว/ไหล่เป็นหลัก แก้มซ้ายอลิซนิดเดียว · อลิซ-ยายยืนเคียงไหล่ ระยะเท่ากัน อลิซซ้าย ยายขวา · ใกล้อลิซสุด = หัวโล้น (ซ้าย) + ผมเถิก (ขวา) ห่างหนึ่งก้าว · หัวหน้าอยู่ช่องระหว่างสองคนนั้น ถอยครึ่งก้าว · หัวท้าย ตัวใหญ่ผมเกรียน (ซ้าย) + หนุ่มผมดำ (ขวา) ถอยอีกก้าว กางออก · ระยะห่างกันราวช่วงแขน · เรฟเพิ่มภาพ v1 (ถือแค่ล็อบบี้ แสง หน้าตา)
+  - ⚠️ หัวโล้นซ้าย/ผมเถิกขวา = เดาตามลำดับในภาพที่ user แนบ (หัวโล้นซ้าย ผมเถิกขวา) · ถาม user
+  - quote `d3bda5f5` **2.6 พอยต์** · หมดอายุ 2026-11-20 12:24 UTC · idempotency `ep03-sb03-7i-shot2-frame-sd55-v2b-20261120` · รอ "ยิง"
+- ภาพเฟรมช็อต 2 v2 ยิงแล้ว (user "คัท 1 เห็นแค่ไหล่ไม่เป็นไร ยิง") · run `bc30ff56` · 2.6 พอยต์ · `EP03/SB03-7i_shot2_frame_sd55_v2.png` · รอ user ดู
