@@ -137,3 +137,4 @@ DIALOGUE, IN THIS ORDER
   - ด่าน: A8 *without thinking … not showing off* → *out of pure habit; it is simply how he sits* · A20 *at the bottom of the frame* → *low in the picture*
 - เปิดช็อต `1571d0e4` · roles 11 ภาพ + 1 เสียง `valid: true` · อัปพรอมป์ · ราคา 158.9 · quote `bbb62633` หมดอายุ 2026-11-20 14:32 UTC · key `sb03-27-take1-20261120` · รอ "ยิง"
 - ยิงเทค 1 2026-11-20 14:23 UTC · 158.9 · run `bd0bc498-f8b6-43f4-8d72-f634c0a69390`
+- เทค 1 เสร็จ · asset `8ea6d1a1` · 18.04 วิ · รอ user ดู
