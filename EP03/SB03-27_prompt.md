@@ -147,3 +147,4 @@ DIALOGUE, IN THIS ORDER
   - ช็อต 4: *shoots up and grips … tight* → *puts … up on the handle … and holds it* · อลิซ *nearly laughs out loud* → *has to hold in a laugh* · *very small and real* · เสียง *clunks / breathes out hard* → *soft click / held-in breath*
   - ช็อต 6 (ตามบท *"แจ็คเปิดประตูหน้าเตรียมให้อลิซไปนั่งข้างๆคนขับ"*): ประตูหน้าข้างคนขับ · แจ็คยืนข้างนอก ชะโงกเข้ามาเหนือเบาะหน้าที่ว่าง หันมาทางเบาะหลัง · กล้องมองผ่านพนักเบาะหน้าไปที่ประตูหน้า · *the rear doors shut* · WHERE เติม *Both rear doors stay shut once Aoy is in.*
 - เทค 2: อัปพรอมป์ · ราคา 158.9 · quote `09e6aa32` หมดอายุ 2026-11-20 14:49 UTC · key `sb03-27-take2-20261120` · รอ "ยิง"
+- ยิงเทค 2 2026-11-20 14:40 UTC · 158.9 · run `8c3bf5fc-ef15-43b0-878e-306b1f6461d0`
