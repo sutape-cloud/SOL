@@ -208,3 +208,4 @@ DIALOGUE, IN THIS ORDER
   - A8: SCENE *not a girl who panics for long* → *her panic is short* · *without thinking* → *on instinct*
   - quote `2517663a` (พรอมป์เดิม) ไม่ใช้ · พรอมป์เทค 2 อัปขึ้น Fortal แล้ว · `check_prompt.sh` ผ่าน · quote `d853594e` **247.2 พอยต์** · หมดอายุ 2026-11-20 11:02 UTC · idempotency `sb03-21-take2b-20261120` · รอ "ยิง"
 - เทค 2 ยิง 2026-11-20 — run `85748dbe-72b7-4558-9646-f0741087b701` · quote `d853594e` · 28 วิ · เรฟ 11 + เสียง 3 · 247.2 พอยต์ · user สั่ง "ยิง"
+- เทค 2 เสร็จ 2026-11-20 — asset `6d288777-0e0c-5f31-b42c-b88c696183fb` · 28.04 วิ · รอ user ดู
