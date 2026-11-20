@@ -192,3 +192,4 @@ DIALOGUE, IN THIS ORDER
 - เปิดบ็อก `3570e062-4107-487d-a233-e3e7cda1f605` (บท 03 · ช็อต 21) · ผูกเรฟ 11 + เสียง 3 ตามลำดับ user · roles valid · `check_prompt.sh` ผ่าน · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 28 วิ · full · manual · quote `3a99c70d` **247.2 พอยต์** · หมดอายุ 2026-11-20 10:40 UTC · idempotency `sb03-21-take1-20261120` · รอ "ยิง"
 - เทค 1 ยิง 2026-11-20 — run `bdd91417-c8d7-43ea-b6ce-08dadddecfdb` · quote `3a99c70d` · 28 วิ · เรฟ 11 + เสียง 3 · 247.2 พอยต์ · user สั่ง "ยิง"
+- เทค 1 เสร็จ 2026-11-20 — asset `05ae27bd-c1a7-5c0c-9b9f-0f5d4fe86969` · 28.04 วิ · รอ user ดู
