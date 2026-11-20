@@ -163,3 +163,4 @@ DIALOGUE, IN THIS ORDER
 - เปิดช็อต `bc43a138` · ผูกเรฟที่มีแล้ว 9 ใบ + เสียง 3 · ⚠️ ยังไม่ตั้ง roles / ยังไม่อัปพรอมป์ / ยังไม่ quote — รอ user อัป *"วินกลับเสื้อ"* เข้า Mix Stage (มีแค่ในแชต ไม่มีใน Mix Stage และ repo)
 - user ส่งภาพวินกลับเสื้อ *"นี่ไง"* → แปลง webp→png `EP03/WIN_whitejkt_FS_beanie.png` (937×1678) → `prepare_reference_upload` + PUT + finalize asset `c1fdd962` → Mix Stage `WIN_whitejkt_FS_beanie` `b16a326b-4c88-4ff9-918f-dd02b0bef797` (wardrobe) · บรรทัด @Image7 เติม *THE BLUE PATCH … HIS FACE COMES FROM @Image6* + หมวก · ดอกไม้บนหมวกในภาพนี้ก็เล็ก (เหมือน `a2167781`)
 - ตั้ง roles 10 ภาพ + 3 เสียง `valid: true` · อัปพรอมป์เข้าช็อต `bc43a138` · ราคา 211.9 (exact · 24 วิ 720p) · quote `4a6013dc` หมดอายุ 2026-11-20 12:39 UTC · key `sb03-24-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 12:30 UTC · 211.9 · run `963895da-623d-44f5-a112-15af8b2aa708`
