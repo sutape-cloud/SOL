@@ -25,8 +25,9 @@ ACTIVE REFERENCES
 @Image8 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
 @Image9 — SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
 @Image10 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
+@Image11 — WHERE EVERYONE STANDS IN SHOT 2. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE OF SHOT 2 AND FOR WHERE AOY, THE OLD WOMAN AND THE FIVE MEN STAND. AOY'S CLOTHES COME ONLY FROM @Image8.
 @Audio1 — AOY'S VOICE, HER LINE, IN SHOT 1.
-@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries the security chief. Four of the guards in @Image10 are in the lobby. The whole video takes place in the lobby in @Image1 and @Image2.
+@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries the security chief. Four of the guards in @Image10 are in the lobby. @Image11 carries the camera angle and the standing positions in Shot 2. The whole video takes place in the lobby in @Image1 and @Image2.
 
 WHAT THEY WEAR, AS IN @Image4, @Image8, @Image9 AND @Image10
 - Nuch in disguise: a wide straw hat wrapped with a red cloth, short curly grey hair, tea-tinted glasses, a red polo shirt, a red and white checked cloth over her neck, a wooden pendant, a woven shoulder bag, a striped sarong, flip-flops. The bamboo staff in her right hand, the phone hanging at her side in her left hand.
@@ -36,8 +37,8 @@ WHAT THEY WEAR, AS IN @Image4, @Image8, @Image9 AND @Image10
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon: polished white marble floor and round marble pillars, the tall glass wall with the gold-framed revolving doors, the low golden sun coming in.
 - IN SHOT 1: THE CAMERA IS BETWEEN TWO GUARDS, BEHIND THEIR SHOULDERS. AOY IS IN THE MIDDLE OF FRAME, FACING THE CAMERA; THE OLD WOMAN IS JUST BEHIND AOY ON THE LEFT OF FRAME.
-- IN SHOT 2, THE REVERSE ANGLE: THE CAMERA STANDS BEHIND AOY AND THE OLD WOMAN AND OFF TO THEIR LEFT, SO THE TWO OF THEM ARE SEEN THREE-QUARTER FROM BEHIND, THE SIDE OF THEIR FACES SHOWING. AOY IS ON THE LEFT OF FRAME, NEARER THE CAMERA; THE OLD WOMAN IS ON THE RIGHT OF FRAME, JUST BEYOND HER. THE SECURITY CHIEF AND THE FOUR GUARDS ARE BEYOND THEM, FACING THE TWO OF THEM.
-- The security chief and the four guards stand in front of Aoy in a loose, uneven curve of five men, with a small gap between each man and the next, each at his own distance from her. The security chief is the second man from the left end. The man at the far left end and the man at the far right end stand a little farther away than the three in the middle.
+- IN SHOT 2, AS IN @Image11: A LONG SHOT. AOY AND THE OLD WOMAN STAND SIDE BY SIDE IN THE RIGHT THIRD OF THE FRAME, FACING LEFT, AOY ON THE LEFT OF THE PAIR, THE OLD WOMAN AT THE RIGHT EDGE. THE SECURITY CHIEF AND THE FOUR GUARDS STAND IN THE LEFT AND MIDDLE OF THE FRAME, FACING RIGHT, TOWARD THE TWO OF THEM.
+- The security chief and the four guards stand in front of Aoy, each at his own distance from her, with a gap between each man and the next, as in @Image11.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–8.8 s — PLEASE LET ME GO
@@ -54,17 +55,17 @@ Light: the sun from the glass behind her rims her hair and her shoulders.
 
 Shot 2 — 8.8–12.0 s — THEY STEP BACK · the closing shot
 Picture, in this order:
-- 1. 8.8–9.5 s: Aoy stands in the left foreground, seen three-quarter from behind, the side of her face and her red eyes showing, her palms still pressed together in a wai, bowing her head to the guards. The old woman stands just beyond her on the right, seen three-quarter from behind, the side of her face under the straw hat showing, the staff upright in her right hand, the phone hanging at her side. Beyond the two of them, the security chief and the four guards stand in their loose curve, looking at Aoy, the security chief second from the left.
-- 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the one at the far right end, then another, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
+- 1. 8.8–9.5 s: As in @Image11: Aoy and the old woman stand side by side on the right of frame, facing left; Aoy's palms are still pressed together in a wai, bowing her head to the guards; the old woman holds the staff upright in her right hand, the phone hanging at her side. On the left and in the middle of frame, the security chief and the four guards stand where they are in @Image11, looking at Aoy.
+- 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the others one at a time, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
 - 3. All five men keep their eyes on Aoy the whole time.
-Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and the old woman and off to their left, looking past them at the guards, toward the glass front of the building in @Image2.
-Meaning: the audience sees what Aoy sees: the ring of men loosening in front of her, step by step, because she has made them feel sorry for her.
-Composition: Aoy three-quarter from behind in the left foreground, her red qipao and the side of her face; the old woman three-quarter from behind just beyond her on the right, her straw hat and the side of her face; the security chief and the four guards spread across the middle of the frame beyond the two of them, with gaps between them, the two outermost farther away; the sunlit glass front of the building behind them.
+Camera: LS, 150 cm high, eye level, locked-off, the same camera angle as @Image11, with the glass front of the building in @Image2 behind the men.
+Meaning: from across the lobby, the audience sees the ring of men loosening in front of Aoy, step by step, because she has made them feel sorry for her.
+Composition: as in @Image11: everyone full body and small in the frame, the high lobby around them; Aoy and the old woman on the right; the security chief and the four guards on the left and in the middle, with gaps between them; the sunlit glass front of the building behind them.
 Light: the low sun through the glass behind the guards lights them from behind, rims their shoulders and lays long golden stripes on the marble toward Aoy.
 Sound: the quiet of the lobby; the soft scuff of shoes on marble as each man steps back.
 
 THE LAST FRAME
-Aoy three-quarter from behind in the left foreground, her palms pressed together in a wai; the old woman three-quarter from behind just beyond her on the right, the staff in her right hand. The security chief and the four guards spread in a loose curve beyond them, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
+The camera angle of @Image11. Aoy and the old woman side by side on the right of frame, Aoy's palms pressed together in a wai, the staff in the old woman's right hand. The security chief and the four guards on the left and in the middle of frame, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "ปล่อยหนูไปเถอะ ให้หนูได้ไปหาลุงของหนูนะ ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
@@ -117,3 +118,6 @@ DIALOGUE, IN THIS ORDER
 - บทเรียน: บอกตำแหน่งกล้องเป็นคำ ("behind and to their left") ไม่พอ ต้องบอก **ผลในเฟรม**: กล้องหลัง-ซ้าย → สองคนอยู่ **ขวาเฟรม** เห็นหลังกับด้านซ้าย หันหน้าไปซ้ายเฟรม · รปภ. อยู่ซ้าย-กลางเฟรม หันขวา
 - ภาพ v5: สองคน 1/3 ขวาฉากหน้า อลิซใกล้กล้อง (ซ้ายของคู่) ยายขอบขวา · รปภ. ซ้าย-กลาง · หัวโล้นสลับขึ้นมาหน้า คู่กับผมเถิก หัวหน้าถอยครึ่งก้าวในช่องกลาง · หัวท้าย ตัวใหญ่ผมเกรียน + หนุ่มผมดำ · LS · quote `ca445ddc` **2.0 พอยต์** · หมดอายุ 2026-11-20 13:11 UTC · idempotency `ep03-sb03-7i-shot2-frame-sd55-v5-20261120` · รอ "ยิง"
 - ภาพเฟรมช็อต 2 v5 ยิงแล้ว (user "ยิง") · run `c3d0d79b` · 2.0 พอยต์ · `EP03/SB03-7i_shot2_frame_sd55_v5.png` · รอ user ดู
+- user *"ใช้ภาพนี้ ทำวิดีโอต่อ"* · *"ชุดอลิซไม่ใช่ชุดในเรฟอะ ส่งได้แต่ห้ามบอกว่าเป็นเฟรมแรก"* → ภาพ v5 อัปเข้าโปรเจกต์ asset `19d3b783` → Mix Stage `SB03-7i shot2 positions sd55 v5` `1dd3603f` · เป็น @Image11 ก่อนเสียง · บรรทัดเรฟ: ถือแค่มุมกล้องช็อต 2 + ตำแหน่งคนยืน · ชุดอลิซจาก @Image8 เท่านั้น · ไม่เรียกว่าเฟรมแรก
+- ช็อต 2 วิดีโอ: WS 35mm หลังเยื้องซ้าย → **LS มุมเดียวกับ @Image11** · อลิซ+ยายขวาเฟรมหันซ้าย · หัวหน้า+รปภ. ซ้าย-กลางหันขวา · ตำแหน่ง รปภ. อ้าง @Image11 แทนคำบรรยายโค้ง
+- roles: + 1dd3603f (@Image11) ก่อนเสียง · ขอราคา quote `d5c1b860` **106.0 พอยต์** · หมดอายุ 2026-11-20 13:23 UTC · idempotency `sb03-7i-take1-posref-20261120` · รอ "ยิง"
