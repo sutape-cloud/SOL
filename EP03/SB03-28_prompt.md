@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy put her "uncle" Win, in his jacket turned inside out and the housekeeper's pink knitted hat, into the back seat of Juk's car and sat down beside him, leaving the front passenger seat empty. Juk opened the front passenger door for Aoy, found the seat empty, leaned in and called her to come and sit in front. The last video ended there: Juk leaning in at the open front passenger door, his hand on the empty front passenger seat; Aoy in the back on the right side, behind the driver's seat; Win in the back on the left side, his hand on the grab handle above his window.
 
 SCENE
-Aoy stays in the back: she has to look after her uncle. She plays the devoted niece, wiping him clean with a tissue, so close that it is almost sweet. Win, caught off guard by how close she is, sneaks a moment with her before facing front again. Then he plays his part too well: blank, he orders Juk like a taxi driver to take him to Siam, fast. Juk is speechless. Aoy, straight-faced and polite, explains to Juk that her uncle thinks he is a taxi driver. Juk's smile is gone; he shuts the door, walks round to the driver's seat on the right and drives off, fuming. In the back, Aoy and Win share one quick look and hold in their smiles.
+Aoy stays in the back: she has to look after her uncle. She plays the devoted niece, wiping him clean with a tissue, so close that it is almost sweet. Win, caught off guard by how close she is, sneaks a moment with her before facing front again. Then he plays his part too well: blank, he orders Juk like a taxi driver to take him to Siam, fast. Juk is speechless. Aoy, straight-faced, makes a small polite wai to Juk and explains that her uncle thinks he is a taxi driver. Juk's smile is gone; he shuts the door, walks round to the driver's seat on the right and drives off, fuming. In the back, Aoy and Win share one quick look and hold in their smiles.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. Straight-faced and dutiful on the outside, holding in a laugh inside.
@@ -81,15 +81,15 @@ Composition: Juk's face in the middle of the frame, framed by the doorway; the b
 
 Shot 4 — 11.0–14.0 s — HE THINKS YOU'RE A TAXI · Aoy
 Picture, in this order:
-- 1. 11.0–11.4 s: Aoy turns to Juk, straight-faced and polite, her hands resting on the bag on her lap.
+- 1. 11.0–11.4 s: Aoy turns to Juk and puts her palms together in a small, polite wai, straight-faced.
 - 2. 11.4–13.5 s: She says @Audio3.
   - Aoy: "แกนึกว่าพี่แจ็คเป็นแท็กซี่ค่ะ"
   - Emotion from the script: 一本正经，强憋笑意甩包袱.
-  - Performance: a polite, matter-of-fact explanation on her uncle's behalf; the laugh almost escapes at the end, but her face stays straight.
-- 3. 13.5–14.0 s: She holds her straight face.
+  - Performance: a polite apology on her uncle's behalf, small and matter-of-fact; the laugh almost escapes at the end, but her face stays straight.
+- 3. 13.5–14.0 s: She lowers her hands, straight-faced.
 Camera: MCU, 105 cm high, eye level, 50mm lens, locked-off; from the open front passenger door where Juk is leaning, looking toward the right side of the back seat.
-Meaning: the audience hears it from Juk's place and feels the joke land in their face along with him.
-Composition: Aoy just left of centre; Win's shoulder and pink hat soft at the right edge, close to the camera; through the window behind Aoy, the glass front wall of the building.
+Meaning: the audience receives the wai from Juk's place and feels the joke land in their face along with him.
+Composition: Aoy just left of centre, palms together; Win's shoulder and pink hat soft at the right edge, close to the camera; through the window behind Aoy, the glass front wall of the building.
 
 Shot 5 — 14.0–16.0 s — THE DOOR · the two of them
 Picture, in this order:
@@ -173,3 +173,5 @@ DIALOGUE, IN THIS ORDER
   - ตำแหน่งแจ็ค: *Juk stays outside the car until Shot 6 · The front passenger seat stays empty for the whole video* · ช็อต 6 ระบุ *the right side of the car … the driver's door beside the steering wheel … behind the steering wheel on the right* + กล้อง *inside the car, against the rear window* · ช็อต 7–8 + เฟรมท้าย ระบุ *in the driver's seat, behind the steering wheel* + เบาะหน้าซ้ายว่าง
   - รีแอคชั่น: GLOBAL *Every reaction is small and real* · ช็อต 3 *a small, real pause* · ช็อต 5 *slams → shuts firmly* · ตัด *give a small start* → *stay still* · ช็อต 6 *stomps / yanking / drops / slams* → *walks briskly / straightening / sits down / shuts* · ช็อต 7 *shoves it down hard* → *a sharp push* · ช็อต 8 *small jolt / sway back* → *pulls away / settle back*
 - เทค 2: อัปพรอมป์ · ราคา 211.9 · quote `d30a183a` หมดอายุ 2026-11-20 16:41 UTC · key `sb03-28-take2-20261120` · รอ "ยิง"
+- เทค 2 แก้เพิ่ม — user *"ถ้าในบทมี ก็ใส่มา ไหว้อะ"* → ใส่ไหว้กลับ (บท *"(พนมมือไหว้ หน้าตาย กับแจ็ค)"*) แบบเล็ก *a small, polite wai* · จบช็อตลดมือลง · ส่วนอื่นของเทค 2 คงเดิม
+- เทค 2 (ใส่ไหว้กลับ): อัปพรอมป์ · ราคา 211.9 · quote `f49ed9a1` หมดอายุ 2026-11-20 16:45 UTC · key `sb03-28-take2b-20261120` · รอ "ยิง"
