@@ -162,3 +162,5 @@ DIALOGUE, IN THIS ORDER
   - ด่าน: A8 *Win says nothing* → *Win stays quiet* · *cannot make him fit* → *is puzzled by him* · *does not look old* → *looks too young* · *does not believe it, but he has no proof yet* → *doubts it and is still looking for proof* · *without a word* → *keeps it to herself* · A4 *drops his attention to the floor* → *thrown for a split second* · *flicks a look at Juk* → *registers it* · *He looks at her* → *He stays turned to her* · *his attention on Win* → *turned toward Win* · สำนวน *as if everyone already knows* → *like something everyone already knows*
   - A4 เฟรมท้าย *turned to look at Aoy* → *turned toward Aoy*
 - เปิดช็อต `64a847db` · roles 10 ภาพ + 4 เสียง `valid: true` · อัปพรอมป์ · ราคา 229.6 · quote `f4099695` หมดอายุ 2026-11-20 13:35 UTC · key `sb03-25-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 13:29 UTC · 229.6 · run `68dd8521-4df4-4844-bcb4-4701cb609a5d`
+- เทค 1 เสร็จ · asset `b87209e7` · 26.04 วิ · รอ user ดู
