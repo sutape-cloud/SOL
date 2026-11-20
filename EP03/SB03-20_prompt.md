@@ -165,3 +165,4 @@ DIALOGUE, IN THIS ORDER
   - ไม่ฝุ่น/หมอก/ตัวหนังสือ/zoom/slow/ดนตรี/แก้มแดง → ประโยคบอกเล่าใน GLOBAL · 📵 หน้ากระดาษ + จอมือถือ → WHERE EVERYONE IS
 - เปิดบ็อก `7889e5a7-d138-4184-b636-d05c0066251c` (บท 03 · ช็อต 20) · ผูกเรฟ 8 + เสียง 4 ตามลำดับ user · roles valid · `check_prompt.sh` ผ่าน · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · full · manual · quote `06a3c5ba` **211.9 พอยต์** · หมดอายุ 2026-11-20 10:19 UTC · idempotency `sb03-20-take1-20261120` · รอ "ยิง"
+- เทค 1 ยิง 2026-11-20 — run `4e572a08-3a88-4c45-8d43-bfe480db48eb` · quote `06a3c5ba` · 24 วิ · เรฟ 8 + เสียง 4 · 211.9 พอยต์ · user สั่ง "ยิง"
