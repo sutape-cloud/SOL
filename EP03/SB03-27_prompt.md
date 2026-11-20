@@ -89,22 +89,22 @@ Meaning: the audience sees the two of them already settled in the back while Juk
 Composition: the backs of the two heads as dark shapes across the lower part of the frame; both front seats empty, the steering wheel on the right; the bright windscreen as the frame Juk walks across.
 Light: the windscreen bright with morning sun; the cabin darker; the orange strip lights glowing along the door panels.
 
-Shot 6 — 14.0–18.0 s — COME SIT IN FRONT
+Shot 6 — 14.0–18.0 s — COME SIT IN FRONT · from behind the two of them
 Picture, in this order:
-- 1. 14.0–14.8 s: The front passenger door, beside the empty front seat, opens, and Juk, standing outside it, opens his hand toward the empty front seat, like a man inviting a princess.
-- 2. 14.8–15.4 s: The seat is empty; his smile stops.
-- 3. 15.4–16.4 s: He bends and leans his head in through the front door, above the empty front seat, one hand on the edge of the roof, and turns toward the back seat: he sees the two of them sitting there.
+- 1. 14.0–14.8 s: From behind the back seat, looking forward past the backs of Win's and Aoy's heads: on the left of frame, the front passenger door, beside the empty front passenger seat, opens from outside. Juk stands in the open doorway and opens his hand toward the empty front seat, like a man inviting a princess.
+- 2. 14.8–15.4 s: The front seat is empty; his smile stops.
+- 3. 15.4–16.4 s: He bends and leans his head in through the front door, above the empty front seat, one hand on the edge of the roof, and turns toward the back: he sees the two of them sitting there.
 - 4. 16.4–18.0 s: His smile comes back; he beckons Aoy, pats the empty front seat lightly, and says @Audio1.
   - Juk: "ที่รัก มานั่งหน้าสิ"
   - Emotion from the script: 不甘示弱，招手呼唤.
   - Performance: refusing to lose; a sweet smile although he has just been left standing.
-Camera: MCU, 105 cm high, eye level, 50mm lens, locked-off; in the back seat between the two of them, looking forward past the back of the front passenger seat toward the open front left door.
-Meaning: the audience sees Juk from where the two of them sit; his face comes into the door frame like an intruder in their space.
-Composition: Win's shoulder and pink hat soft at the left edge, close to the camera; the back of the empty front passenger seat between the camera and Juk; beyond it, the open front door, Juk's face leaning in above the front seat; behind Juk, the bright street and the hedge; the rear doors shut.
+Camera: MS, 110 cm high, eye level, 35mm lens, locked-off; behind the middle of the back seat, looking forward through the car, as in @Image2.
+Meaning: the audience sits behind the two of them; Juk's invitation comes from the front door, with the empty front seat between him and them.
+Composition: the backs of Win's pink hat on the left and Aoy's long black hair on the right, close to the camera across the lower part of the picture; beyond them, the two empty front seats, the steering wheel on the right; the open front passenger door on the left of frame, Juk's face leaning in above the empty front passenger seat, turned back toward them; the bright street behind him; the rear doors shut.
 Light: the sun behind Juk makes his white suit bright; his face takes the soft light inside the car.
 
 THE LAST FRAME
-Juk leans into the frame of the open front passenger door, one hand on the edge of the roof, the other on the empty front seat. Aoy sits in the back on the right side of the car, behind the driver's seat, close to the middle. Win sits in the back on the left side, his hand on the grab handle above the window, staring straight ahead.
+Seen from behind the back seat: Juk leans in through the open front passenger door on the left of frame, one hand on the edge of the roof, the other on the empty front seat, turned back toward the two of them. Aoy sits in the back on the right side of the car, behind the driver's seat, close to the middle. Win sits in the back on the left side, his hand on the grab handle above the window, staring straight ahead.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 6, @Audio1, JUK: "ที่รัก มานั่งหน้าสิ"
@@ -149,3 +149,6 @@ DIALOGUE, IN THIS ORDER
 - เทค 2: อัปพรอมป์ · ราคา 158.9 · quote `09e6aa32` หมดอายุ 2026-11-20 14:49 UTC · key `sb03-27-take2-20261120` · รอ "ยิง"
 - ยิงเทค 2 2026-11-20 14:40 UTC · 158.9 · run `8c3bf5fc-ef15-43b0-878e-306b1f6461d0`
 - เทค 2 เสร็จ · asset `c2720fe9` · 18.04 วิ · รอ user ดู
+- เทค 3 แก้ (2026-11-20) — user *"แก้แค่ฉาก แจค เปิดประตู ตอนนี้มันยังเปิดประตู เจออลิชอยู่เลย มันต้องเปิดเบาะหน้า ปะหรือยังไง หรือใช้มุม pov ที่เห็นหลัง อลิชกับวิน แล้ว แจคโผล่จากหน้าประตูเรียก อะ benz_front_v3"*
+  - แก้เฉพาะช็อต 6 + เฟรมท้าย · กล้องย้ายไปหลังเบาะหลังกลางรถ มองไปข้างหน้าแบบ @Image2 (benz_front_v3) · ท้ายทอยวิน (หมวกชมพู) ซ้าย อลิซขวา ใกล้กล้อง · ประตูหน้าข้างคนขับเปิดที่ซ้ายเฟรม (ฝั่งซ้ายของรถ = ซ้ายเฟรมเมื่อมองไปข้างหน้า) · แจ็คชะโงกเข้ามาเหนือเบาะหน้าที่ว่าง หันกลับมาทางเบาะหลัง · ช็อตอื่นคงเดิมคำต่อคำ
+- เทค 3: อัปพรอมป์ · ราคา 158.9 · quote `8db45c13` หมดอายุ 2026-11-20 14:59 UTC · key `sb03-27-take3-20261120` · รอ "ยิง"
