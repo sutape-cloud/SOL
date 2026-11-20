@@ -170,3 +170,4 @@ DIALOGUE, IN THIS ORDER
   - แฟ้ม *"ไม่เห็นตัวหนังสือ"* → *its cover plain*
   - ด่าน: A8 *does not believe* → *is sure … is made up* · *cannot find the words* → *lost for words* · *Without slowing down* → *Still walking* · *never stops* → *keeps going* · *with nothing to say* → *her hands up in the air* · *without turning to her* → *his back to her* · A1 *eyes closed* (BEFORE) → *carried away by her story* · *face in profile* / *across his eyes* → *in profile* / *across him* · A4 *glances back … at Aoy* → *turns back … to Aoy* · A13 *louder with every step* → *coming closer with every step* · สำนวน *as if …* ×4 → บอกตรง · A20 *in the foreground* → *close to the camera*
 - อัปพรอมป์เข้าช็อต `55cc0522` (`update_shot`) · ราคา 229.6 (exact · 26 วิ 720p) · quote `fe117429` หมดอายุ 2026-11-20 11:59 UTC · key `sb03-23-take1-20261120` · รอ "ยิง"
+- ยิงเทค 1 2026-11-20 11:51 UTC · 229.6 · run `24490e23-7163-4c43-9d43-711b8e90dbac`
