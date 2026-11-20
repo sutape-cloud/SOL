@@ -16,7 +16,7 @@ Her skin tone is natural, as in her character references, with her event makeup 
 
 ACTIVE REFERENCES
 @Image1 — THE LOBBY LOOKING TOWARD THE RECEPTION COUNTER IN FRONT OF THE WOODEN WALL WITH GOLD STRIPS, WITH THE BLUE-GREEN GLASS AND A ROUND PILLAR ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY IN SHOT 1.
-@Image2 — THE LOBBY SEEN FROM THE OTHER SIDE, WITH THE TALL WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE TALL WINDOWS AND THE FLOOR BEHIND THE GUARDS IN SHOT 2.
+@Image2 — THE LOBBY LOOKING TOWARD THE GLASS FRONT OF THE BUILDING, WITH THE LOW SUN COMING IN THROUGH THE TALL GLASS. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY BEHIND THE GUARDS IN SHOT 2.
 @Image3 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
 @Image4 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image3.
 @Image5 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
@@ -56,14 +56,14 @@ Picture, in this order:
 - 1. 8.8–9.5 s: Over Aoy's back: she stands in the left foreground, her back to the camera, her palms still pressed together in a wai, bowing her head to the guards. Beyond her, the security chief and the four guards stand in their loose curve, looking at her, the security chief second from the left.
 - 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the one at the far right end, then another, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
 - 3. All five men keep their eyes on Aoy the whole time.
-Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and a little to her left, over her shoulder, looking at the guards, with the tall windows of @Image2 behind them.
+Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and a little to her left, over her shoulder, looking at the guards, toward the glass front of the building in @Image2.
 Meaning: the audience sees what Aoy sees: the ring of men loosening in front of her, step by step, because she has made them feel sorry for her.
-Composition: Aoy's back and her red qipao in the left foreground; the security chief and the four guards spread across the middle and the right of frame, with gaps between them, the two outermost farther away; the tall windows and the sunlit marble floor behind them.
-Light: the low sun through the tall windows behind the guards lays long golden stripes on the marble and rims their shoulders.
+Composition: Aoy's back and her red qipao in the left foreground; the security chief and the four guards spread across the middle and the right of frame, with gaps between them, the two outermost farther away; the sunlit glass front of the building behind them.
+Light: the low sun through the glass behind the guards lights them from behind, rims their shoulders and lays long golden stripes on the marble toward Aoy.
 Sound: the quiet of the lobby; the soft scuff of shoes on marble as each man steps back.
 
 THE LAST FRAME
-Over Aoy's back, her palms pressed together in a wai, in the left foreground. The security chief and the four guards spread in a loose curve beyond her, each one step farther back than before, all looking at her. The tall sunlit windows behind them.
+Over Aoy's back, her palms pressed together in a wai, in the left foreground. The security chief and the four guards spread in a loose curve beyond her, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "ปล่อยหนูไปเถอะ ให้หนูได้ไปหาลุงของหนูนะ ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
@@ -90,3 +90,5 @@ DIALOGUE, IN THIS ORDER
 - ขอราคา insert · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · full · manual · audio true · output insert · quote `2ec22ef5` **106.0 พอยต์** · หมดอายุ 2026-11-20 11:55 UTC · idempotency `sb03-7i-take1-20261120` · รอ "ยิง"
 - user 2026-11-20 *"ในรูปมุมสูง หัวหน้าคือคนที่ยืนระหว่างแจ็คกับคนหัวโล้น"* → มุมบนเทค 2 มีชุดเข้ม 5 คน = **หัวหน้า รปภ. 1 + รปภ. 4** (ไม่ใช่ รปภ. 5) · ช็อต 2 = หัวหน้า + รปภ. 4 คน หัวหน้ายืนคนที่สองจากซ้าย (แจ็คที่เคยยืนซ้ายเขาไม่อยู่แล้ว) · เพิ่มเรฟหัวหน้า `4e5b84cc` เป็น @Image9 · รปภ. เลื่อนเป็น @Image10 · ตัด quote `2ec22ef5`
 - roles insert ใหม่: + 4e5b84cc หัวหน้า (@Image9) ก่อน 17b738cc รปภ. (@Image10) · ขอราคาใหม่ quote `a8261ef2` **106.0 พอยต์** · หมดอายุ 2026-11-20 11:59 UTC · idempotency `sb03-7i-take1-chief-20261120` · รอ "ยิง"
+- user ถาม *"bg คัท 2 คือรูปไหน?"* → X05 (ด้าน D มุมแจ็ค มีเคาน์เตอร์) ไม่ตรง · user *"เลือก 2"* (เปลี่ยนเป็นเรฟที่เห็นประตู/ผนังกระจกจากด้านใน) → **X01 `9380eb89`** (ด้าน A มองไปทางหน้าตึก แดดย้อน ตาม `SCENE_3-1_RULES.md`) · ช็อต 5 ของ V2 ถ่ายจากฝั่ง รปภ. เห็น X04 ข้างหลังอลิซ → มุมกลับหลังอลิซ = ด้าน A · ไม่ใช้ X06 (ด้าน C ประตูฟ้าเขียว อยู่ขวาของเฟรม X04 ไม่ใช่หลัง รปภ.)
+- roles: be82b08e (X05) → 9380eb89 (X01) ที่ตำแหน่ง @Image2 · ขอราคาใหม่ quote `87fe2893` **106.0 พอยต์** · หมดอายุ 2026-11-20 12:04 UTC · idempotency `sb03-7i-take1-x01-20261120` · รอ "ยิง"
