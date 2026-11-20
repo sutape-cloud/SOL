@@ -164,3 +164,4 @@ DIALOGUE, IN THIS ORDER
 - เปิดบ็อก `909ab159-a03c-4500-80fc-b2105fe91b08` (บท 03 · ช็อต 19) · ผูกเรฟ 9 + เสียง 1 ตามลำดับ user · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
 - ขอราคาเทค 1 · Seedance 2.5 · references · 16:9 · 720p · 27 วิ · full · manual · quote `de9a1188` **238.4 พอยต์** · หมดอายุ 2026-11-20 09:55 UTC · idempotency `sb03-19-take1-20261120` · รอ "ยิง"
 - เทค 1 ยิง 2026-11-20 — run `b4a3e7c4-a1cc-48d9-9a15-78d2ce4a2c2b` · quote `de9a1188` · 27 วิ · เรฟ 9 + เสียง 1 · 238.4 พอยต์ · user สั่ง "ยิง"
+- เทค 1 เสร็จ 2026-11-20 — asset `e30f20f8-cb12-55fa-8947-2676e63fb7ff` · 27.04 วิ · รอ user ดู
