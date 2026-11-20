@@ -192,3 +192,4 @@ DIALOGUE, IN THIS ORDER
   - ด่าน A20 *in the foreground* ×2 → *close to the camera*
 - เทค 3: อัปพรอมป์เข้าช็อต `bc43a138` · ราคา 211.9 · quote `eb4f6228` หมดอายุ 2026-11-20 13:14 UTC · key `sb03-24-take3-20261120` · รอ "ยิง"
 - ยิงเทค 3 2026-11-20 13:06 UTC · 211.9 · run `4be34122-4905-45b7-a98f-d7d1f860e15e`
+- เทค 3 เสร็จ · asset `80e30097` · 24.04 วิ · รอ user ดู
