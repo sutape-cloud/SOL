@@ -5,10 +5,10 @@ LIP SYNC
 Only Juk speaks, lip-synced to him. @Audio1 (Juk) plays exactly once, from 2.4 s; only its spoken words are used. Everything ends within 5 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. Aoy and her "uncle" Win climbed into the back seat of Juk's car together and sat down side by side, so that the front passenger seat Juk was keeping for Aoy is left empty. Both rear doors are shut. Juk walked round the front of the car to the front passenger door to open it for Aoy.
+All of this has already happened before the first frame. Aoy and her "uncle" Win climbed into the back seat of Juk's car together and sat down side by side, so that the front passenger seat Juk was keeping for Aoy is left empty. Juk walked round to the driver's door.
 
 SCENE
-Juk opens the front passenger door to invite Aoy to sit beside him, finds the front seat empty, sees her sitting in the back with her uncle, puts his smile back on and calls her to come and sit in front.
+Juk opens the driver's door, expecting Aoy in the front passenger seat beside him, finds that seat empty, sees her sitting in the back with her uncle, puts his smile back on and calls her to come and sit in front.
 
 ACTIVE REFERENCES
 @Image1 — THE INSIDE OF JUK'S CAR, SEEN FROM THE MIDDLE OF THE BACK SEAT, LOOKING FORWARD. THIS IS THE CAMERA POSITION FOR THIS VIDEO. THE VIEW OUTSIDE THE WINDOWS COMES FROM THIS VIDEO INSTEAD.
@@ -26,29 +26,29 @@ WHAT THEY WEAR
 - Juk: a white suit, a pale pink shirt, thin round gold-rimmed glasses.
 
 WHERE EVERYONE IS
-- Exactly three people: Win and Aoy in the back seat, and Juk outside the car at the front passenger door.
+- Exactly three people: Win and Aoy in the back seat, and Juk outside the car at the driver's door.
 - The camera sits in the middle of the back seat, between Win and Aoy, at their shoulder height, looking straight forward through the car, as in @Image1.
 - Win sits in the back seat on the left, right beside the camera: we see the back of his white jacket, his shoulder and his pink knitted hat up close, on the left of frame. His hand holds the grab handle above his window.
 - Aoy sits in the back seat on the right, right beside the camera: we see the back of her yellow top and her long black hair up close, on the right of frame.
 - In the middle of the frame, beyond them: the two front seats, both empty, their red leather backs and headrests bare; the dashboard; the steering wheel on the right; the windscreen.
-- The front passenger seat is the empty front seat on the left of frame. Its door, the front left door, is beyond that seat, out at the front of the car. Both rear doors, beside Win and beside Aoy, stay shut.
+- The driver's seat is the empty front seat on the right of frame, behind the steering wheel. The driver's door is the door right beside the steering wheel, out at the front of the car. The front passenger seat is the empty front seat on the left of frame.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–5.0 s — COME SIT IN FRONT
 Picture, in this order:
-- 1. 0.0–1.0 s: Out at the front of the car, the front left door, beyond the empty front passenger seat, opens from outside. Juk stands in that doorway, facing into the car, and opens his hand toward the empty front passenger seat, like a man inviting a princess.
-- 2. 1.0–1.6 s: The front seat is empty; his smile stops.
-- 3. 1.6–2.4 s: He bends and leans in through the front door above the empty front passenger seat, one hand on the edge of the roof, facing the camera, and sees Aoy and Win sitting in the back.
+- 1. 0.0–1.0 s: Out at the front of the car, the driver's door, right beside the steering wheel, opens from outside. Juk stands in that doorway, facing into the car, and opens his hand toward the empty front passenger seat, like a man inviting a princess.
+- 2. 1.0–1.6 s: The front passenger seat is empty; his smile stops.
+- 3. 1.6–2.4 s: He bends and leans in through the driver's door, over the empty driver's seat, one hand on the edge of the roof, turns toward the back, facing the camera, and sees Aoy and Win sitting there.
 - 4. 2.4–4.0 s: His smile comes back; he beckons Aoy and says @Audio1.
   - Juk: "ที่รัก มานั่งหน้าสิ"
   - Emotion from the script: 不甘示弱，招手呼唤.
   - Performance: refusing to lose; a sweet smile although he has just been left standing.
-- 5. 4.0–5.0 s: He pats the empty front passenger seat lightly and waits, smiling. Win and Aoy stay seated in the back, their backs to the camera.
+- 5. 4.0–5.0 s: He reaches across and pats the empty front passenger seat lightly, and waits, smiling. Win and Aoy stay seated in the back, their backs to the camera.
 Camera: MS, at shoulder height in the middle of the back seat, eye level, 35mm lens, locked-off, as in @Image1.
 Light: the sun behind Juk makes his white suit bright; his face takes the soft light inside the car.
 
 THE LAST FRAME
-From the middle of the back seat: Win's back and pink hat at the left edge, Aoy's back and long black hair at the right edge; between them, the two empty front seats; at the open front left door, Juk leans in above the empty front passenger seat, facing the camera with a sweet smile, his hand on the seat.
+From the middle of the back seat: Win's back and pink hat at the left edge, Aoy's back and long black hair at the right edge; between them, the two empty front seats; at the open driver's door beside the steering wheel, Juk leans in over the empty driver's seat, facing the camera with a sweet smile, his hand on the empty front passenger seat.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JUK: "ที่รัก มานั่งหน้าสิ"
@@ -70,3 +70,7 @@ DIALOGUE, IN THIS ORDER
 - ช็อตแยก `404d43b1` · roles 7 ภาพ + 1 เสียง `valid: true` · อัปพรอมป์ · ราคา 44.2 · quote `52a9f1cf` หมดอายุ 2026-11-20 15:44 UTC · key `sb03-27j-take1-20261120` · รอ "ยิง"
 - ยิงเทค 1 2026-11-20 15:38 UTC · 44.2 · run `188607a5-0871-46f9-b37e-20a459380316`
 - เทค 1 เสร็จ · asset `5408ee26` · 5.04 วิ · รอ user ดู
+- เทค 2 แก้ (2026-11-20) — user *"มันเป็นอะไรกับเปิด ประตูหลังรถ เนีย แค่เปิด ประตูหน้ารถ บอกตรงฝั่งคนขับก็ได้ จะได้จบๆ งงจริงๆ เจนหลายรอบ"*
+  - ประตูเปลี่ยนเป็น **ประตูคนขับ** ผูกกับพวงมาลัย *the door right beside the steering wheel* · แจ็คชะโงกเหนือเบาะคนขับที่ว่าง หันมาเบาะหลัง แล้วเอื้อมตบเบาะข้างคนขับ
+  - ตัดทุกคำที่เอ่ยถึงประตูหลัง (*Both rear doors … stay shut*) — เอ่ยชื่อ = เรียกเข้าเฟรม
+- เทค 2: อัปพรอมป์ · ราคา 44.2 · quote `6fccc54b` หมดอายุ 2026-11-20 16:08 UTC · key `sb03-27j-take2-20261120` · รอ "ยิง"
