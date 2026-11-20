@@ -150,3 +150,4 @@ DIALOGUE, IN THIS ORDER
   - user *"คัทที่เดิน ให้เดินช้าๆสบายๆนะ ไม่รีบ"* → ช็อต 2 ทุกบีตเดิน *slowly and easily, in no hurry / at the same slow, easy pace* · ตีวงก็ช้า · แจ็คเดินตามจังหวะช้า · เสียงเท้าช้า · ตัด quote `75795709`
   - ขอราคาใหม่ (เดินช้า) quote `e523f857` **203.1 พอยต์** · หมดอายุ 2026-11-20 16:53 UTC · idempotency `sb03-9-take3-slow-20261120` · รอ "ยิง"
 - เทค 3 ยิง 2026-11-20 (user "ยิง") — key `sb03-9-take3-slow-20261120` ถูกปฏิเสธก่อนส่ง (held · admission_not_sent · ไม่มีงานเริ่ม) → ขอราคาใหม่ quote `828adab3` พรอมป์/เรฟเดิม · key `sb03-9-take3-slow-b-20261120` · run `9588e395-db8d-4984-8c27-079b40145233` · 23 วิ · take · 203.1 พอยต์
+- เทค 3 ผล — asset `a549e7dc` · 23.04 วิ · ส่งลิงก์ให้ user · รอ user ดู
