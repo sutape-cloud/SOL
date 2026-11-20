@@ -47,16 +47,16 @@ Sound: the glass doors opening; leather shoes and flats walking on the stone flo
 
 Shot 2 — 3.0–12.0 s — ME? · Tin keeps walking the whole shot
 Picture, in this order:
-- 1. 3.0–4.9 s: Tin keeps walking toward the camera. @Audio1 calls out from off screen; still walking, he glances behind him to the left and to the right to see who she means.
+- 1. 3.0–4.9 s: Tin keeps walking toward the camera, slowly and easily, in no hurry. @Audio1 calls out from off screen; still walking, he glances behind him to the left and to the right to see who she means.
 - 2. 4.9–6.0 s: Still walking, he points a finger at his own chest, asking with that gesture if she means him.
   - Emotion: 心里发怵，不想惹事.
-- 3. 6.0–9.2 s: He keeps walking, uneasy, wanting no part of any trouble.
-- 4. 9.2–10.3 s: As the voice says the words for human trafficking, still walking, he curves his walk round to the left of frame in a wide U, the two stylists swinging round with him, and heads straight back toward the glass doors, because he wants to stay far away from this trouble.
-- 5. 10.3–12.0 s: Juk comes in from the left edge of frame and falls in beside Tin, walking with him toward the doors, because he has to fix this before the boss leaves.
+- 3. 6.0–9.2 s: He keeps walking at the same slow, easy pace, uneasy, wanting no part of any trouble.
+- 4. 9.2–10.3 s: As the voice says the words for human trafficking, still walking at the same slow, easy pace, he curves his walk round to the left of frame in a wide U, the two stylists swinging round with him, and heads straight back toward the glass doors, because he wants to stay far away from this trouble.
+- 5. 10.3–12.0 s: Juk comes in from the left edge of frame and falls in beside Tin, matching his slow walk toward the doors, because he has to fix this before the boss leaves.
 Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, as in @Image1.
 Meaning: the boss keeps his stride the whole time: the U-turn is the joke, and the audience sees exactly how badly he wants to be somewhere else.
 Composition: Tin centre, facing the camera, the two stylists a little behind him; the glass doors behind them; at the end, Tin and Juk side by side with their backs to the camera, walking toward the doors.
-Sound: leather shoes and flats walking on the stone floor in one steady rhythm.
+Sound: leather shoes and flats walking slowly on the stone floor in one easy rhythm.
 
 Shot 3 — 12.0–23.0 s — THE PRIVATE TALK · the closing shot
 Picture, in this order:
@@ -147,3 +147,5 @@ DIALOGUE, IN THIS ORDER
   - ตัด GLOBAL *The guards stay where they stand ...* · AOY section ออก
   - ด่าน A8: *knows nothing* → *is unaware* · *without a care* → *carefree* · *without stopping* → *still walking* · *wants nothing to do with* → *wants to stay far away from* · *never breaks his stride* → *keeps his stride the whole time* · *without a pause* → *in one steady rhythm* · ด่านยกเว้น A4 ทินเหลียวหาซ้ายขวา = เทคเดิม (บรีฟ user คลิป 8)
   - roles เทค 3: 6ca180ae X06 · be82b08e X05 · 1b11b860 ทิน · 1ca9b355 · 12b0b77a แจ็ค · 873cb52b ST02 · 7ff7594f ST01 · 412d2af8 · 0e7b8948 · cedadc55 · 0d0f0586 เสียง · (roles เทค 2 เดิม: + f62fa024 · fc6b25b4 · 12d53b5e · de7e4e99 · 17b738cc · 5cc246db)\n  - ขอราคา เทคใหม่ (output take) · Seedance 2.5 · references · 16:9 · 720p · 23 วิ · full · manual · audio true · quote `75795709` **203.1 พอยต์** · หมดอายุ 2026-11-20 16:35 UTC · idempotency `sb03-9-take3-20261120` · รอ "ยิง"
+  - user *"คัทที่เดิน ให้เดินช้าๆสบายๆนะ ไม่รีบ"* → ช็อต 2 ทุกบีตเดิน *slowly and easily, in no hurry / at the same slow, easy pace* · ตีวงก็ช้า · แจ็คเดินตามจังหวะช้า · เสียงเท้าช้า · ตัด quote `75795709`
+  - ขอราคาใหม่ (เดินช้า) quote `e523f857` **203.1 พอยต์** · หมดอายุ 2026-11-20 16:53 UTC · idempotency `sb03-9-take3-slow-20261120` · รอ "ยิง"
