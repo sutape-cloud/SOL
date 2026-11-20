@@ -74,3 +74,4 @@ DIALOGUE, IN THIS ORDER
 - refs เข้าถึงได้ (check_reference_asset_access ✓) · roles ตั้งแล้ว · ขอราคา Seedance 2.5 · references · 16:9 · 720p · 5 วิ · full · manual · audio true · insert · quote `6f5222cd` **44.2 พอยต์** · หมดอายุ 2026-11-20 14:22 UTC · idempotency `sb03-7i2-take1-20261120` · รอ "ยิง" (user พิมพ์ "ยิงแก้" ก่อนมีเรฟ/พรอมป์ชุดนี้ → ขอยืนยันใหม่ตามกฎ)
 - user *""คนหัวโล้นเบือนหน้านิดๆ" ไม่ต้องเบือน ก้มหน้าแล้วปาดน้ำตาได้เลย ยิง"* → ตัด *turns his face a little aside ... keeping it to himself* → *lowers his face and quietly wipes a tear* · ขอราคาใหม่แล้วยิงตามคำสั่ง
 - insert ยิง 2026-11-20 — run `5d44d92f-f709-4123-b750-8bd62299a8d1` · quote `ce1f0970` · 5 วิ · insert · 44.2 พอยต์ · user สั่ง "ยิง"
+- insert ผล — asset `269eb9db` · shot asset `79e9e0df` ลงทะเบียน insert อัตโนมัติ · 5.04 วิ · ส่งลิงก์ให้ user · รอ user ดู
