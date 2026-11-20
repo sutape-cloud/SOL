@@ -6,10 +6,10 @@ LIP SYNC
 Aoy speaks in Shot 1. Her line is lip-synced to her. The voice file @Audio1 plays exactly once, in Shot 1. The file may end with a stretch of silence that is there only to make it long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 12 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. Five guards have surrounded them in front of the revolving doors. The old woman has just pretended to go live on her phone to scare the men, and has given Aoy a secret wink to join the show. Aoy has understood, and is already moving forward to play the poor granddaughter.
+All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. The security chief and four guards have surrounded them in front of the revolving doors. The old woman has just pretended to go live on her phone to scare the men, and has given Aoy a secret wink to join the show. Aoy has understood, and is already moving forward to play the poor granddaughter.
 
 SCENE
-Aoy plays the poor granddaughter: she begs the guards with red eyes to let her go and see her dying uncle for the last time. It works. The five guards, each on his own, feel sorry for her and slowly step back from her, one after another.
+Aoy plays the poor granddaughter: she begs the guards with red eyes to let her go and see her dying uncle for the last time. It works. The five men, each on his own, feel sorry for her and slowly step back from her, one after another.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references, with her event makeup as in @Image6. The rims of her eyes are red, and her cheeks stay dry.
@@ -23,19 +23,20 @@ ACTIVE REFERENCES
 @Image6 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image8 is the authority for what she is wearing today.
 @Image7 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image8 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
-@Image9 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
+@Image9 — SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
+@Image10 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
 @Audio1 — AOY'S VOICE, HER LINE, IN SHOT 1.
-@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. Five of the guards in @Image9 are in the lobby. The whole video takes place in the lobby in @Image1 and @Image2.
+@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 and @Image7 carry Aoy's face, and her clothes come from @Image8. @Image9 carries the security chief. Four of the guards in @Image10 are in the lobby. The whole video takes place in the lobby in @Image1 and @Image2.
 
-WHAT THEY WEAR, AS IN @Image4, @Image8 AND @Image9
+WHAT THEY WEAR, AS IN @Image4, @Image8, @Image9 AND @Image10
 - Nuch in disguise: a wide straw hat wrapped with a red cloth, short curly grey hair, tea-tinted glasses, a red polo shirt, a red and white checked cloth over her neck, a wooden pendant, a woven shoulder bag, a striped sarong, flip-flops. The bamboo staff in her right hand, the phone hanging at her side in her left hand.
 - Aoy: a short qipao of deep red silk brocade embroidered with gold flowers, sheer black tights, barefoot. Both her hands are free. A high ponytail with a gold hairpin hung with red beads.
-- The five guards: dark grey shirts, black ties, black trousers.
+- The security chief, as in @Image9. The four guards: dark grey shirts, black ties, black trousers.
 
 WHERE EVERYONE IS
 - The ground-floor lobby of the office building in the late afternoon: polished white marble floor and round marble pillars, the tall glass wall with the gold-framed revolving doors, the low golden sun coming in.
 - AOY AND THE OLD WOMAN ARE ON THE LEFT OF FRAME, FACING RIGHT; THE GUARDS ARE ON THE RIGHT OF FRAME, FACING LEFT. The old woman stands just behind Aoy.
-- The five guards stand in front of Aoy in a loose, uneven curve, with a small gap between each man and the next, each at his own distance from her. The guard at the far left end and the guard at the far right end stand a little farther away than the three in the middle.
+- The security chief and the four guards stand in front of Aoy in a loose, uneven curve of five men, with a small gap between each man and the next, each at his own distance from her. The security chief is the second man from the left end. The man at the far left end and the man at the far right end stand a little farther away than the three in the middle.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–8.8 s — PLEASE LET ME GO
@@ -52,17 +53,17 @@ Light: the sun from the glass behind her rims her hair and her shoulders.
 
 Shot 2 — 8.8–12.0 s — THEY STEP BACK · the closing shot
 Picture, in this order:
-- 1. 8.8–9.5 s: Over Aoy's back: she stands in the left foreground, her back to the camera, her palms still pressed together in a wai, bowing her head to the guards. Beyond her, the five guards stand in their loose curve, looking at her.
-- 2. 9.5–12.0 s: Her begging works on them. One after another, each guard on his own, they slowly take one step back from her: first one in the middle, then the one at the far right end, then another, each at his own moment, each still looking at Aoy. The guard at the far left end steps back last.
-- 3. The guards keep their eyes on Aoy the whole time.
+- 1. 8.8–9.5 s: Over Aoy's back: she stands in the left foreground, her back to the camera, her palms still pressed together in a wai, bowing her head to the guards. Beyond her, the security chief and the four guards stand in their loose curve, looking at her, the security chief second from the left.
+- 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the one at the far right end, then another, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
+- 3. All five men keep their eyes on Aoy the whole time.
 Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, behind Aoy and a little to her left, over her shoulder, looking at the guards, with the tall windows of @Image2 behind them.
 Meaning: the audience sees what Aoy sees: the ring of men loosening in front of her, step by step, because she has made them feel sorry for her.
-Composition: Aoy's back and her red qipao in the left foreground; the five guards spread across the middle and the right of frame, with gaps between them, the two outermost farther away; the tall windows and the sunlit marble floor behind them.
+Composition: Aoy's back and her red qipao in the left foreground; the security chief and the four guards spread across the middle and the right of frame, with gaps between them, the two outermost farther away; the tall windows and the sunlit marble floor behind them.
 Light: the low sun through the tall windows behind the guards lays long golden stripes on the marble and rims their shoulders.
-Sound: the quiet of the lobby; the soft scuff of shoes on marble as each guard steps back.
+Sound: the quiet of the lobby; the soft scuff of shoes on marble as each man steps back.
 
 THE LAST FRAME
-Over Aoy's back, her palms pressed together in a wai, in the left foreground. The five guards spread in a loose curve beyond her, each one step farther back than before, all looking at her. The tall sunlit windows behind them.
+Over Aoy's back, her palms pressed together in a wai, in the left foreground. The security chief and the four guards spread in a loose curve beyond her, each one step farther back than before, all looking at her. The tall sunlit windows behind them.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "ปล่อยหนูไปเถอะ ให้หนูได้ไปหาลุงของหนูนะ ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
@@ -87,3 +88,5 @@ DIALOGUE, IN THIS ORDER
 - ตัดชื่อหัวหน้า รปภ. ออกจาก BEFORE และชื่อแจ็คออกจากบรรทัด @Image2 (`JUK'S SIDE` → `THE OTHER SIDE`) — เอ่ยชื่อคนที่ไม่อยู่ในเฟรม = SD ลากเข้ามา
 - roles insert: c5c93637 X04 · be82b08e X05 · f62fa024 · fc6b25b4 นุช · 12d53b5e ไม้ · 647d4b67 · c87d5782 · de7e4e99 อลิซ · 17b738cc รปภ. · 62bca061 เสียงอลิซ · (roles เทค 2 เดิม: + 1ca9b355 · 12b0b77a แจ็ค · 4e5b84cc หัวหน้า · e6a46f14 เฟรมท้าย SB03-6 · 58bcfc3e เสียงยาย)
 - ขอราคา insert · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · full · manual · audio true · output insert · quote `2ec22ef5` **106.0 พอยต์** · หมดอายุ 2026-11-20 11:55 UTC · idempotency `sb03-7i-take1-20261120` · รอ "ยิง"
+- user 2026-11-20 *"ในรูปมุมสูง หัวหน้าคือคนที่ยืนระหว่างแจ็คกับคนหัวโล้น"* → มุมบนเทค 2 มีชุดเข้ม 5 คน = **หัวหน้า รปภ. 1 + รปภ. 4** (ไม่ใช่ รปภ. 5) · ช็อต 2 = หัวหน้า + รปภ. 4 คน หัวหน้ายืนคนที่สองจากซ้าย (แจ็คที่เคยยืนซ้ายเขาไม่อยู่แล้ว) · เพิ่มเรฟหัวหน้า `4e5b84cc` เป็น @Image9 · รปภ. เลื่อนเป็น @Image10 · ตัด quote `2ec22ef5`
+- roles insert ใหม่: + 4e5b84cc หัวหน้า (@Image9) ก่อน 17b738cc รปภ. (@Image10) · ขอราคาใหม่ quote `a8261ef2` **106.0 พอยต์** · หมดอายุ 2026-11-20 11:59 UTC · idempotency `sb03-7i-take1-chief-20261120` · รอ "ยิง"
