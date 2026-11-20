@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. The security chief and four guards have surrounded them in front of the revolving doors. The old woman has just pretended to go live on her phone to scare the men, and has given Aoy a secret wink to join the show. Aoy has understood, and is already moving forward to play the poor granddaughter.
 
 SCENE
-Aoy plays the poor granddaughter: she begs the guards with red eyes to let her go and see her dying uncle for the last time. It works. The five men, each on his own, feel sorry for her and slowly step back from her, one after another.
+Aoy plays the poor granddaughter: she begs the guards with red eyes to let her go and see her dying uncle for the last time. It works: having heard what she said, every one of the five men feels sorry for her.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references, with her event makeup as in @Image6. The rims of her eyes are red, and her cheeks stay dry.
@@ -53,19 +53,18 @@ Camera: MCU, 155 cm high, eye level, 85mm lens, locked-off, from the guards' sid
 Composition: between the backs of two guards, soft in the foreground at the left edge and the right edge of frame, Aoy in the middle of the frame, facing the camera, her palms together at her chest; the old woman just behind her on the left, her straw hat and tea-tinted glasses, watching the guards.
 Light: the sun from the glass behind her rims her hair and her shoulders.
 
-Shot 2 — 8.8–12.0 s — THEY STEP BACK · the closing shot
+Shot 2 — 8.8–12.0 s — THEY FEEL SORRY FOR HER · the closing shot
 Picture, in this order:
 - 1. 8.8–9.5 s: As in @Image11: Aoy and the old woman stand side by side on the right of frame, facing left; Aoy's palms are still pressed together in a wai, bowing her head to the guards; the old woman holds the staff upright in her right hand, the phone hanging at her side. On the left and in the middle of frame, the security chief and the four guards stand where they are in @Image11, looking at Aoy.
-- 2. 9.5–12.0 s: Her begging works on them. One after another, each man on his own, they slowly take one step back from her: first one in the middle, then the others one at a time, each at his own moment, each still looking at Aoy. The man at the far left end steps back last.
-- 3. All five men keep their eyes on Aoy the whole time.
+- 2. 9.5–12.0 s: Her begging works on them. The five men stay where they stand, and every one of them, having heard what she said, feels sorry for her: each in his own way and at his own moment, small and real, each still looking at Aoy.
 Camera: LS, 150 cm high, eye level, locked-off, the same camera angle as @Image11, with the glass front of the building in @Image2 behind the men.
-Meaning: from across the lobby, the audience sees the ring of men loosening in front of Aoy, step by step, because she has made them feel sorry for her.
+Meaning: from across the lobby, the audience sees the whole ring of men soften toward Aoy, because she has made them feel sorry for her.
 Composition: as in @Image11: everyone full body and small in the frame, the high lobby around them; Aoy and the old woman on the right; the security chief and the four guards on the left and in the middle, with gaps between them; the sunlit glass front of the building behind them.
 Light: the low sun through the glass behind the guards lights them from behind, rims their shoulders and lays long golden stripes on the marble toward Aoy.
-Sound: the quiet of the lobby; the soft scuff of shoes on marble as each man steps back.
+Sound: the quiet of the lobby.
 
 THE LAST FRAME
-The camera angle of @Image11. Aoy and the old woman side by side on the right of frame, Aoy's palms pressed together in a wai, the staff in the old woman's right hand. The security chief and the four guards on the left and in the middle of frame, each one step farther back than before, all looking at her. The sunlit glass front of the building behind them.
+The camera angle of @Image11. Aoy and the old woman side by side on the right of frame, Aoy's palms pressed together in a wai, the staff in the old woman's right hand. The security chief and the four guards on the left and in the middle of frame, where they stood at the start, all looking at her, feeling sorry for her. The sunlit glass front of the building behind them.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "ปล่อยหนูไปเถอะ ให้หนูได้ไปหาลุงของหนูนะ ลุงแกเลี้ยงหนูมาตั้งแต่เกิด ให้หนูได้ไปดูใจแกเป็นครั้งสุดท้ายเถอะนะคะ"
@@ -121,3 +120,6 @@ DIALOGUE, IN THIS ORDER
 - user *"ใช้ภาพนี้ ทำวิดีโอต่อ"* · *"ชุดอลิซไม่ใช่ชุดในเรฟอะ ส่งได้แต่ห้ามบอกว่าเป็นเฟรมแรก"* → ภาพ v5 อัปเข้าโปรเจกต์ asset `19d3b783` → Mix Stage `SB03-7i shot2 positions sd55 v5` `1dd3603f` · เป็น @Image11 ก่อนเสียง · บรรทัดเรฟ: ถือแค่มุมกล้องช็อต 2 + ตำแหน่งคนยืน · ชุดอลิซจาก @Image8 เท่านั้น · ไม่เรียกว่าเฟรมแรก
 - ช็อต 2 วิดีโอ: WS 35mm หลังเยื้องซ้าย → **LS มุมเดียวกับ @Image11** · อลิซ+ยายขวาเฟรมหันซ้าย · หัวหน้า+รปภ. ซ้าย-กลางหันขวา · ตำแหน่ง รปภ. อ้าง @Image11 แทนคำบรรยายโค้ง
 - roles: + 1dd3603f (@Image11) ก่อนเสียง · ขอราคา quote `d5c1b860` **106.0 พอยต์** · หมดอายุ 2026-11-20 13:23 UTC · idempotency `sb03-7i-take1-posref-20261120` · รอ "ยิง"
+- user *"ไม่ถอยดีกว่า เดี่ยวเละอีก เอาแค่ทำหน้าสงสารอลิซ ทุกคนเมื่อได้ฟังที่เธอพูด"* → ตัดการถอยทั้งหมด (SCENE · ช็อต 2 บีต 2–3 · Meaning · Sound · LAST FRAME) · รปภ. ยืนที่เดิม สงสารอลิซหลังได้ยินที่เธอพูด คนละจังหวะ เล็กๆ จริงๆ · ตัด quote `d5c1b860`
+- ขอราคาใหม่ (ไม่ถอย ทำหน้าสงสาร) quote `54598f1b` **106.0 พอยต์** · หมดอายุ 2026-11-20 13:27 UTC · idempotency `sb03-7i-take1-pity-20261120` · รอ "ยิง"
+- insert ยิง 2026-11-20 — run `dd24add0-df5b-44c8-980f-50cfb3a6833f` · quote `54598f1b` · 12 วิ · insert · 106.0 พอยต์ · user สั่ง "ยิง"
