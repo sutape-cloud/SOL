@@ -1,68 +1,48 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Four shots, 10 seconds, at real-time speed. EVERY SHOT SEES THE PEOPLE ONLY FROM THE KNEES DOWN: their trouser legs, their skirts and their shoes on the floor.
-All the movement is natural and real, at the size of real life, like real people in an office on an ordinary working afternoon. The air is clear and clean. The only light is the afternoon sun through the office windows and the warm lights in the ceiling. One warm, soft afternoon-office grade for the whole video. Every surface is plain. Every person has two legs, natural and correct. The camera keeps one fixed focal length per shot. It is a silent moment, with only the real sound of the corridor.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 10 seconds, at real-time speed. THE WHOLE SHOT SEES THE PEOPLE ONLY FROM THE KNEES DOWN: their trouser legs, their skirts and their shoes on the floor.
+All the movement is natural and real, at the size of real life, like real people in an office on an ordinary working afternoon. The air is clear and clean. The only light is the afternoon sun through the office windows and the warm lights in the ceiling. One warm, soft afternoon-office grade for the whole video. Every surface is plain. Every person has two legs, natural and correct. The camera keeps one fixed focal length. It is a silent moment, with only the real sound of the corridor.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy has just phoned Win and asked him to come and help her. Win, the chairman of the company, has set off at once from his office to find Nuch, his secretary of many years, the one person he goes to when he needs help with Aoy. Nuch is in the small meeting room of the secretary team at the end of these corridors, in a meeting with her team.
 
 SCENE
-Win is worried about Aoy and needs Nuch now, so he walks through the office corridors faster and faster, until he is almost running. The staff he passes see the chairman hurrying and quickly step out of his way. He turns the corner and arrives at the door of the meeting room, and stops right in front of it.
+Win is worried about Aoy and needs Nuch now, so he walks through the office corridors faster and faster, until he is almost running. The staff he passes see the chairman hurrying and quickly step out of his way, one after another. He turns the corner and arrives at the door of the meeting room, and stops right in front of it.
 
 ACTIVE REFERENCES
-@Image1 — THE OFFICE CORRIDOR ON THE SECRETARY TEAM'S FLOOR, WITH THE GLASS WALL OF THE OPEN-PLAN OFFICE ON ONE SIDE AND THE TURN AT THE FAR END. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE AND THE LIGHT IN SHOT 1, SHOT 2 AND SHOT 3.
-@Image2 — THE CORRIDOR RIGHT OUTSIDE THE MEETING ROOM, WITH THE WALNUT DOOR AND ITS NARROW GLASS PANEL ON ONE SIDE, THE CONSOLE TABLE, THE PLANT AND THE FRAMED PAINTING ON THE OTHER. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE AND THE LIGHT IN SHOT 4.
+@Image1 — THE OFFICE CORRIDOR ON THE SECRETARY TEAM'S FLOOR, WITH THE GLASS WALL OF THE OPEN-PLAN OFFICE ON ONE SIDE AND THE TURN AT THE FAR END. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE AND THE LIGHT FROM 0.0 TO 6.5 S.
+@Image2 — THE CORRIDOR RIGHT OUTSIDE THE MEETING ROOM, WITH THE WALNUT DOOR AND ITS NARROW GLASS PANEL ON ONE SIDE, THE CONSOLE TABLE, THE PLANT AND THE FRAMED PAINTING ON THE OTHER. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE AND THE LIGHT FROM 6.5 S TO THE END.
 @Image3 — WIN'S FULL BODY IN TODAY'S SUIT. 100% matches the reference for his trousers and his shoes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK.
 @Image1 and @Image2 carry the place. @Image3 carries Win's trousers and shoes.
 
 WHAT THEY WEAR
 - Win, as in @Image3: charcoal grey suit trousers with a turned-up cuff, black leather lace-up shoes.
-- The man on the staff: navy trousers, brown leather loafers.
+- The first man on the staff: navy trousers, brown leather loafers.
 - The woman on the staff: a beige knee-length skirt, nude low-heeled shoes.
+- The second man on the staff: light grey trousers, black leather shoes.
 
 WHERE EVERYONE IS
-- IN SHOT 1, SHOT 2 AND SHOT 3, WIN WALKS FROM THE LEFT OF FRAME TOWARD THE RIGHT OF FRAME, ALONG THE CORRIDOR IN @Image1.
-- The glass wall of the open-plan office is on one side of the corridor, the walnut wall panels on the other. The sun from the office windows lies in long soft stripes across the marble floor.
-- In Shot 4, the walnut door of the meeting room and its narrow glass panel are on the right of frame, the console table with the plant is on the left of frame, as in @Image2.
+- THE CAMERA IS LOW ON THE FLOOR, 30 CM HIGH, JUST BEHIND WIN'S HEELS, AND GLIDES ALONG WITH HIM AT HIS SPEED FOR THE WHOLE SHOT. WIN'S SHOES AND CALVES ARE IN THE MIDDLE OF THE FRAME, AND THE CORRIDOR OPENS UP AHEAD OF HIM.
+- In the corridor of @Image1, the glass wall of the open-plan office is on the left of frame and the walnut wall panels are on the right. The sun from the office windows lies in long soft stripes across the marble floor. At the far end the corridor turns to the right.
+- After the turn, in the corridor of @Image2, the console table with the plant and the framed painting is on the left of frame, and the walnut door of the meeting room with its narrow glass panel is on the right of frame.
+- The staff walk toward Win, one at a time, and each one steps aside to the wall to let him pass.
 
-SHOT-BY-SHOT
-Shot 1 — 0.0–2.5 s — ON HIS WAY
+SHOT
+Shot 1 — 0.0–10.0 s — TO THE DOOR · one continuous shot
 Picture, in this order:
-- 1. 0.0–2.5 s: Win's black leather shoes and charcoal trouser legs walk quickly along the polished cream marble, through the stripes of afternoon sun, because Aoy needs help and he wants Nuch now.
-Camera: CU, 30 cm high, beside his feet, moving with him at his speed, in the corridor of @Image1.
-Meaning: the audience sees only his feet and knows from the pace alone that someone is in a hurry.
-Composition: his shoes in the middle of the frame; the marble floor and the stripes of sun running past; the soft walnut wall behind.
-Sound: his leather soles on the marble, quick and even. The quiet of the office.
-
-Shot 2 — 2.5–5.0 s — THEY MAKE WAY
-Picture, in this order:
-- 1. 2.5–3.5 s: Ahead of him on the right of frame, the legs of the man on the staff, in navy trousers and brown loafers, are walking toward him.
-- 2. 3.5–5.0 s: The man on the staff sees the chairman coming fast and steps quickly to the side, close to the wall, and stands still to let him pass. Win's shoes pass him at a faster pace than before.
-Camera: CU, 30 cm high, eye level with the shoes, locked-off on the floor of the corridor in @Image1, Win crossing the frame from left to right.
-Meaning: everyone in the building knows who he is, and the chairman in such a hurry is something new to all of them.
-Composition: the brown loafers stepping aside on the right; Win's black shoes cutting through the middle of the frame.
-Sound: his steps closer together now. The loafers shuffling aside.
-
-Shot 3 — 5.0–7.5 s — THE TURN
-Picture, in this order:
-- 1. 5.0–6.0 s: At the end of the corridor, Win's shoes turn round the corner to the right, close to the walnut wall of the corner.
-- 2. 6.0–7.5 s: His strides grow long and fast, almost a run. The woman on the staff, in a beige skirt and nude low heels, takes a quick step back against the wall to let him pass.
-Camera: CU, 30 cm high, at the corner of the corridor in @Image1, as he comes round it.
-Meaning: he is now going so fast that he is almost running, and people are getting out of the way of the chairman.
-Composition: the walnut wall of the corner on one side; his shoes turning round it; the nude heels stepping back at the edge of frame.
-Sound: his steps fast and close together, almost running. The click of the heels stepping back.
-
-Shot 4 — 7.5–10.0 s — THE DOOR · the closing shot
-Picture, in this order:
-- 1. 7.5–9.0 s: Win's shoes come running in along the marble corridor of @Image2, away from the camera, toward the walnut door of the meeting room on the right of frame.
-- 2. 9.0–10.0 s: He brakes with short quick steps and stops right in front of the walnut door, beside its narrow glass panel, the toes of his shoes facing the door. He stands still there.
-Camera: CU to MS of the legs, 30 cm high, low on the marble floor of the corridor, looking along the corridor as in @Image2, locked-off.
-Meaning: he has made it to the door, and the next moment belongs to what happens inside.
-Composition: the walnut door and the narrow glass panel on the right of frame; the console table, the plant and the framed painting on the left; his shoes stopping in front of the door at the end of the shot.
-Light: the warm lights of the corridor, softer here, away from the windows.
-Sound: the running steps, short braking steps, then stillness. Faintly, from behind the door, the murmur of the meeting.
+- 1. 0.0–2.0 s: Win's black leather shoes and charcoal trouser legs walk quickly along the polished cream marble of @Image1, through the stripes of afternoon sun, because Aoy needs help and he wants Nuch now.
+- 2. 2.0–3.5 s: Ahead, the legs of the first man on the staff, in navy trousers and brown loafers, walk toward him. He sees the chairman coming fast, steps quickly to the left, close to the glass wall, and stands still. Win's shoes pass him at a faster pace.
+- 3. 3.5–5.0 s: Win walks faster still. The woman on the staff, in a beige skirt and nude low heels, walks toward him, then takes a quick step back against the walnut wall on the right and stands still. Win's shoes pass her.
+- 4. 5.0–6.5 s: At the end of the corridor, Win's shoes turn round the corner to the right, close to the walnut wall of the corner, his strides now long and fast, almost a run. The camera turns the corner with him.
+- 5. 6.5–8.0 s: In the corridor of @Image2, the second man on the staff, in light grey trousers and black shoes, is walking toward him beside the console table on the left. He steps back against the console table and stands still. Win runs past him.
+- 6. 8.0–10.0 s: Win runs up to the walnut door of the meeting room on the right, brakes with short quick steps and stops right in front of the door, beside its narrow glass panel, the toes of his shoes facing the door. He stands still there. The camera stops just behind his heels.
+Camera: CU of the legs from the knees down, 30 cm high, low on the floor just behind Win's heels, a smooth continuous tracking shot that moves with him at his speed, from the corridor of @Image1, round the corner, to the door in @Image2.
+Meaning: the audience sees only his feet and knows from the pace alone that someone is in a hurry; the staff stepping aside show that this is the chairman, and that the chairman in such a hurry is something new to all of them.
+Composition: Win's shoes in the middle of the frame, the corridor opening up ahead of him as a long leading line; each person on the staff comes in ahead and steps out to the side, clearing the line for him. At the end, the walnut door and its narrow glass panel on the right of frame, the console table with the plant on the left, Win's shoes still in the middle.
+Light: the stripes of afternoon sun on the marble in the first corridor; after the turn, the warm lights of the corridor, softer, away from the windows.
+Sound: his leather soles on the marble, quick and even at first, then closer and closer together, almost running; the loafers shuffling aside; the click of the heels stepping back; short braking steps, then stillness. Faintly, from behind the door, the murmur of the meeting.
 
 THE LAST FRAME
-The corridor outside the meeting room, low on the marble floor, as in @Image2. Win's black leather shoes and charcoal trouser legs stand still right in front of the walnut door on the right of frame, beside its narrow glass panel, toes facing the door. The console table with the plant on the left of frame.
+Low on the marble floor of the corridor in @Image2, just behind Win's heels. Win's black leather shoes and charcoal trouser legs stand still right in front of the walnut door on the right of frame, beside its narrow glass panel, toes facing the door. The console table with the plant on the left of frame.
 
 ---
 
@@ -87,3 +67,5 @@ The corridor outside the meeting room, low on the marble floor, as in @Image2. W
 - roles บ็อก (insert): ab0ee2be · 0ad26aef · 516647b1 · พรอมป์ส่งเป็น override ในคำสั่ง (prompt ที่เซฟในบ็อกยังเป็นของเทค 1)
 - user บอก "เจนเป็นเทค 2" → ใช้ `output_type: insert` บนบ็อกเดิม (แบบ SB03-13i) เทค 1 ยังเป็นเทคที่เลือกอยู่
 - ขอราคา insert · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · full · manual · audio true · quote `da40630e` **88.3 พอยต์** · หมดอายุ 2026-11-20 10:04 UTC · idempotency `sb03-1i-take1-20261120` · รอ "ยิง"
+- user 2026-11-20 *"ต้องแบ่งเป็น 4 คัทเลยหรอ? คัทเดียวยาวเลยได้มั้ย เดี๋ยวไปตัดเอง ให้เห็นพนักงานทีละคน น้อยไปมั้ย?"* → **รื้อเป็นคัทเดียวต่อเนื่อง 10 วิ** · กล้องต่ำ 30 ซม. ตามหลังส้นเท้าวิน (ตามหลังแทนเคลื่อนข้าง เพื่อเลี้ยวหัวมุมไปกับเขาได้ในเทคเดียว) · พนักงานทีละคน **เพิ่มเป็น 3 คน** (ชายกางเกงกรม · หญิงกระโปรงเบจ · ชายกางเกงเทาอ่อน ที่คอนโซลหลังเลี้ยว) ให้มีจังหวะหลบทุกช่วงที่ตัดสลับ · ตัด quote `da40630e` เดิม (พรอมป์เปลี่ยน)
+- ขอราคาคัทเดียว · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · full · manual · audio true · output insert · quote `1c14648a` **88.3 พอยต์** · หมดอายุ 2026-11-20 10:09 UTC · idempotency `sb03-1i-take1-oneshot-20261120` · รอ "ยิง"
