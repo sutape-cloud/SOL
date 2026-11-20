@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Eight shots, 24 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. Feelings show quietly. Everyone moves like real people in a real car: calm and careful in a small space; Juk's anger is real but held in. The only light is the morning sun coming through the car windows and the thin orange strip lights along the door panels; the orange light stays on the door panels, and every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the steering wheel centre, the gear stalk, the console and the dark screen are plain, and the number plates are blank. When the car pulls away, it moves off at a normal speed. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. Whenever Aoy smiles, it is a closed-lip smile. The only sound is the real sound of the place.
+All the acting is natural and real, at the size of real life: small and natural. Feelings show quietly. Everyone moves like real people in a real car: calm and careful in a small space. Every reaction is small and real: a pause, a look, a breath; Juk's anger is real but held in. The only light is the morning sun coming through the car windows and the thin orange strip lights along the door panels; the orange light stays on the door panels, and every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the steering wheel centre, the gear stalk, the console and the dark screen are plain, and the number plates are blank. When the car pulls away, it moves off at a normal speed. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. Whenever Aoy smiles, it is a closed-lip smile. The only sound is the real sound of the place.
 
 LIP SYNC
 Aoy speaks in Shots 1 and 4; Win speaks in Shot 2. Each line is lip-synced to the person saying it. Juk stays silent. The voice files play in order, each exactly once: @Audio1 (Aoy) from 0.6 s, @Audio2 (Win) from 7.6 s, @Audio3 (Aoy) from 11.4 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 24 seconds.
@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy put her "uncle" Win, in his jacket turned inside out and the housekeeper's pink knitted hat, into the back seat of Juk's car and sat down beside him, leaving the front passenger seat empty. Juk opened the front passenger door for Aoy, found the seat empty, leaned in and called her to come and sit in front. The last video ended there: Juk leaning in at the open front passenger door, his hand on the empty front passenger seat; Aoy in the back on the right side, behind the driver's seat; Win in the back on the left side, his hand on the grab handle above his window.
 
 SCENE
-Aoy stays in the back: she has to look after her uncle. She plays the devoted niece, wiping him clean with a tissue, so close that it is almost sweet. Win, caught off guard by how close she is, sneaks a moment with her before facing front again. Then he plays his part too well: blank, he orders Juk like a taxi driver to take him to Siam, fast. Juk is speechless. Aoy, straight-faced, makes a polite wai to Juk and explains that her uncle thinks he is a taxi driver. Juk's smile is gone; he slams the door, stomps round to the driver's seat and drives off, fuming. In the back, Aoy and Win share one quick look and hold in their smiles.
+Aoy stays in the back: she has to look after her uncle. She plays the devoted niece, wiping him clean with a tissue, so close that it is almost sweet. Win, caught off guard by how close she is, sneaks a moment with her before facing front again. Then he plays his part too well: blank, he orders Juk like a taxi driver to take him to Siam, fast. Juk is speechless. Aoy, straight-faced, makes a small polite wai to Juk and explains that her uncle thinks he is a taxi driver. Juk's smile is gone; he shuts the door, walks round to the driver's seat on the right and drives off, fuming. In the back, Aoy and Win share one quick look and hold in their smiles.
 
 AOY'S FACE
 Her skin tone is natural, as in her character references. Straight-faced and dutiful on the outside, holding in a laugh inside.
@@ -39,8 +39,8 @@ WHAT THEY WEAR, AS IN @Image6, @Image8, @Image9 AND @Image11
 WHERE EVERYONE IS
 - Inside Juk's white luxury saloon, as in @Image1 and @Image2: oxblood-red leather seats quilted in a diamond pattern; the back seat is one long bench for three; thin orange strip lights along the door panels; wood trim; a black fabric roof lining; a grab handle above each window; the steering wheel on the right, with the gear stalk behind it; the big screen in the middle of the console is dark.
 - The car is parked at the kerb in front of the building. Through the right-hand windows, the glass front wall of the building. Through the left-hand windows, the quiet side street and the tall clipped hedge.
-- At the start, exactly as the last video ended: Juk leans in at the open front passenger door, beside the empty front passenger seat. Aoy sits in the back on the right side, behind the driver's seat, close to the middle. Win sits in the back on the left side, his hand on the grab handle above his window.
-- During the video, Juk shuts the front passenger door, walks round the front of the car back to the pavement side, and gets into the driver's seat on the right. The car pulls away. Aoy and Win stay where they are.
+- At the start, exactly as the last video ended: Juk stands outside the car, bending in at the open front passenger door on the left side of the car, beside the empty front passenger seat. Juk stays outside the car until Shot 6. The front passenger seat stays empty for the whole video. Aoy sits in the back on the right side, behind the driver's seat, close to the middle. Win sits in the back on the left side, his hand on the grab handle above his window.
+- During the video, Juk shuts the front passenger door, walks round the front of the car to the right side of the car, the pavement side, opens the driver's door beside the steering wheel, and sits down in the driver's seat, behind the steering wheel, on the right side of the car. The car pulls away. Aoy and Win stay where they are.
 - LOOKING FROM THE FRONT OF THE CAR TOWARD THE BACK SEAT: AOY IS ON THE LEFT OF FRAME, WIN IS ON THE RIGHT OF FRAME, AND JUK'S DRIVER'S SEAT IS ON THE LEFT OF FRAME, CLOSE TO THE CAMERA. LOOKING FROM THE BACK OF THE CAR FORWARD: WIN IS ON THE LEFT OF FRAME, AOY IS ON THE RIGHT OF FRAME, AND JUK SITS IN THE DRIVER'S SEAT ON THE RIGHT OF FRAME.
 
 SHOT-BY-SHOT
@@ -58,7 +58,7 @@ Picture, in this order:
 - 5. 6.4–7.0 s: Win sits stiffly and lets her; for a moment his attention drifts to her face, so close to his, then quickly back to the front.
 Camera: MS two-shot, 100 cm high, eye level, 50mm lens, locked-off; between the two front seats, looking toward the back seat.
 Meaning: one frame holds both Aoy's performance and the look Win steals at her.
-Composition: Aoy on the left third, leaning in to Win; Win on the right third; Juk, leaning in at the open front passenger door, soft at the right edge, close to the camera.
+Composition: Aoy on the left third, leaning in to Win; Win on the right third; Juk, standing outside and bending in at the open front passenger door, soft at the right edge, close to the camera; the front passenger seat empty.
 Light: the morning sun from the window beside Win falls across both their faces, close together in the same light.
 Sound: a tissue pulled from its pack; the leather creaking as she leans over.
 
@@ -75,18 +75,18 @@ Composition: Win's face in the middle of the frame, the flower on his hat fully 
 
 Shot 3 — 9.6–11.0 s — JUK, SPEECHLESS
 Picture, in this order:
-- 1. 9.6–11.0 s: Juk, still leaning in at the open front passenger door, is lost for words for a beat.
+- 1. 9.6–11.0 s: Juk, still standing outside and bending in at the open front passenger door, is lost for words for a beat; a small, real pause.
 Camera: CU, 105 cm high, eye level, 85mm lens, locked-off; from the back seat, looking at the open front passenger door.
 Composition: Juk's face in the middle of the frame, framed by the doorway; the bright street soft behind him.
 
 Shot 4 — 11.0–14.0 s — HE THINKS YOU'RE A TAXI · Aoy
 Picture, in this order:
-- 1. 11.0–11.4 s: Aoy puts her palms together in a polite wai to Juk, straight-faced.
+- 1. 11.0–11.4 s: Aoy turns to Juk and puts her palms together in a small, polite wai, straight-faced.
 - 2. 11.4–13.5 s: She says @Audio3.
   - Aoy: "แกนึกว่าพี่แจ็คเป็นแท็กซี่ค่ะ"
   - Emotion from the script: 一本正经，强憋笑意甩包袱.
-  - Performance: the most polite apology on her uncle's behalf; the laugh almost escapes at the end, but her face stays straight.
-- 3. 13.5–14.0 s: She holds the wai, straight-faced.
+  - Performance: a polite apology on her uncle's behalf, small and matter-of-fact; the laugh almost escapes at the end, but her face stays straight.
+- 3. 13.5–14.0 s: She lowers her hands, straight-faced.
 Camera: MCU, 105 cm high, eye level, 50mm lens, locked-off; from the open front passenger door where Juk is leaning, looking toward the right side of the back seat.
 Meaning: the audience receives the wai from Juk's place and feels the joke land in their face along with him.
 Composition: Aoy just left of centre, palms together; Win's shoulder and pink hat soft at the right edge, close to the camera; through the window behind Aoy, the glass front wall of the building.
@@ -94,39 +94,39 @@ Composition: Aoy just left of centre, palms together; Win's shoulder and pink ha
 Shot 5 — 14.0–16.0 s — THE DOOR · the two of them
 Picture, in this order:
 - 1. 14.0–14.6 s: Juk's smile is gone; he is fuming.
-- 2. 14.6–15.4 s: He straightens up out of the car and slams the front passenger door.
-- 3. 15.4–16.0 s: In the back, Aoy and Win both give a small start.
+- 2. 14.6–15.4 s: He straightens up out of the doorway and shuts the front passenger door firmly.
+- 3. 15.4–16.0 s: In the back, Aoy and Win stay still.
 Camera: MS two-shot, 100 cm high, eye level, 35mm lens, locked-off; between the front seats, looking toward the back seat.
 Composition: Aoy on the left, Win on the right; the front passenger door swinging shut on the right of frame, close to the camera.
-Sound: the door slams, harder than when Aoy shut hers.
+Sound: the door shutting firmly.
 
 Shot 6 — 16.0–19.4 s — BACK ROUND · from the back of the car
 Picture, in this order:
-- 1. 16.0–17.6 s: Through the windscreen, Juk stomps across the front of the car from left to right, back to the pavement side, yanking the hem of his jacket straight.
-- 2. 17.6–19.4 s: The driver's door on the right of frame opens; Juk drops into the driver's seat behind the steering wheel and slams the door.
-Camera: WS, 110 cm high, eye level, 24mm lens, locked-off; against the rear window, looking forward.
-Composition: Win's pink hat on the left and Aoy's long hair on the right as dark shapes across the lower part of the frame; Juk crossing the bright windscreen, then sitting down in the driver's seat on the right of frame, behind the steering wheel.
+- 1. 16.0–17.6 s: Through the windscreen, Juk walks briskly across the front of the car from left to right, to the right side of the car, straightening his jacket.
+- 2. 17.6–19.4 s: On the right of frame, the driver's door beside the steering wheel opens; Juk sits down in the driver's seat, behind the steering wheel on the right, and shuts the door.
+Camera: WS, 110 cm high, eye level, 24mm lens, locked-off; inside the car, against the rear window behind the back seat, looking forward through the car and out of the windscreen.
+Composition: Win's pink hat on the left and Aoy's long hair on the right as dark shapes across the lower part of the frame; beyond them, the two front seats, the front passenger seat on the left empty, the driver's seat and steering wheel on the right; Juk crossing the bright windscreen, then sitting down in the driver's seat on the right of frame, behind the steering wheel.
 
 Shot 7 — 19.4–20.6 s — THE GEAR STALK · insert
 Picture, in this order:
-- 1. 19.4–20.6 s: Juk's right hand grabs the gear stalk behind the steering wheel and shoves it down hard.
+- 1. 19.4–20.6 s: Sitting in the driver's seat, Juk puts the car into gear with a sharp push of the gear stalk behind the steering wheel.
 Camera: CU insert, 110 cm high, looking down slightly, 50mm lens, locked-off.
 Composition: Juk's hand, the pink shirt cuff showing from the white suit sleeve; the plain gear stalk and the rim of the steering wheel.
 Sound: the gear stalk clacks.
 
 Shot 8 — 20.6–24.0 s — PULLING AWAY · from the front of the car
 Picture, in this order:
-- 1. 20.6–21.4 s: The car pulls away with a small jolt, and both of them in the back sway back against the seat together.
+- 1. 20.6–21.4 s: The car pulls away, and both of them in the back settle back against the seat.
 - 2. 21.4–22.2 s: Win keeps his grip on the grab handle above his window.
 - 3. 22.2–24.0 s: Win and Aoy share one quick look; Aoy holds in a smile and Win smiles back just a little; then both quickly face the front again.
 Camera: MS, 100 cm high, eye level, 35mm lens, locked-off; at the front of the car, looking toward the back seat.
 Meaning: Juk fuming close to the camera while the two in the back share a secret look: the audience gets the joke and the sweetness in one picture.
-Composition: Juk's shoulder and profile in the driver's seat on the left of frame, close to the camera, his attention on the road; Aoy in the back seat behind Juk, on the left of frame; Win in the back seat on the right of frame; through the rear window, the street sliding away.
+Composition: Juk in the driver's seat, behind the steering wheel, his shoulder and profile on the left of frame, close to the camera, his attention on the road; the front passenger seat on the right of frame empty; Aoy in the back seat behind Juk, on the left of frame; Win in the back seat on the right of frame; through the rear window, the street sliding away.
 Light: the morning sun through the windows passes over all three faces as the car moves.
 Sound: the engine pulling; the tyres on the road.
 
 THE LAST FRAME
-Juk drives, close to the camera on the left of frame, sulking. Aoy in the back seat behind Juk, on the left of frame, holding in a smile. Win in the back seat on the right of frame, his hand on the grab handle above his window. The car has pulled away from the building.
+Juk drives from the driver's seat behind the steering wheel, close to the camera on the left of frame, sulking. The front passenger seat is empty. Aoy in the back seat behind Juk, on the left of frame, holding in a smile. Win in the back seat on the right of frame, his hand on the grab handle above his window. The car has pulled away from the building.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, AOY: "หนูต้องดูลุงค่ะ เดี๋ยวแกเป็นอะไรไป ดูสิ ไปทำอะไรมาเนี่ย น้ำลายเลอะเลย"
@@ -167,3 +167,12 @@ DIALOGUE, IN THIS ORDER
 - เปิดช็อต `5aa4fd77` · roles 11 ภาพ + 3 เสียง `valid: true` · อัปพรอมป์ · ราคา 211.9 · quote `e2d391f7` หมดอายุ 2026-11-20 16:22 UTC · key `sb03-28-take1-20261120` · รอ "ยิง"
 - ยิงเทค 1 2026-11-20 16:16 UTC · 211.9 · run `a6b1fdd7-66fa-42ff-bffe-d18c4e4b4c1e`
 - เทค 1 เสร็จ · asset `78ab5bdf` · 24.04 วิ · รอ user ดู
+- เทค 2 แก้ (2026-11-20) — user *"อลิชจะยกมือไหว้ทำไม ละ แจค ตอนออกแล้วมานั่ง ที่ฝั่งคนขับ ต้องบอกตำแหต่งด้วย ตอนนี้มันเจน มันดันกลับไปนั่ง ฝั่ง ซ้ายด้านหน้า ไม่ใช่ทางคนขับ ละ รีแอคชั่น อย่าโอเวอร์ เกิน"*
+  - อ่านเฟรมเทค 1 (`78ab5bdf` · contact `EP03/frames/SB03-28_V1_contact.jpg`): ช็อต 1–5 **แจ็คนั่งอยู่ในเบาะหน้าซ้ายแล้วตั้งแต่ต้น** (ควรยืนนอกรถชะโงกที่ประตู) · ช็อต 4 อลิซพนมมือไหว้ · ช็อต 6 กล้องหลุดไปอยู่นอกรถ · ช็อต 8 ไม่เห็นแจ็คที่ที่นั่งคนขับ → ต้องเจนใหม่ทั้งคลิป
+  - ไหว้: บท *"(พนมมือไหว้ หน้าตาย กับแจ็ค)"* + สตอรี่บอร์ด → ตัดตามคำ user · อลิซหันไปพูดกับแจ็คหน้าตาย มือวางบนกระเป๋า
+  - ตำแหน่งแจ็ค: *Juk stays outside the car until Shot 6 · The front passenger seat stays empty for the whole video* · ช็อต 6 ระบุ *the right side of the car … the driver's door beside the steering wheel … behind the steering wheel on the right* + กล้อง *inside the car, against the rear window* · ช็อต 7–8 + เฟรมท้าย ระบุ *in the driver's seat, behind the steering wheel* + เบาะหน้าซ้ายว่าง
+  - รีแอคชั่น: GLOBAL *Every reaction is small and real* · ช็อต 3 *a small, real pause* · ช็อต 5 *slams → shuts firmly* · ตัด *give a small start* → *stay still* · ช็อต 6 *stomps / yanking / drops / slams* → *walks briskly / straightening / sits down / shuts* · ช็อต 7 *shoves it down hard* → *a sharp push* · ช็อต 8 *small jolt / sway back* → *pulls away / settle back*
+- เทค 2: อัปพรอมป์ · ราคา 211.9 · quote `d30a183a` หมดอายุ 2026-11-20 16:41 UTC · key `sb03-28-take2-20261120` · รอ "ยิง"
+- เทค 2 แก้เพิ่ม — user *"ถ้าในบทมี ก็ใส่มา ไหว้อะ"* → ใส่ไหว้กลับ (บท *"(พนมมือไหว้ หน้าตาย กับแจ็ค)"*) แบบเล็ก *a small, polite wai* · จบช็อตลดมือลง · ส่วนอื่นของเทค 2 คงเดิม
+- เทค 2 (ใส่ไหว้กลับ): อัปพรอมป์ · ราคา 211.9 · quote `f49ed9a1` หมดอายุ 2026-11-20 16:45 UTC · key `sb03-28-take2b-20261120` · รอ "ยิง"
+- ยิงเทค 2 2026-11-20 16:39 UTC · 211.9 · run `148ef38e-9831-4c36-84f7-3f1b0fe13387`
