@@ -1,131 +1,93 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Six shots, 28 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. The only light is the low late-afternoon sun through the tall glass wall, the downlights in the ceiling and the lights of the corridor behind the glass doors. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. The guards stay where they stand, on both sides of the old woman and Aoy, for the whole video; whenever the old woman and Aoy are in frame, the guards are in frame with them. The wardrobe assistant hugs her tablet to her chest with its screen against her; the camera sees only its black back. The camera keeps one fixed focal length per shot. The only sound is the real sound of the lobby.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Three shots, 23 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. The only light is the low late-afternoon sun through the tall glass wall, the downlights in the ceiling and the lights of the corridor behind the glass doors. The air is clear and clean. Every surface is plain. Every person has two arms and two legs, natural and correct. The wardrobe assistant hugs her tablet to her chest with its screen against her; the camera sees only its black back. The camera keeps one fixed focal length per shot. The only sound is the real sound of the lobby.
 
 LIP SYNC
-The old woman speaks in Shot 2 and Shot 3; her one line runs across both shots. Juk and Tin speak in Shot 5. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 across Shot 2 and Shot 3, then @Audio2, @Audio3 and @Audio4 in Shot 5. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
+Juk and Tin speak in Shot 3. Each of their lines is lip-synced to the person saying it. @Audio1 is a woman's voice calling out from off screen, from behind the camera, in Shot 2; everyone in the frame keeps their mouth closed while it plays. The voice files play in order, each exactly once: @Audio1 in Shot 2, then @Audio2, @Audio3 and @Audio4 in Shot 3. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 23 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. In the lobby, an old woman in a straw hat with a bamboo staff, really Nuch, Win's secretary, in disguise, is trying to take Aoy out of the building, saying that Aoy's "ลุงวิน" is dying. Juk, the young executive who wants Aoy to stay and finish the launch rehearsal, had the guards surround them, but the old woman has just scared them back with talk of the law and human trafficking, as in @Image13: she stands with her staff planted, Aoy behind her with her arms folded, the guards on both sides.
+All of this has already happened before the first frame. In the lobby, an old woman in disguise is trying to take Aoy, the star of the launch, out of the building. Juk, the young executive who wants Aoy to stay and finish the launch rehearsal, has had the guards surround them. Tin, the owner of the project, has been inside with his two stylists and is unaware of all this.
 
 SCENE
-The glass double doors of the inner hall open and Tin, the owner of the project, walks out, with his two stylists half a step behind. The old woman spins round, points her staff at him and accuses him of being the mastermind of a human-trafficking ring. Tin, stunned, turns on his heel and hurries back to the doors; Juk runs after him. With their backs to the old woman and Aoy, Juk explains in Tin's ear that the old woman only wants to take Aoy to see a dying relative. Tin wants to stay well away from anything to do with death: let her go now, and the rest can wait until tomorrow. Juk bows and agrees, Tin goes back in, and Juk turns back toward the old woman and Aoy.
-
-AOY
-In this video Aoy is seen only from behind or from far away. Her skin tone is natural, as in her character references.
+Tin walks out of the glass doors into the lobby with his two stylists, in no hurry. A woman's voice from off screen calls him out as the mastermind of a human-trafficking ring. Tin is uneasy and wants no trouble at all: he keeps walking, points at himself, and at the words human trafficking he simply curves his walk round and heads straight back the way he came. Juk catches up with him, and with the lobby a soft blur behind them, explains that the old woman only wants to take Aoy to see a dying relative. Tin wants to stay well away from anything to do with death: let her go now, and the rest can wait until tomorrow. Juk bows and agrees.
 
 ACTIVE REFERENCES
-@Image1 — THE INNER HALL LOOKING TOWARD THE BLUE-GREEN GLASS DOUBLE DOORS THAT LEAD TO THE LIFTS, WITH THE RECEPTION COUNTER ON THE LEFT AND A ROUND PILLAR ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE DOORS AND THE INNER HALL IN SHOT 1, SHOT 3 AND SHOT 4.
-@Image2 — THE LOBBY SEEN ACROSS, WITH THE TALL SUNLIT WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY AND THE TALL WINDOWS IN SHOT 2, SHOT 5 AND SHOT 6.
-@Image3 — NUCH: 60s, the chairman's secretary. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
-@Image4 — HER FULL BODY IN TODAY'S DISGUISE AS AN OLD WOMAN. 100% matches the reference for her clothes and her staff. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE, HER HAT AND HER GLASSES COME FROM @Image3.
-@Image5 — THE BAMBOO STAFF. THIS REFERENCE IS THE AUTHORITY FOR THE STAFF ITSELF.
-@Image6 — AOY'S FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her and her clothes.
-@Image7 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
-@Image8 — JUK: 28, Thai. 100% matches the reference, and @Image9 is the authority for what he is wearing today.
-@Image9 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image8.
-@Image10 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
-@Image11 — MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
-@Image12 — SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
-@Image13 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE OLD WOMAN, AOY AND THE GUARDS STAND AS THE VIDEO BEGINS.
-@Audio1 — THE OLD WOMAN'S VOICE, HER LINE, ACROSS SHOT 2 AND SHOT 3.
-@Audio2 — JUK'S VOICE, HIS FIRST LINE, IN SHOT 5.
-@Audio3 — TIN'S VOICE, HIS LINE, IN SHOT 5.
-@Audio4 — JUK'S VOICE, HIS SECOND LINE, IN SHOT 5.
-@Image3 carries Nuch's face in her disguise, with the straw hat and the tea-tinted glasses, and the rest of her disguise comes from @Image4. @Image5 carries the staff. @Image6 carries Aoy. @Image7 carries Tin. @Image8 carries Juk's face, and his clothes come from @Image9, front and back. @Image10 carries the wardrobe assistant and @Image11 the makeup artist. The guards come from @Image12. @Image13 shows where everyone stands as the video begins. The whole video takes place in the lobby in @Image1 and @Image2.
+@Image1 — THE INNER HALL LOOKING TOWARD THE BLUE-GREEN GLASS DOUBLE DOORS THAT LEAD TO THE LIFTS, WITH THE RECEPTION COUNTER ON THE LEFT AND A ROUND PILLAR ON THE RIGHT. THIS REFERENCE IS THE AUTHORITY FOR THE DOORS AND THE INNER HALL IN SHOT 1 AND SHOT 2.
+@Image2 — THE LOBBY SEEN ACROSS, WITH THE TALL SUNLIT WINDOWS ON THE LEFT AND THE RECEPTION COUNTER AT THE RIGHT EDGE. THIS REFERENCE IS THE AUTHORITY FOR THE SOFT, OUT-OF-FOCUS LOBBY BEHIND TIN AND JUK IN SHOT 3.
+@Image3 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
+@Image4 — JUK: 28, Thai. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
+@Image5 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image4.
+@Image6 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
+@Image7 — MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
+@Audio1 — A WOMAN'S VOICE FROM OFF SCREEN, CALLING OUT TO TIN, IN SHOT 2.
+@Audio2 — JUK'S VOICE, HIS FIRST LINE, IN SHOT 3.
+@Audio3 — TIN'S VOICE, HIS LINE, IN SHOT 3.
+@Audio4 — JUK'S VOICE, HIS SECOND LINE, IN SHOT 3.
+@Image3 carries Tin. @Image4 carries Juk's face, and his clothes come from @Image5, front and back. @Image6 carries the wardrobe assistant and @Image7 the makeup artist. The whole video takes place in the lobby in @Image1 and @Image2.
 
-WHAT THEY WEAR, AS IN @Image4, @Image6, @Image7, @Image9, @Image10, @Image11 AND @Image12
-- Nuch in disguise: a wide straw hat wrapped with a red cloth, short curly grey hair, tea-tinted glasses, a red polo shirt, a red and white checked cloth over her neck, a wooden pendant, a woven shoulder bag, a striped sarong, flip-flops. The bamboo staff in her right hand.
-- Aoy: a short qipao of deep red silk brocade embroidered with gold flowers, sheer black tights, barefoot. In her right hand, her pair of black high heels. A high ponytail with a gold hairpin hung with red beads.
+WHAT THEY WEAR, AS IN @Image3, @Image5, @Image6 AND @Image7
 - Tin: a heavy-set man, black hair combed flat, round black sunglasses; a navy three-piece suit, a white shirt, a maroon tie with a gold tie bar, a white pocket square, a gold pin on his lapel, black leather shoes.
 - Juk: an all-white suit, a dark navy shirt with the collar button open, round gold glasses, white sneakers.
 - The wardrobe assistant: a bob, a black mandarin-collar top with gold buttons, black trousers, black flats, a pincushion on her wrist, a black tablet hugged to her chest. The makeup artist: a low bun, a black mandarin-collar top with gold buttons, black trousers, a belt holding makeup brushes.
-- The guards: dark grey shirts, black ties, black trousers.
 
 WHERE EVERYONE IS
-- The ground-floor lobby of the office building in the late afternoon. At the far end of the inner hall, the glass double doors with long stainless steel handles in a blue-green glass frame, with the corridor to the lifts beyond them; the reception counter and a potted tree on their left, a round marble pillar on their right, as in @Image1. Across the hall, the tall glass wall onto the garden, with the low golden sun coming in, as in @Image2.
-- At the start, as in @Image13: the old woman and Aoy stand in the middle of the hall, the old woman with her staff planted and Aoy behind her; the guards stand in two lines on both sides of them, facing them, and stay there for the whole video. Tin and the two stylists are about to come out of the glass double doors.
-- During the video: Tin turns back toward the doors, and Juk hurries after him; the two of them talk in front of the doors with their backs to the old woman and Aoy.
-- LOOKING AT THE GLASS DOORS, AS IN @Image1: THE OLD WOMAN AND AOY HAVE THEIR BACKS TO THE CAMERA IN THE FOREGROUND; WHOEVER COMES OUT OF THE DOORS FACES THE CAMERA.
-- FROM THE SIDE: THE OLD WOMAN AND AOY ARE ON THE LEFT OF FRAME, FACING RIGHT; TIN'S SIDE IS ON THE RIGHT OF FRAME.
+- The ground-floor lobby of the office building in the late afternoon. At the far end of the inner hall, the glass double doors with long stainless steel handles in a blue-green glass frame, with the corridor to the lifts beyond them; the reception counter and a potted tree on their left, a round marble pillar on their right, as in @Image1.
+- IN SHOT 1 AND SHOT 2 THE CAMERA LOOKS AT THE GLASS DOORS, AS IN @Image1. THE ONLY PEOPLE IN FRAME ARE TIN AND THE TWO STYLISTS, AND IN THE LAST SECONDS OF SHOT 2, JUK. THE FLOOR BETWEEN THE CAMERA AND THE DOORS IS OPEN AND CLEAR.
+- IN SHOT 3: TIN IS ON THE LEFT OF FRAME AND JUK ON THE RIGHT OF FRAME, BOTH FACING THE CAMERA, IN FRONT OF THE GLASS DOORS.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–4.0 s — TIN ARRIVES
+Shot 1 — 0.0–3.0 s — TIN ARRIVES
 Picture, in this order:
-- 1. The glass double doors swing open and Tin walks out, slowly, in no hurry, straightening his tie bar with one hand, because he is the boss here; the two stylists follow half a step behind him.
-- 2. Tin walks toward the camera, growing bigger in the frame with each step, then stops to take in the scene.
-Camera: WS to MS as Tin walks in, 150 cm high, eye level, 50mm lens, locked-off, as in @Image1.
-Meaning: these are the same doors the security chief and Juk came out of, so the audience knows at once that this man comes from the same place, and that he is bigger than all of them.
-Composition: Aoy's back and the brim of the old woman's hat soft in the left foreground, the guards standing on both sides of them, soft at the left and right edges of the foreground; Tin in the middle of the frame, the glass doors framing him from behind; the two stylists a little behind him on the left and the right.
-Light: the ceiling lights of the corridor behind the glass make a line of light behind Tin; the afternoon sun from the glass wall falls warm and golden on his face, and his black lenses gleam.
+- 1. 0.0–3.0 s: The glass double doors swing open and Tin walks out toward the camera, slowly, in no hurry, straightening his tie bar with one hand, because he is the boss here; the two stylists follow half a step behind him, one on each side. He keeps walking.
+Camera: WS, 150 cm high, eye level, 50mm lens, locked-off, as in @Image1.
+Meaning: Tin comes out into a lobby he thinks is his, carefree.
+Composition: Tin in the middle of the frame, the glass doors framing him from behind; the two stylists a little behind him on the left and the right; the open marble floor in front of them.
+Light: the ceiling lights of the corridor behind the glass make a line of light behind Tin; the afternoon sun falls warm and golden on his face, and his black lenses gleam.
 Sound: the glass doors opening; leather shoes and flats walking on the stone floor.
 
-Shot 2 — 4.0–6.5 s — POINTING HIM OUT
+Shot 2 — 3.0–12.0 s — ME? · Tin keeps walking the whole shot
 Picture, in this order:
-- 1. The old woman spins round and points her staff straight at Tin, the staff reaching long across the frame, because she has found a new target.
-- 2. She says @Audio1, asking who this one is and calling him out.
-  - Old woman: "นั่นใครมาอีกคน ไอ้ตี๋ เอ้อ เอ็งนั่นแหละ เอ็งเป็นตัวบงการรึเปล่า ใช่แน่ๆ ไอ้พวกค้ามนุษย์"
-  - Emotion from the script: 借题发挥，当头棒喝.
-  - Performance: pleased to have a new target; certain, like she has caught the culprit red-handed.
-Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, from the side, as in @Image2.
-Composition: the old woman on the left third, facing right; the staff a diagonal line pointing out of the right edge of frame; Aoy a little behind her; the guards standing around them, soft in the background and at the edges of frame.
+- 1. 3.0–4.9 s: Tin keeps walking toward the camera. @Audio1 calls out from off screen; still walking, he glances behind him to the left and to the right to see who she means.
+- 2. 4.9–6.0 s: Still walking, he points a finger at his own chest, asking with that gesture if she means him.
+  - Emotion: 心里发怵，不想惹事.
+- 3. 6.0–9.2 s: He keeps walking, uneasy, wanting no part of any trouble.
+- 4. 9.2–10.3 s: As the voice says the words for human trafficking, still walking, he curves his walk round to the left of frame in a wide U, the two stylists swinging round with him, and heads straight back toward the glass doors, because he wants to stay far away from this trouble.
+- 5. 10.3–12.0 s: Juk comes in from the left edge of frame and falls in beside Tin, walking with him toward the doors, because he has to fix this before the boss leaves.
+Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, as in @Image1.
+Meaning: the boss keeps his stride the whole time: the U-turn is the joke, and the audience sees exactly how badly he wants to be somewhere else.
+Composition: Tin centre, facing the camera, the two stylists a little behind him; the glass doors behind them; at the end, Tin and Juk side by side with their backs to the camera, walking toward the doors.
+Sound: leather shoes and flats walking on the stone floor in one steady rhythm.
 
-Shot 3 — 6.5–12.5 s — ME?
+Shot 3 — 12.0–23.0 s — THE PRIVATE TALK · the closing shot
 Picture, in this order:
-- 1. @Audio1 carries straight on.
-- 2. Tin, who has just been called out, stops and looks behind him to the left and to the right to see who she means; the two stylists each step half a step away from him.
-- 3. Tin points a finger at his own chest, asking with that gesture if she means him; as the old woman confirms that she means him, he is stunned when she calls him the mastermind.
-- 4. As she says human trafficking, he jumps, turns on the spot and hurries back toward the glass doors; the two stylists quickly make way for him.
-Camera: MCU, 150 cm high, eye level, 85mm lens, locked-off, as in @Image1.
-Meaning: the still camera lets Tin's face change three times, puzzled, shocked, running, and then his back grows smaller toward the doors.
-Composition: Tin centre right, facing the camera; at the end, the back of his navy suit walking toward the glass doors.
-Sound: his leather shoes walking faster and faster.
-
-Shot 4 — 12.5–15.0 s — JUK GOES AFTER HIM
-Picture, in this order:
-- 1. Juk's white suit passes close in front of the lens, from left to right, filling the frame for a moment.
-- 2. Juk half runs after Tin and catches up with him at the glass doors, taking hold of his sleeve gently, because he has to fix this before the boss leaves.
-Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, as in @Image1.
-Meaning: the white suit passing the lens joins the cuts and shows that Juk comes from the ring of guards toward Tin.
-Composition: the old woman and Aoy, with the guards on both sides of them, soft in the left foreground; at the end, Tin and Juk stand in front of the glass doors in the middle of the frame, their backs to the camera; the two stylists stand aside, by the reception counter.
-
-Shot 5 — 15.0–25.0 s — THE SECRET MEETING
-Picture, in this order:
-- 1. Tin and Juk stand in front of the glass doors, facing the camera, their backs to the old woman and Aoy, their heads close together.
-- 2. Juk cups a hand to his mouth and says @Audio2 into Tin's ear; as he mentions the dying relative, he glances toward the old woman and Aoy for a moment.
+- 1. 12.0–12.4 s: Tin and Juk stand in front of the glass doors, facing the camera, close together.
+- 2. 12.4–16.0 s: Juk says @Audio2 to Tin.
   - Juk: "เหมือนยายแก่นี่จะมารับอลิซไปเยี่ยมญาติที่กำลังจะตายอะครับ"
   - Emotion from the script: 低声汇报，推脱麻烦.
   - Performance: weary, wanting to throw this whole problem away.
-- 3. Tin says @Audio3, brushing off his own sleeve to brush off bad luck, then smoothing the gold pin on his lapel.
+- 3. 16.3–20.3 s: Tin says @Audio3, brushing off his own sleeve to brush off bad luck, then smoothing the gold pin on his lapel.
   - Tin: "งั้นรีบๆ ให้ไปเลย เรื่องถอดไม่ถอด พรุ่งนี้ค่อยว่ากัน"
   - Emotion from the script: 心生晦气，不耐烦打发.
-  - Performance: his face sours, like he smells something bad; he is afraid a death will rub off on him, and he keeps his back to the old woman and Aoy the whole time.
-- 4. Juk bows and says @Audio4.
+  - Performance: his face sours, like he smells something bad; he is afraid a death will rub off on him.
+- 4. 20.5–22.0 s: Juk bows and says @Audio4.
   - Juk: "ได้ครับเฮีย"
   - Emotion from the script: 连忙哈腰，唯命是从.
   - Performance: he bows deep at once, his hands clasped in front of his stomach.
-Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, beside the glass doors, looking back across the lobby toward the tall sunlit windows, as in @Image2.
-Meaning: the two men decide the fate of the old woman and Aoy with their backs to them; the audience sees the private talk and the victims waiting far away in one frame.
-Composition: Tin on the left third and Juk on the right third, leaning in to each other; far away in the background on the left, the old woman and Aoy small in front of the sunlit glass wall, the staff standing straight, the guards standing in two lines on both sides of them.
+- 5. 22.0–23.0 s: Juk stays bowed; Tin straightens his jacket.
+Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, beside the glass doors, looking back across the lobby, as in @Image2; Tin and Juk sharp, the lobby behind them a soft golden blur.
+Meaning: the two men settle the whole matter between themselves, in a few quiet words.
+Composition: Tin on the left third and Juk on the right third, leaning in to each other; behind them the lobby melts into soft golden bokeh.
 Light: the afternoon sun from the far glass wall rims both men's shoulders; their faces take the soft light of the ceiling lights.
-Sound: the lobby goes quiet; only their low talk and the rustle of Tin's suit as he brushes his sleeve.
-
-Shot 6 — 25.0–28.0 s — TIN GOES BACK IN
-Picture, in this order:
-- 1. Tin turns and walks in through the glass doors, the shoulder of his navy suit passing close to the lens and out of the right edge; the two stylists follow him in.
-- 2. Juk stands alone, lets out a sigh, pulls the hem of his jacket straight, and turns to walk back toward the old woman and Aoy.
-Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, the same place as Shot 5, as in @Image2.
-Composition: at the end, the back of Juk's white suit on the right third; the old woman and Aoy far away on the left, with the guards on both sides of them.
-Sound: the glass doors beside the camera opening, then closing softly.
+Sound: the lobby goes quiet; only their talk and the rustle of Tin's suit as he brushes his sleeve.
 
 THE LAST FRAME
-Juk stands with his back to the camera, walking back toward the old woman and Aoy. The old woman and Aoy are far away on the left, in front of the glass wall, with the guards on both sides of them. Tin and the two stylists have gone back through the doors.
+Tin on the left of frame, straightening his jacket; Juk on the right, bowed, hands clasped. Behind them the lobby is a soft golden blur.
 
 DIALOGUE, IN THIS ORDER
-1. Shot 2 and Shot 3, @Audio1, OLD WOMAN: "นั่นใครมาอีกคน ไอ้ตี๋ เอ้อ เอ็งนั่นแหละ เอ็งเป็นตัวบงการรึเปล่า ใช่แน่ๆ ไอ้พวกค้ามนุษย์"
-2. Shot 5, @Audio2, JUK: "เหมือนยายแก่นี่จะมารับอลิซไปเยี่ยมญาติที่กำลังจะตายอะครับ"
-3. Shot 5, @Audio3, TIN: "งั้นรีบๆ ให้ไปเลย เรื่องถอดไม่ถอด พรุ่งนี้ค่อยว่ากัน"
-4. Shot 5, @Audio4, JUK: "ได้ครับเฮีย"
+1. Shot 2, @Audio1, OFF-SCREEN WOMAN: "นั่นใครมาอีกคน ไอ้ตี๋ เอ้อ เอ็งนั่นแหละ เอ็งเป็นตัวบงการรึเปล่า ใช่แน่ๆ ไอ้พวกค้ามนุษย์"
+2. Shot 3, @Audio2, JUK: "เหมือนยายแก่นี่จะมารับอลิซไปเยี่ยมญาติที่กำลังจะตายอะครับ"
+3. Shot 3, @Audio3, TIN: "งั้นรีบๆ ให้ไปเลย เรื่องถอดไม่ถอด พรุ่งนี้ค่อยว่ากัน"
+4. Shot 3, @Audio4, JUK: "ได้ครับเฮีย"
 
 ---
 
@@ -136,6 +98,7 @@ DIALOGUE, IN THIS ORDER
 | `借题发挥，当头棒喝` | ฉวยโอกาสเล่นใหญ่ ตวาดใส่หน้า | user สตอรี่บอร์ด 2026-11-12 คลิป 8 ช็อต 2 *"อารมณ์ตามบท: 借题发挥，当头棒喝"* |
 | `低声汇报，推脱麻烦` | กระซิบรายงาน อยากโยนเรื่องทิ้ง | user ช็อต 5 *"อารมณ์ตามบท: 低声汇报，推脱麻烦"* |
 | `心生晦气，不耐烦打发` | รู้สึกอัปมงคล ไล่ส่งอย่างรำคาญ | user ช็อต 5 *"อารมณ์ตามบท: 心生晦气，不耐烦打发"* |
+| `心里发怵，不想惹事` | หวั่นๆ ไม่อยากมีเรื่อง | user 2026-11-20 *"ให้ทินไม่ต้องตกใจเว่อ แค่หวั่นๆและไม่อยากมีเรื่องเลย"* (เทค 3) |
 | `连忙哈腰，唯命是从` | รีบค้อมตัว รับคำสั่งทุกอย่าง | user ช็อต 5 *"อารมณ์ตามบท: 连忙哈腰，唯命是从"* |
 
 ## CHANGE LOG
@@ -174,3 +137,13 @@ DIALOGUE, IN THIS ORDER
 - เทค 2 ผล (asset `af609ad7` · 28.04 วิ) — จุดตัดที่จับได้ 4.13 / 6.08 / 12.29 / 14.75 · เฟรม `EP03/frames/SB03-9_V2_0-14.png` · `SB03-9_V2_14-28.png` · เฟรมท้าย `SB03-9_V2_last.png`
   - รปภ. ทีละช็อต: ช็อต 1 ⚠️ มี 2 คนขอบซ้ายกลางภาพ (ขวาไม่มี) · ช็อต 2 ✗ ยายยืนคนเดียวหน้าหน้าต่าง ไม่มี รปภ. ไม่มีอลิซ · ช็อต 3 (ทิน) ไม่ต้องมี · ช็อต 4 ✓ รปภ. 4 คนเรียงซ้าย ยาย/อลิซหน้ากล้อง · ช็อต 5 ✗ ยาย/อลิซตัวเล็กไกลๆ ไม่มี รปภ. รอบตัว · ช็อต 6 ⚠️ รปภ. โผล่เป็นแถวกลางภาพ คั่นระหว่างแจ็คกับยาย/อลิซ ไม่ได้ยืนข้างสองคน
   - ✓ ทินออกประตู · ยายชี้ไม้ · ทินงง ชี้อก หนี · สูทขาวผ่านเลนส์ แจ็ควิ่งตาม · ประชุมลับ ป้องปาก · ทินปัดแขนเสื้อ · แจ็คค้อม · ทินผ่านเลนส์ออก แจ็คหันกลับ
+- เทค 3 (เตรียม 2026-11-20) — user *"เจน SB03-09_V2_SEL คัทแรกใหม่ ไม่ต้องมีใครในเฟรมนอกจากทินและ 2 สาวชุดดำ ไม่ต้องมีเสียงนุช VO · คัทที่ 2 ที่เป็นนุชไม่ต้องทำใหม่ ข้ามไปคัท 3 แก้ให้ไม่ต้องมีไม้พลองเข้าเฟรม และให้ทินไม่ต้องตกใจเว่อ แค่หวั่นๆและไม่อยากมีเรื่องเลย ตีวงยูเทิน ให้ดูตลก ไม่ใช่หมุนตัวนะ คือเดินมาตลอดไม่ได้หยุด ... แล้วเห็นแจ็คเข้าเฟรมซ้ายไปประกบ ในคัท3 ไม่ต้องมีคัท 4 ข้ามไปคัท 5 เลยที่คุยกัน โดยไม่ต้องมีนุชและอลิซเป็น bg ให้ข้างหลังโบเก้ไป"* · *"ทำบ็อกเดียวพอ"* · *"ตีวงตอนได้ยิน "ไอ้พวกค้ามนุษย์" ตีวงไปทางซ้ายนะ"* · *"แจ็คไม่ต้องป้องปาก ยืนไกลขนาดนั้นจะป้องปากทำไม ค้อมตัวตามเดิม"* · *"ยิงเป็นบ็อก 3 คัท นับความยาวใหม่"*
+  - โครงใหม่ 3 ช็อต 23 วิ: ช็อต 1 (เดิมช็อต 1) 0–3.0 เงียบ · ช็อต 2 (เดิมช็อต 3) 3.0–12.0 · ช็อต 3 (เดิมช็อต 5) 12.0–23.0 · ตัดช็อต 2/4/6 เดิม
+  - เสียงนุช @Audio1 ทั้งไลน์เป็น VO นอกจอบนช็อต 2 (ไม่มีช็อตยายแล้ว) · หยุด 0.71/1.58/2.67 → นั่นใคร 3.3 · ไอ้ตี๋ ~4.0 · เอ้อ เอ็งนั่นแหละ ~4.9 · ตัวบงการ…ไอ้พวกค้ามนุษย์ ~6.0–10.3 · ตีวง 9.2–10.3 · แจ็คเข้า 10.3–12.0
+  - เสียง 2/3/4 ช็อต 3: 12.4–16.0 · 16.3–20.3 · 20.5–21.8 + ค้อม
+  - ตัดเรฟ: ยาย 2 · ไม้ · อลิซ · รปภ. · เฟรมท้าย SB03-8 · เหลือ X06 · X05 · ทิน · แจ็ค 2 · ST 02 · ST 01 + เสียง 4
+  - ทินไม่หยุดเดิน · ตีวงไปทาง **ซ้ายเฟรม** (user "ทางซ้าย" + แจ็คเข้าซ้าย) · ช็อต 2 MS 50mm (เดิม MCU 85mm — เดินตีวงในเฟรมต้องกว้างขึ้น)
+  - ตัด *cups a hand to his mouth* และ *glances toward the old woman and Aoy* · ฉากหลังช็อต 3 = โบเก้ ไม่มียาย/อลิซ/รปภ.
+  - ตัด GLOBAL *The guards stay where they stand ...* · AOY section ออก
+  - ด่าน A8: *knows nothing* → *is unaware* · *without a care* → *carefree* · *without stopping* → *still walking* · *wants nothing to do with* → *wants to stay far away from* · *never breaks his stride* → *keeps his stride the whole time* · *without a pause* → *in one steady rhythm* · ด่านยกเว้น A4 ทินเหลียวหาซ้ายขวา = เทคเดิม (บรีฟ user คลิป 8)
+  - roles เทค 3: 6ca180ae X06 · be82b08e X05 · 1b11b860 ทิน · 1ca9b355 · 12b0b77a แจ็ค · 873cb52b ST02 · 7ff7594f ST01 · 412d2af8 · 0e7b8948 · cedadc55 · 0d0f0586 เสียง · (roles เทค 2 เดิม: + f62fa024 · fc6b25b4 · 12d53b5e · de7e4e99 · 17b738cc · 5cc246db)\n  - ขอราคา เทคใหม่ (output take) · Seedance 2.5 · references · 16:9 · 720p · 23 วิ · full · manual · audio true · quote `75795709` **203.1 พอยต์** · หมดอายุ 2026-11-20 16:35 UTC · idempotency `sb03-9-take3-20261120` · รอ "ยิง"
