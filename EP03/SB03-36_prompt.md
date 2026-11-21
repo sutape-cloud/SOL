@@ -135,3 +135,4 @@ DIALOGUE, IN THIS ORDER
   - ❌ ฝุ่น/หมอก/ตัวหนังสือ/โลโก้/zoom/slow/ดนตรี/ช่างสามคน → GLOBAL
 - ด่าน: A8 *with nothing added* → *just as it is* · *knows nothing about anything* → *lost in his own world* · A1 ช็อต 6 *his eyes still on the ceiling* → *still looking up at the ceiling* · A4 ช็อต 5/6 มองเพดาน = *"รีบเงยหน้ามองเพดานแบบลุงที่ไม่รู้เรื่องอะไร"* ตามสตอรี่บอร์ด (ตัวแอ็กชัน) เก็บไว้
 - เปิดช็อต `9f5f9ea1` (บท 03 #46) · roles 11 ภาพ + 2 เสียง `valid: true` · อัปพรอมป์ · ราคา 220.7 · quote `6b2342f3` หมดอายุ 2026-11-21 10:11 UTC · key `sb03-36-take1-20261121` · เปิดเสียง · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 · 220.7 · run `bf82d621-2795-4898-9ed5-f6183ac97624`
