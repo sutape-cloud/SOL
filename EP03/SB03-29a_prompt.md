@@ -52,3 +52,4 @@ Nuch stays silent.
 - แก้: WHERE *its screen facing her* + *the camera … sees the plain black back of the iPad case* · ปัด/ซูม *behind the iPad* · GLOBAL *Nuch's reactions are small and real* · เรฟเหลือ 3 ใบ (S01 · นุชหน้า · นุชเต็มตัว)
 - เปิดช็อต `3d3f017b` (บท 03 #31) · roles `valid: true` · อัปพรอมป์ · ราคา 35.4 · quote `6d90a9ac` หมดอายุ 2026-11-21 02:49 UTC · key `sb03-29a-take1-20261121` · รอ "ยิง"
 - ยิงเทค 1 2026-11-21 02:43 UTC · 35.4 · run `28e17ce5-9a91-4451-969b-d702b6dc8125`
+- เทค 1 เสร็จ · asset `f0052ec3` · 4.04 วิ · อ่านเฟรม (`EP03/frames/SB03-29a_V1_contact.jpg`): หลังเคส iPad ดำหันเข้ากล้อง ✓ ไม่เห็นจอ ✓ · ⚠ ช่วง 2–3.5 วิ นุชตาโต อ้าปากเป็นรูปตัว O = เล่นเกิน · รอ user ดู
