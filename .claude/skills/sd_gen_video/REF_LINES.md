@@ -103,28 +103,6 @@ ASSISTANT WITH THE PONYTAIL: 25, Thai, an assistant in the secretary team, low b
 ```
 user เคาะ 2026-11-12 (สั่ง "ยิง" SB03-1 หลังเสนอบรรทัดนี้) · Mix Stage `STAFF01 sheet sd55 v1` `549e9f59` · ใบเดียวมีทั้งหน้าและชุด · ลูกทีมฝ่ายเลขา ซีน 3-0
 
-## รอ user เคาะ
-
-(ว่าง)
-
----
-
-## ของที่ไม่ใช่คน — ไม่อยู่ในทะเบียนนี้
-ฉาก · พื้นหลัง · ไดรเวอร์ เขียนตามงานของแต่ละบ็อกได้ เพราะมันเปลี่ยนจริงทุกบ็อก
-แต่ยังอยู่ใต้กฎเดิม: **บอกแค่ว่าใบนี้เป็นเจ้าของอะไร ห้ามไล่ว่าในรูปมีอะไร**
-
-รถมอเตอร์ไซค์ใช้รูปนี้:
-```
-THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
-```
-ที่เคยเขียนผิด: ไล่ยี่ห้อถัง เบาะ ล้อ กระจก ยาว 5 บรรทัด — 4 แบบไม่ซ้ำกัน
-
-เรฟ `win bike` (`59aa7c25`) มีเงาคนสีเทาเทียบขนาด → ต่อท้ายบรรทัดว่า (user 2026-10-23 *"ตอนพร้อมป์อย่าลืมบอกได้ด้วย ไม่ให้รถออกมาเล็กเกิน"*):
-```
-THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
-```
-
-
 ### ANON · ทนายอานนท์ (ทีมกฎหมาย)
 ```
 ANON: Thai, a lawyer on the company's legal team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
@@ -148,3 +126,24 @@ user เคาะ 2026-11-21 (`SB03-29`) · `LEGAL01 anon sheet sd55 v2` `f14ab6
 THE PONYTAIL LAWYER: Thai, a young woman on the company's legal team. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
 ```
 user เคาะ 2026-11-21 (`SB03-29`) · `LEGAL04 woman sheet sd55 v2` `4ebb93d7`
+
+## รอ user เคาะ
+
+(ว่าง)
+
+---
+
+## ของที่ไม่ใช่คน — ไม่อยู่ในทะเบียนนี้
+ฉาก · พื้นหลัง · ไดรเวอร์ เขียนตามงานของแต่ละบ็อกได้ เพราะมันเปลี่ยนจริงทุกบ็อก
+แต่ยังอยู่ใต้กฎเดิม: **บอกแค่ว่าใบนี้เป็นเจ้าของอะไร ห้ามไล่ว่าในรูปมีอะไร**
+
+รถมอเตอร์ไซค์ใช้รูปนี้:
+```
+THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
+```
+ที่เคยเขียนผิด: ไล่ยี่ห้อถัง เบาะ ล้อ กระจก ยาว 5 บรรทัด — 4 แบบไม่ซ้ำกัน
+
+เรฟ `win bike` (`59aa7c25`) มีเงาคนสีเทาเทียบขนาด → ต่อท้ายบรรทัดว่า (user 2026-10-23 *"ตอนพร้อมป์อย่าลืมบอกได้ด้วย ไม่ให้รถออกมาเล็กเกิน"*):
+```
+THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
+```
