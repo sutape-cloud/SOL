@@ -180,3 +180,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน: A8/A13 SCENE *loudly · whispers · do not agree* → *for the stylists to hear · tells him privately · answer differently* · ช็อต 3 *Juk does not* → *Juk believes her* · ช็อต 4 A8/A23 *does not argue … bored, not angry* → *arguing would only waste his time; he lets it go* · ช็อต 8 *not just waiting* → *more than waiting* · ช็อต 7 A1/A13 *lips almost at his ear · whispers* → *right beside the edge of the pink hat · says … privately* · @Audio5 *WHISPER* → *PRIVATE LINE* · ช็อต 8 A4 *looks at the closed door* → *stays facing the closed door* · A4 ช็อต 4 แจ็คเหลือบดูขา = แอ็กชันเอง เก็บไว้
 - หัวช็อต 7 *WHISPER* → *CLOSE* (A13)
 - เปิดช็อต `bf53ebd7` (บท 03 #40) · roles 13 ภาพ + 5 เสียง `valid: true` · อัปพรอมป์ · ราคา 247.2 · quote `e0d4f026` หมดอายุ 2026-11-21 06:47 UTC · key `sb03-32-take1-20261121` · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 06:43 UTC · 247.2 · run `762169f1-da80-44da-882f-20bd173d642c`
