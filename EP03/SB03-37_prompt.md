@@ -152,3 +152,4 @@ DIALOGUE, IN THIS ORDER
   - ด่าน: A8 *Tin must not see his face* → *has to stay unseen / out of Tin's sight* · *without hurry* → *calmly* · *cannot remember* → *has forgotten* · A4 ทุกจุด = ตัวแอ็กชัน (ดูจอ · เทียบรูปกับหน้าคน · มองเก้าอี้ว่าง) เก็บไว้
 - ด่านยกเว้น: A1 user สั่งในสตอรี่บอร์ดคลิป 7 ช็อต 6 *"ใช้นิ้วลูบคาง"* · และคำสั่ง user *"วินแอบมองเพราะหลบอยู่"* → *the side of Win's face* / *his back against the pillar* เป็นท่าหลบแอบมองตามบท
 - เทค 2: แนบ `ad94e94f` @Image10 · `ddf91244` @Image11 · roles 11 ภาพ + 2 เสียง `valid: true` · อัปพรอมป์ · ราคา 238.4 · quote `054fcba6` หมดอายุ 2026-11-21 11:29 UTC · key `sb03-37-take2-20261121` · เปิดเสียง · รอ "ยิง"
+- ยิงเทค 2 2026-11-21 · 238.4 · run `982c3ba9-e7da-4589-bfde-fea83987fa96`
