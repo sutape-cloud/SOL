@@ -62,3 +62,4 @@ Everyone stays silent.
 - เรฟ: @Image1 tin_A_v12 `8a40f7a4` · @Image2 วินหน้า `2aec936c` · @Image3 วินกลับเสื้อ `b16a326b` · @Image4 หมวก `a2167781` · @Image5 ST03 `f8d0e7d7` · @Image6 ST02 `873cb52b` · @Image7 ST01 `7ff7594f` · @Image8 ที่นั่ง `245bc478` · @Image9 หมวก CU `ad94e94f` · @Image10 หมวกหลัง `ddf91244` · ไม่มีเสียงพูด
 - ด่านยกเว้น: A1 บท ch3 *"แกล้งหลับสัปหงก"* → *his eyes closed under the pink hat* · *lets his chin sink* เป็นท่าแกล้งหลับตามบท
 - โควต 6 วิ = 53.0 · digest `a78a79b3` · shot `d1d51bec` · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 · 53.0 · run `bb674d41-8104-4e80-859e-228c6725f8b4`
