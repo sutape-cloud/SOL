@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, a real place, natural skin. One shot, 6 seconds, at real-time speed. Small, natural acting at the size of real life. The light is the late-morning sun through the floor-to-ceiling glass wall, lying in bright patches on the marble floor, with the warm hidden lights along the edge of the ceiling and the downlights. Every surface is plain. Every person has two arms and two legs. One fixed focal length. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, a real place, natural skin. One shot, 6 seconds, at real-time speed. Small, natural acting at the size of real life. The light is the late-morning sun through the floor-to-ceiling glass wall, lying in bright patches on the marble floor, with the warm hidden lights along the edge of the ceiling and the downlights. Every surface is plain. Win wears the pink knitted hat of @Image4 on his head for the whole video, pulled down low, the big cream knitted flower on its folded brim: the one spot of pink in the picture. Every person has two arms and two legs. One fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
 Everyone stays silent. The only sounds are the door closing, Win's footsteps on the marble, the leather of the armchair, and, behind the door, a hair dryer starting up, muffled. Everything ends within 6 seconds.
@@ -8,7 +8,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy told her "uncle" Win to sit and stay, then told him privately that people with Alzheimer's answer differently. She has just gone into the dressing room with the styling team. Win stands in the middle of the marble hall, alone.
 
 SCENE
-The dressing-room door closes on Aoy. Win, alone in the hall, takes the armchair in the sitting area that faces the dressing-room door and sits down upright, watching the door: more than waiting, he is guarding her.
+The dressing-room door closes on Aoy. Win, alone in the hall, goes to an armchair in the sitting area, turns it round to face the dressing-room door, and sits down upright, watching the door: more than waiting, he is guarding her.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL SEEN FROM THE LONG CORRIDOR, LOOKING TOWARD THE DRESSING-ROOM DOOR, WITH THE SITTING AREA. THE CAMERA LOOKS IN THIS SAME DIRECTION IN THIS VIDEO.
@@ -22,24 +22,26 @@ WHAT THEY WEAR
 - The head makeup artist: a muted golden-blond undercut; a short-sleeved black shirt with gold buttons; a silk scarf at his neck.
 
 WHERE EVERYONE IS
-- The marble hall outside the dressing room, as in @Image1: the walnut wall with the gold-framed paintings on the left; the dressing-room door in its white marble panel at the far end, the olive tree beside it; the sitting area on the right, by the glass wall: a cream sofa, cream leather armchairs, white orchids and a brass floor lamp. In the sitting area one cream leather armchair stands out on the marble with its back to the camera, facing the dressing-room door.
+- The marble hall outside the dressing room, as in @Image1: the walnut wall with the gold-framed paintings on the left; the dressing-room door in its white marble panel at the far end, the olive tree beside it; the sitting area on the right, by the glass wall: a cream sofa, cream leather armchairs, white orchids and a brass floor lamp. In the sitting area one cream leather armchair stands out on the marble with its back to the camera, facing the sofa.
 - THE CAMERA STANDS AT THE LONG-CORRIDOR END OF THE HALL, ON ITS CENTRE LINE, LOOKING TOWARD THE DRESSING-ROOM DOOR, AS IN @Image1.
-- At the start: Win stands in the middle of the hall with his back to the camera, facing the door; the head makeup artist at the open dressing-room door.
+- At the start: Win stands in the middle of the hall with his back to the camera, the pink knitted hat on his head, facing the door; the head makeup artist at the open dressing-room door.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–6.0 s — ON GUARD · Win
 Picture, in this order:
 - 1. 0.0–1.2 s: At the far end, the head makeup artist gives Win a little fingertip wave goodbye and closes the walnut door; the warm light from inside is gone.
 - 2. 1.2–2.0 s: Win stays facing the closed door for a beat.
-- 3. 2.0–4.6 s: He walks to the sitting area and sits down in the cream leather armchair that faces the dressing-room door, his back to the camera.
-- 4. 4.6–6.0 s: He sits upright, both hands on his knees, facing the door straight on.
+- 3. 2.0–3.4 s: He walks to the cream leather armchair in the sitting area.
+- 4. 3.4–4.6 s: He takes hold of the armchair and turns it round so that it faces the dressing-room door.
+- 5. 4.6–5.4 s: He sits down in it, facing the door.
+- 6. 5.4–6.0 s: He sits upright, both hands on his knees, facing the door straight on, the pink hat on his head.
 Camera: WS, 120 cm high, eye level, 24mm lens, locked-off; at the long-corridor end, on the centre line of the hall, looking at the dressing-room door.
 Meaning: one man in one chair, turned straight to the door, in the wide marble hall: more than waiting, he is guarding her.
-Composition: the walnut door in its white marble panel at the far end; the walnut wall and the paintings on the left; the glass wall and the sitting area on the right; Win in the armchair with his back to the camera, the pink hat the one spot of colour.
+Composition: the walnut door in its white marble panel at the far end; the walnut wall and the paintings on the left; the glass wall and the sitting area on the right; Win in the armchair turned toward the door, his back and the pink hat toward the camera, the pink hat the one spot of colour.
 Light: the sun from the glass wall lies in a bright patch on the floor near the armchair.
 
 THE LAST FRAME
-From the long-corridor end: Win sits in the cream leather armchair in the sitting area, his back to the camera, facing the closed dressing-room door, both hands on his knees, the pink hat bright against the walnut and marble. The hall is otherwise empty.
+From the long-corridor end: Win sits in the cream leather armchair he has turned toward the closed dressing-room door, the pink knitted hat on his head, his back to the camera, both hands on his knees, the pink hat bright against the walnut and marble. The hall is otherwise empty.
 
 DIALOGUE
 Everyone stays silent.
@@ -60,3 +62,5 @@ Everyone stays silent.
 - เปิดช็อต `21274889` (บท 03 #42) · roles `valid: true` · อัปพรอมป์ · ราคา 53.0 · quote `3d2bcdc1` หมดอายุ 2026-11-21 07:09 UTC · key `sb03-32b-take1-20261121` · รอ "ยิง"
 - ยิงเทค 1 2026-11-21 07:00 UTC · 53.0 · run `bb33d22a-5f16-46d0-9325-4fcd385bbd6e`
 - เทค 1 เสร็จ · asset `45fa6faa` · 6.04 วิ · อ่านเฟรม (`EP03/frames/SB03-32b_V1_contact.jpg` · `_last.jpg`): มุม T A จากฝั่งทางเดิน ✓ · ประตูปิด (เฟรมแรกเห็นคนในห้อง) ✓ · วินเดินไปนั่งอาร์มแชร์กลางมุมนั่งเล่น หลังหันเข้ากล้อง ✓ · ❌ **ไม่มีหมวกชมพู** (ผมดำ) · ⚠ อาร์มแชร์หันไปทางโซฟา/ผนังกระจก ไม่ได้หันตรงเข้าประตู (ประตูอยู่ซ้ายมือเขา) · รอ user ดู
+- เทค 2 แก้ — user 2026-11-21 *"แก้ 32b ใส่หมวกชมพู หันเก้าอี้เข้าประตู"* · เทค 1 วินไม่มีหมวก และอาร์มแชร์หันไปโซฟา · GLOBAL เพิ่ม *Win wears the pink knitted hat of @Image4 on his head for the whole video* · ตำแหน่งเริ่ม/เฟรมท้าย ระบุหมวก · อาร์มแชร์เดิมหันไปทางโซฟา → ช็อตเพิ่มบีต *turns it round so that it faces the dressing-room door* แล้วค่อยนั่ง · แบ่งเวลาใหม่ 2.0–3.4 เดิน · 3.4–4.6 หมุนเก้าอี้ · 4.6–5.4 นั่ง · 5.4–6.0 นั่งตรง
+- เทค 2: อัปพรอมป์ · ราคา 53.0 · quote `52a13388` หมดอายุ 2026-11-21 07:22 UTC · key `sb03-32b-take2-20261121` · รอ "ยิง"
