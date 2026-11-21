@@ -54,3 +54,4 @@ The small cream flower on the brim of the pink knitted hat on the left of frame,
 - quote 35.4 พอยต์ · seedance-2-5 references 16:9 720p full manual audio on · 4 วิ · insert
 - user 2026-11-21 *"เน้นที่ดอกไม้ที่ปักบนหมวกไหมพรมนะ"* → rack focus ลงที่ดอกไม้ครีม 5 กลีบ ปลายปีกหมวกด้านหน้าล่างขวา (ตามรูปเรฟ `28bfab31`) · quote เดิม 35.4 key `-b` ใช้ไม่ได้แล้ว
 - quote ใหม่ 35.4 key `sb03-23i-v1-20261121-c`
+- ยิง 2026-11-21 run `8bede2ea-a0a9-4df3-8593-c5cea6bd66f9` · 35.4 พอยต์
