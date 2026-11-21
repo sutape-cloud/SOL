@@ -68,3 +68,4 @@ Everyone stays silent.
 - เทค 1 — ก๊อปจาก `SB03-30_prompt.md` (ช็อต 2 · บรรทัดเรฟ · ชุด) · แก้ช็อต 2 ของ `SB03-30` เทค 1 (`fabff6c1`): ทนาย 7 คน · กล้องหันเข้าทีวีเห็นหน้าเอกสาร
 - แก้: GLOBAL *The table has eight chairs: exactly four lawyers sit at it … the other chairs stay empty* · ที่นั่งผูกกับผนังกระจก (*the chair nearest the glass wall*) แทน *nearest Nuch* · กล้อง *AT THE TV WALL, WHERE THE TV IS* ตัวใหญ่ · ไม่ใส่เสียงนุช (ช็อตนี้ไม่เห็นปากนุช เสียง *"สัญญาฉบับนี้ขอให้ดูด่วน"* วางตอนตัดต่อจาก @Audio1 ของ `SB03-30`)
 - เปิดช็อต `149c89b0` (บท 03 #34) · roles `valid: true` · อัปพรอมป์ · ราคา 35.4 · quote `86397b2e` หมดอายุ 2026-11-21 04:24 UTC · key `sb03-30a-take1-20261121` · รอ "ยิง"
+- quote เดิมหมดอายุ → quote ใหม่ `ec1934eb` ราคาเดิม 35.4 digest เดิม · key `sb03-30a-take1b-20261121` · ยิงเทค 1 2026-11-21 04:45 UTC · run `8e67d99b-ddae-4f7d-8855-dca19183b895`
