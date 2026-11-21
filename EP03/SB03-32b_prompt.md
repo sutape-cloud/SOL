@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, a real place, natural skin. One shot, 6 seconds, at real-time speed. Small, natural acting at the size of real life. The light is the late-morning sun through the floor-to-ceiling glass wall, lying in bright patches on the marble floor, with the warm hidden lights along the edge of the ceiling and the downlights. Every surface is plain. Win wears the pink knitted hat of @Image4 on his head for the whole video, pulled down low, the big cream knitted flower on its folded brim: the one spot of pink in the picture. Every person has two arms and two legs. One fixed focal length. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, a real place, natural skin. One shot, 6 seconds, at real-time speed. Small, natural acting at the size of real life. The light is the late-morning sun through the floor-to-ceiling glass wall, lying in bright patches on the marble floor, with the warm hidden lights along the edge of the ceiling and the downlights. Every surface is plain. Win wears the pink knitted hat of @Image4 on his head for the whole video, exactly as in @Image6, pulled down low, the big cream knitted flower on its folded brim: the one spot of pink in the picture. Every person has two arms and two legs. One fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
 Everyone stays silent. The only sounds are the door closing, Win's footsteps on the marble, the leather of the armchair, and, behind the door, a hair dryer starting up, muffled. Everything ends within 6 seconds.
@@ -16,6 +16,7 @@ ACTIVE REFERENCES
 @Image3 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
 @Image4 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
 @Image5 — HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+@Image6 — WIN IN THIS HALL, SEEN FROM BEHIND, WITH THE PINK KNITTED HAT ON HIS HEAD. HE WEARS THE HAT EXACTLY LIKE THIS FOR THE WHOLE VIDEO.
 
 WHAT THEY WEAR
 - Win: a glossy white nylon jacket with green trim; a white crew-neck T-shirt; black jeans; black leather boots; the pink knitted hat with a folded brim and a big knitted cream flower.
@@ -74,3 +75,5 @@ Everyone stays silent.
 - เทค 5 (พรอมป์เทค 1 + หมวก): อัปพรอมป์ · ราคา 53.0 · quote `d2f9f65d` หมดอายุ 2026-11-21 07:53 UTC · key `sb03-32b-take5-20261121` · เปิดเสียง · รอ "ยิง"
 - ยิงเทค 5 2026-11-21 07:45 UTC · 53.0 · run `88769c60-77e3-4189-9b24-6c7cc046a3b0`
 - เทค 5 เสร็จ · asset `d19d3b91` · 6.04 วิ · เสียงผ่าน · อ่านเฟรม (`EP03/frames/SB03-32b_V5_contact.jpg` · `_last.jpg` · `_crops.jpg`): บล็อกกิ้งเหมือนเทค 1 ✓ (ประตูปิด · เดินไปนั่งอาร์มแชร์กลางมุมนั่งเล่น หลังหันเข้ากล้อง) · กล้องถอยไกลกว่าเทค 1 · ❌ **ไม่มีหมวกชมพูอีก** (ผมดำ ทั้งตอนเดินและตอนนั่ง) · หมายเหตุ: เทค 3 (`9c108be8`) เฟรมท้ายเป็นบล็อกกิ้งเดียวกับเทค 1 + มีหมวกชมพู (เก้าอี้ไม่ได้หมุนจริง) · รอ user ดู
+- เทค 6 — user *"คือ คุณแค่ไปเอาเฟรม ที่ภาพ มันติดวินใส่ หมวก ก็พอละปะจากคลิป"* · ดึงเฟรม 1.5 วิ จากเทค 3 (`9c108be8`, วินยืนกลางโถง หันหลัง ใส่หมวกชมพู มุมเดียวกับช็อตนี้) → Mix Stage `WIN_whitejkt_pinkhat_hall_back` `ddf91244` · เพิ่ม @Image6 ท้ายลิสต์ (เลข @Image เดิมไม่ขยับ) · GLOBAL เติม *exactly as in @Image6* · บรรทัดอื่นเหมือนเทค 5 ทุกตัว
+- เทค 6: แนบ `ddf91244` เป็น @Image6 · roles `valid: true` · อัปพรอมป์ · ราคา 53.0 · quote `43870016` หมดอายุ 2026-11-21 08:09 UTC · key `sb03-32b-take6-20261121` · เปิดเสียง · รอ "ยิง"

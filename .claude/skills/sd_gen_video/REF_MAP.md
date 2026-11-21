@@ -59,3 +59,4 @@
 | ALIZ_pajamas_CU (Mix Stage) | `4cab6042-b081-44da-b761-e4eb4e51ae88` | 2026-10-16 · user สั่งลบ แทนด้วยชุดใหม่ |
 | C2 3 clip07 11s (Mix Stage · ตัวซ้ำ) | `b5feee8f-c3d3-4aa2-bb5b-77d5dff99150` | 2026-10-19 · อัปซ้ำ user สั่งลบ 1 อัน · ตัวที่ใช้คือ `160434ea-14b1-42cc-9b65-5940ab96830d` |
 | ALIZ_room_asleep (Set · ทดลองเจนเรฟ) | `7e231a87-a7e9-43a4-a09a-6bcd3fb1169f` | 2026-10-16 · เจนแล้วได้ห้องเปล่า · user สั่งลบ |
+| `WIN_whitejkt_pinkhat_hall_back` | `ddf91244` | วินหันหลังกลางโถงหน้าห้องแต่งตัว ใส่หมวกชมพู · เฟรม 1.5 วิ จาก `SB03-32b` เทค 3 · ไฟล์ `EP03/WIN_pinkhat_hall_back_from_SB03-32b_V3.png` | 2026-11-21 |
