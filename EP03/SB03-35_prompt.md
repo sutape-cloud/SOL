@@ -143,3 +143,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน: A8 *never expected* → *only half meant it* (SCENE + ช็อต 6) · *nothing new* → *she is used to this* · *cannot remember* → *has forgotten* · *Without being asked* → *On her own* · *nothing more* → *and that is all* · *without a doubt* → *completely sure* · A1 ช็อต 5 *her eyes above the rim* → *looking at him over the top of her glasses* · A4 ช็อต 5 *looks up at the whole room* = *"เงยหน้ามองทั้งห้อง"* ตามสตอรี่บอร์ด เก็บไว้
 - ด่านยกเว้น: A1 user สั่งในสตอรี่บอร์ดคลิป 5 ช็อต 4 *"ตากลอกขึ้นเพดานแวบหนึ่ง แบบคนที่รู้นิสัยเจ้านายดี"* · เป็นท่าทางเล่าเรื่อง (รู้ทันเจ้านาย) เขียนเป็น *rolls her eyes for a moment*
 - เปิดช็อต `ddf47143` (บท 03 #45) · roles 8 ภาพ + 5 เสียง `valid: true` · อัปพรอมป์ · ราคา 238.4 · quote `79bccd85` หมดอายุ 2026-11-21 09:53 UTC · key `sb03-35-take1-20261121` · เปิดเสียง · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 · 238.4 · run `70b673c6-62f2-4ec8-8a21-bb63f01cf545`
