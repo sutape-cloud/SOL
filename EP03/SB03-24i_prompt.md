@@ -6,7 +6,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Round the corner at the far end of the corridor, in the housekeeper's rest room, Win turned his light-green jacket inside out so that it is now white with green trim, and put on the housekeeper's pink knitted hat with the cream flower: a quick, simple disguise as the "uncle", because the girl he looks after is in a tight spot out in the corridor and needs an uncle right now. Now he steps out to help her.
 
 SCENE
-The far end of the corridor is empty. Then Win comes out of the corner at the far end and walks a few steps toward the camera, cool and easy, sure of himself: a man in a quick disguise doing a simple favour, with the swagger of a man who looks good in anything, even a pink knitted hat.
+Win comes straight out of the corner at the far end and walks a few steps toward the camera, cool and easy, sure of himself: a man in a quick disguise doing a simple favour, with the swagger of a man who looks good in anything, even a pink knitted hat.
 
 ACTIVE REFERENCES
 @Image1 — THE CORRIDOR DOWN TO ITS FAR END, SEEN FROM IN FRONT OF THE LIFT, FROM THE CEILING TO THE FLOOR. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE, THE PERSPECTIVE AND THE LIGHT OF THE WHOLE SHOT: THE MIDDLE OF THE 16:9 PICTURE MATCHES @Image1 100%, AND THE MARBLE WALLS CONTINUE AT BOTH SIDES.
@@ -28,10 +28,9 @@ WHERE EVERYONE IS
 SHOT
 Shot 1 — 0.0–4.0 s — THE UNCLE COMES ROUND THE CORNER
 Picture, in this order:
-- 1. 0.0–0.6 s: The far end of the corridor exactly as in @Image1, empty and still.
-- 2. 0.6–1.2 s: Win steps out of the bright opening on the left of the end wall, already in his stride, full length in the frame.
-- 3. 1.2–2.8 s: He walks a few steps toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, one hand in his jacket pocket, chin up, sure of himself, because she needs him and this is an easy way to get her out of trouble.
-- 4. 2.8–4.0 s: He stops in the middle of the corridor and stands tall and easy, his weight on one leg, still full length in the frame, from the hat to the boots.
+- 1. 0.0–0.6 s: The very first frame is the far end of the corridor exactly as in @Image1, empty; straight away Win steps out of the bright opening on the left of the end wall, already in his stride, full length in the frame.
+- 2. 0.6–2.8 s: He walks a few steps toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, one hand in his jacket pocket, chin up, sure of himself, because she needs him and this is an easy way to get her out of trouble.
+- 3. 2.8–4.0 s: He stops in the middle of the corridor and stands tall and easy, his weight on one leg, still full length in the frame, from the hat to the boots.
 Camera: FS, locked-off, the camera angle and framing of @Image1; in front of the lift, looking down the corridor to its far end.
 Meaning: the reveal of the uncle is a tall, cool man in a pink knitted hat, and the outfit is funny by itself.
 Composition: the framing of @Image1; Win in the middle of the frame, full length from the hat to the boots for the whole time he is in it, with a little floor below his boots and a little wall above his hat.
@@ -74,3 +73,5 @@ The framing of @Image1. Win standing still, tall and easy, in the middle of the 
   - roles [07fb9596, 2aec936c, b16a326b, a2167781] · quote `sb03-24i-v2-…-a` ใช้ไม่ได้
   - ด่านยกเว้น A20 ขอบลิฟต์ขวาสุด = ตามภาพครอปที่ user ส่ง
   - quote 35.4 · key `sb03-24i-v2-20261121-b` · รอ "ยิง"
+- user 2026-11-21 *"0.6 วิแรกจะให้เฟรมว่าทำไม แค่เฟรมเดียว แล้ววินเข้าเลยสิวะ"* → ว่างแค่เฟรมแรก วินก้าวออกทันที 0.0–0.6 · เดิน 0.6–2.8 · หยุด 2.8–4.0 · 4 บีต → 3 · quote `-b` ใช้ไม่ได้
+  - quote 35.4 · key `sb03-24i-v2-20261121-c` · รอ "ยิง"
