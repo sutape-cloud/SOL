@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the first video of this scene. Juk drove Aoy to the office of the project owner, where she is to be made up for the job; Aoy brought along her "uncle" Win, in his jacket turned inside out and a pink knitted hat, saying he has Alzheimer's and cannot be left at home alone. Win plays the confused old uncle. The three of them have come up in the lift and are walking along the long corridor toward the dressing room, where the styling team is waiting.
 
 SCENE
-Juk leads Aoy and her "uncle" across the quiet, expensive hall to the dressing room. The head makeup artist, a flamboyant man, inspects Aoy's bare face like a professional and approves. Juk hands over the sketch and orders the styling team to make her up exactly as drawn, so the executives are fully satisfied. Then he waves the uncle off to the sofa in the sitting area: the uncle waits outside, facing the dressing-room door. Win obeys like an old man, but he wants to stay near Aoy.
+Juk leads Aoy and her "uncle" across the quiet, expensive hall to the dressing room. The head makeup artist, a fashionable kathoey, inspects Aoy's bare face like a professional and approves. Juk hands over the sketch and orders the styling team to make her up exactly as drawn, so the executives are fully satisfied. Then he waves the uncle off to the sofa in the sitting area: the uncle waits outside, facing the dressing-room door. Win obeys like an old man, but he wants to stay near Aoy.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM IN THE PROJECT OWNER'S OFFICE, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -22,7 +22,7 @@ ACTIVE REFERENCES
 @Image8 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
 @Image9 — JUK: 28, Thai. 100% matches the reference, and @Image10 is the authority for what he is wearing today.
 @Image10 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes and for how he looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image9.
-@Image11 — HEAD MAKEUP ARTIST: Thai, a flamboyant man in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+@Image11 — HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
 @Image12 — HAIR STYLIST: Thai, a woman in her thirties, the styling team's hairdresser. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
 @Image13 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
 @Audio1 — JUK'S VOICE, HIS FIRST LINE, IN SHOT 3.
@@ -132,3 +132,5 @@ DIALOGUE, IN THIS ORDER
 - เปิดช็อต `4ddbd80b` (บท 03 #38) · roles 13 ภาพ + 2 เสียง `valid: true` · อัปพรอมป์ · ราคา 211.9 · quote `459131a8` หมดอายุ 2026-11-21 05:49 UTC · key `sb03-31-take1-20261121` · รอ user เคาะบรรทัดเรฟ ST03/ST01 + "ยิง"
 - แก้ 2026-11-21 — user *"ในบท ต้องนั่งอาร์มแชร์ หรอ ให้นั่ง โซฟา รอ ก็ได้เปล่า แค่หันหน้า ไปที่ประตู รอ"* · บทเขียนแค่ *"แจ็คชี้ให้วินไปนั่งที่เก้าอี้หน้าห้อง"* → เปลี่ยนอาร์มแชร์ตัวเดียวชิดผนังไม้ เป็น **โซฟาครีมในมุมนั่งเล่นข้างประตูห้องแต่งตัว** · SCENE *waits outside, facing the dressing-room door* · ช็อต 4 นิ้วชี้ไปที่โซฟา · องค์ประกอบ โซฟาอยู่ขวาเฟรมหลังแจ็ค · เฟรมท้าย · ตัดบรรทัดอาร์มแชร์ใน WHERE · วินยังยืนตอนจบคลิปตามสตอรี่บอร์ด (นั่งในคลิปถัดไป)
 - เทค 1 (โซฟา): อัปพรอมป์ · ราคา 211.9 · quote `3c563837` หมดอายุ 2026-11-21 05:53 UTC · key `sb03-31-take1b-20261121` · รอ user เคาะบรรทัดเรฟ ST03/ST01 + "ยิง"
+- แก้ 2026-11-21 — user *"ST 03 v2 หัวหน้าช่างแต่งหน้า กระเทยสายแฟชั่น มันคือ กระเทยที่บอกไง ST01 ใช่ ก็พนักงานเหมือนกันหมดแหละ แค่ แยกหน้าที่ เพิ่มขึ้นมา"* → บรรทัดเรฟ ST03 *a flamboyant man* → *a fashionable kathoey* · SCENE เหมือนกัน · ลงทะเบียน REF_LINES ทั้ง HEAD MAKEUP ARTIST และ HAIR STYLIST
+- เทค 1 (โซฟา + กะเทย): อัปพรอมป์ · ราคา 211.9 · quote `bb1486ae` หมดอายุ 2026-11-21 06:04 UTC · key `sb03-31-take1c-20261121` · รอ "ยิง"

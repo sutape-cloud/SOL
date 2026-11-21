@@ -58,6 +58,19 @@ VA `pa_juang` (`5RBwcWFB89aiOxcA`) · ป้าแม่บ้าน EP1 · user
 MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
 ```
 user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเสนอบรรทัดนี้) · Mix Stage `ST 01 · หัวหน้าทีมแต่งตัว` `7ff7594f` · ใบเดียวมีทั้งหน้าและชุด
+⚠️ ใช้กับ EP02 เท่านั้น · ตั้งแต่ซีน 3-5 ST 01 เปลี่ยนหน้าที่เป็นช่างทำผม → ใช้ `HAIR STYLIST` ข้างล่าง
+
+### HAIR STYLIST (ST-01 ตั้งแต่ซีน 3-5)
+```
+HAIR STYLIST: Thai, a woman in her thirties, the styling team's hairdresser. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
+```
+user เคาะ 2026-11-21 *"ST01 ใช่ ก็พนักงานเหมือนกันหมดแหละ แค่ แยกหน้าที่ เพิ่มขึ้นมา"* (`SB03-31`) · Mix Stage `ST 01 · หัวหน้าทีมแต่งตัว` `7ff7594f` · PREP บรรทัด 209 ST 01 = ทำผม
+
+### HEAD MAKEUP ARTIST (ST-03)
+```
+HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+```
+user 2026-11-21 *"ST 03 v2 หัวหน้าช่างแต่งหน้า กระเทยสายแฟชั่น มันคือ กระเทยที่บอกไง"* (`SB03-31` แก้จาก *a flamboyant man*) · Mix Stage `ST03 headmua sheet sd55 v2` `f8d0e7d7` · ใบเดียวมีหน้า ข้าง หลัง CU
 
 ### WARDROBE ASSISTANT (ST-02)
 ```
