@@ -131,3 +131,4 @@ DIALOGUE, IN THIS ORDER
   - ❌ จอ/ตัวหนังสือ/โลโก้/ฝุ่น/zoom/slow/ดนตรี/ทนายสี่คน → GLOBAL (*writing … soft grey lines · screens face away · exactly four lawyers · eight chairs*)
 - ด่าน: สำนวน *as if it were the most ordinary proposal in the world* → *puts it forward as a perfectly ordinary, practical idea* · A20 ช็อต 5 *soft in the foreground* → *soft, at the left/right of frame* · A4 ช็อต 5 *glances at the iPad* = *"ตาเหลือบไปที่ไอแพด"* ตามสตอรี่บอร์ด (เชื่อมกับเรื่องโครงการ) เก็บไว้
 - เปิดช็อต `f9027005` (บท 03 #44) · roles 8 ภาพ + 4 เสียง `valid: true` · อัปพรอมป์ · ราคา 158.9 · quote `073c5daf` หมดอายุ 2026-11-21 09:07 UTC · key `sb03-34-take1-20261121` · เปิดเสียง · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 · 158.9 · run `20a7f9fc-1494-42bd-9d99-13697a8ef0e3`
