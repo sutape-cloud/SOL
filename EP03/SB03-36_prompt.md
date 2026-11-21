@@ -3,13 +3,13 @@ Live-action microdrama, 16:9. Real people, a real place, natural skin. Six shots
 All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light in the hall is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; the only light inside the dressing room is the warm bulbs around the round mirror. Every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video. Win's phone is black; its screen always faces Win, and the camera sees only the plain black back of the phone. There are only three stylists. Of Aoy, the camera sees only her ponytail, her shoulders, her dress from behind, and once, one eye in the mirror. Aoy's makeup is exactly the makeup of @Image9, just as it is. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
-The two voices in this video come from inside the dressing room, through the closed door; the people speaking are inside the room, and everyone in the picture stays silent while they speak. The voice files play in order, each exactly once: @Audio1 (the wardrobe assistant, inside the room) from 1.0 s, @Audio2 (the head makeup artist, inside the room) from 6.1 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 25 seconds.
+The wardrobe assistant speaks in Shot 1, standing in the open doorway, lip-synced to her. In Shot 2 the head makeup artist answers from inside the dressing room, behind her; everyone in the picture stays silent while he speaks. The voice files play in order, each exactly once: @Audio1 (the wardrobe assistant, at the door) from 1.0 s, @Audio2 (the head makeup artist, inside the room) from 6.1 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 25 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy is in the dressing room with the three stylists, being made up and dressed in her red qipao. Win, pretending to be her uncle with Alzheimer's, sits outside in the cream leather armchair in the sitting area by the glass wall, facing the closed dressing-room door, as in @Image11. He has just phoned his secretary to ask for a photo of Tin, and he is still waiting for her answer with the phone at his right ear.
 
 SCENE
-Voices come toward the door from inside: the stylists are finished. Win hangs up on the spot, hides the phone and turns back into the vacant old uncle. The door opens; through the gap, for a moment, he sees Aoy at the mirror in her red qipao, and one made-up eye in the mirror meets his. His act slips: he is moved, almost smiling. He catches himself and stares at the ceiling. The head makeup artist shuts the door, stops to fix the flower on the uncle's pink hat like a professional, pats his shoulder and leaves with the wardrobe assistant down the long corridor.
+The door opens and the wardrobe assistant steps into the doorway, calling back into the room: the stylists are finished. Win sees someone at the door: he hangs up on the spot, hides the phone and turns back into the vacant old uncle. The head makeup artist comes to the door and holds it open; through the gap, for a moment, he sees Aoy at the mirror in her red qipao, and one made-up eye in the mirror meets his. His act slips: he is moved, barely a smile. He catches himself and stares at the ceiling. The head makeup artist shuts the door, stops to fix the flower on the uncle's pink hat like a professional, pats his shoulder and leaves with the wardrobe assistant down the long corridor.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM IN THE PROJECT OWNER'S OFFICE, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -23,7 +23,7 @@ ACTIVE REFERENCES
 @Image9 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image10 is the authority for what she is wearing today.
 @Image10 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes and for how she looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image9.
 @Image11 — THE LAST FRAME OF THE PREVIOUS VIDEO, SEEN FROM THE LONG CORRIDOR. WIN SITS IN THIS SAME ARMCHAIR, IN THIS SAME PLACE, FOR THE WHOLE OF THIS VIDEO.
-@Audio1 — THE WARDROBE ASSISTANT'S VOICE, FROM INSIDE THE DRESSING ROOM, IN SHOT 1.
+@Audio1 — THE WARDROBE ASSISTANT'S VOICE, AT THE DOOR, IN SHOT 1.
 @Audio2 — THE HEAD MAKEUP ARTIST'S VOICE, FROM INSIDE THE DRESSING ROOM, IN SHOT 2.
 @Image3 carries Win's face, and his clothes and the hat come from @Image4; @Image5 shows the same hat from every side. @Image6, @Image7 and @Image8 each carry one stylist, face and clothes together. @Image9 carries Aoy's face, her makeup, her bangs and her high ponytail; her dress comes from @Image10. @Image1 and @Image2 only tell what is where; @Image11 shows exactly which armchair Win sits in.
 
@@ -39,32 +39,32 @@ WHERE EVERYONE IS
 - Inside the dressing room, as in @Image2: a round mirror ringed with warm bulbs at the far end; a black marble dressing table with a gold cup of brushes, perfume bottles and a gold vase of pink peonies; a cream bouclé chair; slatted wood walls; a dark, warm room.
 - Win sits in the cream leather armchair in the sitting area by the glass wall, exactly where he sat at the end of the last video, as in @Image11, facing the closed dressing-room door straight on, the phone at his right ear. He stays in this chair for the whole video.
 - Inside the dressing room: Aoy sits in the cream bouclé chair with her back to the door, facing the round mirror; the hair stylist stands behind her; the head makeup artist and the wardrobe assistant are near the door.
-- During the video: the head makeup artist and the wardrobe assistant open the door, come out and walk away down the long corridor; the door closes; the hair stylist stays inside with Aoy.
+- During the video: the wardrobe assistant opens the door and stands in the doorway; the head makeup artist comes to the door behind her and holds it open; then the two of them come out, the door closes, and they walk away down the long corridor; the hair stylist stays inside with Aoy.
 - SEEN FROM THE SIDE, FROM THE GLASS WALL: WIN IS ON THE LEFT OF FRAME, FACING RIGHT, TOWARD THE DRESSING-ROOM DOOR ON THE RIGHT OF FRAME; THE LONG CORRIDOR IS ON THE LEFT OF FRAME, BEHIND HIM.
 - SEEN FROM BEHIND WIN, LOOKING AT THE DOOR: THE DOOR IS IN THE MIDDLE OF FRAME.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–6.0 s — VOICES FROM THE ROOM · Win, from the side
+Shot 1 — 0.0–6.0 s — SOMEONE AT THE DOOR · Win, from the side
 Picture, in this order:
 - 1. 0.0–1.0 s: Win still holds the phone at his right ear, waiting for the answer. Behind the door, the hair dryer stops.
-- 2. 1.0–2.6 s: @Audio1 comes through the dressing-room door, coming closer to the door as it goes on.
-  - The wardrobe assistant, inside the room: "พี่แจ็คบอกว่า แต่งหน้าเสร็จแล้ว ให้พวกเราไปรอที่ห้องประชุม"
+- 2. 1.0–2.6 s: The dressing-room door opens a little and the wardrobe assistant steps into the doorway, the garment bag over her arm; turning back to the room behind her, she starts @Audio1.
+  - The wardrobe assistant, at the door: "พี่แจ็คบอกว่า แต่งหน้าเสร็จแล้ว ให้พวกเราไปรอที่ห้องประชุม"
   - Emotion from the script: 轻快传话，随口通知.
-- 3. 2.6–4.6 s: Win's attention snaps to the door. He lowers the phone at once and ends the call with his thumb, on the spot, and slips the phone into the inside pocket of his jacket.
-- 4. 4.6–6.0 s: He sinks back against the chair, shoulders dropping, and in a blink he is the vacant old uncle again, staring at a spot on the floor.
+- 3. 2.6–4.6 s: Someone is at the door: Win's attention snaps to her. He lowers the phone at once, ends the call with his thumb on the spot, and slips the phone into the inside pocket of his jacket.
+- 4. 4.6–6.0 s: As she finishes, he sinks back against the chair, shoulders dropping, and in a blink he is the vacant old uncle again, staring at a spot on the floor.
 Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; from the side, from the glass-wall side.
-Composition: Win at the left third of the picture, facing right; the edge of the dressing-room door and its white marble panel soft at the right of frame.
-Sound: the hair dryer stops; voices talking behind the door.
+Composition: Win at the left third of the picture, facing right; the dressing-room door and the wardrobe assistant in the doorway, soft, at the right of frame.
+Sound: the hair dryer stops; the door opening.
 
 Shot 2 — 6.0–9.6 s — THE DOOR OPENS · from Win's chair
 Picture, in this order:
-- 1. 6.0–7.6 s: @Audio2 comes through the closed door.
+- 1. 6.0–7.6 s: The wardrobe assistant waits in the doorway; from inside the room behind her, the head makeup artist answers with @Audio2.
   - The head makeup artist, inside the room: "เสร็จพอดีเลย ปะ"
   - Emotion from the script: 爽快应和，招呼离开.
-- 2. 7.6–8.8 s: The walnut door opens slowly. The head makeup artist comes out first and holds the door open with his hip; the wardrobe assistant follows with the garment bag over her arm.
+- 2. 7.6–8.8 s: The head makeup artist comes to the door behind her, pushes it wide and holds it open with his hip; the wardrobe assistant steps aside.
 - 3. 8.8–9.6 s: The gap of the doorway widens between the two of them, and the warm light of the bulbs around the round mirror spills out across the marble.
 Camera: MS, 110 cm high, eye level, 100mm lens, locked-off; Win's view from his chair, straight at the door.
-Composition: the door and its white marble panel fill the middle of the picture; the two stylists step out to the left and right of the doorway; the doorway becomes a frame within the frame, warmer and brighter than the hall.
+Composition: the door and its white marble panel fill the middle of the picture; the wardrobe assistant and then the head makeup artist stand to the left and right of the doorway; the doorway becomes a frame within the frame, warmer and brighter than the hall.
 
 Shot 3 — 9.6–13.6 s — THROUGH THE GAP · Aoy, in part
 Picture, in this order:
@@ -87,7 +87,7 @@ Light: the bulbs around the mirror give her eye small, natural highlights.
 
 Shot 5 — 16.6–19.4 s — THE ACT SLIPS · Win
 Picture, in this order:
-- 1. 16.6–18.0 s: For a moment Win's vacant act slips: he is moved by her, he forgets to breathe, a smile almost comes.
+- 1. 16.6–18.0 s: For a moment Win's vacant act slips: he is moved by her; his face softens, very small and quiet, barely a smile.
 - 2. 18.0–19.4 s: He catches himself and quickly looks up at the ceiling, like a vacant old uncle lost in his own world.
 Camera: CU, 120 cm high, eye level, 85mm lens, locked-off; beside the dressing-room door, looking at Win.
 Composition: Win's face in the middle of the picture; the long corridor soft behind him.
@@ -97,7 +97,7 @@ Shot 6 — 19.4–25.0 s — THE FLOWER ON THE HAT · the head makeup artist and
 Picture, in this order:
 - 1. 19.4–20.2 s: The head makeup artist pulls the door shut behind him with a click; the warm light is gone.
 - 2. 20.2–22.6 s: He walks past Win, stops, bends down and with his fingertips fluffs up and straightens the big knitted cream flower on Win's pink hat; he studies it like a professional and nods, satisfied.
-- 3. 22.6–24.4 s: He pats Win's shoulder lightly and walks off toward the long corridor with the wardrobe assistant, with a light sway in his walk; the wardrobe assistant holds back a smile.
+- 3. 22.6–24.4 s: He pats Win's shoulder lightly and walks away with the wardrobe assistant down the long corridor behind Win, with a light sway in his walk; the wardrobe assistant holds back a smile. The dressing-room door stays closed behind them.
 - 4. 24.4–25.0 s: Win sits still, still looking up at the ceiling, and lets his hat be fixed.
 Camera: MS, 130 cm high, eye level, 35mm lens, locked-off; from the side, from the glass-wall side.
 Composition: Win a little left of the middle, facing right; the dressing-room door on the right of frame; the head makeup artist and the wardrobe assistant walk from right to left and leave the picture on the left, toward the long corridor.
@@ -107,7 +107,7 @@ THE LAST FRAME
 Win sits alone in the cream leather armchair in the sitting area by the glass wall, facing the closed dressing-room door, the knitted flower on his pink hat freshly fixed. The head makeup artist and the wardrobe assistant are gone down the long corridor; Aoy and the hair stylist are inside the room.
 
 DIALOGUE, IN THIS ORDER
-1. Shot 1, @Audio1, THE WARDROBE ASSISTANT, INSIDE THE ROOM: "พี่แจ็คบอกว่า แต่งหน้าเสร็จแล้ว ให้พวกเราไปรอที่ห้องประชุม"
+1. Shot 1, @Audio1, THE WARDROBE ASSISTANT, AT THE DOOR: "พี่แจ็คบอกว่า แต่งหน้าเสร็จแล้ว ให้พวกเราไปรอที่ห้องประชุม"
 2. Shot 2, @Audio2, THE HEAD MAKEUP ARTIST, INSIDE THE ROOM: "เสร็จพอดีเลย ปะ"
 
 ---
@@ -137,3 +137,9 @@ DIALOGUE, IN THIS ORDER
 - เปิดช็อต `9f5f9ea1` (บท 03 #46) · roles 11 ภาพ + 2 เสียง `valid: true` · อัปพรอมป์ · ราคา 220.7 · quote `6b2342f3` หมดอายุ 2026-11-21 10:11 UTC · key `sb03-36-take1-20261121` · เปิดเสียง · รอ "ยิง"
 - ยิงเทค 1 2026-11-21 · 220.7 · run `bf82d621-2795-4898-9ed5-f6183ac97624`
 - เทค 1 เสร็จ · asset `0fbc7b6d` · 25.04 วิ · คัท 5.6 / 9.3 / 12.7 / 15.9 / 19.0 (ตรง 6 ช็อต) · เสียง 0.4–4.6 (@Audio1) / 5.8–7.5 (@Audio2) ✓ · ⚠ มีเสียงเพิ่ม 12.8–14.7 และ 15.9–18.1 (ไม่อยู่ในแผน · ฟังไม่ออกว่าเป็นอะไร) · อ่านเฟรม (`EP03/frames/SB03-36_V1_contact.jpg` · `_keys.jpg` · `_last.jpg`): หมวกชมพูตลอด ✓ · ช็อต 1 วินแนบมือถือ วางสาย เก็บเข้ากระเป๋า ✓ แต่ถ่ายหน้าตรง (ไม่ใช่มุมข้าง) ทางเดินยาวข้างหลัง · ช็อต 2 ข้ามไหล่วิน ประตูเปิด ช่างสองคนเดินออก ✓ · ช็อต 3 ลอดประตู กระจกกลม อลิซหันหลังชุดแดง มือช่างทำผมที่หางม้า ✓ · ช็อต 4 ECU ตาในกระจก ไฟเบลอสองดวง ✓ · ช็อต 5 วินยิ้ม แล้วเงยมองเพดาน ✓ · ช็อต 6 ข้ามไหล่วินจากข้างหลัง (ไม่ใช่มุมข้าง) ช่างแต่งหน้าจัดดอกไม้บนหมวก ตบไหล่ ✓ · ⚠ ตอนจบสองช่างเดินไปทางประตูห้องแต่งตัว ไม่ใช่ทางเดินยาว · รอ user ดู
+- เทค 2 แก้ — user 2026-11-21 *"คือ ยิ้มแปลกๆ และ ทำไม ช่างบอกชุด เขาไม่เดินมาหน้าประตูบอกหละ อันนี้ เปิดออกมา พร้อมกับ กระเทย ทำไม คนดูจะงง มันต้องให้ เขาพูดหน้าประตูปะ วินจะได้เห็นละ วินได้มองพอดี และได้มีเหตุผลวางมือถือลงอีก เพราะ มีคนมา ยืน หน้าประตูอะ"* · *"ทำไม เจ้กระเทย เดินเข้ามาทำอะไร อีก"*
+  - ช็อต 1: ช่างเสื้อผ้าเปิดประตูออกมายืนที่ช่องประตู หันกลับไปพูด @Audio1 เข้าไปในห้อง (ลิปซิงก์) · วินเห็นคนมาที่ประตู → วางสาย เก็บมือถือ → ทำตัวเหม่อ · LIP SYNC / SCENE / WHERE / @Audio1 แก้ตาม · องค์ประกอบ: ช่างเสื้อผ้าที่ช่องประตูเบลอขวาเฟรม
+  - ช็อต 2: ช่างเสื้อผ้ารออยู่ที่ประตู · เสียงช่างแต่งหน้าตอบจากในห้อง @Audio2 · แล้วค่อยเดินมาดันประตูเปิดกว้าง (เดิม: เสียงสองคนลอดประตูที่ปิด แล้วเดินออกมาพร้อมกัน)
+  - ช็อต 5: ยิ้ม *"a smile almost comes"* → *his face softens, very small and quiet, barely a smile*
+  - ช็อต 6: ตีความ *"เจ้กระเทยเดินเข้ามาทำอะไรอีก"* = เทค 1 จัดหมวกเสร็จแล้วเดินกลับไปทางประตูห้องแต่งตัว → *walks away … down the long corridor behind Win … The dressing-room door stays closed behind them*
+- เทค 2: อัปพรอมป์ · roles เดิม `valid: true` · ราคา 220.7 · quote `50140812` หมดอายุ 2026-11-21 10:31 UTC · key `sb03-36-take2-20261121` · เปิดเสียง · รอ "ยิง"
