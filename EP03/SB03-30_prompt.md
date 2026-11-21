@@ -175,3 +175,4 @@ DIALOGUE, IN THIS ORDER
 - ด่าน: SCENE A8 *without breaking it* → *within its own terms* · ช็อต 2 A8 *never the contract itself* → *stays on the TV behind the camera* · ช็อต 6 A1 *lowers her chin* → ตัด เหลือ *studies Anon over the top of her round glasses* (สายตาคือแอ็กชัน เก็บไว้) · ช็อต 7 A4 *glances down / looks up* → *checks the iPad / lifts her face from the iPad* · ช็อต 8 A8 *Nobody moves* → *All four sit still* · สำนวน *as if they had planned it* → *perfectly in time* · ช็อต 9 *glances into the room* → *notices the room* · A4 ที่เหลือ (ช็อต 6 · 8) = การมองคือตัวแอ็กชัน เก็บไว้
 - SCENE A8 *say nothing* → *stay silent*
 - เปิดช็อต `c54e5010` (บท 03 #33) · roles 8 ภาพ + 3 เสียง `valid: true` · อัปพรอมป์ · ราคา 229.6 · quote `cf91c2de` หมดอายุ 2026-11-21 03:12 UTC · key `sb03-30-take1-20261121` · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 03:03 UTC · 229.6 · run `0f9dd82f-8e47-4146-be0e-23c8d6e5f65a`
