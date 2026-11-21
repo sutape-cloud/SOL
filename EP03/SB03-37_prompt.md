@@ -192,3 +192,4 @@ DIALOGUE, IN THIS ORDER
   - A8: *only hears* → *hears* · *Without stopping* → *Still walking* · *Without lifting his head* → *His head still sunk*
   - บรรทัด @Audio1/@Audio2 เลขช็อตตามโครงใหม่ (3–4 · 5–6)
   - roles 15 ภาพ + 2 เสียง `valid:true` (เรฟชุดเดิมเทค 5) · โควต 238.4 · digest `1a2d82b2` · รอ "ยิง"
+- ยิงเทค 6 2026-11-21 · 238.4 · key แรก `…21a` ถูกปฏิเสธก่อนส่ง (ไม่เริ่มงาน ไม่เสียพอยต์) → โควตใหม่ digest เดิม `1a2d82b2` · run `2a576229-f724-4543-81f8-74096ec992de`
