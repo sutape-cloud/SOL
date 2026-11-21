@@ -65,3 +65,4 @@ Everyone stays silent.
 - SCENE A8 *Nobody dares to ask more* → *they keep them to themselves*
 - เปิดช็อต `7d5738f1` (บท 03 #36) · roles `valid: true` · อัปพรอมป์ · ราคา 35.4 · quote `a2569575` หมดอายุ 2026-11-21 04:24 UTC · key `sb03-30c-take1-20261121` · รอ "ยิง"
 - quote เดิมหมดอายุ → quote ใหม่ `66e80c06` ราคาเดิม 35.4 digest เดิม · key `sb03-30c-take1b-20261121` · ยิงเทค 1 2026-11-21 04:45 UTC · run `50f7be7b-a37f-4510-8110-ddf9a241199d`
+- ❌ run `50f7be7b` ล้ม `video_audio_safety` (เสียงที่เจนไม่ผ่านตรวจเนื้อหา) · คืนพอยต์ 35.4 แล้ว · ไม่มีวิดีโอ · รอ user เลือกปิดเสียงหรือแก้พรอมป์
