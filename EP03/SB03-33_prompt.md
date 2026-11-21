@@ -141,3 +141,4 @@ DIALOGUE, IN THIS ORDER
   - ป้องปาก: ช็อต 3 ตัด *cups his left hand around his mouth and the phone* → *asks @Audio2 quietly into the phone* · Performance เติม *an ordinary quiet phone call* · GLOBAL เติม *Win talks on the phone the way anyone does on a quiet private call: the phone at his ear, ordinary and natural.*
 - ด่านยกเว้น: A1 user สั่งในสตอรี่บอร์ดคลิป 3 ช็อต 6 *"วินหลับตาครู่หนึ่ง"* · เป็นแอ็กชันตามบท ไม่ใช่การสั่งรูปหน้า
 - เทค 2: แนบ `245bc478` เป็น @Image6 · roles 6 ภาพ + 6 เสียง `valid: true` · อัปพรอมป์ · ราคา 247.2 · quote `7352e5e6` หมดอายุ 2026-11-21 08:44 UTC · key `sb03-33-take2-20261121` · เปิดเสียง · รอ "ยิง"
+- ยิงเทค 2 2026-11-21 · 247.2 · run `38129493-de78-4fe9-84d9-1910a8c5bd37`
