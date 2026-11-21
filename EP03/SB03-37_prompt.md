@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, a real place, natural skin. Nine shots, 27 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. Every face stays real. Win is a grown man pretending to be an old uncle dozing in his chair; every move he makes is small, quiet and careful. The light is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video, in every shot, exactly as in @Image14 and @Image15. Until he gets up in Shot 8, Win sits in the same cream leather armchair, facing the dressing-room door, exactly as in @Image12 and @Image13. Win's phone is black; its screen faces Win, and the camera sees only the plain black back of the phone, except in Shot 4, where the camera sees the photo on the screen. There are only three stylists. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, a real place, natural skin. Eight shots, 27 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life: small and natural. Every face stays real. Win is a grown man pretending to be an old uncle dozing in his chair; every move he makes is small, quiet and careful. The light is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video, in every shot, exactly as in @Image14 and @Image15. In every shot he is in, Win sits in the same cream leather armchair, facing the dressing-room door, exactly as in @Image12 and @Image13; he keeps up the pose of a sleeping old man the whole time, and he peeks from under the brim of the hat. Win's phone is black; its screen faces Win, and the camera sees only the plain black back of the phone, except in Shot 4, where the camera sees the photo on the screen. There are only three stylists. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
-Juk speaks in Shot 3, lip-synced, and his voice carries on over Shots 4 and 5. Tin speaks in Shot 6, lip-synced, and his voice carries on over Shot 7. Everyone else stays silent. The voice files play in order, each exactly once: @Audio1 (Juk) from 7.0 s, @Audio2 (Tin) from 13.0 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 27 seconds.
+Juk speaks in Shot 3, lip-synced, and his voice carries on over Shot 4. Tin speaks in Shot 5, lip-synced, and his voice carries on over Shot 6. Juk and Tin say everything while they are walking down the long corridor. Everyone else stays silent. The voice files play in order, each exactly once: @Audio1 (Juk) from 7.0 s, @Audio2 (Tin) from 13.0 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 27 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Win, pretending to be Aoy's uncle with Alzheimer's, sits in the cream leather armchair in the sitting area a few steps from the dressing-room door, facing the door, as in @Image12 and @Image13, pretending to doze. The long corridor is behind him. He asked his secretary Nuch for a photo of Tin, the owner of this project, because he has forgotten Tin's face, and he has to stay unrecognised here. The three stylists have just closed the dressing-room door on Aoy, who is alone inside; they set off for the meeting room but stopped a few steps from the door to wait, because two men are coming down the long corridor. Yesterday Nuch came here disguised as Aoy's old grandmother.
 
 SCENE
-Behind Win, Juk is coming down the long corridor with a heavy-set man in dark sunglasses; Win only hears their footsteps. Win's phone buzzes: the photo from Nuch. He has to wait, because two of the stylists turn to check whether the old uncle is really asleep. When they look away, he sneaks a look: Tin, posing in front of the Great Wall of China. The two men walk past his armchair and stop at the door right in front of him; he peeks up: the man is Tin. Juk explains to Tin that the girl brought her uncle with Alzheimer's. Tin grumbles about all these relatives, then wonders where he has seen that old grandmother before; a few steps away, Win keeps up his sleep and listens. Tin and Juk lead the three stylists off to the meeting room. The moment their backs are turned, Win gets up and slips silently into the dressing room. Juk glances back: the chair is empty.
+Behind Win, Juk is coming down the long corridor with a heavy-set man in dark sunglasses; Win, pretending to sleep with his back to the corridor, hears their footsteps and their voices. Win's phone buzzes: the photo from Nuch. He has to wait, because two of the stylists turn to check whether the old uncle is really asleep. When they look away, he sneaks a look: Tin, posing in front of the Great Wall of China. As the two men walk down the corridor, Juk explains that the girl brought her uncle with Alzheimer's; Tin, seeing the old man asleep in the armchair ahead, grumbles about all these relatives, then wonders where he has seen that old grandmother before. They reach the stylists beside Win's armchair; his head still sunk, Win peeks from under the brim of his hat: the same face as in the photo. He knows at once that the old grandmother Tin means is Nuch. Tin, still walking, waves the three stylists along and they all head off to the meeting room. Then the armchair is empty. Juk glances back, looks left and right, and follows the others.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM IN THE PROJECT OWNER'S OFFICE, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -23,12 +23,12 @@ ACTIVE REFERENCES
 @Image9 — HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
 @Image10 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
 @Image11 — HAIR STYLIST: Thai, a woman in her thirties, the styling team's hairdresser. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
-@Image12 — A FRAME OF AN EARLIER VIDEO, FROM BEHIND WIN'S SHOULDER: WIN SITS IN THE CREAM LEATHER ARMCHAIR, FACING THE DRESSING-ROOM DOOR, WHICH IS AHEAD OF HIM ON THE LEFT, WITH AN EMPTY CREAM ARMCHAIR AND A BRASS FLOOR LAMP BESIDE IT. THIS IS EXACTLY WHERE WIN SITS AND WHICH WAY HE FACES, UNTIL HE GETS UP IN SHOT 8.
+@Image12 — A FRAME OF AN EARLIER VIDEO, FROM BEHIND WIN'S SHOULDER: WIN SITS IN THE CREAM LEATHER ARMCHAIR, FACING THE DRESSING-ROOM DOOR, WHICH IS AHEAD OF HIM ON THE LEFT, WITH AN EMPTY CREAM ARMCHAIR AND A BRASS FLOOR LAMP BESIDE IT. THIS IS EXACTLY WHERE WIN SITS AND WHICH WAY HE FACES.
 @Image13 — A FRAME OF AN EARLIER VIDEO, FROM THE SIDE: WIN SITS IN THE SAME ARMCHAIR, FACING RIGHT, TOWARD THE DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT. THIS IS EXACTLY WHERE WIN SITS AND WHICH WAY HE FACES.
 @Image14 — WIN'S FACE CLOSE UP, WITH THE PINK KNITTED HAT ON HIS HEAD. HE WEARS THE HAT EXACTLY LIKE THIS IN EVERY SHOT.
 @Image15 — WIN IN THIS HALL, SEEN FROM BEHIND, WITH THE PINK KNITTED HAT ON HIS HEAD. HE WEARS THE HAT EXACTLY LIKE THIS FOR THE WHOLE VIDEO.
-@Audio1 — JUK'S VOICE, IN SHOTS 3 TO 5.
-@Audio2 — TIN'S VOICE, IN SHOTS 6 AND 7.
+@Audio1 — JUK'S VOICE, IN SHOTS 3 AND 4.
+@Audio2 — TIN'S VOICE, IN SHOTS 5 AND 6.
 @Image3 carries Win's face, and his clothes and the hat come from @Image4; @Image5 shows the same hat from every side; @Image14 and @Image15 show Win wearing the hat. @Image6 carries Juk's face, and his clothes, front and back, come from @Image7. @Image8 carries Tin, face and clothes together. @Image9, @Image10 and @Image11 each carry one stylist, face and clothes together. @Image1 and @Image2 only tell what is where in the hall; @Image12 and @Image13 show exactly where Win sits and that he faces the dressing-room door.
 
 WHAT THEY WEAR, AS IN @Image4 TO @Image15
@@ -43,9 +43,10 @@ WHERE EVERYONE IS
 - The hall outside the dressing room, high up in an office tower, as in @Image1 and @Image2: a polished white marble floor; walnut wall panels divided by thin brass lines; paintings in gold frames; warm hidden lights along the edge of the ceiling. At one end, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble. Along one side, the floor-to-ceiling glass wall with the city outside. Between the dressing-room door and the glass wall, the sitting area: a cream leather sofa, cream leather armchairs, white orchids and a brass floor lamp. At the other end of the hall, the long corridor.
 - Win's armchair, exactly as in @Image12 and @Image13: in the sitting area, a few steps from the dressing-room door, facing the door. The door is ahead of him on his left; beside the door stand an empty cream armchair and a brass floor lamp. The long corridor is behind him.
 - At the start: Win sits in that armchair, facing the door, pretending to doze. The three stylists stand together just behind his armchair, toward the long corridor, waiting, turned toward the corridor. Juk and Tin are far down the long corridor, behind Win, walking this way. The dressing-room door is closed; Aoy is alone inside.
-- During the video: Juk and Tin walk past Win's armchair and stop at the dressing-room door, right in front of Win; the three stylists follow them to the door. Then Tin and Juk lead the three stylists away down the long corridor. Win gets up, steps forward to the door in front of him and slips into the dressing room; the door closes behind him. Juk stops at the mouth of the corridor and looks back at the empty armchair.
+- During the video: Juk and Tin walk down the long corridor, talking, and come to the three stylists beside Win's armchair. Still walking, Tin waves the stylists along and they all walk back down the long corridor toward the meeting room. Later, the armchair is empty. Juk stops at the mouth of the corridor and looks back at it.
 - FROM BEHIND WIN'S SHOULDER, AS IN @Image12: WIN'S BACK AT THE RIGHT OF FRAME, THE DRESSING-ROOM DOOR AHEAD ON THE LEFT; PEOPLE COMING FROM THE CORRIDOR ENTER PAST THE CAMERA.
-- FROM THE SIDE, AS IN @Image13: WIN AT THE LEFT, FACING RIGHT; THE DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND WIN. JUK AND TIN COME IN FROM THE LEFT; LATER THE GROUP LEAVES TO THE LEFT, AND WIN GOES RIGHT, INTO THE DRESSING ROOM.
+- FROM THE SIDE, AS IN @Image13: WIN AT THE LEFT, FACING RIGHT; THE DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND WIN. JUK AND TIN COME IN FROM THE LEFT.
+- FROM BESIDE THE DRESSING-ROOM DOOR, LOOKING DOWN THE LONG CORRIDOR, AS IN @Image2: JUK AND TIN WALK TOWARD THE CAMERA; WIN IS OUT OF THE PICTURE.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.6 s — FOOTSTEPS · from the side
@@ -54,7 +55,7 @@ Picture, in this order:
 - 2. 2.0–3.6 s: Footsteps come from the long corridor behind him; the stylists straighten up as the two men come closer. Win stays asleep, listening.
 Camera: MS, 115 cm high, eye level, 50mm lens, locked-off; from the side, exactly as in @Image13.
 Composition: Win at the left, facing right, toward the dressing-room door in the background on the right; the three stylists behind him at the left edge, turned to the left.
-Sound: two pairs of footsteps coming closer down the corridor.
+Sound: two pairs of footsteps far down the corridor.
 
 Shot 2 — 3.6–7.0 s — THE BUZZ · Win
 Picture, in this order:
@@ -64,60 +65,53 @@ Camera: MCU, 115 cm high, eye level, 85mm lens, locked-off; from the side, as in
 Composition: Win at the left third of the picture, facing right, the pink hat on his head; the two stylists, soft, behind him at the left edge, turned to him.
 Sound: the short buzz of the phone in his pocket.
 
-Shot 3 — 7.0–9.6 s — JUK REPORTS · Juk and Tin walk past Win
+Shot 3 — 7.0–10.6 s — JUK REPORTS · in the long corridor
 Picture, in this order:
-- 1. 7.0–9.6 s: Juk and Tin come in from the left, walking past behind Win's armchair toward the dressing-room door; Juk, half a step behind Tin, smiling to please, starts @Audio1.
+- 1. 7.0–10.6 s: Juk and Tin walk down the long corridor toward the camera, side by side; Juk, half a step behind Tin, smiling to please, starts @Audio1.
   - Juk: "น้องเค้าเอาลุงมาด้วยครับเฮีย แกบอกว่าเป็นอัลไซเมอร์ ทิ้งไว้บ้านคนเดียวไม่ได้"
   - Emotion from the script: 陪着笑脸，小心翼翼汇报.
   - Performance: his attention on Tin's reaction the whole time, careful with the boss; apologising a little on the girl's behalf.
-Camera: MS, 130 cm high, eye level, 35mm lens, locked-off; from the side, as in @Image13.
-Composition: Win dozing at the left, facing right; Tin and Juk walking from left to right behind him, toward the door on the right; the three stylists following.
+Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; from beside the dressing-room door, looking down the long corridor, as in @Image2.
+Composition: Tin and Juk in the middle of the picture, walking toward the camera, the long corridor behind them.
 Sound: Tin's heavy leather shoes on the marble.
 
-Shot 4 — 9.6–11.4 s — THE PHOTO · insert
+Shot 4 — 10.6–12.8 s — THE PHOTO · insert
 Picture, in this order:
-- 1. 9.6–11.4 s: Low on Win's lap, half hidden by his hand, the phone screen shows the photo from Nuch: the heavy-set man of @Image8, in his dark sunglasses, posing proudly in front of the Great Wall of China. Juk's voice carries on.
+- 1. 10.6–12.8 s: Low on Win's lap, half hidden by his hand, the phone screen shows the photo from Nuch: the heavy-set man of @Image8, in his dark sunglasses, posing proudly in front of the Great Wall of China. Then Win slides the phone back into his pocket. Juk's voice carries on.
 Camera: CU insert, 80 cm high, looking down at Win's lap, 85mm lens, locked-off; over Win's shoulder.
 Composition: the phone screen in the middle of the picture, the photo filling the screen, with no writing on it; Win's hand and his knee soft around it.
 
-Shot 5 — 11.4–13.0 s — IT IS HIM · from behind Win's shoulder
+Shot 5 — 12.8–19.8 s — SO MANY RELATIVES · in the long corridor
 Picture, in this order:
-- 1. 11.4–13.0 s: Under the brim of the hat, Win peeks up from the photo at the man now standing at the door right in front of him: the same man, Tin. He slides the phone back into his pocket and settles back into his sleep. Juk finishes.
-Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; behind Win's right shoulder, as in @Image12.
-Composition: the pink hat and Win's shoulder at the right of frame; Tin and Juk at the dressing-room door ahead on the left.
-
-Shot 6 — 13.0–19.8 s — SO MANY RELATIVES · at the door, from behind Win's shoulder
-Picture, in this order:
-- 1. 13.0–14.6 s: At the dressing-room door, Tin turns, glances at the dozing uncle in the armchair a few steps in front of him, and starts @Audio2 to Juk.
+- 1. 12.8–14.6 s: Still walking, Tin looks ahead at the old uncle asleep in the armchair and starts @Audio2 to Juk.
   - Tin: "เมื่อวานยายมา วันนี้ลุงมา"
   - Emotion from the script: 先是抱怨，继而陷入沉思.
-- 2. 14.6–17.6 s: He grumbles on, half-hearted, the way a boss grumbles; Juk keeps smiling.
+- 2. 14.6–17.6 s: He grumbles on as he walks, half-hearted, the way a boss grumbles; Juk keeps smiling.
   - Tin: "ทำไมญาติเยอะจัง"
-- 3. 17.6–19.8 s: On "ว่าแต่ยายแก่คนนั้น" Tin stops grumbling and rubs his chin, his mind somewhere far away.
+- 3. 17.6–19.8 s: On "ว่าแต่ยายแก่คนนั้น" Tin slows his pace and rubs his chin, his mind somewhere far away.
   - Tin: "ว่าแต่ยายแก่คนนั้น"
   - Performance: lost in his own thoughts; he has already forgotten the uncle.
-Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; behind Win's right shoulder, as in @Image12.
-Composition: Win's back and the pink hat, soft, at the right edge; Tin and Juk at the dressing-room door ahead, facing each other side-on; the three stylists beside them.
+Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; from beside the dressing-room door, looking down the long corridor, as in @Image2.
+Composition: Tin and Juk walking toward the camera, closer now; Tin a little ahead, Juk at his side.
 Light: the late-morning sun on their faces; a glint of the window on Tin's dark sunglasses.
 
-Shot 7 — 19.8–21.8 s — THE OLD GRANDMOTHER · Win
+Shot 6 — 19.8–22.2 s — THE SAME FACE · Win
 Picture, in this order:
-- 1. 19.8–21.8 s: Win keeps up his sleep, perfectly still, but he is listening: as Tin goes on about the old grandmother who looks so familiar, he knows at once Tin means Nuch.
+- 1. 19.8–22.2 s: Tin and Juk arrive beside the stylists, right next to Win's armchair. His head still sunk, Win peeks from under the brim of his hat: the same face as in the photo. As Tin goes on about the old grandmother who looks so familiar, Win knows at once Tin means Nuch, and keeps up his sleep.
   - Tin: "ไอคุ้นหน้ามากเลยนะ นึกไม่ออกว่าเคยเจอที่ไหน"
 Camera: CU, 115 cm high, eye level, 85mm lens, locked-off; from the side, as in @Image13.
-Composition: Win's face under the pink hat at the left, facing right, his chin sunk; Tin, soft, at the door in the background on the right.
+Composition: Win's face under the pink hat at the left, facing right, his chin sunk; Tin, soft, arriving behind him at the left edge.
 
-Shot 8 — 21.8–25.0 s — INTO THE ROOM · from behind Win's shoulder
+Shot 7 — 22.2–25.0 s — OFF TO THE MEETING · from behind Win's shoulder
 Picture, in this order:
-- 1. 21.8–23.2 s: Tin leads Juk and the three stylists away from the door, walking past Win's armchair toward the long corridor behind him, and out of the picture.
-- 2. 23.2–25.0 s: The moment they are gone, Win gets up quietly, steps forward to the dressing-room door in front of him, opens it and slips inside, closing it softly behind him.
+- 1. 22.2–25.0 s: Still walking, Tin waves the three stylists along; they all turn and walk back toward the long corridor, past Win's armchair and out of the picture. In the armchair, Win sleeps on, facing the dressing-room door.
 Camera: WS, 120 cm high, eye level, 35mm lens, locked-off; behind Win's armchair, as in @Image12.
-Composition: the armchair at the right of frame; the dressing-room door ahead on the left; the group walks past the armchair toward the camera and out of the picture; Win walks away from the camera to the door.
-Sound: the group's footsteps going away; the soft click of the dressing-room door.
+Composition: Win's back and the pink hat at the right of frame; the dressing-room door ahead on the left; the group walks past the armchair toward the camera and out of the picture.
+Sound: their footsteps going away down the corridor.
 
-Shot 9 — 25.0–27.0 s — THE EMPTY CHAIR · Juk
+Shot 8 — 25.0–27.0 s — THE EMPTY CHAIR · Juk
 Picture, in this order:
-- 1. 25.0–27.0 s: At the mouth of the long corridor, Juk stops and looks back down the hall: the armchair is empty. He looks left, then right, then hurries after the others.
+- 1. 25.0–27.0 s: At the mouth of the long corridor, Juk stops and looks back down the hall: the armchair is empty and the dressing-room door is closed. He looks left, then right, then hurries after the others.
 Camera: MS, 120 cm high, eye level, 50mm lens, locked-off; in the long corridor, looking back into the hall toward the dressing-room door, as in @Image1.
 Composition: Juk at the right of frame, looking back; in the background, the empty armchair in the sitting area and the closed dressing-room door.
 
@@ -125,8 +119,8 @@ THE LAST FRAME
 Juk at the mouth of the long corridor, turning to follow the others. In the hall behind him, the cream leather armchair stands empty and the dressing-room door is closed; Win and Aoy are inside the dressing room.
 
 DIALOGUE, IN THIS ORDER
-1. Shots 3–5, @Audio1, JUK: "น้องเค้าเอาลุงมาด้วยครับเฮีย แกบอกว่าเป็นอัลไซเมอร์ ทิ้งไว้บ้านคนเดียวไม่ได้"
-2. Shots 6–7, @Audio2, TIN: "เมื่อวานยายมา วันนี้ลุงมา ทำไมญาติเยอะจัง ว่าแต่ยายแก่คนนั้น ไอคุ้นหน้ามากเลยนะ นึกไม่ออกว่าเคยเจอที่ไหน"
+1. Shots 3–4, @Audio1, JUK: "น้องเค้าเอาลุงมาด้วยครับเฮีย แกบอกว่าเป็นอัลไซเมอร์ ทิ้งไว้บ้านคนเดียวไม่ได้"
+2. Shots 5–6, @Audio2, TIN: "เมื่อวานยายมา วันนี้ลุงมา ทำไมญาติเยอะจัง ว่าแต่ยายแก่คนนั้น ไอคุ้นหน้ามากเลยนะ นึกไม่ออกว่าเคยเจอที่ไหน"
 
 ---
 
@@ -190,3 +184,11 @@ DIALOGUE, IN THIS ORDER
   - roles 15 ภาพ + 2 เสียง `valid:true` · โควต 238.4 · digest `8341b81c` · รอ "ยิง"
 - ยิงเทค 5 2026-11-21 · 238.4 · run `f3a3b98e-52db-4fcc-8255-8621c3872a90`
 - เทค 5 เสร็จ · asset `09f97243` · 27.04 วิ · คัท 6.83 / 9.5 / 10.96 / 12.63 / 19.63 / 21.58 / 23.63 (8 ช็อต · ช็อต 1+2 รวมกัน) · เสียงพูด (RMS): แจ็ค 7.88–12.40 ✓ (ปากขยับตอน 8.2) · ทิน 13.10–19.68 (ไฟล์ยาว 8.7 วิ เหลือ 6.6 วิ · ท่อน *ไอคุ้นหน้ามาก…* อาจหาย/เร่ง) · อ่านเฟรม (`EP03/frames/SB03-37_V5_*`): วินนั่งเก้าอี้ตัวเดิม หันเข้าประตูทุกช็อต ✓ · มุมหลังไหล่/มุมข้างตรง 36 ✓ · หมวกครบ ✓ · 0–5 วินหลับตา ✓ 5.6 มือไปที่กระเป๋า ✓ · แจ็คกับทินเดินผ่านหลังเก้าอี้ ✓ · ช็อตแทรกรูปทินกำแพงเมืองจีน ✓ · 11.8 วินก้มดูมือถือ (ไม่ได้เงยมองทิน) · 17.5 ทินลูบคาง ✓ · 20.6 วินหลับตาฟัง ✓ · 22.6–23.6 กลุ่มหันหลังเดินออก · 23.6–27 วินลุกเดินไปประตู ลอดเข้าห้อง ประตูปิด เก้าอี้ว่าง ✓ · ❌ ไม่มีช็อต 9 แจ็คหันกลับมาเห็นเก้าอี้ว่าง · รอ user ดู
+- เทค 6 — user 2026-11-21 *"เละ แล้วเละ อีก … ตัวละคร วินอยู่ในเฟรม กับ ทิน แจค หลับ อยู่อีก คนมันรู้ตัวนะ ว่ามีคนหลับ แถมหน้าประตู วินมันอยู่ ในขณะที่ พวกเขาคุยกันอะนะ ตรรกะไหน"* · เลือกท่าให้ *"สมเหตุสมผล หรือ ไม่แปลก"*
+  - เทค 5 `09f97243`: ทินกับแจ็คหยุดยืนคุยหน้าประตูข้างคนหลับ · ให้เห็นวินลุกเข้าห้อง · ไม่มีแจ็คหันกลับ → ขัดบท
+  - บท ch3: *"ทั้งสองเดินมาถึงหน้าห้องแต่งตัว แล้วนำสองสาวไปประชุม ไวพ์ผ่าน เก้าอี้ที่วินเคยนั่งว่างเปล่า …แจ็ค หยุดมอง ซ้ายที ขวาที"* · วินลอดประตูเข้าห้องอยู่ซีน 3-6
+  - แก้: บทพูดทั้งหมดพูดตอนเดินมาตามทางเดิน (ช็อต 3 · 5 มุมจากข้างประตูมองทางเดิน @Image2 · วินไม่อยู่ในเฟรม) · ทินเหลือบมองลุงที่หลับข้างหน้าตอน *"วันนี้ลุงมา"* · มาถึงสาวๆ ข้างเก้าอี้ วินเหลือบตาจากใต้ปีกหมวกโดยไม่เงยหัว (ทางเดินอยู่ข้างหลัง คนแกล้งหลับหันหัวไม่ได้) · ทินกวักมือ ทุกคนเดินไปเลย ไม่หยุด (ช็อต 7) · ตัดไปเก้าอี้ว่าง แจ็คมองซ้ายขวา (ช็อต 8) · ตัดช็อตวินลุกเข้าห้องออก
+  - 8 ช็อต: 1 0–3.6 · 2 3.6–7.0 · 3 7.0–10.6 · 4 10.6–12.8 · 5 12.8–19.8 · 6 19.8–22.2 · 7 22.2–25.0 · 8 25.0–27.0 · เสียงวางเดิม
+  - A8: *only hears* → *hears* · *Without stopping* → *Still walking* · *Without lifting his head* → *His head still sunk*
+  - บรรทัด @Audio1/@Audio2 เลขช็อตตามโครงใหม่ (3–4 · 5–6)
+  - roles 15 ภาพ + 2 เสียง `valid:true` (เรฟชุดเดิมเทค 5) · โควต 238.4 · digest `1a2d82b2` · รอ "ยิง"
