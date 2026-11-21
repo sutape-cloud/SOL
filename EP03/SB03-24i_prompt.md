@@ -9,7 +9,7 @@ SCENE
 The far end of the corridor is empty. Then Win comes out of the corner at the far end and walks a few steps toward the camera, cool and easy, sure of himself: a man in a quick disguise doing a simple favour, with the swagger of a man who looks good in anything, even a pink knitted hat.
 
 ACTIVE REFERENCES
-@Image1 — THE FAR END OF THE CORRIDOR, SEEN FROM IN FRONT OF THE LIFT. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF THE WHOLE SHOT: THE PICTURE MATCHES @Image1 100%.
+@Image1 — THE CORRIDOR DOWN TO ITS FAR END, SEEN FROM IN FRONT OF THE LIFT, FROM THE CEILING TO THE FLOOR. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE, THE PERSPECTIVE AND THE LIGHT OF THE WHOLE SHOT: THE MIDDLE OF THE 16:9 PICTURE MATCHES @Image1 100%, AND THE MARBLE WALLS CONTINUE AT BOTH SIDES.
 @Image2 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image3 is the authority for what he is wearing today.
 @Image3 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes, the hat and the proportions of his body. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
 @Image4 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
@@ -22,7 +22,7 @@ WIN'S BODY
 Win is a tall man, 182 cm, slim, with long legs, as in @Image3: his legs from the hip to the heel are clearly longer than his body from the shoulder to the hip. His head is small for his height. He stands tall in the corridor, his hat high on the end wall behind him.
 
 WHERE EVERYONE IS
-- The far end of the corridor, exactly as in @Image1: the warm grey marble wall on the left, the end wall straight ahead, the bright opening of the corner on the left of the end wall, the cream stone floor, the warm hidden light along the bottom of the right-hand wall.
+- The corridor down to its far end, exactly as in @Image1: the downlights in the white ceiling, the warm grey marble wall on the left, the end wall straight ahead with the warm light along its top, the bright opening of the corner on the left of the end wall, the polished cream stone floor, the warm hidden light along the bottom of the right-hand wall, the steel edge of the lift frame at the right edge of the frame.
 - THE CAMERA STANDS IN FRONT OF THE LIFT, LOOKING DOWN THE CORRIDOR TO ITS FAR END, AS IN @Image1. WIN COMES OUT OF THE OPENING ON THE LEFT OF THE END WALL, ALREADY CLOSE AND FULL LENGTH, AND TAKES A FEW STEPS TOWARD THE CAMERA.
 
 SHOT
@@ -69,3 +69,8 @@ The framing of @Image1. Win standing still, tall and easy, in the middle of the 
   - roles [c99a9694, 2aec936c, b16a326b, a2167781]
   - GLOBAL ตัดประตูลิฟต์/โคมทองเหลือง (ไม่ให้ลิฟต์โผล่ในเฟรม)
 - V2 quote 35.4 · key `sb03-24i-v2-20261121-a` · รอ "ยิง"
+- user 2026-11-21 *"แกต้องครอปแบบนี้สิวะ"* (ส่งภาพครอปแนวตั้ง เพดานถึงพื้น · ผนังซ้าย · ช่องเลี้ยว · ผนังปลาย · ผนังขวา · ขอบลิฟต์ขวาสุด) → ครอปตาม x1112 y282 600×1212 `EP03/DORM_Lcorridor_viewA_crop_AoyPOV_v2.png` · asset `ad46e426` · Mix Stage `DORM Lcorridor viewA crop AoyPOV v2` `07fb9596-15de-482a-911a-17b7781556ac` · ครอป v1 `c99a9694` เลิกใช้ (แคบ ไม่มีเพดาน/พื้น)
+  - @Image1 บอกว่ากลางภาพ 16:9 ตรงเรฟ ผนังต่อออกสองข้าง · WHERE เติมเพดาน/ไฟบนผนังปลาย/ขอบลิฟต์ขวาสุด
+  - roles [07fb9596, 2aec936c, b16a326b, a2167781] · quote `sb03-24i-v2-…-a` ใช้ไม่ได้
+  - ด่านยกเว้น A20 ขอบลิฟต์ขวาสุด = ตามภาพครอปที่ user ส่ง
+  - quote 35.4 · key `sb03-24i-v2-20261121-b` · รอ "ยิง"
