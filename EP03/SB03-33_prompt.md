@@ -1,12 +1,12 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, a real place, natural skin. Six shots, 28 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video. Win's phone is black; its screen always faces Win, and the camera sees only the plain black back of the phone. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
+All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video. Win's phone is black; its screen always faces Win, and the camera sees only the plain black back of the phone. Win talks on the phone the way anyone does on a quiet private call: the phone at his ear, ordinary and natural. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
 Win speaks in Shots 3, 5 and 6, lip-synced. Nuch is on the other end of the phone: her voice comes thin and quiet out of the phone at Win's ear, and Win listens in silence while she speaks. The voice files play in order, each exactly once: @Audio1 (Nuch, on the phone) from 8.0 s, @Audio2 (Win) from 9.3 s, @Audio3 (Nuch, on the phone) from 12.9 s, @Audio4 (Win) from 17.3 s, @Audio5 (Nuch, on the phone) from 19.6 s, @Audio6 (Win) from 22.3 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. Aoy has gone into the dressing room with the styling team, and the door has closed behind her. Win sat down in the cream leather armchair in the hall, facing the closed dressing-room door, to guard her. This video carries straight on from that moment: behind the door a hair dryer is running.
+All of this has already happened before the first frame. Aoy has gone into the dressing room with the styling team, and the door has closed behind her. Win sat down in the cream leather armchair in the sitting area by the glass wall, facing the closed dressing-room door, to guard her, as in @Image6. This video carries straight on from that moment: behind the door a hair dryer is running.
 
 SCENE
 Win is here pretending to be Aoy's uncle with Alzheimer's, in the office of the project owner, Tin. He needs to know whether Tin has ever met him, because if Tin recognises him, the whole act falls apart. So he waits for the hall to empty, then quietly calls Nuch, his secretary. She tells him Tin once came asking his company to invest, and Win turned him down himself. So Tin will remember him. Win cannot remember Tin's face at all, and has to admit it and ask Nuch to send a photo.
@@ -17,22 +17,23 @@ ACTIVE REFERENCES
 @Image3 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
 @Image4 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image3.
 @Image5 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
+@Image6 — THE LAST FRAME OF THE PREVIOUS VIDEO, SEEN FROM THE LONG CORRIDOR. WIN SITS IN THIS SAME ARMCHAIR, IN THIS SAME PLACE, FOR THE WHOLE OF THIS VIDEO.
 @Audio1 — NUCH'S VOICE ON THE PHONE, HER FIRST LINE, IN SHOT 2.
 @Audio2 — WIN'S VOICE, HIS QUESTION, IN SHOT 3.
 @Audio3 — NUCH'S VOICE ON THE PHONE, HER ANSWER, IN SHOT 4.
 @Audio4 — WIN'S VOICE, IN SHOT 5.
 @Audio5 — NUCH'S VOICE ON THE PHONE, HER QUESTION, IN SHOT 5.
 @Audio6 — WIN'S VOICE, HIS REQUEST, IN SHOT 6.
-@Image3 carries Win's face, and his clothes and the hat come from @Image4; @Image5 shows the same hat from every side. @Image1 and @Image2 only tell what is where in the hall.
+@Image3 carries Win's face, and his clothes and the hat come from @Image4; @Image5 shows the same hat from every side. @Image1 and @Image2 only tell what is where in the hall; @Image6 shows exactly which armchair Win sits in.
 
 WHAT HE WEARS, AS IN @Image4 AND @Image5
 - Win: his jacket turned inside out, so it is now a glossy white nylon jacket with green trim; a white crew-neck T-shirt; black jeans; black leather boots. On his head, the pink knitted hat with a folded brim and a big knitted cream flower. His black phone is in the inside pocket of the jacket.
 
 WHERE EVERYONE IS
 - The hall outside the dressing room, high up in an office tower, as in @Image1 and @Image2: a polished white marble floor; walnut wall panels divided by thin brass lines; abstract paintings in gold frames; warm hidden lights along the edge of the white ceiling, and downlights. At one end of the hall, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble. Along one side, the floor-to-ceiling glass wall with the city towers outside and square wooden pillars; the sitting area with the cream leather sofa and armchairs. Along the other side, the walnut wall. At the other end of the hall, the long corridor, running on with the glass wall on one side and the walnut wall on the other, and a side turning at its far end.
-- Win sits in a cream leather armchair in the hall, facing the closed dressing-room door straight on; the long corridor is behind him. He stays in this chair for the whole video.
-- SEEN FROM THE DRESSING-ROOM DOOR, LOOKING BACK AT WIN: WIN IS IN THE MIDDLE OF FRAME, FACING THE CAMERA; THE LONG CORRIDOR RUNS AWAY BEHIND HIM; THE GLASS WALL IS ON THE LEFT OF FRAME, THE WALNUT WALL ON THE RIGHT OF FRAME.
-- SEEN FROM THE SIDE, FROM THE GLASS WALL: WIN IS ON THE LEFT OF FRAME, FACING RIGHT, TOWARD THE DRESSING-ROOM DOOR.
+- Win sits in the cream leather armchair in the sitting area by the glass wall, exactly where he sat down at the end of the last video, as in @Image6: the glass wall close on his right, the cream sofa beside him, the closed dressing-room door straight in front of him, the long corridor behind him. He stays in this chair for the whole video.
+- SEEN FROM THE DRESSING-ROOM DOOR, LOOKING BACK AT WIN: WIN FACES THE CAMERA; THE GLASS WALL IS CLOSE BESIDE HIM ON THE LEFT OF FRAME; THE LONG CORRIDOR RUNS AWAY BEHIND HIM; THE WALNUT WALL IS FURTHER AWAY ON THE RIGHT OF FRAME.
+- SEEN FROM THE SIDE, THE CAMERA STANDS BETWEEN THE GLASS WALL AND WIN, ITS BACK TO THE GLASS, LOOKING ACROSS THE HALL AT HIM: WIN IS ON THE LEFT OF FRAME, FACING RIGHT, TOWARD THE DRESSING-ROOM DOOR ON THE RIGHT OF FRAME; THE WALNUT WALL IS BEHIND HIM.
 - Exactly two people are seen in this video: Win, and once, far away at the end of the long corridor, a woman from the office who crosses and is gone.
 
 SHOT-BY-SHOT
@@ -53,16 +54,16 @@ Picture, in this order:
 - 3. 6.8–7.9 s: The ringing tone sounds quietly from the phone.
 - 4. 8.0–9.2 s: Nuch answers, her voice thin and quiet out of the phone: @Audio1. Win listens.
   - Nuch, on the phone: "คะ คุณวิญญู"
-Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; from the side, from the glass-wall side.
+Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; from the side, between the glass wall and Win, its back to the glass.
 Composition: Win at the left third, facing right, with the empty space on the right of frame toward the door; the phone at his right ear, only its black back seen; the walnut wall and a gold-framed painting soft behind him.
 Light: the soft sun from the glass wall on Win's face.
 
 Shot 3 — 9.2–12.8 s — HAVE I MET HIM · Win
 Picture, in this order:
-- 1. 9.2–12.8 s: Win cups his left hand around his mouth and the phone and asks @Audio2, his attention still on the door.
+- 1. 9.2–12.8 s: Win asks @Audio2 quietly into the phone, his attention still on the door.
   - Win: "คุณนุช เจ้าของโครงการนี้ที่ชื่อทิน ผมเคยเจอเค้ามั้ย"
   - Emotion from the script: 谨慎打听.
-  - Performance: careful, keeping it between the two of them; on the name "ทิน" he searches his memory and it comes up empty.
+  - Performance: an ordinary quiet phone call, careful, keeping it between the two of them; on the name "ทิน" he searches his memory and it comes up empty.
 Camera: CU, 120 cm high, eye level, 85mm lens, locked-off; in front of the dressing-room door, looking straight at Win.
 Composition: Win's face in the middle of frame, the phone at his right ear on the left of frame; the long corridor soft lines of light behind him.
 
@@ -92,11 +93,11 @@ Picture, in this order:
   - Emotion from the script: 略显尴尬，求助.
   - Performance: a little embarrassed to admit it; a sheepish half-smile of a man who knows how this sounds.
 - 3. 27.4–28.0 s: He waits for her answer, the phone still at his ear, his attention back on the door.
-Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; from the side, from the glass-wall side, the same camera as Shot 2.
+Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; from the side, between the glass wall and Win, the same camera as Shot 2.
 Composition: Win at the left third, facing right; the right of frame open and empty toward the door.
 
 THE LAST FRAME
-Win sits in the cream leather armchair in the hall, leaning forward, elbows on his knees, the phone at his right ear, the pink knitted hat on his head, facing the closed dressing-room door, waiting for the answer. The hall is otherwise empty.
+Win sits in the cream leather armchair in the sitting area by the glass wall, as in @Image6, leaning forward, elbows on his knees, the phone at his right ear, the pink knitted hat on his head, facing the closed dressing-room door, waiting for the answer. The hall is otherwise empty.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 2, @Audio1, NUCH, ON THE PHONE: "คะ คุณวิญญู"
@@ -135,3 +136,8 @@ DIALOGUE, IN THIS ORDER
 - เปิดช็อต `e4192f4b` (บท 03 #43) · roles 5 ภาพ + 6 เสียง `valid: true` · อัปพรอมป์ · ราคา 247.2 · quote `afcb3a37` หมดอายุ 2026-11-21 08:27 UTC · key `sb03-33-take1-20261121` · เปิดเสียง · รอ "ยิง"
 - ยิงเทค 1 2026-11-21 · 247.2 · run `af1650dc-ab8f-46d4-9744-b7d8aa44bd83`
 - เทค 1 เสร็จ · asset `ce9be27d` · 28.04 วิ · คัท 5.0 / 9.04 / 21.0 (ช็อต 3–5 ต่อกันเป็นช็อตเดียว 9.0–21.0) · เสียงพูดในคลิป 7.1–9.0 / 10.0–13.1 / 13.4–17.2 / 17.8–18.8 / 20.0–21.5 / 23.4–27.9 ใกล้แผน · อ่านเฟรม (`EP03/frames/SB03-33_V1_contact.jpg` · `_keys.jpg` · `_last.jpg`): หมวกชมพูตลอด ✓ · ช็อต 1 พนักงานเดินตัดปลายทางเดิน วินหันมอง ล้วงมือถือ ✓ · ช็อต 2 กดโทร แนบหู เอนตัว ✓ · ❌ มือซ้ายป้องปากค้างราว 9.5–19.5 คลุมทั้งบรรทัด 2 และบรรทัด 4 (*"งั้น เขาก็จำผมได้"*) ไม่เห็นปาก · 17.8 หน้าเหยเกแรง · ช็อต 5 เกาหน้าผากใต้หมวก ✓ · ⚠ ช็อต 6 กล้องอยู่หลังเฉียง มือถือ+มือบังหน้า ไม่เห็นยิ้มเจื่อน/ก้มมอง · ⚠ ช็อต 2 และ 6 วินหันหน้าไปทางผนังกระจก ไม่ใช่ประตู (ประตูอยู่ลึกเข้าไปในภาพ) · รอ user ดู
+- เทค 2 — user 2026-11-21 *"คือมันตั้งแต่ตำแหน่งนั่งแล้ว มันเพี้ยน ฉากสถานที่ก็มีให้ ความสมเหตุสมผล ฉากก่อนหน้า นั่งตรงไหน มันก็ควรอยู่ตรงนั้น สิ"* · *"มือป้องปาก อีก ไม่ต้องโอเวอร์ขนาดนั้นเลย มันก็คนโทรมือถือ คุย แค่ทำ ท่าให้ดูเหมือนกำลังคุย เงียบๆ ไม่ให้ แปลกไปอะ"*
+  - ที่นั่ง: เฟรมท้าย `SB03-32b` เทค 6 → Mix Stage `WIN_seat_end_SB03-32b` `245bc478` = @Image6 (ต่อท้ายภาพ เลขเดิมไม่ขยับ) · BEFORE / WHERE / เฟรมท้าย → *the cream leather armchair in the sitting area by the glass wall … as in @Image6* · มุมจากประตู: ผนังกระจกชิดซ้ายเฟรม · มุมข้าง: กล้องอยู่ระหว่างผนังกระจกกับวิน หันหลังให้กระจก ประตูขวาเฟรม ผนังไม้ข้างหลังวิน (เทค 1 กล้องข้างเห็นผนังกระจกในเฟรม วินหันไปทางกระจก)
+  - ป้องปาก: ช็อต 3 ตัด *cups his left hand around his mouth and the phone* → *asks @Audio2 quietly into the phone* · Performance เติม *an ordinary quiet phone call* · GLOBAL เติม *Win talks on the phone the way anyone does on a quiet private call: the phone at his ear, ordinary and natural.*
+- ด่านยกเว้น: A1 user สั่งในสตอรี่บอร์ดคลิป 3 ช็อต 6 *"วินหลับตาครู่หนึ่ง"* · เป็นแอ็กชันตามบท ไม่ใช่การสั่งรูปหน้า
+- เทค 2: แนบ `245bc478` เป็น @Image6 · roles 6 ภาพ + 6 เสียง `valid: true` · อัปพรอมป์ · ราคา 247.2 · quote `7352e5e6` หมดอายุ 2026-11-21 08:44 UTC · key `sb03-33-take2-20261121` · เปิดเสียง · รอ "ยิง"
