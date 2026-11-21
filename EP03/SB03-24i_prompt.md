@@ -29,7 +29,7 @@ SHOT
 Shot 1 — 0.0–4.0 s — THE UNCLE COMES ROUND THE CORNER
 Picture, in this order:
 - 1. 0.0–0.6 s: The very first frame is the far end of the corridor exactly as in @Image1, empty; straight away Win steps out of the bright opening on the left of the end wall, already in his stride, full length in the frame.
-- 2. 0.6–2.8 s: He walks a few steps toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, one hand in his jacket pocket, chin up, sure of himself, because she needs him and this is an easy way to get her out of trouble.
+- 2. 0.6–2.8 s: He walks a few steps toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, arms swinging easy at his sides, chin up, sure of himself, because she needs him and this is an easy way to get her out of trouble.
 - 3. 2.8–4.0 s: He stops in the middle of the corridor and stands tall and easy, his weight on one leg, still full length in the frame, from the hat to the boots.
 Camera: FS, locked-off, the camera angle and framing of @Image1; in front of the lift, looking down the corridor to its far end.
 Meaning: the reveal of the uncle is a tall, cool man in a pink knitted hat, and the outfit is funny by itself.
@@ -75,3 +75,5 @@ The framing of @Image1. Win standing still, tall and easy, in the middle of the 
   - quote 35.4 · key `sb03-24i-v2-20261121-b` · รอ "ยิง"
 - user 2026-11-21 *"0.6 วิแรกจะให้เฟรมว่าทำไม แค่เฟรมเดียว แล้ววินเข้าเลยสิวะ"* → ว่างแค่เฟรมแรก วินก้าวออกทันที 0.0–0.6 · เดิน 0.6–2.8 · หยุด 2.8–4.0 · 4 บีต → 3 · quote `-b` ใช้ไม่ได้
   - quote 35.4 · key `sb03-24i-v2-20261121-c` · รอ "ยิง"
+- user 2026-11-21 *"ทำไมต้องล้วงกระเป๋า? มั่ว"* → ผมใส่เอง ไม่มีใครสั่ง → ตัด · แทนด้วย *arms swinging easy at his sides* · quote `-c` ใช้ไม่ได้
+  - quote 35.4 · key `sb03-24i-v2-20261121-d` · รอ "ยิง"
