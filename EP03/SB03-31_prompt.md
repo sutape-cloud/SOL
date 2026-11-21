@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the first video of this scene. Juk drove Aoy to the office of the project owner, where she is to be made up for the job; Aoy brought along her "uncle" Win, in his jacket turned inside out and a pink knitted hat, saying he has Alzheimer's and cannot be left at home alone. Win plays the confused old uncle. The three of them have come up in the lift and are walking along the long corridor toward the dressing room, where the styling team is waiting.
 
 SCENE
-Juk leads Aoy and her "uncle" across the quiet, expensive hall to the dressing room. The head makeup artist, a flamboyant man, inspects Aoy's bare face like a professional and approves. Juk hands over the sketch and orders the styling team to make her up exactly as drawn, so the executives are fully satisfied. Then he waves the uncle off to a lone armchair by the wall: the uncle stays outside. Win obeys like an old man, but he wants to stay near Aoy.
+Juk leads Aoy and her "uncle" across the quiet, expensive hall to the dressing room. The head makeup artist, a flamboyant man, inspects Aoy's bare face like a professional and approves. Juk hands over the sketch and orders the styling team to make her up exactly as drawn, so the executives are fully satisfied. Then he waves the uncle off to the sofa in the sitting area: the uncle waits outside, facing the dressing-room door. Win obeys like an old man, but he wants to stay near Aoy.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM IN THE PROJECT OWNER'S OFFICE, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -38,7 +38,7 @@ WHAT THEY WEAR, AS IN @Image5, @Image7, @Image8, @Image10 TO @Image13
 - The wardrobe assistant: a short straight black bob; a short-sleeved black mandarin-collar top with gold buttons; black trousers; black flat shoes; a pin cushion strapped to her left wrist; a black lint roller in one hand and a black garment bag on a hanger in the other.
 
 WHERE EVERYONE IS
-- The hall outside the dressing room, high up in an office tower, as in @Image1 and @Image2: a polished white marble floor with grey veins; walnut wall panels divided by thin brass lines; warm hidden lights along the edge of the white ceiling, and downlights. At one end of the hall, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble, with an olive tree in a concrete pot beside it. Along one side, the floor-to-ceiling glass wall with the city towers outside and square wooden pillars edged in brass. In the corner between the door and the glass wall, a sitting area: cream leather armchairs, a cream sofa, white orchids and a brass floor lamp. Along the other side, the walnut wall with an abstract painting in a gold frame. At the other end of the hall, the long corridor with its glass wall. One single cream leather armchair stands against the walnut wall beside a wooden door with a keypad, near the long corridor.
+- The hall outside the dressing room, high up in an office tower, as in @Image1 and @Image2: a polished white marble floor with grey veins; walnut wall panels divided by thin brass lines; warm hidden lights along the edge of the white ceiling, and downlights. At one end of the hall, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble, with an olive tree in a concrete pot beside it. Along one side, the floor-to-ceiling glass wall with the city towers outside and square wooden pillars edged in brass. In the corner between the door and the glass wall, a sitting area: cream leather armchairs, a cream sofa, white orchids and a brass floor lamp. Along the other side, the walnut wall with an abstract painting in a gold frame. At the other end of the hall, the long corridor with its glass wall.
 - At the start: the three stylists stand in a row in front of the dressing-room door, waiting. Juk, Aoy and Win are still in the long corridor.
 - During the video: Juk leads, Aoy half a step behind him, Win last; they cross the hall and stop in front of the dressing-room door.
 - SEEN FROM THE SIDE, FROM THE GLASS WALL: THE DRESSING-ROOM DOOR IS ON THE RIGHT OF FRAME, THE LONG CORRIDOR ON THE LEFT OF FRAME. JUK, AOY AND WIN, COMING FROM THE CORRIDOR, FACE RIGHT. THE THREE STYLISTS IN FRONT OF THE DOOR FACE LEFT.
@@ -81,17 +81,17 @@ Light: the window light makes Juk's white suit the brightest thing in the pictur
 Shot 4 — 18.5–24.0 s — THE UNCLE STAYS OUT · Juk and Win
 Picture, in this order:
 - 1. 18.5–19.6 s: Win follows Aoy toward the door; Juk puts the flat of his hand against Win's chest to stop him, barely turning toward him, his attention still on the dressing room.
-- 2. 19.6–21.8 s: Juk says @Audio2 and flicks a fingertip toward the single armchair against the walnut wall.
+- 2. 19.6–21.8 s: Juk says @Audio2 and flicks a fingertip toward the cream sofa in the sitting area beside the dressing-room door.
   - Juk: "ลุงไม่ต้องเข้าไปนะ นั่งรอตรงนี้แหละ"
   - Emotion from the script: 随意打发，略带敷衍.
   - Performance: his mind already on other work; he points with just a fingertip.
-- 3. 21.8–24.0 s: Win stops where the hand stops him. He looks where the finger points, at the armchair, then back at the dressing-room door, then at Aoy: his face stays blank like an old uncle, but he wants to stay near her.
+- 3. 21.8–24.0 s: Win stops where the hand stops him. He looks where the finger points, at the sofa, then back at the dressing-room door, then at Aoy: his face stays blank like an old uncle, but he wants to stay near her.
 Camera: MS two-shot, 140 cm high, eye level, 35mm lens, locked-off; from the side, from the glass-wall side.
-Meaning: one two-shot shows both the hand brushing Win aside and the chair he is sent to: where the uncle stands in Juk's eyes is clear in one picture.
-Composition: Win on the left of frame, facing right; Juk a little right of the middle, turned back toward the left; the walnut wall and the painting behind them; the single cream leather armchair against the walnut wall, on the left of frame behind Win, sharp enough for the audience to see what Juk is pointing at.
+Meaning: one two-shot shows both the hand brushing Win aside and the sofa he is sent to: where the uncle stands in Juk's eyes is clear in one picture.
+Composition: Win on the left of frame, facing right; Juk a little right of the middle, turned back toward the left; the walnut wall and the painting behind them; the cream sofa in the sitting area beside the dressing-room door, on the right of frame behind Juk, sharp enough for the audience to see what Juk is pointing at.
 
 THE LAST FRAME
-The three stylists stand in front of the dressing-room door, the head makeup artist holding the sketch folder, the door still closed. Aoy stands one step from the door. Juk stands between Aoy and Win. Win stands in the middle of the hall, facing the door. The single armchair against the walnut wall, near the long corridor.
+The three stylists stand in front of the dressing-room door, the head makeup artist holding the sketch folder, the door still closed. Aoy stands one step from the door. Juk stands between Aoy and Win. Win stands in the middle of the hall, facing the door. The cream sofa in the sitting area beside the door, where he will wait.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 3, @Audio1, JUK: "วันนี้ต้องแต่งหน้าน้องเค้าตามสเก็ตช์นะ อย่าให้ผู้บริหารท่านต่อว่าได้"
@@ -130,3 +130,5 @@ DIALOGUE, IN THIS ORDER
 - ด่าน: A8 *does not want to be apart* → *wants to stay near* (SCENE · ช็อต 4) · *without turning to look at him properly* → *barely turning toward him* · A1 *bob to her jaw* → *short straight black bob* · *nods slowly, lets go of her chin* → *a slow nod of approval, lets her go* · A4 *facing himself / to look at the sketch* → *holding the sketch toward himself / lean in … toward the sketch* · สำนวน *as if* → ตัด (2 จุด) · A13 *louder* → *heavier on the marble* · A23 *dismissive* → ตัด (แท็ก 随意打发 คุมอยู่)
 - SCENE A8 *nothing to complain about / does not go in* → *fully satisfied / stays outside*
 - เปิดช็อต `4ddbd80b` (บท 03 #38) · roles 13 ภาพ + 2 เสียง `valid: true` · อัปพรอมป์ · ราคา 211.9 · quote `459131a8` หมดอายุ 2026-11-21 05:49 UTC · key `sb03-31-take1-20261121` · รอ user เคาะบรรทัดเรฟ ST03/ST01 + "ยิง"
+- แก้ 2026-11-21 — user *"ในบท ต้องนั่งอาร์มแชร์ หรอ ให้นั่ง โซฟา รอ ก็ได้เปล่า แค่หันหน้า ไปที่ประตู รอ"* · บทเขียนแค่ *"แจ็คชี้ให้วินไปนั่งที่เก้าอี้หน้าห้อง"* → เปลี่ยนอาร์มแชร์ตัวเดียวชิดผนังไม้ เป็น **โซฟาครีมในมุมนั่งเล่นข้างประตูห้องแต่งตัว** · SCENE *waits outside, facing the dressing-room door* · ช็อต 4 นิ้วชี้ไปที่โซฟา · องค์ประกอบ โซฟาอยู่ขวาเฟรมหลังแจ็ค · เฟรมท้าย · ตัดบรรทัดอาร์มแชร์ใน WHERE · วินยังยืนตอนจบคลิปตามสตอรี่บอร์ด (นั่งในคลิปถัดไป)
+- เทค 1 (โซฟา): อัปพรอมป์ · ราคา 211.9 · quote `3c563837` หมดอายุ 2026-11-21 05:53 UTC · key `sb03-31-take1b-20261121` · รอ user เคาะบรรทัดเรฟ ST03/ST01 + "ยิง"
