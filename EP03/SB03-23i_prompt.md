@@ -18,7 +18,7 @@ WHAT HE WEARS, AS IN @Image3
 - Win: a light-green nylon jacket with a stand-up collar, zip open, grey piping along the sleeve seams; a white crew-neck T-shirt. His black hair swept back, grey at the temples. His head is bare.
 
 WHERE EVERYONE IS
-- The housekeeper's rest room, as in @Image1: grey stone-tile walls, a small dome light on the ceiling. On the wall beside the wooden door, a wooden rail of hooks; on it hang a pink knitted hat with a folded brim and a cream flower, and an apron with a small light-blue flower print.
+- The housekeeper's rest room, as in @Image1: grey stone-tile walls, a small dome light on the ceiling. On the wall beside the wooden door, a wooden rail of hooks; on it hangs a dusty-pink knitted hat with a thick folded brim; on the front of the brim, low on the right, is sewn a small cream knitted flower with five round petals. Beside it hangs an apron with a small light-blue flower print.
 - WIN STANDS A STEP AWAY FROM THE WALL, ON THE RIGHT OF FRAME. BEHIND HIM, ON THE LEFT OF FRAME, THE PINK KNITTED HAT HANGS ON ITS HOOK ON THE WALL.
 
 SHOT
@@ -26,14 +26,14 @@ Shot 1 — 0.0–4.0 s — THE HAT
 Picture, in this order:
 - 1. 0.0–1.8 s: Win stands a step away from the wall, still, thinking fast, because the footsteps outside are coming closer and he has to find a way out. The pink knitted hat behind him on the left is a soft pink blur.
 - 2. 1.8–2.6 s: He turns his head to look back over his shoulder at the hat on the wall.
-- 3. 2.6–4.0 s: The focus moves from Win to the hat: the pink knitted hat on its hook comes sharp, and Win's face goes soft in the foreground, still looking at it, because an idea has just come to him.
-Camera: CU, 165 cm high, eye level, 85mm lens, locked-off, a rack focus from Win to the hat at 2.6 s.
+- 3. 2.6–4.0 s: The focus moves from Win to the small cream flower on the brim of the hat: the little five-petal flower and its knitted stitches come sharp, and Win's face goes soft in the foreground, still looking at it, because an idea has just come to him.
+Camera: CU, 165 cm high, eye level, 85mm lens, locked-off, a rack focus from Win to the cream flower on the hat at 2.6 s.
 Meaning: the audience sees what Win sees, and understands his idea before he moves.
-Composition: Win's face close on the right third; behind him on the left of frame, the pink knitted hat on its hook, first soft, then sharp; the grey stone-tile wall behind; the thin line of warm light from the door across him.
+Composition: Win's face close on the right third; behind him on the left of frame, the pink knitted hat on its hook, first soft, then the cream flower on its brim sharp; the grey stone-tile wall behind; the thin line of warm light from the door across him.
 Sound: the quiet room; footsteps outside, close.
 
 THE LAST FRAME
-The pink knitted hat on its hook on the left of frame, in sharp focus. Win's face soft in the foreground on the right, looking at it.
+The small cream flower on the brim of the pink knitted hat on the left of frame, in sharp focus. Win's face soft in the foreground on the right, looking at it.
 
 ---
 
@@ -52,3 +52,5 @@ The pink knitted hat on its hook on the left of frame, in sharp focus. Win's fac
 - ด่านยกเว้น: A4 *look back at the hat* = user *"หันไปมองที่หมวก"* · A20 หมวกซ้ายเฟรม/วินขวา = user *"อยู่ทางซ้ายเฟรม"* + rack focus = user *"ซิฟโฟกัสไปที่หมวก"*
 - roles บนช็อต 55cc0522 เปลี่ยนเป็น [28bfab31, 2aec936c, 8b9bc474] (V1 เดิม: e9ae435b, 4be9ed0f, df0c1124, 28bfab31, f82c709c, 703403cb, be938093, d0240777, 2aec936c, 8b9bc474, a34d98fc, 6bf2d2ca + เสียง 267dbdf9, e9f9bf45, b29468f9, 309d13e3)
 - quote 35.4 พอยต์ · seedance-2-5 references 16:9 720p full manual audio on · 4 วิ · insert
+- user 2026-11-21 *"เน้นที่ดอกไม้ที่ปักบนหมวกไหมพรมนะ"* → rack focus ลงที่ดอกไม้ครีม 5 กลีบ ปลายปีกหมวกด้านหน้าล่างขวา (ตามรูปเรฟ `28bfab31`) · quote เดิม 35.4 key `-b` ใช้ไม่ได้แล้ว
+- quote ใหม่ 35.4 key `sb03-23i-v1-20261121-c`
