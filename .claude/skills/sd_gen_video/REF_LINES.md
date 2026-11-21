@@ -124,3 +124,27 @@ THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
 ```
 
+
+### ANON · ทนายอานนท์ (ทีมกฎหมาย)
+```
+ANON: Thai, a lawyer on the company's legal team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+```
+user เคาะ 2026-11-21 ("ยิง" หลังเสนอบรรทัดใน `SB03-29`) · Mix Stage `LEGAL03 man sheet sd55 v2` `f9341948` · ใบเดียวมีหน้า ข้าง หลัง CU · จับคู่ตามสตอรี่บอร์ด 3-4 คลิป 1 (วัยกลางคน เคราแพะ สูทกรมท่า เนกไทเลือดหมู) — PREP เดิมเคยตั้ง LEGAL01 เป็นอานนท์
+
+### THE SENIOR LAWYER · ทนายหญิงอาวุโส
+```
+THE SENIOR LAWYER: Thai, a woman, the head of the company's legal team. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
+```
+user เคาะ 2026-11-21 (`SB03-29`) · `LEGAL02 senior sheet sd55 v2` `36eab620`
+
+### THE YOUNG LAWYER · ทนายหนุ่มแว่น
+```
+THE YOUNG LAWYER: Thai, a young man on the company's legal team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+```
+user เคาะ 2026-11-21 (`SB03-29`) · `LEGAL01 anon sheet sd55 v2` `f14ab6b2` (ชื่อไฟล์มีคำว่า anon แต่ตัวละครนี้คือทนายหนุ่มแว่น)
+
+### THE PONYTAIL LAWYER · ทนายสาวผมหางม้า
+```
+THE PONYTAIL LAWYER: Thai, a young woman on the company's legal team. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
+```
+user เคาะ 2026-11-21 (`SB03-29`) · `LEGAL04 woman sheet sd55 v2` `4ebb93d7`
