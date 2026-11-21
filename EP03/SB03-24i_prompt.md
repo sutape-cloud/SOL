@@ -77,3 +77,4 @@ The framing of @Image1. Win standing still, tall and easy, in the middle of the 
   - quote 35.4 · key `sb03-24i-v2-20261121-c` · รอ "ยิง"
 - user 2026-11-21 *"ทำไมต้องล้วงกระเป๋า? มั่ว"* → ผมใส่เอง ไม่มีใครสั่ง → ตัด · แทนด้วย *arms swinging easy at his sides* · quote `-c` ใช้ไม่ได้
   - quote 35.4 · key `sb03-24i-v2-20261121-d` · รอ "ยิง"
+- ยิง V2 2026-11-21 · run `e3603953-43b6-4629-8521-63eee4061b61` · 35.4 พอยต์
