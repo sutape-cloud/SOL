@@ -58,3 +58,4 @@ Everyone stays silent.
 - เรฟ: @Image1 T A `8a40f7a4` · @Image2 วินหน้า `2aec936c` · @Image3 วินกลับเสื้อ `b16a326b` · @Image4 หมวก `a2167781` · @Image5 ช่างแต่งหน้า ST03 `f8d0e7d7` · ไม่มีเสียงพูด
 - ด่าน: BEFORE A8 *do not answer so promptly* → *answer differently* (คำเดียวกับ SB03-32)
 - เปิดช็อต `21274889` (บท 03 #42) · roles `valid: true` · อัปพรอมป์ · ราคา 53.0 · quote `3d2bcdc1` หมดอายุ 2026-11-21 07:09 UTC · key `sb03-32b-take1-20261121` · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 07:00 UTC · 53.0 · run `bb33d22a-5f16-46d0-9325-4fcd385bbd6e`
