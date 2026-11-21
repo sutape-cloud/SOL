@@ -51,3 +51,4 @@ Nuch stays silent.
 - ปัญหาเทค 1 ของ `SB03-29` (`249cb1f4`): จอ iPad หันเข้ากล้อง เห็นหน้าเอกสาร (สตอรี่บอร์ด *"จอ iPad หันออก"*) · นุชขมวดคิ้วแรง
 - แก้: WHERE *its screen facing her* + *the camera … sees the plain black back of the iPad case* · ปัด/ซูม *behind the iPad* · GLOBAL *Nuch's reactions are small and real* · เรฟเหลือ 3 ใบ (S01 · นุชหน้า · นุชเต็มตัว)
 - เปิดช็อต `3d3f017b` (บท 03 #31) · roles `valid: true` · อัปพรอมป์ · ราคา 35.4 · quote `6d90a9ac` หมดอายุ 2026-11-21 02:49 UTC · key `sb03-29a-take1-20261121` · รอ "ยิง"
+- ยิงเทค 1 2026-11-21 02:43 UTC · 35.4 · run `28e17ce5-9a91-4451-969b-d702b6dc8125`
