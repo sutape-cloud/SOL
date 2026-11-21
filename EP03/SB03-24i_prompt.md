@@ -3,7 +3,7 @@ Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 
 All the acting is natural and real, at the size of real life: small and natural. The corridor to the lift is closed in by marble walls on both sides, lit only by its downlights, its brass wall lamps and the warm hidden lights along the edge of the ceiling. The air is clear and clean. Every surface is plain. The lift door and its panel are plain brushed steel with only a plain call button. Every person has two arms and two legs, natural and correct, with real adult proportions. The camera keeps one fixed focal length. The only sound is the real sound of the place.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. Round the corner at the far end of the corridor, in the housekeeper's rest room, Win turned his light-green jacket inside out so that it is now white with green trim, and put on the housekeeper's pink knitted hat with the cream flower: a quick, simple disguise as the "uncle", to help out. Now he steps out.
+All of this has already happened before the first frame. Round the corner at the far end of the corridor, in the housekeeper's rest room, Win turned his light-green jacket inside out so that it is now white with green trim, and put on the housekeeper's pink knitted hat with the cream flower: a quick, simple disguise as the "uncle", because the girl he looks after is in a tight spot out in the corridor and needs an uncle right now. Now he steps out to help her.
 
 SCENE
 The corridor is empty. Then Win comes round the corner at the far end and walks up the corridor toward the camera, cool and easy, sure of himself: a man in a quick disguise doing a simple favour, with the swagger of a man who looks good in anything, even a pink knitted hat.
@@ -30,7 +30,7 @@ Shot 1 — 0.0–4.0 s — THE UNCLE COMES ROUND THE CORNER
 Picture, in this order:
 - 1. 0.0–0.8 s: The empty corridor, still and quiet, the corner at the far end lit by the downlights.
 - 2. 0.8–1.4 s: Win comes round the corner at the far end, already in his stride.
-- 3. 1.4–3.4 s: He walks up the middle of the corridor toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, one hand in his jacket pocket, chin up, sure of himself, because this is just a simple favour and he is good at it.
+- 3. 1.4–3.4 s: He walks up the middle of the corridor toward the camera, cool and easy, long relaxed strides on his long legs, shoulders loose, one hand in his jacket pocket, chin up, sure of himself, because she needs him and this is an easy way to get her out of trouble.
 - 4. 3.4–4.0 s: He comes to a stop a few steps from the camera, standing tall and easy, his weight on one leg.
 Camera: FS, 140 cm high, a little below eye level, tilted slightly up, 50mm lens, locked-off; in the corridor, looking deep into it toward the corner.
 Meaning: the reveal of the uncle is a tall, cool man in a pink knitted hat, and the outfit is funny by itself.
@@ -58,3 +58,5 @@ Win standing tall and easy in the middle of the corridor, a few steps from the c
 - quote 35.4 · key `sb03-24i-v1-20261121-a` · seedance-2-5 references 16:9 720p full manual audio on · 4 วิ · insert · รอ "ยิง"
 - user 2026-11-21 *"เริ่มจากยังไม่เข้าเฟรมเลยนะ เพราะมี 4 วิ เดินมาแบบเท่ๆ ไม่เอาผ่านไหล่แจ็คแล้ว วินไม่ทำท่าป่วย แค่ปลอมตัวเป็นลุงช่วยอลิซ ไม่ได้คิดอะไรซับซ้อน"* → 0–0.8 ทางเดินว่าง · 0.8 วินเลี้ยวเข้ามา · เดินเท่ สบายๆ มือล้วงกระเป๋า · ตัดไหล่แจ็ค + เรฟแจ็ค `6bf2d2ca` · ตัดท่าคนป่วยทั้งหมด · ไม่เอ่ยชื่อแจ็ค/อลิซ (นอกเฟรม) · roles เหลือ 4 · quote `-a` ใช้ไม่ได้
 - quote ใหม่ 35.4 key `sb03-24i-v1-20261121-b` · roles [df0c1124, 2aec936c, b16a326b, a2167781]
+- user 2026-11-21 *"บอก SD ว่าเขามาช่วยอลิซที่กำลังลำบากมั้ย?"* → *"ใส่แบบไม่เอ่ยชื่อ ยิง"* · BEFORE + บีต 3 เติมเหตุ *the girl he looks after is in a tight spot* (ไม่เอ่ยชื่ออลิซ)
+- ยิง 2026-11-21 · key `sb03-24i-v1-20261121-c` · run `71c3b26a-2547-4a5a-9c83-790bd0d17f23` · 35.4 พอยต์
