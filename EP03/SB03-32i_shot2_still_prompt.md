@@ -8,15 +8,14 @@ THE PEOPLE
 - Win, as in @Image6 and @Image7: 45, Thai; a glossy white nylon jacket with green trim at the collar, the zip and the cuffs; a white crew-neck T-shirt; black jeans; on his head the pink knitted hat with a folded brim and a cream knitted flower.
 
 WHERE EVERYONE IS IN THE PICTURE
-- JUK AND AOY STAND SIDE BY SIDE, SHOULDER TO SHOULDER, AT THE SAME DISTANCE FROM THE CAMERA, BOTH THE SAME SIZE IN THE FRAME, BOTH SEEN FROM THE WAIST UP.
-- JUK IS IN THE MIDDLE OF THE FRAME, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME, TALKING TO SOMEONE BY THE DOOR JUST OUTSIDE THE PICTURE ON THE LEFT.
-- AOY STANDS ON JUK'S RIGHT, ON THE RIGHT OF FRAME, FACING THE CAMERA AT A SLIGHT ANGLE, LISTENING TO HIM.
-- WIN STANDS TWO STEPS BEHIND THEM, IN THE GAP BETWEEN JUK'S SHOULDER AND AOY'S SHOULDER: HIS FACE AND HIS PINK HAT SHOW BETWEEN THEIR TWO HEADS, A LITTLE SMALLER, A LITTLE SOFTER IN FOCUS.
-- Behind all three, the hall is a soft blur.
+- ALL THREE OF THEM STAND RIGHT IN FRONT OF THE DRESSING-ROOM DOOR, CLOSE TO THE CAMERA. THE HALL AND THE LONG CORRIDOR BEHIND THEM ARE FAR AWAY AND SOFTLY BLURRED.
+- JUK STANDS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME.
+- AOY STANDS RIGHT BESIDE JUK, ON THE RIGHT OF FRAME, SHOULDER TO SHOULDER WITH HIM, AT EXACTLY THE SAME DISTANCE FROM THE CAMERA, THE SAME SIZE IN THE FRAME AS JUK, SEEN FROM THE WAIST UP, HER BODY TURNED A LITTLE TOWARD HIM.
+- WIN STANDS TWO STEPS BEHIND THE TWO OF THEM, HIS FACE AND THE PINK HAT SEEN IN THE GAP BETWEEN JUK'S SHOULDER AND AOY'S SHOULDER, A LITTLE SMALLER IN THE FRAME, A LITTLE SOFTER.
 
-Juk is in the middle of giving an order, his manner brisk and busy. Aoy listens to him. Win, behind them, listens with a small worry on his face.
+Juk is in the middle of giving an order, his manner brisk and busy. Aoy listens to him. Win, behind, listens with a small worry on his face.
 
-Camera: MS, 155 cm high, eye level, 85mm lens, shallow depth of field; Juk and Aoy sharp, Win a little soft, the hall behind them a deep blur.
+Camera: MS, 155 cm high, eye level, 85mm lens, shallow depth of field: Juk and Aoy sharp, Win a little soft, the hall behind them a soft blur of walnut, glass and warm light.
 
 REFERENCES
 @Image1 — JUK IN THIS SAME HALL, WITH THE HALL BLURRED BEHIND HIM. ONLY JUK AND THE LOOK OF THE BLURRED HALL ARE TAKEN FROM THIS PICTURE.
@@ -49,3 +48,7 @@ Three people in the picture: Juk, Aoy and Win.
 - v1 ❌ user *"แจ็คมันยืนอยู่หน้าประตู คู่กะอลิซที่อยู่ไปทางขวาเฟรม ส่วนวิน ถอยหลังไป2ก้าว ระหว่าง 2 คน"* — v1 แจ็คหน้าเดี่ยว อลิซลึกขอบซ้าย วินลึกพอๆ อลิซ · แจ็คมองตรง · ⚠️ ผมส่งโดยไม่เช็คภาพ
 - v2: user *"ใช่ อลิซอยู่ขวาแจ็ค และ bg ต้องเบลอๆ เพราะทั้ง 3 คนยืนใกล้ประตูเลย bg นี้มันไม่ใช่แล้ว"* → ตัดเรฟ T B `d02867a0` · ฉากหลังเบลอลึก ตามหลังแจ็คในเฟรม V1 10.0 (@Image1) · แจ็คกลาง + อลิซขวาแจ็ค ไหล่ชนไหล่ ระยะเดียวกัน · วินถอยหลัง 2 ก้าว หน้าโผล่ช่องระหว่างไหล่ · 85mm ชัดตื้น · แจ็คหันซ้ายนิดๆ = คุยกับช่างแต่งหน้านอกเฟรมซ้าย (ไม่เอ่ยชื่อ) · 7 เรฟ
 - v2 quote 2.2 พอยต์ (ลด 40% จาก 3.6) · key `sb03-32i-shot2-still-v2-a` · รอ "ยิง"
+- v1 `dc37056a` ❌ แจ็คหน้าสุดคนเดียว · อลิซลึกข้างหลังซ้าย ตัวเล็ก · วินยืนคู่อลิซ · ยืนกลางทางเดิน bg ชัด · (แจ็คมองซ้ายนิดๆ ✓ — ผมดูผิดว่าไม่หัน)
+- user *"ใช่ อลิซอยู่ขวาแจ็ค และ bg ต้องเบลอๆ เพราะทั้ง 3 คนยืนหน้าประตูเลย ไม่ใช่อยู่กลางทางเดินแบบนี้ อีกอย่างคือแจ็คที่เจนมามองซ้ายนิดๆ ถูกแล้ว"*
+  - v2: ทั้งสามยืนหน้าประตูห้องแต่งตัว ใกล้กล้อง · bg เบลอ (85mm ชัดตื้น) · แจ็คกลาง · อลิซขวาเฟรม ไหล่ชิดแจ็ค ระยะ/ขนาดเท่ากัน · วินถอย 2 ก้าว หน้าโผล่ช่องระหว่างไหล่ · ตัดบรรทัดผนังกระจก/เสาหลังอลิซ
+  - v2 quote 2.4 · key `sb03-32i-shot2-still-v2-a` · รอ "ยิง"
