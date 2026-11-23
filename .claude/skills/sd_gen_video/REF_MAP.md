@@ -65,3 +65,5 @@
 | `WIN_whitejkt_pinkhat_CU` | `ad94e94f` | หน้าวิน CU ใส่หมวกชมพู · เฟรม 15 วิ จาก `SB03-33` เทค 2 · ไฟล์ `EP03/WIN_pinkhat_CU_from_SB03-33_V2.png` | C3-5 |
 | `WIN_facing_door_OTS_SB03-36_V3` | `668e7342-b671-4480-b71d-a9dacb498cef` | วินนั่งเก้าอี้ครีม หันหน้าเข้าประตูห้องแต่งตัว มุมหลังไหล่ (เฟรม 8.0 วิ ของ SB03-36 เทค 3) · `EP03/WIN_facing_door_OTS_from_SB03-36_V3.png` |
 | `WIN_facing_door_side_SB03-36_V3` | `aab6aaa7-f215-4b7e-b4d0-3b26432e06b8` | วินนั่งเก้าอี้ตัวเดียวกัน มุมข้าง หันขวาเข้าประตู (เฟรม 2.0 วิ ของ SB03-36 เทค 3) · `EP03/WIN_facing_door_side_from_SB03-36_V3.png` |
+| `TIN dressingroom IN vanity-to-door sd55` | `a25ac9b5-2fb1-48c3-8da5-199ae51534c8` | ห้องแต่งตัวทิน ข้างใน จากข้างโต๊ะแต่งหน้ามองกลับประตู · ตู้ใหญ่ (ที่วินซ่อน) ซ้ายใกล้ประตู · โซฟาขวา · ซีน 3-6 · `EP03/TIN_dressingroom_v2_cam2_vanity_noform_sd55.png` |
+| `TIN dressingroom IN door-to-vanity sd55` | `f1d578c6-eea0-4d79-98fe-1c322907c105` | ห้องแต่งตัวทิน ข้างใน จากประตูมองเข้า · ตู้ใหญ่ขวาใกล้ประตู · โซฟาซ้าย · โต๊ะแต่งหน้าซ้ายลึกเข้าไป · ตู้กระจกผนังไกล · ซีน 3-6 · `EP03/TIN_dressingroom_v3_cam1_door_sd55.png` |
