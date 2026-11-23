@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Juk led Aoy and her "uncle" Win across the marble hall to the dressing room. The head makeup artist checked Aoy's bare face and took the sketch of the red cheongsam she must wear: a short dress, so Aoy is meant to show her bare legs. Yesterday Juk was told off by his bosses because of the makeup. The big boss himself may come to see the result.
 
 SCENE
-At the dressing-room door Juk tells the head makeup artist, in front of everyone, that he must do Aoy's makeup properly today; the makeup artist takes the reprimand seriously. Then Juk turns to Aoy and her uncle: hurry, the boss will come to see for himself. Juk tells the uncle to wait right here. Aoy then invents a story with a straight face: she cut both her legs shaving last night, so today she has to wear her black tights again. Juk cannot be bothered to argue; fed up, he walks off.
+At the dressing-room door Juk tells the head makeup artist, in front of everyone, that he must do Aoy's makeup properly today; the makeup artist takes the reprimand seriously. Then Juk turns to Aoy and her uncle: hurry, the boss will come to see for himself. Juk tells the uncle not to go in, just to sit and wait right here. Aoy then invents a story with a straight face: she cut both her legs shaving last night, so today she has to wear her black tights again. Juk cannot be bothered to argue; fed up, he walks off.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE IN SHOT 1.
@@ -63,7 +63,7 @@ Picture, in this order:
   - Win, behind them in the middle, stands still and listens; now and then he glances at Aoy.
 - 2. 7.3–8.0 s: Juk turns his attention to Win.
 - 3. 8.0–10.1 s: Juk says the first part of @Audio2 to Win.
-  - Juk: "ลุงรออยู่ตรงนี้..."
+  - Juk: "ลุงไม่ต้องเข้าไปนะ นั่งรอตรงนี้แหละ"
   - Performance: polite and brisk, the way one speaks to an old man.
 - 4. 10.6–18.3 s: Aoy says the rest of @Audio2 to Juk, with a perfectly straight face.
   - Aoy: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผล สองขาเลย วันนี้คงต้องใส่ถุงน่องดำเหมือนเดิมนะคะ"
@@ -81,7 +81,7 @@ The framing of @Image4. Aoy in the right third, Win in the middle two steps behi
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JUK: "วันนี้ต้องแต่งหน้าน้องเค้านะ เมื่อวานพี่แจ็คโดนผู้ใหญ่ต่อว่ามา"
 2. Shot 2, @Audio1, JUK: "...รีบๆทำให้เสร็จ เดี๋ยวท่านจะมาดูด้วยตัวเอง"
-3. Shot 2, @Audio2, JUK: "ลุงรออยู่ตรงนี้..."
+3. Shot 2, @Audio2, JUK: "ลุงไม่ต้องเข้าไปนะ นั่งรอตรงนี้แหละ"
 4. Shot 2, @Audio2, AOY: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผล สองขาเลย วันนี้คงต้องใส่ถุงน่องดำเหมือนเดิมนะคะ"
 
 ---
@@ -123,3 +123,5 @@ DIALOGUE, IN THIS ORDER
 - quote 176.6 พอยต์ · 20 วิ · key `sb03-32i-v1-20261123-c` (วินนิ่ง · ไลน์อลิซเทค 1) · รอ "ยิง"
 - ยิง 2026-11-23 · run `bfbfbb05-a8de-4e9f-97e1-e37352e866e5` · 176.6 พอยต์
 - เสร็จ · asset `26ea8f47` · insert `0f86a5e6` · 20.04 วิ
+- user *"\"ลุงรออยู่ตรงนี้...\" แกต้องเอาบทเดิมมาใช้สิวะ ก็บอกแล้วว่าเสียงเดิม"* → ไลน์แจ็คถึงวิน = บทเดิมจาก `SB03-31_prompt.md` *"ลุงไม่ต้องเข้าไปนะ นั่งรอตรงนี้แหละ"* · ⚠️ ผมใส่ข้อความที่ user พิมพ์สรุปไว้ แทนบทจริงที่อยู่ในไฟล์เสียง · ⭐ ต่อไป: ถ้าเสียงเป็นของเดิม ต้องหาบทเดิมจากพรอมป์บ็อกก่อนหน้ามาใส่ ไม่ใช่ข้อความสรุปในแชต
+- V2 quote 176.6 · key `sb03-32i-v2-20261123-a` · ไลน์แจ็คถึงวินเป็นบทเดิม · รอ "ยิง"
