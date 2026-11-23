@@ -5,7 +5,7 @@ THE PLACE, AS IN @Image1: the hall outside the dressing room, high up in an offi
 THE PEOPLE
 - Juk, as in @Image2 and @Image3: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, white trousers, a pale pink shirt open at the collar.
 - Aoy, as in @Image4, @Image5 and @Image6: 26, Thai, pretty, long straight jet-black hair parted in the middle; a soft yellow ribbed knit top with a small ruffled stand-up collar and flared sleeves; a high-waisted black mini skirt with two rows of jewelled buttons; opaque black tights; a small black bag on a long strap over her left shoulder.
-- Win, as in @Image7 and @Image8: 45, Thai; a glossy white nylon jacket with green trim at the collar, the zip and the cuffs; a white crew-neck T-shirt; black jeans; black boots; on his head the pink knitted hat with a folded brim and a cream knitted flower, as in @Image9.
+- Win, as in @Image7 and @Image8: 45, Thai; a glossy white nylon jacket with green trim at the collar, the zip and the cuffs; a white crew-neck T-shirt; black jeans; black boots; on his head the pink knitted hat with a folded brim and a cream knitted flower.
 
 WHERE EVERYONE IS IN THE PICTURE
 - JUK STANDS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME, HIS ATTENTION ON THE TWO OF THEM. THE LONG CORRIDOR RUNS AWAY BEHIND HIM.
@@ -26,7 +26,6 @@ REFERENCES
 @Image6 — AOY'S FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image4 AND @Image5.
 @Image7 — WIN'S FACE. 100% matches the reference for his face.
 @Image8 — WIN'S FULL BODY IN THE WHITE JACKET AND THE PINK KNITTED HAT. 100% matches the reference for his clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image7.
-@Image9 — THE PINK KNITTED HAT.
 Three people in the picture: Juk, Aoy and Win.
 
 ---
@@ -44,3 +43,5 @@ Three people in the picture: Juk, Aoy and Win.
   - ⭐ วิธีหา path ของเรฟที่ get_asset_url เปิดไม่ได้: check_reference_asset_access(mix_stage_ids) → asset_id → view_asset → storage_path
 - เรฟใหม่: @1 T B · @2 เฟรม V1 แจ็ค · @3 แจ็ค sheet · @4–6 อลิซ CU/3Q/FS · @7 วิน CU · @8 วิน FS · @9 หมวก · ตัดเฟรม V1 อลิซ 7.5/15.5 ออก · quote `-a` ใช้ไม่ได้
 - quote 2.6 พอยต์ (ลด 40% จาก 4.3) · key `sb03-32i-shot2-still-v1-b` · รอ "ยิง"
+- user *"หมวกชมพูจะเรฟทำไม ก็ใส่อยู่ในชุดแล้ว?"* → ตัดเรฟหมวก `a2167781` (อยู่ใน @Image8 แล้ว) · เหลือ 8 เรฟ · quote `-b` ใช้ไม่ได้
+- quote 2.4 พอยต์ (ลด 40% จาก 4.0) · key `sb03-32i-shot2-still-v1-c` · รอ "ยิง"
