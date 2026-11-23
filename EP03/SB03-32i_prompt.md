@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Juk led Aoy and her "uncle" Win across the marble hall to the dressing room. The head makeup artist checked Aoy's bare face and took the sketch of the red cheongsam she must wear: a short dress, so Aoy is meant to show her bare legs. Yesterday Juk was told off by his bosses because of the makeup. The big boss himself may come to see the result.
 
 SCENE
-At the dressing-room door Juk tells the head makeup artist, in front of everyone, that he must do Aoy's makeup properly today; the makeup artist takes the reprimand seriously. Then Juk turns to Aoy and her uncle: hurry, the boss will come to see for himself. Win hears it and goes quietly uneasy: the boss could know him. Juk tells the uncle to wait right here. Aoy then invents a story with a straight face: she cut both her legs shaving last night, so she will have to wear tights. Juk cannot be bothered to argue; fed up, he walks off.
+At the dressing-room door Juk tells the head makeup artist, in front of everyone, that he must do Aoy's makeup properly today; the makeup artist takes the reprimand seriously. Then Juk turns to Aoy and her uncle: hurry, the boss will come to see for himself. Juk tells the uncle to wait right here. Aoy then invents a story with a straight face: she cut both her legs shaving last night, so today she has to wear her black tights again. Juk cannot be bothered to argue; fed up, he walks off.
 
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE IN SHOT 1.
@@ -60,18 +60,18 @@ Picture, in this order:
 - 1. 5.2–7.3 s: As in @Image4. Juk, still facing a little toward the left of frame where the makeup artist is, turns to Aoy and Win and carries on with @Audio1.
   - Juk: "...รีบๆทำให้เสร็จ เดี๋ยวท่านจะมาดูด้วยตัวเอง"
   - Performance: brisk, busy, already thinking of the boss.
-  - Win, behind them in the middle, hears that the boss is coming here himself: a small, quiet unease on his face, because the boss could know him.
+  - Win, behind them in the middle, stands still and listens; now and then he glances at Aoy.
 - 2. 7.3–8.0 s: Juk turns his attention to Win.
 - 3. 8.0–10.1 s: Juk says the first part of @Audio2 to Win.
   - Juk: "ลุงรออยู่ตรงนี้..."
   - Performance: polite and brisk, the way one speaks to an old man.
 - 4. 10.6–18.3 s: Aoy says the rest of @Audio2 to Juk, with a perfectly straight face.
-  - Aoy: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผลสองขาเลย คงต้องใส่ถุงน่องนะคะ"
+  - Aoy: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผล สองขาเลย วันนี้คงต้องใส่ถุงน่องดำเหมือนเดิมนะคะ"
   - Emotion from the script: 一本正经，顺口编瞎话.
   - Performance: as smooth as a true story; on "บาด" a small wince.
 - 5. 18.3–20.0 s: The moment she finishes, Juk sighs with a fed-up face and at once walks off to the right, passing in front of Aoy, between her and the camera, and out of the frame on the right. Aoy and Win stay where they are.
 Camera: MS, 155 cm high, eye level, 85mm lens, locked-off, shallow depth of field, as in @Image4.
-Meaning: one unbroken shot holds all three: the order, Win's quiet worry, and Aoy's lie, side by side.
+Meaning: one unbroken shot holds all three: Juk's orders, the uncle standing quietly by, and Aoy's lie, side by side.
 Composition: as in @Image4: Juk in the left third, Aoy in the right third, an arm's length apart; Win in the middle, two steps behind them; the hall softly blurred behind.
 Sound: the stylists talking softly inside the dressing room; Juk's sneakers on the marble as he walks off.
 
@@ -82,7 +82,7 @@ DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JUK: "วันนี้ต้องแต่งหน้าน้องเค้านะ เมื่อวานพี่แจ็คโดนผู้ใหญ่ต่อว่ามา"
 2. Shot 2, @Audio1, JUK: "...รีบๆทำให้เสร็จ เดี๋ยวท่านจะมาดูด้วยตัวเอง"
 3. Shot 2, @Audio2, JUK: "ลุงรออยู่ตรงนี้..."
-4. Shot 2, @Audio2, AOY: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผลสองขาเลย คงต้องใส่ถุงน่องนะคะ"
+4. Shot 2, @Audio2, AOY: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผล สองขาเลย วันนี้คงต้องใส่ถุงน่องดำเหมือนเดิมนะคะ"
 
 ---
 
@@ -112,8 +112,12 @@ DIALOGUE, IN THIS ORDER
   - @Audio2 `SB3 35 fix part2` `a0110c30` 10.43 วิ · แจ็ค 0.27–1.24 / 1.46–2.26 (~107–121 Hz) · อลิซ 2.83–3.36 / 3.67–7.70 / 8.00–10.43 (~203–215 Hz) → วางที่ 7.8 = แจ็ค 8.07–10.06 · อลิซ 10.63–18.23
   - ⚠️ เดาท่อนจากความยาว (ยังไม่ได้ฟัง): Audio1 ท่อน 1–2 = ไลน์ถึงกะเทย · ท่อน 3 = "รีบๆ…ตัวเอง" · Audio2 แจ็ค = "ลุงรออยู่ตรงนี้…"
 - เรฟ: @Image1 T A v12 `8a40f7a4` · @Image2 เฟรมแรก V1 `d2200967` (อัป `EP03/frames/SB03-32_V1_first.png`) · @Image3 T B `d02867a0` · @Image4 ภาพนิ่ง v2 `3f26a2ff` (`EP03/SB03-32i_shot2_frame_sd55_v2.png`) · @Image5–7 อลิซ `703403cb` `be938093` `d0240777` · @Image8–9 วิน `2aec936c` `b16a326b` · @Image10–11 แจ็ค `a34d98fc` `6bf2d2ca` · @Image12 ST03 `f8d0e7d7` · @Image13 ST01 `7ff7594f` · @Image14 ST02 `873cb52b` · @Audio1 `f479385b` · @Audio2 `a0110c30` · ตัดหมวก `a2167781` (อยู่ใน @Image9)
-- ด่านยกเว้น: A20 ไหล่อลิซขอบซ้าย/ตำแหน่งช็อต 2/แจ็คเดินออกขวาผ่านหน้าอลิซ = user สั่ง · A4 *turns his attention to Win* = user *"แจ็คหันไปหาวิน"*
+- ด่านยกเว้น: A20 ไหล่อลิซขอบซ้าย/ตำแหน่งช็อต 2/แจ็คเดินออกขวาผ่านหน้าอลิซ = user สั่ง · A4 *turns his attention to Win* = user *"แจ็คหันไปหาวิน"* · A4 *glances at Aoy* = user *"หันไปมองอลิซก็พอ"*
 - roles บนช็อต bf53ebd7 เปลี่ยนเป็น 14 ภาพ + 2 เสียง ตามลำดับ @Image1–14 / @Audio1–2 ข้างบน (เทค 1 เดิม: 8a40f7a4, d02867a0, 703403cb, be938093, d0240777, 2aec936c, b16a326b, a2167781, a34d98fc, 6bf2d2ca, f8d0e7d7, 7ff7594f, 873cb52b + เสียง 44731fe5, 638589bd, 2c5ac0bf, 9c7e7522, 789107af)
 - quote 185.4 พอยต์ · 21 วิ · seedance-2-5 references 16:9 720p full manual audio on · insert · key `sb03-32i-v1-20261123-a` · รอ "ยิง"
 - user *"ทำหน้าเซ็งพร้อมถอนใจเลย แล้วเดินออกเฟรมเลย ทำไมต้องเผื่อเวลา 18.3–21.0"* → รวมบีต 5–6: 18.3–20.0 ถอนใจหน้าเซ็งแล้วเดินออกทันที · 21 → 20 วิ · quote `-a` ใช้ไม่ได้
 - quote 176.6 พอยต์ · 20 วิ · key `sb03-32i-v1-20261123-b` · รอ "ยิง"
+- user *"ลืมไป ไลน์ของอลิซเหมือนเทคก่อนนะ ไม่ได้แก้"* → ไลน์อลิซคืนเป็นของเทค 1 (SB03-32 ช็อต 1–3): *"พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผล สองขาเลย วันนี้คงต้องใส่ถุงน่องดำเหมือนเดิมนะคะ"* · quote `-b` ใช้ไม่ได้
+- user *"วินไม่ต้องเล่นกังวลดีกว่า เดี๋ยวโอเว่อแอคอีก ยืนนิ่งหรือหันไปมองอลิซก็พอ"* → ตัดความกังวลวินออกจาก SCENE + บีต 1 + Meaning · แทนด้วย *stands still and listens; now and then he glances at Aoy*
+- user ถามว่าเทค 1 มีคัทเท้าอลิซได้ไง → พรอมป์เทค 1 มีช็อต 2 *BLACK TIGHTS · insert* (CU หน้าแข้งถุงน่องดำ ตอน "สองขาเลย") ตามสตอรี่บอร์ดคลิป 2 · ใน SB03-32i ช็อต 2 เป็นเทคเดียวยาว ไม่มีภาพแทรก
+- quote 176.6 พอยต์ · 20 วิ · key `sb03-32i-v1-20261123-c` (วินนิ่ง · ไลน์อลิซเทค 1) · รอ "ยิง"
