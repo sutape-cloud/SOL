@@ -1,9 +1,9 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 21 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 20 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling, the downlights, and the warm bulb light that spills out of the dressing room while its door is open; every face keeps its natural skin tone. The air is clear and clean. Every surface is plain. Aoy's face is bare today, with her natural skin tone, as in her character references. There are only three stylists. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
-Juk speaks in Shots 1 and 2; Aoy speaks in Shot 2. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 (Juk) from 0.6 s, @Audio2 (Juk, then Aoy) from 7.8 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 21 seconds.
+Juk speaks in Shots 1 and 2; Aoy speaks in Shot 2. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 (Juk) from 0.6 s, @Audio2 (Juk, then Aoy) from 7.8 s. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 20 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Juk led Aoy and her "uncle" Win across the marble hall to the dressing room. The head makeup artist checked Aoy's bare face and took the sketch of the red cheongsam she must wear: a short dress, so Aoy is meant to show her bare legs. Yesterday Juk was told off by his bosses because of the makeup. The big boss himself may come to see the result.
@@ -55,7 +55,7 @@ Camera: MCU, 150 cm high, eye level, 85mm lens, locked-off; over Juk's shoulder,
 Composition: as in @Image2: the head makeup artist at the open door on the left of the doorway, the warm bulbs of the makeup mirror behind him; Juk's white shoulder soft at the right edge of frame; Aoy's yellow shoulder and black hair soft at the left edge of frame.
 Light: the warm bulb light from the dressing room on the makeup artist; the window light on the edge of Juk's shoulder.
 
-Shot 2 — 5.2–21.0 s — WAIT HERE · Juk, Win and Aoy · one continuous shot
+Shot 2 — 5.2–20.0 s — WAIT HERE · Juk, Win and Aoy · one continuous shot
 Picture, in this order:
 - 1. 5.2–7.3 s: As in @Image4. Juk, still facing a little toward the left of frame where the makeup artist is, turns to Aoy and Win and carries on with @Audio1.
   - Juk: "...รีบๆทำให้เสร็จ เดี๋ยวท่านจะมาดูด้วยตัวเอง"
@@ -69,8 +69,7 @@ Picture, in this order:
   - Aoy: "พี่แจ็ค เมื่อคืนหนูโกนขนหน้าแข้ง แล้วโดนใบมีดบาดเป็นแผลสองขาเลย คงต้องใส่ถุงน่องนะคะ"
   - Emotion from the script: 一本正经，顺口编瞎话.
   - Performance: as smooth as a true story; on "บาด" a small wince.
-- 5. 18.3–19.4 s: Juk holds still for a beat, fed up, lets out a breath and lets it go.
-- 6. 19.4–21.0 s: Juk walks off to the right, passing in front of Aoy, between her and the camera, and out of the frame on the right. Aoy and Win stay where they are.
+- 5. 18.3–20.0 s: The moment she finishes, Juk sighs with a fed-up face and at once walks off to the right, passing in front of Aoy, between her and the camera, and out of the frame on the right. Aoy and Win stay where they are.
 Camera: MS, 155 cm high, eye level, 85mm lens, locked-off, shallow depth of field, as in @Image4.
 Meaning: one unbroken shot holds all three: the order, Win's quiet worry, and Aoy's lie, side by side.
 Composition: as in @Image4: Juk in the left third, Aoy in the right third, an arm's length apart; Win in the middle, two steps behind them; the hall softly blurred behind.
@@ -116,3 +115,5 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A20 ไหล่อลิซขอบซ้าย/ตำแหน่งช็อต 2/แจ็คเดินออกขวาผ่านหน้าอลิซ = user สั่ง · A4 *turns his attention to Win* = user *"แจ็คหันไปหาวิน"*
 - roles บนช็อต bf53ebd7 เปลี่ยนเป็น 14 ภาพ + 2 เสียง ตามลำดับ @Image1–14 / @Audio1–2 ข้างบน (เทค 1 เดิม: 8a40f7a4, d02867a0, 703403cb, be938093, d0240777, 2aec936c, b16a326b, a2167781, a34d98fc, 6bf2d2ca, f8d0e7d7, 7ff7594f, 873cb52b + เสียง 44731fe5, 638589bd, 2c5ac0bf, 9c7e7522, 789107af)
 - quote 185.4 พอยต์ · 21 วิ · seedance-2-5 references 16:9 720p full manual audio on · insert · key `sb03-32i-v1-20261123-a` · รอ "ยิง"
+- user *"ทำหน้าเซ็งพร้อมถอนใจเลย แล้วเดินออกเฟรมเลย ทำไมต้องเผื่อเวลา 18.3–21.0"* → รวมบีต 5–6: 18.3–20.0 ถอนใจหน้าเซ็งแล้วเดินออกทันที · 21 → 20 วิ · quote `-a` ใช้ไม่ได้
+- quote 176.6 พอยต์ · 20 วิ · key `sb03-32i-v1-20261123-b` · รอ "ยิง"
