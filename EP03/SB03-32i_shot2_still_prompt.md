@@ -10,8 +10,8 @@ THE PEOPLE
 WHERE EVERYONE IS IN THE PICTURE
 - ALL THREE OF THEM STAND RIGHT IN FRONT OF THE DRESSING-ROOM DOOR, CLOSE TO THE CAMERA. THE HALL AND THE LONG CORRIDOR BEHIND THEM ARE FAR AWAY AND SOFTLY BLURRED.
 - JUK STANDS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME.
-- AOY STANDS RIGHT BESIDE JUK, ON THE RIGHT OF FRAME, SHOULDER TO SHOULDER WITH HIM, AT EXACTLY THE SAME DISTANCE FROM THE CAMERA, THE SAME SIZE IN THE FRAME AS JUK, SEEN FROM THE WAIST UP, HER BODY TURNED A LITTLE TOWARD HIM.
-- WIN STANDS TWO STEPS BEHIND THE TWO OF THEM, HIS FACE AND THE PINK HAT SEEN IN THE GAP BETWEEN JUK'S SHOULDER AND AOY'S SHOULDER, A LITTLE SMALLER IN THE FRAME, A LITTLE SOFTER.
+- AOY STANDS ON THE RIGHT OF FRAME, AN ARM'S LENGTH AWAY FROM JUK, WITH A CLEAR GAP BETWEEN THEM, AT EXACTLY THE SAME DISTANCE FROM THE CAMERA, THE SAME SIZE IN THE FRAME AS JUK, SEEN FROM THE WAIST UP, HER BODY TURNED A LITTLE TOWARD HIM.
+- WIN STANDS IN THE GAP BETWEEN JUK AND AOY, TWO STEPS FURTHER BACK THAN THEM, SEEN FROM THE KNEES UP, SMALLER IN THE FRAME, A LITTLE SOFTER: THE THREE OF THEM MAKE A SHALLOW TRIANGLE, WIN AT THE BACK IN THE MIDDLE.
 
 Juk is in the middle of giving an order, his manner brisk and busy. Aoy listens to him. Win, behind, listens with a small worry on his face.
 
@@ -52,3 +52,5 @@ Three people in the picture: Juk, Aoy and Win.
 - user *"ใช่ อลิซอยู่ขวาแจ็ค และ bg ต้องเบลอๆ เพราะทั้ง 3 คนยืนหน้าประตูเลย ไม่ใช่อยู่กลางทางเดินแบบนี้ อีกอย่างคือแจ็คที่เจนมามองซ้ายนิดๆ ถูกแล้ว"*
   - v2: ทั้งสามยืนหน้าประตูห้องแต่งตัว ใกล้กล้อง · bg เบลอ (85mm ชัดตื้น) · แจ็คกลาง · อลิซขวาเฟรม ไหล่ชิดแจ็ค ระยะ/ขนาดเท่ากัน · วินถอย 2 ก้าว หน้าโผล่ช่องระหว่างไหล่ · ตัดบรรทัดผนังกระจก/เสาหลังอลิซ
   - v2 quote 2.4 · key `sb03-32i-shot2-still-v2-a` · รอ "ยิง"
+- user *"อลิซไม่ยืนไหล่ชิดแจ็ค เว้นระยะห่าง แล้วเห็นวินอยู่กลาง แต่ถอยห่างไป"* → อลิซห่างแจ็คช่วงแขน · วินอยู่ในช่องกลาง ถอย 2 ก้าว เห็นถึงเข่า · quote v2-a ใช้ไม่ได้
+  - quote 2.4 · key `sb03-32i-shot2-still-v2-b` · รอ "ยิง"
