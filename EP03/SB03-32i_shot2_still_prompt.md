@@ -45,3 +45,4 @@ Three people in the picture: Juk, Aoy and Win.
 - quote 2.6 พอยต์ (ลด 40% จาก 4.3) · key `sb03-32i-shot2-still-v1-b` · รอ "ยิง"
 - user *"หมวกชมพูจะเรฟทำไม ก็ใส่อยู่ในชุดแล้ว?"* → ตัดเรฟหมวก `a2167781` (อยู่ใน @Image8 แล้ว) · เหลือ 8 เรฟ · quote `-b` ใช้ไม่ได้
 - quote 2.4 พอยต์ (ลด 40% จาก 4.0) · key `sb03-32i-shot2-still-v1-c` · รอ "ยิง"
+- ยิง 2026-11-23 · run `52505028-8f70-432d-88e8-e08d1ff83952` · 2.4 พอยต์ · เสร็จ asset `dc37056a` · `EP03/SB03-32i_shot2_frame_sd55_v1.png`
