@@ -56,3 +56,4 @@ Three people in the picture: Juk, Aoy and Win.
   - quote 2.4 · key `sb03-32i-shot2-still-v2-b` · รอ "ยิง"
 - user *"ให้แจ็คอยู่มาทางซ้ายเฟรมดีกว่า ไม่งั้นจะไม่มีที่ให้ วิน + อลิซ"* → แจ็คซ้ายหนึ่งในสาม · อลิซขวาหนึ่งในสาม · วินกลางเฟรม ถอยหลัง · quote v2-b ใช้ไม่ได้
   - quote 2.4 · key `sb03-32i-shot2-still-v2-c` · รอ "ยิง"
+- v2 key `-c` ถูก hold (admission_not_sent · ยังไม่เคยส่ง) → quote ใหม่ key `sb03-32i-shot2-still-v2-d` 2.4 เท่าเดิม → ยิง run `011b0671-baa6-45ed-9251-f7d2505a77d4` · 2.4 · เสร็จ asset `dcffeea4` · `EP03/SB03-32i_shot2_frame_sd55_v2.png` · แจ็คซ้ายหนึ่งในสาม มองซ้ายนิดๆ ✓ · อลิซขวา เว้นระยะ ขนาดเท่ากัน ✓ · วินกลาง ถอยหลัง ✓ · bg เบลอแค่นิดหน่อย
