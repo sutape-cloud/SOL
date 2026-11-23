@@ -1,31 +1,31 @@
 A still frame from a live-action Thai microdrama, 16:9, photographed on a cinema camera. Real people, natural skin, natural soft light.
 
-THE PLACE, AS IN @Image1: the hall outside the dressing room, high up in an office tower, seen from beside the dressing-room door, looking back toward the long corridor. A polished white marble floor; walnut wall panels with thin brass lines; warm hidden light along the edge of the white ceiling, downlights. On the left, the floor-to-ceiling glass wall with the city towers outside and square walnut pillars. In the middle, the long corridor running away into the distance. On the right, the walnut wall with a framed abstract painting and an olive tree in a pot. The late-morning light comes in from the glass wall on the left.
+THE PLACE: the hall outside the dressing room, high up in an office tower: walnut wall panels with thin brass lines, a polished white marble floor, warm hidden light along the edge of the white ceiling, the floor-to-ceiling glass wall with the late-morning light. The three of them stand right beside the dressing-room door, and the camera stands at the door, close to them. Behind them the hall is far away and deeply out of focus, a soft blur of walnut, cream marble and warm light, as behind Juk in @Image1.
 
 THE PEOPLE
-- Juk, as in @Image2 and @Image3: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, white trousers, a pale pink shirt open at the collar.
-- Aoy, as in @Image4, @Image5 and @Image6: 26, Thai, pretty, long straight jet-black hair parted in the middle; a soft yellow ribbed knit top with a small ruffled stand-up collar and flared sleeves; a high-waisted black mini skirt with two rows of jewelled buttons; opaque black tights; a small black bag on a long strap over her left shoulder.
-- Win, as in @Image7 and @Image8: 45, Thai; a glossy white nylon jacket with green trim at the collar, the zip and the cuffs; a white crew-neck T-shirt; black jeans; black boots; on his head the pink knitted hat with a folded brim and a cream knitted flower.
+- Juk, as in @Image1 and @Image2: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, white trousers, a pale pink shirt open at the collar.
+- Aoy, as in @Image3, @Image4 and @Image5: 26, Thai, pretty, long straight jet-black hair parted in the middle; a soft yellow ribbed knit top with a small ruffled stand-up collar and flared sleeves; a high-waisted black mini skirt with two rows of jewelled buttons; opaque black tights; a small black bag on a long strap over her left shoulder.
+- Win, as in @Image6 and @Image7: 45, Thai; a glossy white nylon jacket with green trim at the collar, the zip and the cuffs; a white crew-neck T-shirt; black jeans; on his head the pink knitted hat with a folded brim and a cream knitted flower.
 
 WHERE EVERYONE IS IN THE PICTURE
-- JUK STANDS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME, HIS ATTENTION ON THE TWO OF THEM. THE LONG CORRIDOR RUNS AWAY BEHIND HIM.
-- ON THE LEFT OF FRAME, AOY STANDS LEVEL WITH JUK, AT THE SAME DISTANCE FROM THE CAMERA AS HE IS, SEEN FROM THE WAIST UP, HER BODY TURNED TOWARD HIM, IN THREE-QUARTER PROFILE.
-- WIN STANDS BETWEEN AOY AND JUK IN THE PICTURE, TWO STEPS FURTHER BACK THAN THEM, SMALLER IN THE FRAME, SEEN FROM THE KNEES UP, HIS HANDS AT HIS SIDES, LISTENING, A LITTLE UNEASY.
-- The glass wall and a walnut pillar behind Aoy and Win on the left; the corridor behind Juk in the middle; the walnut wall and the painting on the right.
+- JUK AND AOY STAND SIDE BY SIDE, SHOULDER TO SHOULDER, AT THE SAME DISTANCE FROM THE CAMERA, BOTH THE SAME SIZE IN THE FRAME, BOTH SEEN FROM THE WAIST UP.
+- JUK IS IN THE MIDDLE OF THE FRAME, FACING THE CAMERA, HIS FACE TURNED A LITTLE TOWARD THE LEFT OF FRAME, TALKING TO SOMEONE BY THE DOOR JUST OUTSIDE THE PICTURE ON THE LEFT.
+- AOY STANDS ON JUK'S RIGHT, ON THE RIGHT OF FRAME, FACING THE CAMERA AT A SLIGHT ANGLE, LISTENING TO HIM.
+- WIN STANDS TWO STEPS BEHIND THEM, IN THE GAP BETWEEN JUK'S SHOULDER AND AOY'S SHOULDER: HIS FACE AND HIS PINK HAT SHOW BETWEEN THEIR TWO HEADS, A LITTLE SMALLER, A LITTLE SOFTER IN FOCUS.
+- Behind all three, the hall is a soft blur.
 
-Juk is in the middle of giving an order, his manner brisk and busy. Aoy listens to him. Win, behind, listens with a small worry on his face.
+Juk is in the middle of giving an order, his manner brisk and busy. Aoy listens to him. Win, behind them, listens with a small worry on his face.
 
-Camera: MS, 155 cm high, eye level, 50mm lens; the corridor softly out of focus behind them; Juk sharp.
+Camera: MS, 155 cm high, eye level, 85mm lens, shallow depth of field; Juk and Aoy sharp, Win a little soft, the hall behind them a deep blur.
 
 REFERENCES
-@Image1 — THE HALL, LOOKING FROM BESIDE THE DRESSING-ROOM DOOR BACK TOWARD THE LONG CORRIDOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE AND ITS LIGHT.
-@Image2 — JUK IN THIS SAME HALL. ONLY JUK IS TAKEN FROM THIS PICTURE: HIS FACE, HIS HAIR, HIS GLASSES AND HIS CLOTHES.
-@Image3 — JUK'S FULL BODY, FRONT AND BACK. 100% matches the reference for his clothes.
-@Image4 — AOY'S FACE, FROM THE FRONT. 100% matches the reference for her face.
-@Image5 — AOY'S FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
-@Image6 — AOY'S FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image4 AND @Image5.
-@Image7 — WIN'S FACE. 100% matches the reference for his face.
-@Image8 — WIN'S FULL BODY IN THE WHITE JACKET AND THE PINK KNITTED HAT. 100% matches the reference for his clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image7.
+@Image1 — JUK IN THIS SAME HALL, WITH THE HALL BLURRED BEHIND HIM. ONLY JUK AND THE LOOK OF THE BLURRED HALL ARE TAKEN FROM THIS PICTURE.
+@Image2 — JUK'S FULL BODY, FRONT AND BACK. 100% matches the reference for his clothes.
+@Image3 — AOY'S FACE, FROM THE FRONT. 100% matches the reference for her face.
+@Image4 — AOY'S FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
+@Image5 — AOY'S FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HER FACE COMES FROM @Image3 AND @Image4.
+@Image6 — WIN'S FACE. 100% matches the reference for his face.
+@Image7 — WIN'S FULL BODY IN THE WHITE JACKET AND THE PINK KNITTED HAT. 100% matches the reference for his clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image6.
 Three people in the picture: Juk, Aoy and Win.
 
 ---
@@ -46,3 +46,6 @@ Three people in the picture: Juk, Aoy and Win.
 - user *"หมวกชมพูจะเรฟทำไม ก็ใส่อยู่ในชุดแล้ว?"* → ตัดเรฟหมวก `a2167781` (อยู่ใน @Image8 แล้ว) · เหลือ 8 เรฟ · quote `-b` ใช้ไม่ได้
 - quote 2.4 พอยต์ (ลด 40% จาก 4.0) · key `sb03-32i-shot2-still-v1-c` · รอ "ยิง"
 - ยิง 2026-11-23 · run `52505028-8f70-432d-88e8-e08d1ff83952` · 2.4 พอยต์ · เสร็จ asset `dc37056a` · `EP03/SB03-32i_shot2_frame_sd55_v1.png`
+- v1 ❌ user *"แจ็คมันยืนอยู่หน้าประตู คู่กะอลิซที่อยู่ไปทางขวาเฟรม ส่วนวิน ถอยหลังไป2ก้าว ระหว่าง 2 คน"* — v1 แจ็คหน้าเดี่ยว อลิซลึกขอบซ้าย วินลึกพอๆ อลิซ · แจ็คมองตรง · ⚠️ ผมส่งโดยไม่เช็คภาพ
+- v2: user *"ใช่ อลิซอยู่ขวาแจ็ค และ bg ต้องเบลอๆ เพราะทั้ง 3 คนยืนใกล้ประตูเลย bg นี้มันไม่ใช่แล้ว"* → ตัดเรฟ T B `d02867a0` · ฉากหลังเบลอลึก ตามหลังแจ็คในเฟรม V1 10.0 (@Image1) · แจ็คกลาง + อลิซขวาแจ็ค ไหล่ชนไหล่ ระยะเดียวกัน · วินถอยหลัง 2 ก้าว หน้าโผล่ช่องระหว่างไหล่ · 85mm ชัดตื้น · แจ็คหันซ้ายนิดๆ = คุยกับช่างแต่งหน้านอกเฟรมซ้าย (ไม่เอ่ยชื่อ) · 7 เรฟ
+- v2 quote 2.2 พอยต์ (ลด 40% จาก 3.6) · key `sb03-32i-shot2-still-v2-a` · รอ "ยิง"
