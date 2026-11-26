@@ -55,7 +55,8 @@ Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in
 Shot 2 — 3.5–8.0 s — THE DOOR CLOSES · Win's point of view
 Picture, in this order:
 - 1. 3.5–5.5 s: Win's view from his armchair, much closer: through the gap of the door, a big close-up of Aoy from behind, exactly as much as in Shot 1: her face turned away to the left, only the outer corner of her eye with its winged liner, the edge of her cheek, her ear with the red bead earring and the gold hairpin in her black hair; still, thinking.
-- 2. 5.5–8.0 s: The door slowly swings shut from the left, its dark walnut edge sliding across the picture, until it covers Aoy completely. The picture ends on the closed walnut door.
+- 2. 5.0–6.5 s: She senses someone watching her from the door, and very slowly begins to turn her head toward it: only a little, the corner of her eye moving a touch toward the camera, her face still turned away.
+- 3. 5.8–8.0 s: Before she can turn any further, the door slowly swings shut from the left, its dark walnut edge sliding across the picture, until it covers her completely, a moment before her face would show. The picture ends on the closed walnut door.
 Camera: BCU, 120 cm high, eye level, 135mm lens, locked-off; Win's point of view from the armchair, through the gap of the door.
 Composition: the dark edge of the door soft at the left of frame; in the gap, the outer corner of Aoy's eye, her cheek, her ear and earring and the hairpin, filling the frame, her face turned away to the left; at the end, only the dark walnut door.
 Light: the same beautiful light: soft golden glow from the mirror bulbs on her cheek, warm bokeh of the bulbs beyond her, a gentle rim of light along the edge of her cheek and her hair.
@@ -116,3 +117,5 @@ DIALOGUE, IN THIS ORDER
 - quote 123.6 · key `sb03-36i-v1-20261126-d` (ช็อต 1 เห็นแค่หางตา) · รอ "ยิง"
 - user *"คัท2 ก็เห็นเท่าคัท1 แต่เป็น BCU"* → ช็อต 2 BCU 135mm เห็นแค่หางตา (อายไลเนอร์) ขอบแก้ม หู ต่างหู ปิ่น จากข้างหลัง หน้าหันซ้าย · @Image4 ใช้แค่มุม · ตัด "in profile" · quote `-d` ใช้ไม่ได้
 - quote 123.6 · key `sb03-36i-v1-20261126-e` (ช็อต 2 BCU หางตา) · รอ "ยิง"
+- user *"หรือจะเพิ่มให้คัท 2 อลิซรู้สึกว่าโดนวินแอบมอง เลยกำลังจะหันมาช้า แต่ประตูถูกปิดเสียก่อน แต่ต้องยังไม่หันมาเยอะนะ นิดเดียวจริงๆ … ยั่วทั้งวินทั้งคนดูไม่ให้ได้เห็นหน้าอลิซที่แต่งหน้า"* → ช็อต 2: 5.0–6.5 รู้สึกตัว เริ่มหันช้ามาก นิดเดียว (หางตาขยับมาทางกล้องนิดหนึ่ง หน้ายังหันไป) · ประตูเริ่มปิด 5.8 (เดิม 5.5) ปิดสนิท 8.0 ก่อนหน้าจะโผล่ · quote `-e` ใช้ไม่ได้
+- quote 123.6 · key `sb03-36i-v1-20261126-f` (อลิซเริ่มหันนิดเดียวก่อนประตูปิด) · รอ "ยิง"
