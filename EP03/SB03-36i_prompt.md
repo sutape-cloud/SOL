@@ -47,9 +47,9 @@ SHOT-BY-SHOT
 Shot 1 — 0.0–3.5 s — THE MAKEUP ARTIST STEPS OUT · Win's point of view
 Picture, in this order:
 - 1. 0.0–1.2 s: Win's view from his armchair, close on the doorway: the head makeup artist has just opened the door and steps out through it, his black shirt filling the frame, soft and close; he moves out of the picture to the left, like a wipe.
-- 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed, as in @Image3: alone in the cream bouclé chair at the mirror, seen from behind and the side, her profile, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
+- 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed, as in @Image3: alone in the cream bouclé chair at the mirror, seen from behind, her face turned away to the left so that only the edge of her cheek and the outer corner of her eye show past her hair, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
 Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, through the doorway, as in @Image3.
-Composition: as in @Image3: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, from behind and the side, her profile turned to the left; the warm bulbs of the mirror glowing soft at the edge of the picture.
+Composition: as in @Image3: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, seen from behind, her face turned away to the left, only the outer corner of her eye and the edge of her cheek showing; the warm bulbs of the mirror glowing soft at the edge of the picture.
 Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in a soft golden glow, a gentle rim of light along her profile, her ponytail and her hairpin, the dark room falling away around her.
 
 Shot 2 — 3.5–8.0 s — THE DOOR CLOSES · Win's point of view
@@ -112,3 +112,5 @@ DIALOGUE, IN THIS ORDER
 - user *"แก้คัทแรกให้เพิ่มกะเทยที่เปิดประตูและเดินออกไป wipe ไปซ้าย เผยให้เห็นอลิซนั่งอยู่ ขนาดภาพเปลี่ยนเป็นใกล้ขึ้น ไม่มีช่างทำผม"* + ภาพ 2 ใบ (กะเทยบังเต็มเฟรม · อลิซมุมใกล้ มีมือช่างทำผม) → ช็อต 1 0–1.2 กะเทยเดินออก wipe ซ้าย · 1.2–3.5 เผยอลิซ MCU 85mm ตามภาพมุมใกล้ · ไม่มีใครยืนข้างหลังอลิซ · ช็อต 1 ยาวขึ้นเป็น 3.5 วิ ช็อต 2 เริ่ม 3.5 · ความยาวรวม/เสียงเดิม · quote `-b` ใช้ไม่ได้
 - ทิศหน้าอลิซ: ภาพ user ทั้ง 2 ใบหันซ้าย → แก้ *profile turned to the left* (ช็อต 1) · *facing left* (ช็อต 2) ผมเขียนผิดเป็นขวา
 - quote 123.6 · key `sb03-36i-v1-20261126-c` (ช็อต 1 กะเทย wipe + อลิซมุมใกล้) · roles @Image3 = `df908b7c` · รอ "ยิง"
+- user *"หันซ้าย เห็นแค่หางตาอลิซนะ ให้ดูแบบไม่เต็มหน้าก่อน"* → ช็อต 1 เห็นจากข้างหลัง หน้าหันไปซ้าย เห็นแค่หางตา+ขอบแก้ม · ช็อต 2 ค่อยเห็นด้านข้างเต็ม · quote `-c` ใช้ไม่ได้
+- quote 123.6 · key `sb03-36i-v1-20261126-d` (ช็อต 1 เห็นแค่หางตา) · รอ "ยิง"
