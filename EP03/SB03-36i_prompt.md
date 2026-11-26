@@ -64,13 +64,13 @@ Sound: the soft click of the door shutting.
 
 Shot 3 — 8.0–14.0 s — THE BOSS IS COMING · Win, from the side
 Picture, in this order:
-- 1. 8.0–9.6 s: As in @Image5. Win sits in the armchair turned fully toward the closed door on the right, his face and his body to the door, his back half to the camera, sorry to have lost the sight of her. On the left of frame, a few steps toward the long corridor, the hair stylist already stands apart, facing the corridor, watching two men come this way. The head makeup artist and the wardrobe assistant, who have just shut the door, walk from the door behind Win over to her.
+- 1. 8.0–9.6 s: The first frame plays as an over-the-shoulder shot: Win sits in the armchair turned so fully toward the closed door on the right that his face is hidden from the camera; only the back of his head under the pink hat, his ear and his shoulder, the closed door beyond him. He is sorry to have lost the sight of her; it shows only in how he sits there, small and quiet, facing the shut door. On the left of frame, a few steps toward the long corridor, the hair stylist already stands apart, facing the corridor, watching two men come this way. The head makeup artist and the wardrobe assistant, who have just shut the door, walk from the door behind Win over to her.
 - 2. 9.6–12.0 s: As the two of them reach her, the hair stylist turns her head to them and says @Audio1, with a small nod toward the corridor.
   - Hair stylist: "อ้อ คุณวาทินกับพี่แจ็คมาโน่นแล้ว"
   - The three of them stand together and wait, turned toward the long corridor, as in @Image6.
 - 3. 10.6–13.2 s: At the boss's name, Win slowly shifts in the armchair, turning his shoulders and then his face away from the door, until he faces the camera, tense, because this is the man who would know him.
 - 4. 13.2–14.0 s: Win holds still, tense, facing the camera; the three stylists wait behind him on the left.
-Camera: MS, 115 cm high, eye level, 50mm lens, locked-off; from the side, as in @Image5.
+Camera: MS, 115 cm high, eye level, 50mm lens, locked-off; from the side and a little behind Win, as in @Image5, so that at the start it is an over-the-shoulder view toward the door.
 Composition: as in @Image5 and @Image6: Win in the armchair on the left of frame; the closed door in the background on the right; the three stylists together behind him on the left, turned to the corridor.
 Sound: their footsteps on the marble; then the quiet hall.
 
@@ -119,3 +119,5 @@ DIALOGUE, IN THIS ORDER
 - quote 123.6 · key `sb03-36i-v1-20261126-e` (ช็อต 2 BCU หางตา) · รอ "ยิง"
 - user *"หรือจะเพิ่มให้คัท 2 อลิซรู้สึกว่าโดนวินแอบมอง เลยกำลังจะหันมาช้า แต่ประตูถูกปิดเสียก่อน แต่ต้องยังไม่หันมาเยอะนะ นิดเดียวจริงๆ … ยั่วทั้งวินทั้งคนดูไม่ให้ได้เห็นหน้าอลิซที่แต่งหน้า"* → ช็อต 2: 5.0–6.5 รู้สึกตัว เริ่มหันช้ามาก นิดเดียว (หางตาขยับมาทางกล้องนิดหนึ่ง หน้ายังหันไป) · ประตูเริ่มปิด 5.8 (เดิม 5.5) ปิดสนิท 8.0 ก่อนหน้าจะโผล่ · quote `-e` ใช้ไม่ได้
 - quote 123.6 · key `sb03-36i-v1-20261126-f` (อลิซเริ่มหันนิดเดียวก่อนประตูปิด) · รอ "ยิง"
+- user *"คัท 3 เฟรมแรกเป็น ots นะ ไม่เห็นหน้าวินเสียดาย แต่อารมณ์บอกให้ SD เล่นได้ แต่อย่าเว่อ"* → บีต 1: เฟรมแรก OTS ไม่เห็นหน้าวิน (หลังหัว หมวก หู ไหล่ ประตูข้างหน้า) · ความเสียดายบอกผ่านท่านั่ง *small and quiet* · กล้อง *a little behind Win* · quote `-f` ใช้ไม่ได้
+- quote 123.6 · key `sb03-36i-v1-20261126-g` (ช็อต 3 เฟรมแรก OTS) · รอ "ยิง"
