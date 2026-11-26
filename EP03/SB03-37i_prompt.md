@@ -35,7 +35,7 @@ WHERE EVERYONE IS
 - IN SHOT 2 THE CAMERA FACES THE SAME WAY, CLOSER: JUK ALONE IN THE MIDDLE OF THE FRAME; BEHIND HIM, SOFT, THE CLOSED DRESSING-ROOM DOOR AND, ON THE RIGHT OF FRAME, THE EMPTY CREAM LEATHER ARMCHAIR.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–10.8 s — NOT NOW · the hall outside the dressing room
+Shot 1 — 0.0–11.2 s — NOT NOW · the hall outside the dressing room
 Picture, in this order:
 - 1. 0.0–1.4 s: Tin and Juk walk into the picture from the left, Tin a little ahead, one hand at his chin, still lost in his own thoughts, just as he was a moment ago. The three stylists on the left turn to watch the two of them come in.
 - 2. 1.4–4.8 s: Tin walks on and stops just past the right edge of the door, then turns to his left, toward Juk, in three-quarter view; Juk, following him, stops in front of the door, facing him. As they come to a stop, Tin says @Audio1, the first line.
@@ -47,18 +47,18 @@ Picture, in this order:
 - 4. 7.9–9.3 s: Tin waves it off with his hand and gets straight to the point.
   - Tin: "เอาไว้ก่อน เอาเรื่องชุดที่ทำมาใหม่ก่อน"
   - Emotion from the script: 摆手打断，直奔主题.
-- 5. 9.3–10.8 s: Tin walks straight toward the camera and out of the picture; the three stylists follow him at once. As Tin starts to walk, Juk answers him.
+- 5. 9.3–10.1 s: Tin walks straight toward the camera and out of the picture; the three stylists follow him at once. As Tin starts to walk, Juk answers him, and stays where he is, in front of the door.
   - Juk: "ได้ครับเฮีย"
   - Emotion from the script: 连忙应声，唯命是从.
+- 6. 10.1–11.2 s: Alone in front of the door, Juk looks to his left, because something here feels different from before.
 Camera: FS, 130 cm high, eye level, 35mm lens, locked-off; in the hall, facing the closed dressing-room door, framed exactly as in @Image1.
 Composition: the closed dressing-room door in the middle of the background; the three stylists on the left of frame; the empty cream leather armchair on the right of frame; Juk in front of the door, his back half turned to the camera; Tin just past the right edge of the door, in three-quarter view, facing toward the left of frame; the camera sees Tin over Juk's shoulder.
 Sound: their footsteps on the marble.
 
-Shot 2 — 10.8–14.0 s — SOMETHING IS MISSING · Juk
+Shot 2 — 11.2–14.0 s — SOMETHING IS MISSING · Juk
 Picture, in this order:
-- 1. 10.8–11.8 s: Juk stands alone in front of the door, where he stopped; the others have gone. He looks to his left.
-- 2. 11.8–12.9 s: He looks to his right, puzzled, because something here feels different from before, and he tries to think what it is.
-- 3. 12.9–14.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
+- 1. 11.2–12.6 s: Juk, alone in front of the door, looks to his right, puzzled, trying to think what is different.
+- 2. 12.6–14.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
 Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; facing the same way as Shot 1, closer.
 Composition: Juk in the middle of the frame; behind him, soft, the closed dressing-room door and, on the right of frame, the empty cream leather armchair. The audience sees the empty armchair while Juk misses it.
 
@@ -97,3 +97,6 @@ DIALOGUE, IN THIS ORDER
 - quote 123.6 · key `sb03-37i-v1-20261126-b` · รอ "ยิง"
 - ยิง 2026-11-26 · run `464048dc-eec2-4ed5-9e91-d164e6f8297c` · 123.6 พอยต์
 - เสร็จ · asset `c051f708` · insert `3a8a1592` · 14.04 วิ · รอ user ดู
+- V1 `c051f708` ❌ user *"ท้ายคัท1แจ็คเดินตามทิน กูบอกให้มองซ้ายก่อนค่อย คัทไป คัท 2 แจ็คมองขวา ใช่มั้ย?"* — ผมอ่าน *"แจ็คมองซ้ายที (เริ่ม คัท 2) มองขวาที"* ผิด เอามองซ้ายไปไว้ในคัท 2 · และบีต 5 ไม่ได้บอกว่าแจ็คยืนอยู่ที่เดิม SD เลยให้เดินตาม
+  - V2: บีต 5 แจ็คตอบแล้วยืนอยู่หน้าประตู · บีต 6 (10.1–11.2) มองซ้าย · คัท 2 11.2–14.0: มองขวา 11.2–12.6 → รีบตาม 12.6–14.0
+  - V2 quote 123.6 · key `sb03-37i-v2-20261126-a` · รอ "ยิง"
