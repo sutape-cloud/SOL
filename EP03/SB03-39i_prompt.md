@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, a real place, natural skin. Three shots, 8 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. The only light in the dressing room is the warm bulbs around the round mirror, the warm hidden lights along the edge of the ceiling and the downlights; the air is clear and clean. Every face keeps its natural skin tone. Aoy's face, her makeup, her red lips, her high ponytail, the gold hairpin and the red bead earrings are exactly as in @Image2 and @Image3, just as they are: peach-pink eye shadow, winged eyeliner, deep red lips. Aoy's legs are bare. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The shot is silent; the only sound is the real sound of the place.
+All the acting is natural and real, at the size of real life: small and natural. Whenever Aoy smiles, it is a closed-lip smile. The only light in the dressing room is the warm bulbs around the round mirror, the warm hidden lights along the edge of the ceiling and the downlights; the air is clear and clean. Every face keeps its natural skin tone. Aoy's face, her makeup, her red lips, her high ponytail, the gold hairpin and the red bead earrings are exactly as in @Image2 and @Image3, just as they are: peach-pink eye shadow, winged eyeliner, deep red lips. Aoy's legs are bare. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The shot is silent; the only sound is the real sound of the place.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy, made up and dressed in her red qipao, is alone in the dressing room of the project owner's office. She has taken off her black stockings and they hang over her left shoulder. She stands at the dressing table, facing the round mirror, her right foot up on the seat of the cream bouclé chair; the pink tin of plasters is open on the black marble table.
@@ -44,7 +44,8 @@ Sound: the soft rustle of the plasters in the tin.
 Shot 3 — 4.0–8.0 s — THE FACE · Aoy
 Picture, in this order:
 - 1. 4.0–4.8 s: The picture opens on the pink plaster in Aoy's fingers at chest height, its printed side toward the camera; the camera tilts up slowly from the plaster to her face.
-- 2. 4.8–6.8 s: Aoy, her head bowed a little, looks down at the plaster in her fingers and works at the corner of the backing paper with her fingernail; it is fiddly and will not lift, so she tries again. The printed side of the plaster faces the camera, slightly out of focus at the bottom of the picture; the focus is on her face, in full makeup.
+- 2. 4.8–6.8 s: Aoy, her head bowed a little, looks down at the plaster in her fingers and works at the corner of the backing paper with her fingernail; it is fiddly and will not lift, so she tries again, willing it to come loose, in a cute, light-hearted way: a small, sweet struggle with a tiny piece of paper, her face soft and bright. The printed side of the plaster faces the camera, slightly out of focus at the bottom of the picture; the focus is on her face, in full makeup.
+  - Emotion: 认真较劲，俏皮可爱.
 - 3. 6.8–8.0 s: Her eyes lift from the plaster to the round mirror.
 Camera: MCU, 110 cm high, at the level of the dressing table the whole time, so after the tilt her face is seen from a little below, 85mm lens; standing at the end of the dressing table, beside the mirror, facing Aoy; a slow tilt up from the plaster to her face; after the tilt the focus is on her face.
 Composition: after the tilt, Aoy's face from the chest up, a little left of the middle, the plaster soft in the foreground at the bottom of the picture; the sheer black stockings draped over her left shoulder, on the right of frame, both legs of the stockings hanging; the red silk of the qipao; the dressing room soft behind her.
@@ -54,6 +55,12 @@ THE LAST FRAME
 Aoy's face from the chest up, in full makeup, her eyes lifted to the round mirror; the pink plaster soft in her fingers at the bottom of the picture; the black stockings over her left shoulder.
 
 ---
+
+## แท็กจีน — แปลไทย — ที่มา
+
+| แท็ก | แปลไทย | ที่มา |
+|---|---|---|
+| `认真较劲，俏皮可爱` | ตั้งใจลุ้นแกะ ท่าทีน่ารักขี้เล่น | user 2026-11-26 *"คัท 3 อลิซทำหน้าลุ้นกับการแกะนะ ให้น่ารักๆ อันเก่าโครตดุ เหมือนโกรธใครมา"* |
 
 ก๊อปจาก `SB03-39_prompt.md`
 
@@ -69,3 +76,5 @@ Aoy's face from the chest up, in full makeup, her eyes lifted to the round mirro
 - roles `cf0238e3` เปลี่ยนจากชุดเทค 2 (14 ตัว) → 7 ภาพ: `ed8d0482` `f4cb7681` `d7225696` `65bb3ce9` `54704ecb` `a747a525` `816cd4f5` · valid:true · quote 70.7 · key `sb03-39i-v1-20261126-a` · รอ "ยิง"
 - user *"แยกคัท แพน กับ ทิลท์ ง่ายกว่ามั้ย?"* · *"คัท 2 เป็น BCU ที่ตลับเลย นิ้วของอลิสเข้ามาหยิบไป 1 อัน"* → 3 ช็อต: 1 CU หน้าแข้ง 0–2.6 · 2 BCU ตลับ นิ้วเข้ามาหยิบ 1 แผ่น กล้องนิ่ง 2.6–4.0 · 3 เปิดที่พลาสเตอร์ระดับอก ทิลท์ขึ้นหน้า แกะ เงยมองกระจก 4.0–8.0 · เลิกแพน · quote `-a` ใช้ไม่ได้
   - quote 70.7 · key `sb03-39i-v1-20261126-b` · รอ "ยิง"
+- user *"คัท 3 อลิซทำหน้าลุ้นกับการแกะนะ ให้น่ารักๆ อันเก่าโครตดุ เหมือนโกรธใครมา"* (V2 คัท 3 หน้าดุ) → ช็อต 3 บีต 2 เติม ลุ้นแกะแบบน่ารัก หน้านุ่มสดใส + แท็ก `认真较劲，俏皮可爱` · GLOBAL เติมคาแร็กเตอร์ประจำ *closed-lip smile* (สกิลขั้น 6) · quote `-b` ใช้ไม่ได้
+  - quote 70.7 · key `sb03-39i-v1-20261126-c` · รอ "ยิง"
