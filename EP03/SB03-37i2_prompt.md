@@ -9,12 +9,12 @@ SCENE
 Juk hurries after the boss, but a step later something about this hall feels strange to him. He stops and looks off toward the right; he cannot work out what is different, and hurries on after Tin. The audience sees what he misses.
 
 ACTIVE REFERENCES
-@Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING TOWARD THE CLOSED DRESSING-ROOM DOOR: THE WALNUT DOOR IN ITS PANEL OF WHITE MARBLE, THE OLIVE TREE ON THE LEFT, THE BRASS FLOOR LAMP AND THE EMPTY CREAM LEATHER ARMCHAIRS ON THE RIGHT. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. THE CAMERA AND THE FRAMING OF THIS SHOT COME FROM @Video1.
+@Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING TOWARD THE CLOSED DRESSING-ROOM DOOR: THE WALNUT DOOR IN ITS PANEL OF WHITE MARBLE, THE OLIVE TREE ON THE LEFT, THE BRASS FLOOR LAMP AND THE EMPTY CREAM LEATHER ARMCHAIRS ON THE RIGHT. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. THE CAMERA OF THIS SHOT IS THE SECOND CAMERA DESCRIBED BELOW.
 @Image2 — JUK: 28, Thai. 100% matches the reference, and @Image3 is the authority for what he is wearing today.
 @Image3 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes and for how he looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
 @Image4 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
-@Video1 — THE LAST TWO SECONDS OF THE PREVIOUS SHOT, FRAMED EXACTLY AS THIS SHOT. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA, THE FRAMING, WHERE JUK IS AND HOW HE WALKS. THIS SHOT CONTINUES STRAIGHT ON FROM THE LAST FRAME OF @Video1: THE SAME CAMERA, THE SAME FRAMING, JUK STILL WALKING.
-@Image2 carries Juk's face, and his clothes come from @Image3. @Image4 carries Tin, face and clothes together. @Image1 only tells what is where in the hall behind Juk. @Video1 carries the camera, the framing and Juk's walk.
+@Video1 — THE LAST TWO SECONDS OF THE PREVIOUS SHOT, SEEN BY THE FIRST CAMERA, WIDE. THIS REFERENCE IS THE AUTHORITY FOR WHERE JUK, TIN, THE DOOR AND THE ARMCHAIRS ARE, AND HOW JUK WALKS. THIS SHOT CONTINUES STRAIGHT ON FROM THE LAST FRAME OF @Video1, SEEN BY A SECOND CAMERA: IN THE SAME PLACE AS THE FIRST CAMERA, FACING THE SAME WAY, WITH A LONGER LENS, SO THE PICTURE IS MUCH TIGHTER ON JUK.
+@Image2 carries Juk's face, and his clothes come from @Image3. @Image4 carries Tin, face and clothes together. @Image1 only tells what is where in the hall behind Juk. @Video1 carries where everyone is and Juk's walk; the second camera is tighter.
 
 WHAT THEY WEAR, AS IN @Image2 TO @Image4
 - Juk: a white single-button suit and white trousers; a pale pink shirt open at the collar; white leather sneakers; thin round gold-rimmed glasses; messy black hair with a fringe.
@@ -22,7 +22,7 @@ WHAT THEY WEAR, AS IN @Image2 TO @Image4
 
 WHERE EVERYONE IS
 - The hall outside the dressing room, as in @Image1, behind Juk and softly out of focus: walnut wall panels divided by thin brass lines; the closed walnut dressing-room door set into a panel of white marble; on the right of frame, the brass floor lamp and the empty cream leather armchair.
-- THE CAMERA AND THE FRAMING ARE EXACTLY AS IN @Video1. JUK, SEEN FROM THE WAIST UP, WALKS TOWARD THE CAMERA, JUST IN FRONT OF THE CLOSED DRESSING-ROOM DOOR; BEHIND HIM, THE WALNUT DOOR AND WALLS; ON THE RIGHT OF FRAME, THE BRASS FLOOR LAMP AND, AT THE BOTTOM RIGHT EDGE, THE TOP OF THE BACK OF THE EMPTY CREAM LEATHER ARMCHAIR. AT THE START, TIN, WHO WALKS IN FRONT OF JUK IN @Video1, CARRIES ON PAST THE CAMERA: ONLY HIS SHOULDER, A SOFT DARK BLUR, PASSES OUT OF THE PICTURE AT THE RIGHT EDGE. THE THREE STYLISTS HAVE ALREADY WALKED PAST, OUT OF THE PICTURE.
+- THE SECOND CAMERA STANDS WHERE THE CAMERA OF @Video1 STANDS AND FACES THE SAME WAY, WITH AN 85MM LENS. JUK, SEEN FROM THE WAIST UP, A LITTLE LEFT OF THE MIDDLE OF THE FRAME, WALKS TOWARD THE CAMERA, JUST IN FRONT OF THE CLOSED DRESSING-ROOM DOOR; BEHIND HIM, THE WALNUT DOOR AND WALLS; ON THE RIGHT OF FRAME, THE BRASS FLOOR LAMP AND, AT THE BOTTOM RIGHT EDGE, THE TOP OF THE BACK OF THE EMPTY CREAM LEATHER ARMCHAIR. AT THE START, TIN, WHO WALKS IN FRONT OF JUK IN @Video1, CARRIES ON PAST THE CAMERA: ONLY HIS SHOULDER, A SOFT DARK BLUR, PASSES OUT OF THE PICTURE AT THE RIGHT EDGE. THE THREE STYLISTS, ON THE LEFT IN @Video1, ARE OUTSIDE THIS TIGHTER PICTURE.
 
 SHOT
 Shot 1 — 0.0–4.0 s — SOMETHING IS MISSING · Juk
@@ -30,8 +30,8 @@ Picture, in this order:
 - 1. 0.0–0.8 s: Straight on from @Video1, Juk, following Tin, is still walking toward the camera; he takes one more step. Tin's shoulder, a soft blur at the right edge, passes out of the picture.
 - 2. 0.8–2.6 s: Juk stops, because something here feels strange. He turns to look toward the right of frame, puzzled, trying to think what is different.
 - 3. 2.6–4.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
-Camera: MS: Juk seen from the waist up, framed exactly as in @Video1, 130 cm high, eye level, 85mm lens, shallow depth of field, locked-off: Juk sharp, the hall behind him softly out of focus.
-Composition: as in @Video1; at the start, Tin's shoulder a soft blur at the right edge, passing out of the picture; behind Juk, softly out of focus, the closed dressing-room door and, on the right of frame, the empty cream leather armchair, a soft cream shape. The audience sees the empty armchair; Juk cannot place what is different.
+Camera: MS, a second camera in the same place as in @Video1, facing the same way, with a longer lens: Juk seen from the waist up, 130 cm high, eye level, 85mm lens, shallow depth of field, locked-off: Juk sharp, the hall behind him softly out of focus.
+Composition: Juk from the waist up, a little left of the middle; at the start, Tin's shoulder a soft blur at the right edge, passing out of the picture; behind Juk, softly out of focus, the closed dressing-room door and, on the right of frame, the empty cream leather armchair, a soft cream shape. The audience sees the empty armchair; Juk cannot place what is different.
 Sound: footsteps on the marble.
 
 THE LAST FRAME
@@ -60,3 +60,5 @@ The hall outside the dressing room, empty of people, softly out of focus: the cl
 - ⭐ บทเรียน: user สั่งตัดเรฟเฟรม (ที่ถือทั้งมุมกล้องและฉาก) → ผมตัดแล้วไม่ได้เช็คว่าบ็อกยังเหลือเรฟฉากไหม · ทุกครั้งที่ลบเรฟ ต้องไล่ตารางเรฟใหม่ว่าฉาก/คน/ของที่อยู่ในเฟรม ยังมีใบไหนถืออยู่ครบ
 - user *"มึงส่ง วิสุดท้ายของคัท 1 ไปเป็นเรฟให้ sd แล้วเจนวิดีโอเลยจะง่ายกว่ามั้ย?"* → V3: คลิป 2 วิท้ายคัท 1 V1 (8.04–10.0) ครอปขนาดที่ user เลือก (320×180 @575,300 ขยาย 1280×720 · ไม่มีช่าง) `EP03/frames/SB03-37i_V1_shot1_last2s_crop_Juk_MS.mp4` · Mix Stage `98a8e567` = @Video1 ถือกล้อง/เฟรม/ท่าเดิน · ต่อจากเฟรมสุดท้ายของ @Video1 · ทินเหลือไหล่เบลอขอบขวา · เลิกภาพนิ่ง v5
   - V3 roles `09040601` `a34d98fc` `6bf2d2ca` `1b11b860` + video `98a8e567` valid:true · quote 37.0 · key `sb03-37i2-v3-20261126-a` · รอ "ยิง"
+- user *"มันไม่ควรไปครอปเฟรมมั้ย บอกว่ากล้องสอง เปลี่ยนเลนส์ ถูกต้องกว่ามั้ย?"* → V4: @Video1 = 2 วิท้ายคัท 1 เต็มเฟรม ไม่ครอป (`EP03/frames/SB03-37i_V1_shot1_last2s.mp4` · Mix Stage `50a7b171`) · ช็อตนี้ = กล้องตัวที่สอง ตำแหน่งเดียวกับกล้องคัท 1 หันทางเดียวกัน เลนส์ 85mm แน่นขึ้น (ขนาดตามครอปใบ 2 แพนขวา) · ช่าง 3 คนอยู่นอกกรอบที่แน่นกว่า
+  - V4 roles `09040601` `a34d98fc` `6bf2d2ca` `1b11b860` + video `50a7b171` valid:true · quote 37.0 · key `sb03-37i2-v4-20261126-a` · รอ "ยิง"
