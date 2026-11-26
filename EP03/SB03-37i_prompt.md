@@ -32,10 +32,10 @@ WHAT THEY WEAR, AS IN @Image2 TO @Image7
 WHERE EVERYONE IS
 - The hall outside the dressing room, high up in an office tower, as in @Image1: a polished white marble floor; walnut wall panels divided by thin brass lines; a potted olive tree; warm hidden lights along the edge of the ceiling. In the background, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble; it is closed. Beside it, the sitting area: cream leather armchairs, white orchids and a brass floor lamp.
 - IN SHOT 1 THE CAMERA STANDS IN THE HALL, FACING THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND IN THE MIDDLE OF THE FRAME. THE THREE STYLISTS STAND TOGETHER ON THE LEFT OF FRAME, WAITING. ON THE RIGHT OF FRAME, A CREAM LEATHER ARMCHAIR STANDS EMPTY. TIN AND JUK COME IN FROM THE LEFT OF FRAME. TIN WALKS ON AND STOPS JUST PAST THE RIGHT EDGE OF THE DRESSING-ROOM DOOR, THEN TURNS TO HIS LEFT, SO THAT HE STANDS IN THREE-QUARTER VIEW, FACING TOWARD THE LEFT OF FRAME. JUK, FOLLOWING HIM, STOPS IN FRONT OF THE DOOR, CLOSER TO THE CAMERA, FACING TIN, HIS BACK HALF TURNED TO THE CAMERA: THE CAMERA SEES TIN OVER JUK'S SHOULDER.
-- IN SHOT 2 THE CAMERA FACES THE SAME WAY, CLOSER: JUK ALONE IN THE MIDDLE OF THE FRAME; BEHIND HIM, SOFT, THE CLOSED DRESSING-ROOM DOOR AND, ON THE RIGHT OF FRAME, THE EMPTY CREAM LEATHER ARMCHAIR.
+- IN SHOT 2 THE CAMERA FACES THE SAME WAY, CLOSER: JUK IN THE MIDDLE OF THE FRAME, WALKING TOWARD THE CAMERA; BEHIND HIM, SOFT, THE CLOSED DRESSING-ROOM DOOR AND, ON THE RIGHT OF FRAME, THE EMPTY CREAM LEATHER ARMCHAIR. AT THE START, TIN PASSES CLOSE IN FRONT OF THE CAMERA, A SOFT BLUR IN THE FOREGROUND, AND WALKS OUT OF THE PICTURE.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–11.2 s — NOT NOW · the hall outside the dressing room
+Shot 1 — 0.0–10.8 s — NOT NOW · the hall outside the dressing room
 Picture, in this order:
 - 1. 0.0–1.4 s: Tin and Juk walk into the picture from the left, Tin a little ahead, one hand at his chin, still lost in his own thoughts, just as he was a moment ago. The three stylists on the left turn to watch the two of them come in.
 - 2. 1.4–4.8 s: Tin walks on and stops just past the right edge of the door, then turns to his left, toward Juk, in three-quarter view; Juk, following him, stops in front of the door, facing him. As they come to a stop, Tin says @Audio1, the first line.
@@ -47,20 +47,20 @@ Picture, in this order:
 - 4. 7.9–9.3 s: Tin waves it off with his hand and gets straight to the point.
   - Tin: "เอาไว้ก่อน เอาเรื่องชุดที่ทำมาใหม่ก่อน"
   - Emotion from the script: 摆手打断，直奔主题.
-- 5. 9.3–10.1 s: Tin walks straight toward the camera and out of the picture; the three stylists follow him at once. As Tin starts to walk, Juk answers him, and stays where he is, in front of the door.
+- 5. 9.3–10.8 s: Tin walks straight toward the camera; the three stylists follow him at once. As Tin starts to walk, Juk answers him, and follows him.
   - Juk: "ได้ครับเฮีย"
   - Emotion from the script: 连忙应声，唯命是从.
-- 6. 10.1–11.2 s: Alone in front of the door, Juk looks to his left, because something here feels different from before.
 Camera: FS, 130 cm high, eye level, 35mm lens, locked-off; in the hall, facing the closed dressing-room door, framed exactly as in @Image1.
 Composition: the closed dressing-room door in the middle of the background; the three stylists on the left of frame; the empty cream leather armchair on the right of frame; Juk in front of the door, his back half turned to the camera; Tin just past the right edge of the door, in three-quarter view, facing toward the left of frame; the camera sees Tin over Juk's shoulder.
 Sound: their footsteps on the marble.
 
-Shot 2 — 11.2–14.0 s — SOMETHING IS MISSING · Juk
+Shot 2 — 10.8–14.0 s — SOMETHING IS MISSING · Juk
 Picture, in this order:
-- 1. 11.2–12.6 s: Juk, alone in front of the door, looks to his right, puzzled, trying to think what is different.
-- 2. 12.6–14.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
+- 1. 10.8–11.6 s: Juk, following Tin, is still walking toward the camera; he takes one more step. Close in front of the camera, Tin, a soft blur in the foreground, walks out of the picture.
+- 2. 11.6–12.8 s: Juk stops, because something here feels strange. He turns to look toward the right of frame, at the empty cream leather armchair where the old uncle sat, puzzled, trying to think what is different.
+- 3. 12.8–14.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
 Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; facing the same way as Shot 1, closer.
-Composition: Juk in the middle of the frame; behind him, soft, the closed dressing-room door and, on the right of frame, the empty cream leather armchair. The audience sees the empty armchair while Juk misses it.
+Composition: Juk in the middle of the frame; at the start, Tin a soft blur in the foreground, crossing out of the picture; behind Juk, soft, the closed dressing-room door and, on the right of frame, the empty cream leather armchair. The audience sees the empty armchair, and Juk looks right at it and still cannot place what is different.
 
 THE LAST FRAME
 The hall outside the dressing room, empty of people: the closed dressing-room door in the background and the empty cream leather armchair on the right of frame.
@@ -100,3 +100,6 @@ DIALOGUE, IN THIS ORDER
 - V1 `c051f708` ❌ user *"ท้ายคัท1แจ็คเดินตามทิน กูบอกให้มองซ้ายก่อนค่อย คัทไป คัท 2 แจ็คมองขวา ใช่มั้ย?"* — ผมอ่าน *"แจ็คมองซ้ายที (เริ่ม คัท 2) มองขวาที"* ผิด เอามองซ้ายไปไว้ในคัท 2 · และบีต 5 ไม่ได้บอกว่าแจ็คยืนอยู่ที่เดิม SD เลยให้เดินตาม
   - V2: บีต 5 แจ็คตอบแล้วยืนอยู่หน้าประตู · บีต 6 (10.1–11.2) มองซ้าย · คัท 2 11.2–14.0: มองขวา 11.2–12.6 → รีบตาม 12.6–14.0
   - V2 quote 123.6 · key `sb03-37i-v2-20261126-a` · รอ "ยิง"
+- user 2026-11-26 *"เฟรมแรกของคัท 2 คือ MS แจ็คยังเดินอยู่ อีก 1 ก้าว เห็นทินเป็น fg เบลอๆ เดินออกเฟรมไป แล้วแจ็คหยุดเพราะรู้สึกอะไรแปลกๆ หันไปมองขวาเฟรมทีนึงที่โซฟาที่วินเคยนั่งแต่คิดไม่ออกว่าอะไรผิดแปลก จึงรีบเดินตามทินไป"*
+  - คัท 1 0–10.8: บีต 5 แจ็คตอบแล้วเดินตามทิน (ตัดบีต 6 มองซ้ายออก — คำสั่งใหม่แทน) · คัท 2 10.8–14.0: เดินอีก 1 ก้าว ทิน fg เบลอออกเฟรม 10.8–11.6 → หยุด หันมองขวาเฟรมที่เก้าอี้ว่าง 11.6–12.8 → รีบตาม 12.8–14.0 · quote V2-a ใช้ไม่ได้
+  - V2 quote 123.6 · key `sb03-37i-v2-20261126-b` · รอ "ยิง"
