@@ -6,7 +6,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. In the hall outside the dressing room, Tin, the owner of this project, has just waved off Juk's offer to show him the made-up girl, and walked off toward the camera; the three stylists followed him at once, and Juk, after answering "yes, boss", is following him too. The old uncle who was dozing in the cream leather armchair has slipped away, and the armchair stands empty.
 
 SCENE
-Juk hurries after the boss, but a step later something about this hall feels strange to him. He stops and looks at the empty armchair where the old uncle sat; he cannot work out what is different, and hurries on after Tin. The audience sees what he misses.
+Juk hurries after the boss, but a step later something about this hall feels strange to him. He stops and looks off toward the right; he cannot work out what is different, and hurries on after Tin. The audience sees what he misses.
 
 ACTIVE REFERENCES
 @Image1 — JUK: 28, Thai. 100% matches the reference, and @Image2 is the authority for what he is wearing today.
@@ -26,10 +26,10 @@ SHOT
 Shot 1 — 0.0–4.0 s — SOMETHING IS MISSING · Juk
 Picture, in this order:
 - 1. 0.0–0.8 s: Juk, following Tin, is still walking toward the camera; he takes one more step. Close in front of the camera, Tin, a soft blur in the foreground, walks out of the picture.
-- 2. 0.8–2.6 s: Juk stops, because something here feels strange. He turns to look toward the right of frame, at the empty cream leather armchair where the old uncle sat, puzzled, trying to think what is different.
+- 2. 0.8–2.6 s: Juk stops, because something here feels strange. He turns to look toward the right of frame, puzzled, trying to think what is different.
 - 3. 2.6–4.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
 Camera: MS, close, 130 cm high, eye level, 85mm lens, shallow depth of field, locked-off: Juk sharp, the hall behind him deeply out of focus.
-Composition: Juk in the middle of the frame; at the start, Tin a soft blur in the foreground, crossing out of the picture; behind Juk, deeply out of focus, the closed dressing-room door and, on the right of frame, the empty cream leather armchair, a soft cream shape. The audience sees the empty armchair, and Juk looks right at it and still cannot place what is different.
+Composition: Juk in the middle of the frame; at the start, Tin a soft blur in the foreground, crossing out of the picture; behind Juk, deeply out of focus, the closed dressing-room door and, on the right of frame, the empty cream leather armchair, a soft cream shape. The audience sees the empty armchair; Juk cannot place what is different.
 Sound: footsteps on the marble.
 
 THE LAST FRAME
@@ -47,3 +47,5 @@ The hall outside the dressing room, empty of people, softly out of focus: the cl
 - (เดิม) - เรฟ: @1 เฟรมสุดท้ายคัท 1 V1 (`699733f2` · `EP03/frames/SB03-37i_V1_shot1_last.png`) · @2 เฟรมแรกคัท 2 V1 MS แจ็ค (`02d78989` · `EP03/frames/SB03-37i_V1_shot2_first.png`) · @3–4 แจ็ค `a34d98fc` `6bf2d2ca` · @5 ทิน `1b11b860`
 - ด่านยกเว้น: A4 มองเก้าอี้ว่าง = ตัวแอ็กชัน user *"หันไปมองขวาเฟรมทีนึงที่โซฟาที่วินเคยนั่ง"* · A20 ทิน fg เบลอ / เก้าอี้ขวาเฟรม = user สั่ง
 - roles `ae110bf7` = `a34d98fc` `6bf2d2ca` `1b11b860` · valid:true · quote 35.4 · key `sb03-37i2-v1-20261126-a` · รอ "ยิง"
+- user *"ไม่ต้องมองไปที่เก้าอี้ มองไปทางขวาเฟรม (ที่มีเก้าอี้) มันเหมือนกันที่ไหนวะ"* → แจ็คแค่หันมองไปทางขวาเฟรม ไม่ได้มองที่เก้าอี้ · แก้ SCENE · บีต 2 · Composition · quote `-a` ใช้ไม่ได้
+  - quote 35.4 · key `sb03-37i2-v1-20261126-b` · รอ "ยิง"
