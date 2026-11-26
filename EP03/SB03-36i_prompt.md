@@ -15,7 +15,7 @@ ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE.
 @Image2 — INSIDE THE DRESSING ROOM. THIS REFERENCE IS ONLY INFORMATION ABOUT THE ROOM, TO KNOW WHAT IS WHERE.
 @Image3 — THE CAMERA ANGLE OF SHOT 1 ONCE AOY IS REVEALED: AOY SEEN CLOSE THROUGH THE DOORWAY, FROM BEHIND AND THE SIDE, IN THE CREAM BOUCLÉ CHAIR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 1. IN THIS VIDEO AOY IS ALONE IN THE ROOM; HER FACE AND HER CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
-@Image4 — THE CAMERA ANGLE OF SHOT 2: AOY IN PROFILE, SEEN THROUGH THE GAP OF THE DOOR, THE DARK EDGE OF THE DOOR ON THE LEFT. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 2. AOY'S FACE, HAIR AND CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
+@Image4 — THE CAMERA ANGLE OF SHOT 2: AOY SEEN THROUGH THE GAP OF THE DOOR, THE DARK EDGE OF THE DOOR ON THE LEFT. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 2. AOY'S FACE, HAIR AND CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
 @Image5 — THE CAMERA ANGLE OF SHOT 3: WIN IN THE ARMCHAIR FROM THE SIDE, THE DRESSING-ROOM DOOR IN THE BACKGROUND. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE AND THE ARMCHAIR OF SHOT 3.
 @Image6 — WHERE THE THREE STYLISTS STAND AT THE END OF SHOT 3: TOGETHER ON THE LEFT, BEHIND WIN, TURNED TOWARD THE LONG CORRIDOR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THEIR POSITIONS AT THE END. THE MAGENTA PATCH OVER WIN'S FACE IS ONLY A MASK: HIS FACE COMES FROM @Image10, AND IN THIS VIDEO HE IS WIDE AWAKE.
 @Image7 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image9 is the authority for what she is wearing today.
@@ -40,7 +40,7 @@ WHAT THEY WEAR, AS IN @Image7 TO @Image15
 WHERE EVERYONE IS
 - The hall outside the dressing room, as in @Image1: a polished white marble floor; walnut wall panels divided by thin brass lines; warm hidden lights along the edge of the ceiling. The dressing-room door: a walnut door with a tall vertical brass handle. Along one side, the floor-to-ceiling glass wall and the sitting area with cream leather armchairs. At the other end, the long corridor.
 - Inside the dressing room, as in @Image2: a round mirror ringed with warm bulbs; a black marble dressing table with a gold cup of brushes, perfume bottles and a gold vase of pink peonies; a cream bouclé chair; slatted wood walls.
-- Aoy sits alone in the cream bouclé chair at the mirror, in profile to the door. Win sits in the cream leather armchair in the hall, as in @Image12, for the whole video.
+- Aoy sits alone in the cream bouclé chair at the mirror, her back half to the door, her face turned away toward the mirror. Win sits in the cream leather armchair in the hall, as in @Image12, for the whole video.
 - IN SHOT 3, AS IN @Image5: WIN ON THE LEFT OF FRAME IN THE ARMCHAIR; THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND HIM.
 
 SHOT-BY-SHOT
@@ -50,15 +50,15 @@ Picture, in this order:
 - 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed, as in @Image3: alone in the cream bouclé chair at the mirror, seen from behind, her face turned away to the left so that only the edge of her cheek and the outer corner of her eye show past her hair, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
 Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, through the doorway, as in @Image3.
 Composition: as in @Image3: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, seen from behind, her face turned away to the left, only the outer corner of her eye and the edge of her cheek showing; the warm bulbs of the mirror glowing soft at the edge of the picture.
-Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in a soft golden glow, a gentle rim of light along her profile, her ponytail and her hairpin, the dark room falling away around her.
+Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in a soft golden glow, a gentle rim of light along the edge of her cheek, her ponytail and her hairpin, the dark room falling away around her.
 
 Shot 2 — 3.5–8.0 s — THE DOOR CLOSES · Win's point of view
 Picture, in this order:
-- 1. 3.5–5.5 s: As in @Image4. Win's view from his armchair, closer: through the gap of the door, Aoy in profile, still, thinking, her makeup and her red qipao glowing in the warm light.
+- 1. 3.5–5.5 s: Win's view from his armchair, much closer: through the gap of the door, a big close-up of Aoy from behind, exactly as much as in Shot 1: her face turned away to the left, only the outer corner of her eye with its winged liner, the edge of her cheek, her ear with the red bead earring and the gold hairpin in her black hair; still, thinking.
 - 2. 5.5–8.0 s: The door slowly swings shut from the left, its dark walnut edge sliding across the picture, until it covers Aoy completely. The picture ends on the closed walnut door.
-Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, as in @Image4.
-Composition: as in @Image4: the dark edge of the door at the left of frame; Aoy's profile in the gap, facing left; at the end, only the dark walnut door.
-Light: the same beautiful light: soft golden glow from the mirror bulbs on her face, warm bokeh of the bulbs behind her, a gentle rim of light along her profile.
+Camera: BCU, 120 cm high, eye level, 135mm lens, locked-off; Win's point of view from the armchair, through the gap of the door.
+Composition: the dark edge of the door soft at the left of frame; in the gap, the outer corner of Aoy's eye, her cheek, her ear and earring and the hairpin, filling the frame, her face turned away to the left; at the end, only the dark walnut door.
+Light: the same beautiful light: soft golden glow from the mirror bulbs on her cheek, warm bokeh of the bulbs beyond her, a gentle rim of light along the edge of her cheek and her hair.
 Sound: the soft click of the door shutting.
 
 Shot 3 — 8.0–14.0 s — THE BOSS IS COMING · Win, from the side
@@ -114,3 +114,5 @@ DIALOGUE, IN THIS ORDER
 - quote 123.6 · key `sb03-36i-v1-20261126-c` (ช็อต 1 กะเทย wipe + อลิซมุมใกล้) · roles @Image3 = `df908b7c` · รอ "ยิง"
 - user *"หันซ้าย เห็นแค่หางตาอลิซนะ ให้ดูแบบไม่เต็มหน้าก่อน"* → ช็อต 1 เห็นจากข้างหลัง หน้าหันไปซ้าย เห็นแค่หางตา+ขอบแก้ม · ช็อต 2 ค่อยเห็นด้านข้างเต็ม · quote `-c` ใช้ไม่ได้
 - quote 123.6 · key `sb03-36i-v1-20261126-d` (ช็อต 1 เห็นแค่หางตา) · รอ "ยิง"
+- user *"คัท2 ก็เห็นเท่าคัท1 แต่เป็น BCU"* → ช็อต 2 BCU 135mm เห็นแค่หางตา (อายไลเนอร์) ขอบแก้ม หู ต่างหู ปิ่น จากข้างหลัง หน้าหันซ้าย · @Image4 ใช้แค่มุม · ตัด "in profile" · quote `-d` ใช้ไม่ได้
+- quote 123.6 · key `sb03-36i-v1-20261126-e` (ช็อต 2 BCU หางตา) · รอ "ยิง"
