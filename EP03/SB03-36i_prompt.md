@@ -14,7 +14,7 @@ From his armchair, through the half-open door, Win sees Aoy made up for the firs
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE.
 @Image2 — INSIDE THE DRESSING ROOM. THIS REFERENCE IS ONLY INFORMATION ABOUT THE ROOM, TO KNOW WHAT IS WHERE.
-@Image3 — THE CAMERA ANGLE OF SHOT 1: THE DRESSING ROOM SEEN THROUGH THE HALF-OPEN DOOR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE ROOM AND THE LIGHT OF SHOT 1. IN THIS VIDEO AOY IS ALONE IN THE ROOM; HER FACE AND HER CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
+@Image3 — THE CAMERA ANGLE OF SHOT 1 ONCE AOY IS REVEALED: AOY SEEN CLOSE THROUGH THE DOORWAY, FROM BEHIND AND THE SIDE, IN THE CREAM BOUCLÉ CHAIR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 1. IN THIS VIDEO AOY IS ALONE IN THE ROOM; HER FACE AND HER CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
 @Image4 — THE CAMERA ANGLE OF SHOT 2: AOY IN PROFILE, SEEN THROUGH THE GAP OF THE DOOR, THE DARK EDGE OF THE DOOR ON THE LEFT. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 2. AOY'S FACE, HAIR AND CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
 @Image5 — THE CAMERA ANGLE OF SHOT 3: WIN IN THE ARMCHAIR FROM THE SIDE, THE DRESSING-ROOM DOOR IN THE BACKGROUND. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE AND THE ARMCHAIR OF SHOT 3.
 @Image6 — WHERE THE THREE STYLISTS STAND AT THE END OF SHOT 3: TOGETHER ON THE LEFT, BEHIND WIN, TURNED TOWARD THE LONG CORRIDOR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THEIR POSITIONS AT THE END. THE MAGENTA PATCH OVER WIN'S FACE IS ONLY A MASK: HIS FACE COMES FROM @Image10, AND IN THIS VIDEO HE IS WIDE AWAKE.
@@ -44,19 +44,20 @@ WHERE EVERYONE IS
 - IN SHOT 3, AS IN @Image5: WIN ON THE LEFT OF FRAME IN THE ARMCHAIR; THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND HIM.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–3.0 s — ALONE AT THE MIRROR · Win's point of view
+Shot 1 — 0.0–3.5 s — THE MAKEUP ARTIST STEPS OUT · Win's point of view
 Picture, in this order:
-- 1. 0.0–3.0 s: As in @Image3. Win's view from his armchair: through the half-open door, Aoy sits alone and still in the cream bouclé chair, in profile, her attention on the round mirror, lost in her own thoughts. The room is quiet around her.
-Camera: MS, 120 cm high, eye level, 50mm lens, locked-off; Win's point of view from the armchair, through the half-open door, as in @Image3.
-Composition: as in @Image3: the edge of the walnut door with its brass handle on the left of frame; the round mirror of warm bulbs, the dressing table and Aoy in the cream chair through the gap.
+- 1. 0.0–1.2 s: Win's view from his armchair, close on the doorway: the head makeup artist has just opened the door and steps out through it, his black shirt filling the frame, soft and close; he moves out of the picture to the left, like a wipe.
+- 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed, as in @Image3: alone in the cream bouclé chair at the mirror, seen from behind and the side, her profile, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
+Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, through the doorway, as in @Image3.
+Composition: as in @Image3: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, from behind and the side, her profile turned to the left; the warm bulbs of the mirror glowing soft at the edge of the picture.
 Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in a soft golden glow, a gentle rim of light along her profile, her ponytail and her hairpin, the dark room falling away around her.
 
-Shot 2 — 3.0–8.0 s — THE DOOR CLOSES · Win's point of view
+Shot 2 — 3.5–8.0 s — THE DOOR CLOSES · Win's point of view
 Picture, in this order:
-- 1. 3.0–5.5 s: As in @Image4. Win's view from his armchair, closer: through the gap of the door, Aoy in profile, still, thinking, her makeup and her red qipao glowing in the warm light.
+- 1. 3.5–5.5 s: As in @Image4. Win's view from his armchair, closer: through the gap of the door, Aoy in profile, still, thinking, her makeup and her red qipao glowing in the warm light.
 - 2. 5.5–8.0 s: The door slowly swings shut from the left, its dark walnut edge sliding across the picture, until it covers Aoy completely. The picture ends on the closed walnut door.
 Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, as in @Image4.
-Composition: as in @Image4: the dark edge of the door at the left of frame; Aoy's profile in the gap, facing right; at the end, only the dark walnut door.
+Composition: as in @Image4: the dark edge of the door at the left of frame; Aoy's profile in the gap, facing left; at the end, only the dark walnut door.
 Light: the same beautiful light: soft golden glow from the mirror bulbs on her face, warm bokeh of the bulbs behind her, a gentle rim of light along her profile.
 Sound: the soft click of the door shutting.
 
@@ -101,10 +102,13 @@ DIALOGUE, IN THIS ORDER
   - *"เฟรมแรก สาวผมมวยต่ำต้องยืนห่างออกมา และเห็นวาทิน+แจ็คเดินมาแล้ว จึงบอกเพื่อนทันทีที่กะเทยและคนถือกระเป๋าปิดประตูเดินมาหาแล้วหยุดยืนรอวาทินพร้อมกันตามตำแหน่งเฟรมสุดท้ายของเทคก่อน"*
 - ไม่เอ่ยชื่อทิน/นุช นอกบทพูด (*the big boss* · *on the phone*)
 - เสียง @Audio1 `ch3 s5 watin coming` `f76b1f35` 2.74 วิ · พูด 0.19–0.48 "อ้อ" / 0.79–2.54 · วางที่ 9.4 → 9.59–9.88 / 10.19–11.94 · "วาทิน" ~10.35–10.8 → วินเริ่มหัน 10.6
-- เรฟ: @Image1 T A v12 `8a40f7a4` · @Image2 vanity `c71c0cda` · @Image3 ช่องประตู (ภาพ user) `e759acb9` · @Image4 POV (ภาพ user) `74cccbc8` · @Image5 มุมข้างวิน (ภาพ user) `2a19b363` · @Image6 เฟรมท้าย SB03-36a เทค 2 ปิดหน้าวินด้วยแพตช์ชมพู `fb99e2e3` (`EP03/frames/SB03-36a_V2_last_Winmasked.png` · ตัวเดิมไม่ปิด `6f97a517` เลิกใช้) · @Image7 อลิซ CU `f4cb7681` · @Image8 อลิซ 3Q `d7225696` · @Image9 อลิซ FS C2 `5fc621e2` · @Image10 วิน `2aec936c` · @Image11 `b16a326b` · @Image12 ที่นั่ง `245bc478` · @Image13 ST03 `f8d0e7d7` · @Image14 ST02 `873cb52b` · @Image15 ST01 `7ff7594f` · @Audio1 `f76b1f35`
+- เรฟ: @Image1 T A v12 `8a40f7a4` · @Image2 vanity `c71c0cda` · @Image3 ช่องประตูมุมใกล้ (ภาพ user) `df908b7c` (`EP03/frames/SB03-36i_shot1_close_angle_user.png` · แทน `e759acb9` มุมกว้าง) · @Image4 POV (ภาพ user) `74cccbc8` · @Image5 มุมข้างวิน (ภาพ user) `2a19b363` · @Image6 เฟรมท้าย SB03-36a เทค 2 ปิดหน้าวินด้วยแพตช์ชมพู `fb99e2e3` (`EP03/frames/SB03-36a_V2_last_Winmasked.png` · ตัวเดิมไม่ปิด `6f97a517` เลิกใช้) · @Image7 อลิซ CU `f4cb7681` · @Image8 อลิซ 3Q `d7225696` · @Image9 อลิซ FS C2 `5fc621e2` · @Image10 วิน `2aec936c` · @Image11 `b16a326b` · @Image12 ที่นั่ง `245bc478` · @Image13 ST03 `f8d0e7d7` · @Image14 ST02 `873cb52b` · @Image15 ST01 `7ff7594f` · @Audio1 `f76b1f35`
 - roles เทค 3 เดิม: 8a40f7a4, c71c0cda, 2aec936c, b16a326b, a2167781, f8d0e7d7, 873cb52b, 7ff7594f, 29a64b51, de7e4e99, 245bc478 + เสียง d2f61a3f, 74484e7a
 - ด่านยกเว้น: A20 ตำแหน่ง/ขอบประตูซ้าย = ตามภาพ user · A4 *attention on the round mirror* = user *"นั่งนิ่งๆมองกระจก"* · *faces the camera* = user *"หันหน้ามาทางกล้อง"*
 - user *"วาดทับหน้าวินไปด้วย เพราะไม่เอาแกล้งหลับแบบนี้แล้ว"* → แพตช์ชมพูทับหน้าวินในเฟรมท้าย 36a (วินหลับตาก้มคาง) · บรรทัด @Image6 เติม ONLY A MASK + ตาเปิด
 - roles ตั้ง 15 ภาพ + 1 เสียง ตามลำดับ @Image1–15 / @Audio1
 - user *"2 คัทแรกเป็น pov ของวิน ที่ได้เห็นอลิซแต่งหน้านะ ขอ SD จัดแสงงามๆ"* → ช็อต 1 เป็น POV วินด้วย (หัวช็อต/บีต/กล้อง) · SCENE วินเห็นอลิซแต่งหน้าครั้งแรก สวย · บรรทัด Light ช็อต 1–2 แสงงาม (ทองนุ่มจากไฟกระจก · rim light · โบเก้) · quote `-a` 123.6 ใช้ไม่ได้
 - quote 123.6 พอยต์ · 14 วิ · seedance-2-5 references 16:9 720p full manual audio on · insert · key `sb03-36i-v1-20261126-b` · รอ "ยิง"
+- user *"แก้คัทแรกให้เพิ่มกะเทยที่เปิดประตูและเดินออกไป wipe ไปซ้าย เผยให้เห็นอลิซนั่งอยู่ ขนาดภาพเปลี่ยนเป็นใกล้ขึ้น ไม่มีช่างทำผม"* + ภาพ 2 ใบ (กะเทยบังเต็มเฟรม · อลิซมุมใกล้ มีมือช่างทำผม) → ช็อต 1 0–1.2 กะเทยเดินออก wipe ซ้าย · 1.2–3.5 เผยอลิซ MCU 85mm ตามภาพมุมใกล้ · ไม่มีใครยืนข้างหลังอลิซ · ช็อต 1 ยาวขึ้นเป็น 3.5 วิ ช็อต 2 เริ่ม 3.5 · ความยาวรวม/เสียงเดิม · quote `-b` ใช้ไม่ได้
+- ทิศหน้าอลิซ: ภาพ user ทั้ง 2 ใบหันซ้าย → แก้ *profile turned to the left* (ช็อต 1) · *facing left* (ช็อต 2) ผมเขียนผิดเป็นขวา
+- quote 123.6 · key `sb03-36i-v1-20261126-c` (ช็อต 1 กะเทย wipe + อลิซมุมใกล้) · roles @Image3 = `df908b7c` · รอ "ยิง"
