@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, a real place, natural skin. Two shots, 8 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, a real place, natural skin. Three shots, 8 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small and natural. The only light in the dressing room is the warm bulbs around the round mirror, the warm hidden lights along the edge of the ceiling and the downlights; the air is clear and clean. Every face keeps its natural skin tone. Aoy's face, her makeup, her red lips, her high ponytail, the gold hairpin and the red bead earrings are exactly as in @Image2 and @Image3, just as they are: peach-pink eye shadow, winged eyeliner, deep red lips. Aoy's legs are bare. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The shot is silent; the only sound is the real sound of the place.
 
 BEFORE THIS VIDEO
@@ -34,14 +34,20 @@ Camera: CU insert, 60 cm high, level with her shin, 100mm lens, locked-off; from
 Composition: her shin across the picture, the pink plaster in the middle of it; her red-nailed fingertips on the plaster; the cream bouclé of the chair soft below; the warm bulbs of the mirror soft in the background.
 Sound: the soft press of the plaster on skin.
 
-Shot 2 — 2.6–8.0 s — ANOTHER PLASTER · Aoy
+Shot 2 — 2.6–4.0 s — THE TIN · insert
 Picture, in this order:
-- 1. 2.6–3.6 s: Close on Aoy's right hand at the level of the black marble table: it reaches into the open pink tin and picks out another pink plaster. The camera pans with her hand.
-- 2. 3.6–4.6 s: Her hand lifts the plaster up to her chest, and the camera tilts up with it to her face.
-- 3. 4.6–6.8 s: Aoy, her head bowed a little, looks down at the plaster in her fingers and works at the corner of the backing paper with her fingernail; it is fiddly and will not lift, so she tries again. The printed side of the plaster faces the camera, slightly out of focus; the focus is on her face, in full makeup.
-- 4. 6.8–8.0 s: Her eyes lift from the plaster to the round mirror.
-Camera: CU on her hand, then MCU on her face, 110 cm high, at the level of the dressing table the whole time, so after the tilt her face is seen from a little below, 85mm lens; standing at the end of the dressing table, beside the mirror, facing Aoy; a pan with her hand to the tin, then a tilt up to her face; the focus moves from her hand to her face as the camera tilts up and stays on her face.
-Composition: at the start, her hand and the open pink tin on the black marble; after the tilt, Aoy's face from the chest up, a little left of the middle, the plaster soft in the foreground at the bottom of the picture; the sheer black stockings draped over her left shoulder, on the right of frame, both legs of the stockings hanging; the red silk of the qipao; the dressing room soft behind her.
+- 1. 2.6–4.0 s: Very close on the open pink tin of @Image7 on the black marble table, the cute pink plasters stacked inside. Aoy's fingertips come into the picture, pick out one plaster and take it away out of the picture.
+Camera: BCU insert, 105 cm high, at the level of the dressing table, 100mm lens, locked-off; close on the open tin.
+Composition: the open pink tin filling the middle of the picture, the plasters with their printed side up; the black marble around it; her red-nailed fingertips entering from the top of the picture.
+Sound: the soft rustle of the plasters in the tin.
+
+Shot 3 — 4.0–8.0 s — THE FACE · Aoy
+Picture, in this order:
+- 1. 4.0–4.8 s: The picture opens on the pink plaster in Aoy's fingers at chest height, its printed side toward the camera; the camera tilts up slowly from the plaster to her face.
+- 2. 4.8–6.8 s: Aoy, her head bowed a little, looks down at the plaster in her fingers and works at the corner of the backing paper with her fingernail; it is fiddly and will not lift, so she tries again. The printed side of the plaster faces the camera, slightly out of focus at the bottom of the picture; the focus is on her face, in full makeup.
+- 3. 6.8–8.0 s: Her eyes lift from the plaster to the round mirror.
+Camera: MCU, 110 cm high, at the level of the dressing table the whole time, so after the tilt her face is seen from a little below, 85mm lens; standing at the end of the dressing table, beside the mirror, facing Aoy; a slow tilt up from the plaster to her face; after the tilt the focus is on her face.
+Composition: after the tilt, Aoy's face from the chest up, a little left of the middle, the plaster soft in the foreground at the bottom of the picture; the sheer black stockings draped over her left shoulder, on the right of frame, both legs of the stockings hanging; the red silk of the qipao; the dressing room soft behind her.
 Light: beautiful, soft light: the warm bulbs of the mirror light her face from the front, clear skin, deep red lips, small bulb highlights in her eyes.
 
 THE LAST FRAME
@@ -61,3 +67,5 @@ Aoy's face from the chest up, in full makeup, her eyes lifted to the round mirro
 - ด่านยกเว้น: A1 *fingernail* / *eyes lift* = user *"ใช้เล็บแกะ"* *"เงยหน้าขึ้นมองกระจก"* · Light *bulb highlights in her eyes* ยกจาก SB03-39 เดิม · A20 Composition = user สั่ง (ด้านลายหันเข้ากล้อง เบลอ · ถุงน่องบ่าซ้าย)
 - ด่านยกเว้น: A4 *looks down at the plaster* / *eyes lift to the mirror* = user สั่ง *"ก้มมอง"* *"เงยหน้าขึ้นมองกระจก"*
 - roles `cf0238e3` เปลี่ยนจากชุดเทค 2 (14 ตัว) → 7 ภาพ: `ed8d0482` `f4cb7681` `d7225696` `65bb3ce9` `54704ecb` `a747a525` `816cd4f5` · valid:true · quote 70.7 · key `sb03-39i-v1-20261126-a` · รอ "ยิง"
+- user *"แยกคัท แพน กับ ทิลท์ ง่ายกว่ามั้ย?"* · *"คัท 2 เป็น BCU ที่ตลับเลย นิ้วของอลิสเข้ามาหยิบไป 1 อัน"* → 3 ช็อต: 1 CU หน้าแข้ง 0–2.6 · 2 BCU ตลับ นิ้วเข้ามาหยิบ 1 แผ่น กล้องนิ่ง 2.6–4.0 · 3 เปิดที่พลาสเตอร์ระดับอก ทิลท์ขึ้นหน้า แกะ เงยมองกระจก 4.0–8.0 · เลิกแพน · quote `-a` ใช้ไม่ได้
+  - quote 70.7 · key `sb03-39i-v1-20261126-b` · รอ "ยิง"
