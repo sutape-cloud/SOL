@@ -6,7 +6,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aoy, made up and dressed in her red qipao, is alone in the dressing room of the project owner's office. She has taken off her black stockings and they hang over her left shoulder. She stands at the dressing table, facing the round mirror, her right foot up on the seat of the cream bouclé chair; the pink tin of plasters is open on the black marble table.
 
 SCENE
-Alone at the mirror, Aoy sticks a cute pink plaster on her bare shin, then picks another one out of the tin and works at its backing paper with her fingernail; it is fiddly and will not lift. This is the first time the audience sees her face in full makeup, lit by the mirror bulbs. Then her eyes lift to the mirror.
+Alone at the mirror, Aoy sticks a cute pink plaster on her bare shin, then picks another one out of the tin and works at its backing paper with her fingernail; it is fiddly and will not lift. This is the first time the audience sees her face in full makeup, lit by the mirror bulbs. Then, sensing someone watching her, she lifts her head and looks up into the mirror.
 
 ACTIVE REFERENCES
 @Image1 — THE DRESSING ROOM, SEEN FROM THE DOOR, LOOKING IN TOWARD THE DRESSING TABLE AND THE ROUND MIRROR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -46,13 +46,13 @@ Picture, in this order:
 - 1. 4.0–4.8 s: The picture opens on the pink plaster in Aoy's fingers at chest height, its printed side toward the camera; the camera tilts up slowly from the plaster to her face.
 - 2. 4.8–6.8 s: Aoy, her head bowed a little, looks down at the plaster in her fingers and works at the corner of the backing paper with her fingernail; it is fiddly and will not lift, so she tries again, concentrating hard on it, intent and earnest, and she looks cute doing it. The printed side of the plaster faces the camera, slightly out of focus at the bottom of the picture; the focus is on her face, in full makeup.
   - Emotion: 专心致志，认真得可爱.
-- 3. 6.8–8.0 s: Her eyes lift from the plaster to the round mirror.
+- 3. 6.8–8.0 s: She senses someone watching her, so she lifts her head from the plaster and looks up into the round mirror.
 Camera: MCU, 110 cm high, at the level of the dressing table the whole time, so after the tilt her face is seen from a little below, 85mm lens; standing at the end of the dressing table, beside the mirror, facing Aoy; a slow tilt up from the plaster to her face; after the tilt the focus is on her face.
 Composition: after the tilt, Aoy's face from the chest up, a little left of the middle, the plaster soft in the foreground at the bottom of the picture; the sheer black stockings draped over her left shoulder, on the right of frame, both legs of the stockings hanging; the red silk of the qipao; the dressing room soft behind her.
 Light: beautiful, soft light: the warm bulbs of the mirror light her face from the front, clear skin, deep red lips, small bulb highlights in her eyes.
 
 THE LAST FRAME
-Aoy's face from the chest up, in full makeup, her eyes lifted to the round mirror; the pink plaster soft in her fingers at the bottom of the picture; the black stockings over her left shoulder.
+Aoy's face from the chest up, in full makeup, her head lifted, looking up into the round mirror; the pink plaster soft in her fingers at the bottom of the picture; the black stockings over her left shoulder.
 
 ---
 
@@ -80,3 +80,5 @@ Aoy's face from the chest up, in full makeup, her eyes lifted to the round mirro
   - quote 70.7 · key `sb03-39i-v1-20261126-c` · รอ "ยิง"
 - user *"ลุ้นแกะ จะยิ้มได้ไง ไม่น่าขี้เล่นมั้ย น่าจะตั้งใจ แบบดูน่ารัก"* → ตัด closed-lip smile ออกจาก GLOBAL (เอ่ยคำยิ้ม = เรียกยิ้ม) · ตัด *cute, light-hearted / sweet struggle / soft and bright* · แทนด้วย *concentrating hard, intent and earnest, looks cute doing it* · แท็ก `专心致志，认真得可爱` · quote `-c` ใช้ไม่ได้
   - quote 70.7 · key `sb03-39i-v1-20261126-d` · รอ "ยิง"
+- user *"ตอนท้ายคือรู้สึกเหมือนถูกมองเลยเงยหน้าขึ้นไปมองกระจกนะ ไม่ใช่เงยตา"* → ช็อต 3 บีต 3 + SCENE + LAST FRAME: รู้สึกเหมือนมีคนมอง เลยเงยหน้า (ไม่ใช่แค่ตา) ขึ้นมองกระจก · quote `-d` ใช้ไม่ได้
+  - quote 70.7 · key `sb03-39i-v1-20261126-e` · รอ "ยิง"
