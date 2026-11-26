@@ -31,14 +31,14 @@ WHAT THEY WEAR, AS IN @Image2 TO @Image7
 
 WHERE EVERYONE IS
 - The hall outside the dressing room, high up in an office tower, as in @Image1: a polished white marble floor; walnut wall panels divided by thin brass lines; a potted olive tree; warm hidden lights along the edge of the ceiling. In the background, the dressing-room door: a walnut door with a tall vertical brass handle, set into a panel of white marble; it is closed. Beside it, the sitting area: cream leather armchairs, white orchids and a brass floor lamp.
-- IN SHOT 1 THE CAMERA STANDS IN THE HALL, FACING THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND IN THE MIDDLE OF THE FRAME. THE THREE STYLISTS STAND TOGETHER ON THE LEFT OF FRAME, WAITING. ON THE RIGHT OF FRAME, A CREAM LEATHER ARMCHAIR STANDS EMPTY. TIN AND JUK COME IN FROM THE LEFT OF FRAME AND STOP IN THE MIDDLE OF THE FRAME: JUK ON THE LEFT, TIN ON THE RIGHT.
+- IN SHOT 1 THE CAMERA STANDS IN THE HALL, FACING THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND IN THE MIDDLE OF THE FRAME. THE THREE STYLISTS STAND TOGETHER ON THE LEFT OF FRAME, WAITING. ON THE RIGHT OF FRAME, A CREAM LEATHER ARMCHAIR STANDS EMPTY. TIN AND JUK COME IN FROM THE LEFT OF FRAME. TIN WALKS ON AND STOPS JUST PAST THE RIGHT EDGE OF THE DRESSING-ROOM DOOR, THEN TURNS TO HIS LEFT, SO THAT HE STANDS IN THREE-QUARTER VIEW, FACING TOWARD THE LEFT OF FRAME. JUK, FOLLOWING HIM, STOPS IN FRONT OF THE DOOR, CLOSER TO THE CAMERA, FACING TIN, HIS BACK HALF TURNED TO THE CAMERA: THE CAMERA SEES TIN OVER JUK'S SHOULDER.
 - IN SHOT 2 THE CAMERA FACES THE SAME WAY, CLOSER: JUK ALONE IN THE MIDDLE OF THE FRAME; BEHIND HIM, SOFT, THE CLOSED DRESSING-ROOM DOOR AND, ON THE RIGHT OF FRAME, THE EMPTY CREAM LEATHER ARMCHAIR.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–10.8 s — NOT NOW · the hall outside the dressing room
 Picture, in this order:
 - 1. 0.0–1.4 s: Tin and Juk walk into the picture from the left, Tin a little ahead, one hand at his chin, still lost in his own thoughts, just as he was a moment ago. The three stylists on the left turn to watch the two of them come in.
-- 2. 1.4–4.8 s: As they walk on to the middle of the frame and come to a stop, Tin says @Audio1, the first line.
+- 2. 1.4–4.8 s: Tin walks on and stops just past the right edge of the door, then turns to his left, toward Juk, in three-quarter view; Juk, following him, stops in front of the door, facing him. As they come to a stop, Tin says @Audio1, the first line.
   - Tin: "ไอคุ้นหน้ามากเลยนะ นึกไม่ออกว่าเคยเจอที่ไหน"
   - Emotion from the script: 若有所思，满腹狐疑.
 - 3. 5.0–7.7 s: Juk, smiling to please, asks the boss, carefully.
@@ -51,12 +51,12 @@ Picture, in this order:
   - Juk: "ได้ครับเฮีย"
   - Emotion from the script: 连忙应声，唯命是从.
 Camera: FS, 130 cm high, eye level, 35mm lens, locked-off; in the hall, facing the closed dressing-room door, framed exactly as in @Image1.
-Composition: the closed dressing-room door in the middle of the background; the three stylists on the left of frame; the empty cream leather armchair on the right of frame; Juk and Tin in the middle of the frame, Juk on the left, Tin on the right.
+Composition: the closed dressing-room door in the middle of the background; the three stylists on the left of frame; the empty cream leather armchair on the right of frame; Juk in front of the door, his back half turned to the camera; Tin just past the right edge of the door, in three-quarter view, facing toward the left of frame; the camera sees Tin over Juk's shoulder.
 Sound: their footsteps on the marble.
 
 Shot 2 — 10.8–14.0 s — SOMETHING IS MISSING · Juk
 Picture, in this order:
-- 1. 10.8–11.8 s: Juk stands alone where he stopped; the others have gone. He looks to his left.
+- 1. 10.8–11.8 s: Juk stands alone in front of the door, where he stopped; the others have gone. He looks to his left.
 - 2. 11.8–12.9 s: He looks to his right, puzzled, because something here feels different from before, and he tries to think what it is.
 - 3. 12.9–14.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
 Camera: MS, 130 cm high, eye level, 50mm lens, locked-off; facing the same way as Shot 1, closer.
@@ -93,3 +93,5 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A1 *one hand at his chin* — user *"ทินทำท่าต่อเนื่องจากคัทก่อน (ตามรูป)"*
 - roles บ็อก `ae110bf7` เปลี่ยนจากชุดเทค 6 (15 ภาพ + 2 เสียง) → 7 ภาพ + 1 เสียง: `09040601` `a34d98fc` `6bf2d2ca` `1b11b860` `f8d0e7d7` `873cb52b` `7ff7594f` + `2a28d683` · `valid:true`
 - quote 123.6 · key `sb03-37i-v1-20261126-a` · รอ "ยิง"
+- user 2026-11-26 *"ทินเดินมาหยุดเลยขอบขวาของประตูห้องแต่งตัว แล้วหันมาทางซ้าย เป็น 3/4 ขณะที่แจ็คเดินตามทินมาและหยุดหน้าประตู ยืนเป็น ots ไปหาทิน"* → แก้ WHERE ช็อต 1 · บีต 2 · Composition ช็อต 1 · ช็อต 2 บีต 1 แจ็คยืนหน้าประตู · quote `-a` ใช้ไม่ได้
+- quote 123.6 · key `sb03-37i-v1-20261126-b` · รอ "ยิง"
