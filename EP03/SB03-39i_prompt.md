@@ -83,3 +83,4 @@ Aoy's face from the chest up, in full makeup, her head lifted, looking up into t
 - user *"ตอนท้ายคือรู้สึกเหมือนถูกมองเลยเงยหน้าขึ้นไปมองกระจกนะ ไม่ใช่เงยตา"* → ช็อต 3 บีต 3 + SCENE + LAST FRAME: รู้สึกเหมือนมีคนมอง เลยเงยหน้า (ไม่ใช่แค่ตา) ขึ้นมองกระจก · quote `-d` ใช้ไม่ได้
   - quote 70.7 · key `sb03-39i-v1-20261126-e` · รอ "ยิง"
 - key `-e` ถูก hold (admission_not_sent · ไม่เริ่มงาน) → quote ใหม่ key `sb03-39i-v1-20261126-f` digest เดิม `c77173a3` 70.7 → ยิง 2026-11-26 · run `05d581ae-a656-481a-8e3e-77099f915275` · 70.7 พอยต์
+- เสร็จ · asset `d2eaf36a` · insert `a8b930ac` · 8.04 วิ · รอ user ดู
