@@ -1,15 +1,16 @@
 A still frame from a live-action Thai microdrama, 16:9, photographed on a cinema camera with an 85mm lens and a shallow depth of field. Real people, natural skin, natural soft light.
 
-THIS FRAME IS A MOMENT AFTER @Image1, SEEN FROM MUCH CLOSER. In @Image1, Tin walks toward the camera and Juk follows him, a few steps behind, right in front of the closed dressing-room door, with the cream leather armchairs just to the right of the door. Now Juk has taken one more step: he is still right in front of the dressing-room door, and the empty cream leather armchair is just behind him on the right, close to him. Tin is right in front of the camera, walking past it. The three stylists have already walked out of the picture.
+THIS FRAME IS A MOMENT AFTER @Image1, SEEN FROM MUCH CLOSER. In @Image1, Tin walks toward the camera and Juk follows him, a few steps behind, right in front of the closed dressing-room door, with the cream leather armchairs just to the right of the door. Now Juk has taken one more step: he is still standing just one step in front of the closed dressing-room door, and the empty cream leather armchair is close behind him on the right. Tin is right in front of the camera, walking past it. The three stylists have already walked out of the picture.
 
-THE PLACE, AS IN @Image1: the closed walnut dressing-room door set into a panel of white marble, walnut wall panels with thin brass lines, the olive tree on the left, the brass floor lamp and the cream leather armchairs on the right, a polished white marble floor, warm hidden light along the edge of the ceiling. All of it is deeply out of focus behind Juk, a soft blur of walnut, white marble and warm light; the empty cream leather armchair is a soft cream shape close behind him on the right of frame.
+THE PLACE, AS IN @Image1: the closed walnut dressing-room door set into a panel of white marble, walnut wall panels with thin brass lines, the olive tree on the left, the brass floor lamp and the cream leather armchairs on the right, warm hidden light along the edge of the ceiling. All of it is deeply out of focus behind Juk, a soft blur of walnut, white marble and warm light; the empty cream leather armchair is a soft cream shape close behind him on the right of frame.
 
 THE PEOPLE
 - Juk, as in @Image2 and @Image3: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, a pale pink shirt open at the collar.
 - Tin, as in @Image4: a heavy-set Thai man, short black hair combed flat, dark sunglasses with square silver frames, a dark navy three-piece suit, a white shirt, an oxblood tie with a gold tie clip.
 
 WHERE EVERYONE IS IN THE PICTURE
-- JUK IS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, IN SHARP FOCUS, WALKING TOWARD THE CAMERA, MID-STEP, FOLLOWING THE BOSS, HIS ATTENTION ON TIN AHEAD OF HIM. BEHIND HIM, THE CLOSED DRESSING-ROOM DOOR; CLOSE BEHIND HIM ON THE RIGHT, THE EMPTY CREAM LEATHER ARMCHAIR.
+- JUK IS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, IN SHARP FOCUS, WALKING TOWARD THE CAMERA, MID-STEP, FOLLOWING THE BOSS, HIS ATTENTION ON TIN AHEAD OF HIM.
+- JUK STANDS ONLY ONE STEP IN FRONT OF THE CLOSED DRESSING-ROOM DOOR, SO THE WALNUT DOOR AND ITS WHITE MARBLE PANEL FILL THE BACKGROUND RIGHT BEHIND HIM. THE PICTURE SHOWS FROM HIS WAIST TO JUST ABOVE HIS HEAD: THE FLOOR IS BELOW THE BOTTOM OF THE PICTURE, AND THE TOP OF THE DOOR IS JUST ABOVE THE TOP OF THE PICTURE. ON THE RIGHT OF FRAME, CLOSE BEHIND HIM, THE TOP OF THE EMPTY CREAM LEATHER ARMCHAIR AND THE BRASS FLOOR LAMP.
 - TIN IS VERY CLOSE TO THE CAMERA ON THE RIGHT EDGE OF THE FRAME, CUT BY THE EDGE, COMPLETELY OUT OF FOCUS: A SOFT DARK BLUR OF NAVY SUIT AND SHOULDER, WALKING PAST THE CAMERA.
 
 Camera: MS, close, 130 cm high, eye level, 85mm lens, very shallow depth of field: only Juk is sharp; Tin in the foreground and the hall behind Juk are soft blurs.
@@ -32,3 +33,5 @@ Two people in the picture: Juk and Tin.
 - v1 ❌ user *"แจ็คเดินมาห่างโซฟาเกินไป แกไปดูเฟรมสุดท้ายของคัท1สิวะ ส่งรูปนั้นไปตอนเจนก็ได้"* → v2: @1 = เฟรมสุดท้ายคัท 1 V1 `699733f2` (แทน bg ครอป) แจ็คยังอยู่หน้าประตู เก้าอี้ว่างอยู่ข้างหลังขวาใกล้ๆ · ทินเบลอหมด · ชัดตื้นขึ้น · บอกว่าช่าง 3 คนออกเฟรมไปแล้ว (กันเรฟพาช่างมา)
 - v2 quote 1.6 · key `sb03-37i2-first-still-v2-a` · รอ "ยิง"
 - v2 ยิง run `0ab52f5c-de34-4c80-b17b-294cc4d6bc4b` · 1.6 · asset `86ffdaf3` · `EP03/SB03-37i2_first_still_v2.png` · ผมเช็ค: แจ็คหน้าประตูพอดี ✓ เก้าอี้ครีมว่างอยู่ข้างหลังขวาใกล้ๆ ✓ โคมทองเหลือง ✓ ไม่มีช่าง ✓ · ⚠️ ทินเบลอนิดเดียว ยังเห็นหน้าชัดพอควร · ฉากหลังยังค่อนข้างชัด
+- v2 ❌ user *"แกส่งภาพเฟรมสุดท้ายไปให้ sd ป่าววะ กูดูยังห่างเหมือนเดิม ถ้าแจ็คครึ่งตัว ไม่ควรเห็นพื้นเลย ถ้ายืนตำแหน่งเดิม"* — ส่งแล้ว (@1 `699733f2`) แต่ SD ยังวางแจ็คห่างประตูหลายเมตร เห็นประตูทั้งบานและพื้น → v3: เขียนตรงๆ ว่าแจ็คห่างประตูก้าวเดียว ประตูเต็มฉากหลัง ภาพตั้งแต่เอวถึงเหนือหัว พื้นอยู่ใต้ขอบล่าง ขอบบนประตูเลยขอบบนไป · เก้าอี้เหลือแค่พนักบน+โคมทางขวา · ตัด "polished white marble floor" ออกจาก THE PLACE (ขัดกับห้ามเห็นพื้น)
+- v3 quote 1.6 · key `sb03-37i2-first-still-v3-a` · รอ "ยิง"
