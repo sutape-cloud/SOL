@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Three shots, 14 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light in the hall is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; the only light inside the dressing room is the warm bulbs around the round mirror. Every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video. There are only three stylists. Aoy's makeup is exactly the makeup of @Image7 and @Image8, just as it is. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
+All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The light in the hall is the late-morning sun through the floor-to-ceiling glass wall, the warm hidden lights along the edge of the ceiling and the downlights; the only light inside the dressing room is the warm bulbs around the round mirror. Every face keeps its natural skin tone. The air is clear and clean. Every surface is plain: the walls and the paintings are plain. Win wears the pink knitted hat on his head for the whole video. There are only three stylists, and all three of them are out in the hall: inside the dressing room, Aoy is the only person, from the first frame to the last. Aoy's makeup is exactly the makeup of @Image6 and @Image7, just as it is. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
 The hair stylist speaks in Shot 3, lip-synced to her. The voice file @Audio1 plays exactly once, from 9.4 s. The file may end with a stretch of silence that is there only to make it long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 14 seconds.
@@ -14,23 +14,22 @@ From his armchair, through the half-open door, Win sees Aoy made up for the firs
 ACTIVE REFERENCES
 @Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING FROM THE LONG CORRIDOR TOWARD THE DRESSING-ROOM DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE.
 @Image2 — INSIDE THE DRESSING ROOM. THIS REFERENCE IS ONLY INFORMATION ABOUT THE ROOM, TO KNOW WHAT IS WHERE.
-@Image3 — THE CAMERA ANGLE OF SHOT 1 ONCE AOY IS REVEALED: AOY SEEN CLOSE THROUGH THE DOORWAY, FROM BEHIND AND THE SIDE, IN THE CREAM BOUCLÉ CHAIR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 1. IN THIS VIDEO AOY IS ALONE IN THE ROOM; HER FACE AND HER CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
-@Image4 — THE CAMERA ANGLE OF SHOT 2: AOY SEEN THROUGH THE GAP OF THE DOOR, THE DARK EDGE OF THE DOOR ON THE LEFT. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 2. AOY'S FACE, HAIR AND CLOTHES COME ONLY FROM @Image7, @Image8 AND @Image9.
-@Image5 — THE CAMERA ANGLE OF SHOT 3: WIN IN THE ARMCHAIR FROM THE SIDE, THE DRESSING-ROOM DOOR IN THE BACKGROUND. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE AND THE ARMCHAIR OF SHOT 3.
-@Image6 — WHERE THE THREE STYLISTS STAND AT THE END OF SHOT 3: TOGETHER ON THE LEFT, BEHIND WIN, TURNED TOWARD THE LONG CORRIDOR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THEIR POSITIONS AT THE END. THE MAGENTA PATCH OVER WIN'S FACE IS ONLY A MASK: HIS FACE COMES FROM @Image10, AND IN THIS VIDEO HE IS WIDE AWAKE.
-@Image7 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image9 is the authority for what she is wearing today.
-@Image8 — HER FACE FROM THREE-QUARTER VIEW, WITH THE SAME MAKEUP, PONYTAIL, HAIRPIN AND EARRINGS. 100% matches the reference.
-@Image9 — HER FULL BODY IN THE RED QIPAO. 100% matches the reference for her clothes.
-@Image10 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image11 is the authority for what he is wearing today.
-@Image11 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image10.
-@Image12 — WIN IN THIS SAME ARMCHAIR, IN THIS SAME PLACE. HE STAYS IN THIS CHAIR FOR THE WHOLE VIDEO.
-@Image13 — HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
-@Image14 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
-@Image15 — HAIR STYLIST: Thai, a woman in her thirties, the styling team's hairdresser. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
+@Image3 — THE CAMERA ANGLE OF SHOT 2: AOY SEEN THROUGH THE GAP OF THE DOOR, THE DARK EDGE OF THE DOOR ON THE LEFT. THIS REFERENCE IS THE AUTHORITY ONLY FOR THE CAMERA ANGLE, THE FRAMING AND THE LIGHT OF SHOT 2. AOY'S FACE, HAIR AND CLOTHES COME ONLY FROM @Image6, @Image7 AND @Image8.
+@Image4 — THE CAMERA ANGLE OF SHOT 3: WIN IN THE ARMCHAIR FROM THE SIDE, THE DRESSING-ROOM DOOR IN THE BACKGROUND. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA ANGLE AND THE ARMCHAIR OF SHOT 3.
+@Image5 — WHERE THE THREE STYLISTS STAND AT THE END OF SHOT 3: TOGETHER ON THE LEFT, BEHIND WIN, TURNED TOWARD THE LONG CORRIDOR. THIS REFERENCE IS THE AUTHORITY ONLY FOR THEIR POSITIONS AT THE END. THE MAGENTA PATCH OVER WIN'S FACE IS ONLY A MASK: HIS FACE COMES FROM @Image9, AND IN THIS VIDEO HE IS WIDE AWAKE.
+@Image6 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image8 is the authority for what she is wearing today.
+@Image7 — HER FACE FROM THREE-QUARTER VIEW, WITH THE SAME MAKEUP, PONYTAIL, HAIRPIN AND EARRINGS. 100% matches the reference.
+@Image8 — HER FULL BODY IN THE RED QIPAO. 100% matches the reference for her clothes.
+@Image9 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image10 is the authority for what he is wearing today.
+@Image10 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image9.
+@Image11 — WIN IN THIS SAME ARMCHAIR, IN THIS SAME PLACE. HE STAYS IN THIS CHAIR FOR THE WHOLE VIDEO.
+@Image12 — HEAD MAKEUP ARTIST: Thai, a fashionable kathoey in his thirties, the head makeup artist of the styling team. 100% matches the reference for his face, his body and his clothes, from the front, the side and behind.
+@Image13 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
+@Image14 — HAIR STYLIST: Thai, a woman in her thirties, the styling team's hairdresser. 100% matches the reference for her face, her body and her clothes, from the front, the side and behind.
 @Audio1 — THE HAIR STYLIST'S VOICE, HER LINE, IN SHOT 3.
-@Image7 and @Image8 carry Aoy's face and makeup, and her clothes come from @Image9. @Image10 carries Win's face, and his clothes and the hat come from @Image11; @Image12 shows his armchair. @Image13, @Image14 and @Image15 each carry one stylist, face and clothes together. @Image1 and @Image2 only tell what is where. @Image3, @Image4 and @Image5 carry the camera of Shots 1, 2 and 3; @Image6 carries where the stylists end up.
+@Image6 and @Image7 carry Aoy's face and makeup, and her clothes come from @Image8. @Image9 carries Win's face, and his clothes and the hat come from @Image10; @Image11 shows his armchair. @Image12, @Image13 and @Image14 each carry one stylist, face and clothes together. @Image1 and @Image2 only tell what is where. @Image3 and @Image4 carry the camera of Shots 2 and 3; @Image5 carries where the stylists end up.
 
-WHAT THEY WEAR, AS IN @Image7 TO @Image15
+WHAT THEY WEAR, AS IN @Image6 TO @Image14
 - Aoy: the deep red jacquard qipao with puff shoulders, three-quarter sleeves, a mandarin collar with gold piping, gold frog buttons and pink and gold peony embroidery; a high black ponytail with the gold hairpin and its strands of red beads; red bead drop earrings; red lips.
 - Win: his jacket turned inside out, so it is now a glossy white nylon jacket with green trim; a white crew-neck T-shirt; black jeans; black leather boots. On his head, the pink knitted hat with a folded brim and a cream knitted flower.
 - The head makeup artist: an undercut dyed a muted golden blond; amber-lensed sunglasses pushed up on his head; a short-sleeved black shirt with gold buttons; a silk scarf in green, oxblood and cream tied at his neck; a black leather belt with a pouch of makeup brushes; gold hoop earrings, gold bangles and several gold rings; black slacks; black leather loafers.
@@ -40,16 +39,16 @@ WHAT THEY WEAR, AS IN @Image7 TO @Image15
 WHERE EVERYONE IS
 - The hall outside the dressing room, as in @Image1: a polished white marble floor; walnut wall panels divided by thin brass lines; warm hidden lights along the edge of the ceiling. The dressing-room door: a walnut door with a tall vertical brass handle. Along one side, the floor-to-ceiling glass wall and the sitting area with cream leather armchairs. At the other end, the long corridor.
 - Inside the dressing room, as in @Image2: a round mirror ringed with warm bulbs; a black marble dressing table with a gold cup of brushes, perfume bottles and a gold vase of pink peonies; a cream bouclé chair; slatted wood walls.
-- Aoy sits alone in the cream bouclé chair at the mirror, her back half to the door, her face turned away toward the mirror. Win sits in the cream leather armchair in the hall, as in @Image12, for the whole video.
-- IN SHOT 3, AS IN @Image5: WIN ON THE LEFT OF FRAME IN THE ARMCHAIR; THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND HIM.
+- Aoy sits alone in the cream bouclé chair at the mirror, her back half to the door, her face turned away toward the mirror. Win sits in the cream leather armchair in the hall, as in @Image11, for the whole video.
+- IN SHOT 3, AS IN @Image4: WIN ON THE LEFT OF FRAME IN THE ARMCHAIR; THE CLOSED DRESSING-ROOM DOOR IN THE BACKGROUND ON THE RIGHT; THE LONG CORRIDOR OFF TO THE LEFT, BEHIND HIM.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.5 s — THE MAKEUP ARTIST STEPS OUT · Win's point of view
 Picture, in this order:
-- 1. 0.0–1.2 s: Win's view from his armchair, close on the doorway: the head makeup artist has just opened the door and steps out through it, his black shirt filling the frame, soft and close; he moves out of the picture to the left, like a wipe.
-- 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed, as in @Image3: alone in the cream bouclé chair at the mirror, seen from behind, her face turned away to the left so that only the edge of her cheek and the outer corner of her eye show past her hair, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
-Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, through the doorway, as in @Image3.
-Composition: as in @Image3: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, seen from behind, her face turned away to the left, only the outer corner of her eye and the edge of her cheek showing; the warm bulbs of the mirror glowing soft at the edge of the picture.
+- 1. 0.0–1.2 s: Win's view from his armchair, close on the doorway of the dressing room of @Image2: the head makeup artist has just opened the door and steps out through it, his black shirt filling the frame, soft and close; he moves out of the picture to the left, like a wipe.
+- 2. 1.2–3.5 s: As he clears the frame, Aoy is revealed: alone in the cream bouclé chair at the mirror, seen from behind, her face turned away to the left so that only the edge of her cheek and the outer corner of her eye show past her hair, her ponytail and the gold hairpin, still, her attention on the mirror, lost in her own thoughts, alone in the room.
+Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off; Win's point of view from the armchair, through the doorway.
+Composition: the dark edge of the doorway soft at the left of frame; Aoy close in the cream chair, the only person in the room, seen from behind, her face turned away to the left, only the outer corner of her eye and the edge of her cheek showing; the warm bulbs of the mirror glowing soft at the edge of the picture.
 Light: beautiful, cinematic light: the warm bulbs of the mirror wrap her face in a soft golden glow, a gentle rim of light along the edge of her cheek, her ponytail and her hairpin, the dark room falling away around her.
 
 Shot 2 — 3.5–8.0 s — THE DOOR CLOSES · Win's point of view
@@ -67,15 +66,15 @@ Picture, in this order:
 - 1. 8.0–9.6 s: The first frame plays as an over-the-shoulder shot: Win sits in the armchair turned so fully toward the closed door on the right that his face is hidden from the camera; only the back of his head under the pink hat, his ear and his shoulder, the closed door beyond him. He is sorry to have lost the sight of her; it shows only in how he sits there, small and quiet, facing the shut door. On the left of frame, a few steps toward the long corridor, the hair stylist already stands apart, facing the corridor, watching two men come this way. The head makeup artist and the wardrobe assistant, who have just shut the door, walk from the door behind Win over to her.
 - 2. 9.6–12.0 s: As the two of them reach her, the hair stylist turns her head to them and says @Audio1, with a small nod toward the corridor.
   - Hair stylist: "อ้อ คุณวาทินกับพี่แจ็คมาโน่นแล้ว"
-  - The three of them stand together and wait, turned toward the long corridor, as in @Image6.
+  - The three of them stand together and wait, turned toward the long corridor, as in @Image5.
 - 3. 10.6–13.2 s: At the boss's name, Win slowly shifts in the armchair, turning his shoulders and then his face away from the door, until he faces the camera, tense, because this is the man who would know him.
 - 4. 13.2–14.0 s: Win holds still, tense, facing the camera; the three stylists wait behind him on the left.
-Camera: MS, 115 cm high, eye level, 50mm lens, locked-off; from the side and a little behind Win, as in @Image5, so that at the start it is an over-the-shoulder view toward the door.
-Composition: as in @Image5 and @Image6: Win in the armchair on the left of frame; the closed door in the background on the right; the three stylists together behind him on the left, turned to the corridor.
+Camera: MS, 115 cm high, eye level, 50mm lens, locked-off; from the side and a little behind Win, as in @Image4, so that at the start it is an over-the-shoulder view toward the door.
+Composition: as in @Image4 and @Image5: Win in the armchair on the left of frame; the closed door in the background on the right; the three stylists together behind him on the left, turned to the corridor.
 Sound: their footsteps on the marble; then the quiet hall.
 
 THE LAST FRAME
-As in @Image5 and @Image6. Win in the armchair on the left of frame, turned to face the camera, tense, the pink hat on his head. The closed dressing-room door in the background on the right. The three stylists standing together behind him on the left, turned toward the long corridor, waiting.
+As in @Image4 and @Image5. Win in the armchair on the left of frame, turned to face the camera, tense, the pink hat on his head. The closed dressing-room door in the background on the right. The three stylists standing together behind him on the left, turned toward the long corridor, waiting.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 3, @Audio1, HAIR STYLIST: "อ้อ คุณวาทินกับพี่แจ็คมาโน่นแล้ว"
@@ -123,3 +122,6 @@ DIALOGUE, IN THIS ORDER
 - quote 123.6 · key `sb03-36i-v1-20261126-g` (ช็อต 3 เฟรมแรก OTS) · รอ "ยิง"
 - ยิง 2026-11-26 · run `8b7dc498-ac65-4263-b0d1-fdbc51510b05` · 123.6 พอยต์
 - เสร็จ · asset `001e79e7` · insert `23ab1aa3` · 14.04 วิ
+- V1 `001e79e7` ❌ ช็อต 1 มีช่างทำผมยืนหลังอลิซ — เพราะเรฟมุม @Image3 `df908b7c` (ภาพ user มุมใกล้) มีช่างทำผมอยู่ในภาพ SD ก๊อปมา · ลองทาทับแล้วตัดหลังอลิซขาด → ตัดเรฟนี้ออกทั้งใบ · มุมช็อต 1 เขียนเป็นตัวหนังสือ + ห้องจาก @Image2 (vanity ว่าง) · GLOBAL เติมว่าช่างทั้ง 3 อยู่ในโถง ในห้องมีอลิซคนเดียวตั้งแต่เฟรมแรกถึงเฟรมสุดท้าย · เลขเรฟเลื่อน @Image4–15 → @Image3–14
+- ⭐ บทเรียน: ภาพเรฟมุมกล้องที่มีคนที่ไม่ต้องการ = SD ใส่คนนั้นมาด้วยเสมอ แม้เขียนว่า "ALONE" → ต้องเอาคนออกจากภาพเรฟก่อน หรือไม่ใช้ภาพนั้น
+- V2 quote 123.6 · key `sb03-36i-v2-20261126-a` · เรฟ 14 + เสียง 1 (ตัด `df908b7c`) · รอ "ยิง"
