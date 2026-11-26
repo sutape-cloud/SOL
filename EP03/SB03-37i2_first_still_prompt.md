@@ -2,14 +2,14 @@ A still frame from a live-action Thai microdrama, 16:9, photographed on a cinema
 
 THIS FRAME IS FRAMED EXACTLY AS @Image1: THE SAME CAMERA, THE SAME SIZE, THE SAME BACKGROUND. It is a moment later: Tin has walked on past the camera, so he no longer covers Juk; only the edge of his shoulder is still in the picture.
 
-THE PLACE, AS IN @Image1: behind Juk, the closed walnut dressing-room door and the walnut wall panels with thin brass lines; on the right of frame, the brass floor lamp and, at the bottom right edge, the top of the back of the empty cream leather armchair. Warm hidden light from the ceiling, soft daylight. The background is softly out of focus.
+THE PLACE, AS IN @Image1 AND @Image5: right behind Juk, the closed walnut dressing-room door set into its panel of white marble, exactly as in @Image5, and the walnut wall panels with thin brass lines; the wall behind him is solid; on the right of frame, the brass floor lamp and, at the bottom right edge, the top of the back of the empty cream leather armchair. Warm hidden light from the ceiling, soft daylight. The background is softly out of focus.
 
 THE PEOPLE
 - Juk, as in @Image2 and @Image3: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, a pale pink shirt open at the collar.
 - Tin, as in @Image4: a dark navy three-piece suit.
 
 WHERE EVERYONE IS IN THE PICTURE
-- JUK STANDS WHERE HE IS IN @Image1, AT THE SAME SIZE, SEEN FROM THE WAIST UP, IN SHARP FOCUS, WALKING TOWARD THE CAMERA, FOLLOWING THE BOSS, HIS ATTENTION ON TIN AHEAD OF HIM. NOW THAT TIN HAS MOVED OUT OF THE WAY, JUK IS SEEN WHOLE.
+- JUK IS WHERE HE IS IN @Image1, AT THE SAME SIZE, SEEN FROM THE WAIST UP, IN SHARP FOCUS. HE IS CAUGHT IN THE MIDDLE OF A BRISK STEP TOWARD THE CAMERA, HURRYING AFTER HIS BOSS: HIS BODY LEANS A LITTLE FORWARD INTO THE STEP, ONE SHOULDER AHEAD OF THE OTHER, HIS ARMS SWINGING WITH THE WALK. HIS ATTENTION IS ON TIN AHEAD OF HIM. NOW THAT TIN HAS MOVED OUT OF THE WAY, JUK IS SEEN WHOLE.
 - AT THE RIGHT EDGE OF THE FRAME, VERY CLOSE TO THE CAMERA, ONLY TIN'S SHOULDER IN HIS DARK NAVY JACKET, COMPLETELY OUT OF FOCUS, A SOFT DARK BLUR CUT BY THE EDGE OF THE FRAME.
 
 Camera: MS, 130 cm high, eye level, 85mm lens, shallow depth of field, framed exactly as @Image1: Juk sharp; Tin's shoulder in the foreground and the hall behind Juk soft.
@@ -19,6 +19,7 @@ REFERENCES
 @Image2 — JUK'S FACE. 100% matches the reference for his face.
 @Image3 — JUK'S FULL BODY, FRONT AND BACK. 100% matches the reference for his clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
 @Image4 — TIN. 100% matches the reference for his clothes.
+@Image5 — THE HALL OUTSIDE THE DRESSING ROOM, SHARP AND CLEAR. ONLY THE LOOK OF THE DOOR, THE WHITE MARBLE PANEL, THE WALNUT WALLS AND THE BRASS LAMP IS TAKEN FROM THIS PICTURE; THE CAMERA AND THE FRAMING COME FROM @Image1.
 In the picture: Juk, and the blurred shoulder of Tin.
 
 ---
@@ -37,3 +38,5 @@ In the picture: Juk, and the blurred shoulder of Tin.
 - user *"ใช้ขนาดนี้ เจนภาพมา เอาทินมาเห็นแค่ไหล่เบลอๆ"* (ใบ 2 แพนขวา `EP03/frames/SB03-37i_V1_shot1_last_crop_Juk_MS_panR.png` · Mix Stage `59c499a5`) → v4: @1 = ครอปนี้ เป็นมุมกล้อง/ขนาด/ฉาก · ตัดเฟรมเต็ม `699733f2` ออก (มีช่างในภาพ) · ทินเหลือแค่ไหล่เบลอขอบขวา
 - v4 quote 1.6 · key `sb03-37i2-first-still-v4-a` · รอ "ยิง"
 - v4 ยิง run `b7f1eabe-d925-4afe-bb46-60a1e238d2ab` · 1.6 · asset `e2f09298` · `EP03/SB03-37i2_first_still_v4.png` · ผมเช็ค: แจ็คครึ่งตัว ซ้ายเฟรม ✓ ไม่เห็นพื้นตรงแจ็ค ✓ · ไหล่ทินเบลอขอบขวา ✓ · โคมทองเหลือง ✓ · พนักเก้าอี้ครีมล่างขวา ✓ (ใหญ่กว่าในครอป) · ❌ หลังแจ็คมีช่องทางเดินยาวโผล่กลางเฟรม แทนแผงหินอ่อน+ประตู · ประตูวอลนัทอยู่ซ้ายแทน
+- v4 ❌ user *"แจ็คไม่ได้กำลังเดินอยู่เลย เรื่องสำคัญแบบนี้จะต่อเนื่องได้ไง"* (+ ผมเห็นเองว่าหลังแจ็คมีทางเดินโผล่) → v5: แจ็คกลางก้าว เดินเร็ว ตัวโน้มไปข้างหน้า แขนแกว่ง · เพิ่ม @5 bg ครอปชัด `09040601` ถือหน้าตาประตู/แผงหินอ่อน · ผนังหลังแจ็คทึบ
+- v5 quote 1.8 (ลด 40% จาก 2.9) · key `sb03-37i2-first-still-v5-a` · รอ "ยิง"
