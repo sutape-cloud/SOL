@@ -50,3 +50,4 @@ The hall outside the dressing room, empty of people, softly out of focus: the cl
 - user *"ไม่ต้องมองไปที่เก้าอี้ มองไปทางขวาเฟรม (ที่มีเก้าอี้) มันเหมือนกันที่ไหนวะ"* → แจ็คแค่หันมองไปทางขวาเฟรม ไม่ได้มองที่เก้าอี้ · แก้ SCENE · บีต 2 · Composition · quote `-a` ใช้ไม่ได้
   - quote 35.4 · key `sb03-37i2-v1-20261126-b` · รอ "ยิง"
 - ยิง 2026-11-26 · run `446427a5-aecd-4081-b52d-b038623fe5e6` · 35.4 พอยต์
+- เสร็จ · asset `e9e751f6` · insert `a4b1e6df` · 4.04 วิ · รอ user ดู
