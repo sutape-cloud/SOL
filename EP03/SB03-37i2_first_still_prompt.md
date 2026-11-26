@@ -1,26 +1,25 @@
 A still frame from a live-action Thai microdrama, 16:9, photographed on a cinema camera with an 85mm lens and a shallow depth of field. Real people, natural skin, natural soft light.
 
-THIS FRAME IS A MOMENT AFTER @Image1, SEEN FROM MUCH CLOSER. In @Image1, Tin walks toward the camera and Juk follows him, a few steps behind, right in front of the closed dressing-room door, with the cream leather armchairs just to the right of the door. Now Juk has taken one more step: he is still standing just one step in front of the closed dressing-room door, and the empty cream leather armchair is close behind him on the right. Tin is right in front of the camera, walking past it. The three stylists have already walked out of the picture.
+THIS FRAME IS FRAMED EXACTLY AS @Image1: THE SAME CAMERA, THE SAME SIZE, THE SAME BACKGROUND. It is a moment later: Tin has walked on past the camera, so he no longer covers Juk; only the edge of his shoulder is still in the picture.
 
-THE PLACE, AS IN @Image1: the closed walnut dressing-room door set into a panel of white marble, walnut wall panels with thin brass lines, the olive tree on the left, the brass floor lamp and the cream leather armchairs on the right, warm hidden light along the edge of the ceiling. All of it is deeply out of focus behind Juk, a soft blur of walnut, white marble and warm light; the empty cream leather armchair is a soft cream shape close behind him on the right of frame.
+THE PLACE, AS IN @Image1: behind Juk, the closed walnut dressing-room door and the walnut wall panels with thin brass lines; on the right of frame, the brass floor lamp and, at the bottom right edge, the top of the back of the empty cream leather armchair. Warm hidden light from the ceiling, soft daylight. The background is softly out of focus.
 
 THE PEOPLE
 - Juk, as in @Image2 and @Image3: 28, Thai, messy black hair with a fringe, thin round gold-rimmed glasses; a white single-button suit, a pale pink shirt open at the collar.
-- Tin, as in @Image4: a heavy-set Thai man, short black hair combed flat, dark sunglasses with square silver frames, a dark navy three-piece suit, a white shirt, an oxblood tie with a gold tie clip.
+- Tin, as in @Image4: a dark navy three-piece suit.
 
 WHERE EVERYONE IS IN THE PICTURE
-- JUK IS IN THE MIDDLE OF THE FRAME, SEEN FROM THE WAIST UP, IN SHARP FOCUS, WALKING TOWARD THE CAMERA, MID-STEP, FOLLOWING THE BOSS, HIS ATTENTION ON TIN AHEAD OF HIM.
-- JUK STANDS ONLY ONE STEP IN FRONT OF THE CLOSED DRESSING-ROOM DOOR, SO THE WALNUT DOOR AND ITS WHITE MARBLE PANEL FILL THE BACKGROUND RIGHT BEHIND HIM. THE PICTURE SHOWS FROM HIS WAIST TO JUST ABOVE HIS HEAD: THE FLOOR IS BELOW THE BOTTOM OF THE PICTURE, AND THE TOP OF THE DOOR IS JUST ABOVE THE TOP OF THE PICTURE. ON THE RIGHT OF FRAME, CLOSE BEHIND HIM, THE TOP OF THE EMPTY CREAM LEATHER ARMCHAIR AND THE BRASS FLOOR LAMP.
-- TIN IS VERY CLOSE TO THE CAMERA ON THE RIGHT EDGE OF THE FRAME, CUT BY THE EDGE, COMPLETELY OUT OF FOCUS: A SOFT DARK BLUR OF NAVY SUIT AND SHOULDER, WALKING PAST THE CAMERA.
+- JUK STANDS WHERE HE IS IN @Image1, AT THE SAME SIZE, SEEN FROM THE WAIST UP, IN SHARP FOCUS, WALKING TOWARD THE CAMERA, FOLLOWING THE BOSS, HIS ATTENTION ON TIN AHEAD OF HIM. NOW THAT TIN HAS MOVED OUT OF THE WAY, JUK IS SEEN WHOLE.
+- AT THE RIGHT EDGE OF THE FRAME, VERY CLOSE TO THE CAMERA, ONLY TIN'S SHOULDER IN HIS DARK NAVY JACKET, COMPLETELY OUT OF FOCUS, A SOFT DARK BLUR CUT BY THE EDGE OF THE FRAME.
 
-Camera: MS, close, 130 cm high, eye level, 85mm lens, very shallow depth of field: only Juk is sharp; Tin in the foreground and the hall behind Juk are soft blurs.
+Camera: MS, 130 cm high, eye level, 85mm lens, shallow depth of field, framed exactly as @Image1: Juk sharp; Tin's shoulder in the foreground and the hall behind Juk soft.
 
 REFERENCES
-@Image1 — THE LAST FRAME OF THE PREVIOUS SHOT. THIS REFERENCE IS THE AUTHORITY FOR WHERE JUK, THE DOOR AND THE ARMCHAIRS ARE. THIS FRAME IS A MOMENT LATER AND THE CAMERA IS MUCH CLOSER TO JUK THAN IN @Image1.
+@Image1 — THE CAMERA ANGLE AND FRAMING OF THIS FRAME. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA, THE SIZE OF JUK IN THE FRAME, WHERE HE STANDS AND THE BACKGROUND. IN @Image1 TIN STILL WALKS IN FRONT OF JUK; IN THIS FRAME HE HAS MOVED ON, AND ONLY HIS SHOULDER REMAINS AT THE RIGHT EDGE.
 @Image2 — JUK'S FACE. 100% matches the reference for his face.
 @Image3 — JUK'S FULL BODY, FRONT AND BACK. 100% matches the reference for his clothes. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
-@Image4 — TIN. 100% matches the reference for his face, his body and his clothes.
-Two people in the picture: Juk and Tin.
+@Image4 — TIN. 100% matches the reference for his clothes.
+In the picture: Juk, and the blurred shoulder of Tin.
 
 ---
 
@@ -35,3 +34,5 @@ Two people in the picture: Juk and Tin.
 - v2 ยิง run `0ab52f5c-de34-4c80-b17b-294cc4d6bc4b` · 1.6 · asset `86ffdaf3` · `EP03/SB03-37i2_first_still_v2.png` · ผมเช็ค: แจ็คหน้าประตูพอดี ✓ เก้าอี้ครีมว่างอยู่ข้างหลังขวาใกล้ๆ ✓ โคมทองเหลือง ✓ ไม่มีช่าง ✓ · ⚠️ ทินเบลอนิดเดียว ยังเห็นหน้าชัดพอควร · ฉากหลังยังค่อนข้างชัด
 - v2 ❌ user *"แกส่งภาพเฟรมสุดท้ายไปให้ sd ป่าววะ กูดูยังห่างเหมือนเดิม ถ้าแจ็คครึ่งตัว ไม่ควรเห็นพื้นเลย ถ้ายืนตำแหน่งเดิม"* — ส่งแล้ว (@1 `699733f2`) แต่ SD ยังวางแจ็คห่างประตูหลายเมตร เห็นประตูทั้งบานและพื้น → v3: เขียนตรงๆ ว่าแจ็คห่างประตูก้าวเดียว ประตูเต็มฉากหลัง ภาพตั้งแต่เอวถึงเหนือหัว พื้นอยู่ใต้ขอบล่าง ขอบบนประตูเลยขอบบนไป · เก้าอี้เหลือแค่พนักบน+โคมทางขวา · ตัด "polished white marble floor" ออกจาก THE PLACE (ขัดกับห้ามเห็นพื้น)
 - v3 quote 1.6 · key `sb03-37i2-first-still-v3-a` · รอ "ยิง"
+- user *"ใช้ขนาดนี้ เจนภาพมา เอาทินมาเห็นแค่ไหล่เบลอๆ"* (ใบ 2 แพนขวา `EP03/frames/SB03-37i_V1_shot1_last_crop_Juk_MS_panR.png` · Mix Stage `59c499a5`) → v4: @1 = ครอปนี้ เป็นมุมกล้อง/ขนาด/ฉาก · ตัดเฟรมเต็ม `699733f2` ออก (มีช่างในภาพ) · ทินเหลือแค่ไหล่เบลอขอบขวา
+- v4 quote 1.6 · key `sb03-37i2-first-still-v4-a` · รอ "ยิง"
