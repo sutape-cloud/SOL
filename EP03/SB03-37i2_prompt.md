@@ -9,17 +9,18 @@ SCENE
 Juk hurries after the boss, but a step later something about this hall feels strange to him. He stops and looks off toward the right; he cannot work out what is different, and hurries on after Tin. The audience sees what he misses.
 
 ACTIVE REFERENCES
-@Image1 — JUK: 28, Thai. 100% matches the reference, and @Image2 is the authority for what he is wearing today.
-@Image2 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes and for how he looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image1.
-@Image3 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
-@Image1 carries Juk's face, and his clothes come from @Image2. @Image3 carries Tin, face and clothes together.
+@Image1 — THE HALL OUTSIDE THE DRESSING ROOM, LOOKING TOWARD THE CLOSED DRESSING-ROOM DOOR: THE WALNUT DOOR IN ITS PANEL OF WHITE MARBLE, THE OLIVE TREE ON THE LEFT, THE BRASS FLOOR LAMP AND THE EMPTY CREAM LEATHER ARMCHAIRS ON THE RIGHT. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. THE CAMERA IN THIS SHOT IS MUCH CLOSER THAN IN @Image1, AND ALL OF THIS PLACE IS DEEPLY OUT OF FOCUS BEHIND JUK.
+@Image2 — JUK: 28, Thai. 100% matches the reference, and @Image3 is the authority for what he is wearing today.
+@Image3 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes and for how he looks from behind. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image2.
+@Image4 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
+@Image2 carries Juk's face, and his clothes come from @Image3. @Image4 carries Tin, face and clothes together. @Image1 only tells what is where in the hall behind Juk.
 
-WHAT THEY WEAR, AS IN @Image1 TO @Image3
+WHAT THEY WEAR, AS IN @Image2 TO @Image4
 - Juk: a white single-button suit and white trousers; a pale pink shirt open at the collar; white leather sneakers; thin round gold-rimmed glasses; messy black hair with a fringe.
 - Tin: a heavy-set man; short black hair combed flat; dark sunglasses with square silver frames; a dark navy three-piece suit, a white shirt, an oxblood tie with a gold tie clip, a folded white pocket square; black leather shoes.
 
 WHERE EVERYONE IS
-- The hall outside the dressing room, far behind Juk and deeply out of focus: a polished white marble floor; walnut wall panels divided by thin brass lines; a potted olive tree; the closed walnut dressing-room door set into a panel of white marble; on the right of frame, the sitting area with empty cream leather armchairs, a brass floor lamp and white orchids.
+- The hall outside the dressing room, as in @Image1, far behind Juk and deeply out of focus: a polished white marble floor; walnut wall panels divided by thin brass lines; a potted olive tree; the closed walnut dressing-room door set into a panel of white marble; on the right of frame, the sitting area with empty cream leather armchairs, a brass floor lamp and white orchids.
 - THE CAMERA STANDS CLOSE TO JUK, FACING HIM AND THE CLOSED DRESSING-ROOM DOOR FAR BEHIND HIM. JUK IS IN THE MIDDLE OF THE FRAME, WALKING TOWARD THE CAMERA. THE WHOLE HALL BEHIND HIM IS A SOFT BLUR OF WALNUT, WHITE MARBLE AND WARM LIGHT; THE EMPTY CREAM LEATHER ARMCHAIR IS A SOFT CREAM SHAPE ON THE RIGHT OF FRAME. AT THE START, TIN IS CLOSE IN FRONT OF THE CAMERA, A SOFT BLUR IN THE FOREGROUND, WALKING OUT OF THE PICTURE. THE THREE STYLISTS HAVE ALREADY WALKED PAST, OUT OF THE PICTURE.
 
 SHOT
@@ -28,7 +29,7 @@ Picture, in this order:
 - 1. 0.0–0.8 s: Juk, following Tin, is still walking toward the camera; he takes one more step. Close in front of the camera, Tin, a soft blur in the foreground, walks out of the picture.
 - 2. 0.8–2.6 s: Juk stops, because something here feels strange. He turns to look toward the right of frame, puzzled, trying to think what is different.
 - 3. 2.6–4.0 s: He cannot work it out, and hurries after Tin, toward the camera and out of the picture.
-Camera: MS, close, 130 cm high, eye level, 85mm lens, shallow depth of field, locked-off: Juk sharp, the hall behind him deeply out of focus.
+Camera: MS, close: Juk seen from the waist up, 130 cm high, eye level, 85mm lens, shallow depth of field, locked-off: Juk sharp, the hall behind him deeply out of focus.
 Composition: Juk in the middle of the frame; at the start, Tin a soft blur in the foreground, crossing out of the picture; behind Juk, deeply out of focus, the closed dressing-room door and, on the right of frame, the empty cream leather armchair, a soft cream shape. The audience sees the empty armchair; Juk cannot place what is different.
 Sound: footsteps on the marble.
 
@@ -51,3 +52,7 @@ The hall outside the dressing room, empty of people, softly out of focus: the cl
   - quote 35.4 · key `sb03-37i2-v1-20261126-b` · รอ "ยิง"
 - ยิง 2026-11-26 · run `446427a5-aecd-4081-b52d-b038623fe5e6` · 35.4 พอยต์
 - เสร็จ · asset `e9e751f6` · insert `a4b1e6df` · 4.04 วิ · รอ user ดู
+- V1 `e9e751f6` ❌ user *"เอาเฟรมแรกมาดู ดูซิว่าแกส่ง bg อะไรไป"* — ผมไม่ได้ส่ง bg เลย (ตัดเฟรม V1 ออกแล้วไม่ได้ใส่ bg แทน) → SD สร้างโถงใหม่ ประตูบานใหญ่แบบลิฟต์ ไม่มีแผงหินอ่อน ไม่มีเก้าอี้ · ฉากหลังชัด แจ็คเต็มตัวไกล
+  - V2: เพิ่ม @Image1 bg ครอปหน้าห้อง `09040601` (บอกว่ากล้องใกล้กว่ามาก ฉากเบลอ) · แจ็ค/ทิน เลื่อนเป็น @2–4
+  - V1 แจ็คเต็มตัวไกล → Camera เติม *Juk seen from the waist up* (ขนาด MS ที่ user สั่ง)
+  - V2 roles `09040601` `a34d98fc` `6bf2d2ca` `1b11b860` valid:true · quote 35.4 · key `sb03-37i2-v2-20261126-a` · รอ "ยิง"
