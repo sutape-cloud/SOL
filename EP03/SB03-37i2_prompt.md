@@ -63,3 +63,4 @@ The hall outside the dressing room, empty of people, softly out of focus: the cl
 - user *"มันไม่ควรไปครอปเฟรมมั้ย บอกว่ากล้องสอง เปลี่ยนเลนส์ ถูกต้องกว่ามั้ย?"* → V4: @Video1 = 2 วิท้ายคัท 1 เต็มเฟรม ไม่ครอป (`EP03/frames/SB03-37i_V1_shot1_last2s.mp4` · Mix Stage `50a7b171`) · ช็อตนี้ = กล้องตัวที่สอง ตำแหน่งเดียวกับกล้องคัท 1 หันทางเดียวกัน เลนส์ 85mm แน่นขึ้น (ขนาดตามครอปใบ 2 แพนขวา) · ช่าง 3 คนอยู่นอกกรอบที่แน่นกว่า
   - V4 roles `09040601` `a34d98fc` `6bf2d2ca` `1b11b860` + video `50a7b171` valid:true · quote 37.0 · key `sb03-37i2-v4-20261126-a` · รอ "ยิง"
 - ยิง V4 2026-11-26 · run `99c12c1c-52e1-44c8-a685-2cdce3cdda9d` · 37.0 พอยต์
+- V4 เสร็จ · asset `d3c43476` · insert `9daeff06` · 4.04 วิ · รอ user ดู
