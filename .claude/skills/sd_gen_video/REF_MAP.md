@@ -70,7 +70,8 @@
 | `TIN wardrobe inside hiding spot sd55` | `e77bc16f-200f-41a3-a023-e862762c52b9` | ในตู้ใหญ่ห้องแต่งตัวทิน จากจุดที่วินยืนซ่อน · บานคู่ชิดหน้า แสงเส้นกลางบาน · ราวพาดขวางบน · ชุดราตรีสองข้าง · ชุดดำขอบขนนกขาวซ้ายระดับหน้า · ซีน 3-6 · `EP03/TIN_wardrobe_inside_sd55_v4.png` |
 | `PROP dressform covered sd55` | `9ba49b53-f2cd-4f38-92e1-b6057442331a` | หุ่นลองเสื้อติดล้อ คลุมผ้าดำทึบทั้งตัว ไม่เห็นชุด · เสาทองเหลือง ฐานกลม ล้อดำ 4 · ซีน 3-6 · `EP03/PROP_dressform_covered_sd55_v1.png` |
 | `PROP dressform MC qipao open sd55` | `0e4fcf15-6b2f-42b3-9c58-bb25d57063a2` | หุ่นตัวเดียวกัน เปิดผ้า สวมกี่เพ้า MC แดงซาติน (ชีท user) · ซีน 3-6 หลังดึงผ้าคลุม · `EP03/PROP_dressform_qipao_open_sd55_v1.png` |
-| `PROP cute plaster sd55` | `0f54c0ba-26f7-4442-98c6-29262dad4c41` | พลาสเตอร์ชมพูพาสเทล ลายหัวใจ+ดาว · ซีน 3-6 · `EP03/PROP_cute_plaster_sd55_v1.png` |
+| `PROP cute plaster sd55` | `0f54c0ba-26f7-4442-98c6-29262dad4c41` | ⛔ แทนด้วย v3 `816cd4f5` · พลาสเตอร์ชมพูพาสเทล ลายหัวใจ+ดาว · ซีน 3-6 · `EP03/PROP_cute_plaster_sd55_v1.png` |
+| `PROP cute plaster sd55 v3` | `816cd4f5-8f58-44f1-b954-227735b6c2b4` | ✅ พลาสเตอร์ชมพู ด้านนอกลายหัวใจ+ดาวขาวลายเดียวทั้งแผ่น ไม่มีลายกลาง · ด้านกาวผ้าก๊อซขาว · ไม่มีฟิล์มใส · ซีน 3-6 · `EP03/PROP_cute_plaster_sd55_v3_clean.png` |
 | `PROP TIN resort standee sd55` | `dc1e5537-329d-477f-90da-8370e126d7c1` | สแตนดี้โครงการ กรอบทอง ขาตั้งทอง *"รีสอร์ต 6 ดาว ก้าวสู่ความยิ่งใหญ่"* กำแพงเมืองจีน · ซีน 3-8 · `EP03/PROP_tin_resort_standee_sd55_v1.png` |
 | `TIN SECRETARY sheet sd55` | `4b75ad9a-b8f2-4559-a2b5-26998af5579a` | เลขาทิน ชีทตัวละคร · ซีน 3-8 · `EP03/TIN_SECRETARY_sheet_sd55_v1.png` |
 | `TIN secretary area sd55` | `e0487f30-1a36-4ca1-a259-b316fabb05c7` | หน้าห้องทิน โต๊ะเลขา ไมค์ประกาศ ประตูคู่วอลนัต · ซีน 3-8 · `EP03/TIN_secretary_area_sd55_v1.png` |
