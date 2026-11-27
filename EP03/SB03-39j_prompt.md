@@ -108,3 +108,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A23 *face straight and sincere, as if she truly wants his honest opinion* = user *"อลิซต้องไม่ยิ้ม ถามเหมือนอยากให้วินช่วยดูให้จริงๆ"* · A4 *eyes flick to the stockings / stay on her face* = user *"ชำเลืองไปที่ถุงน่อง แล้วกลับมามองอลิซ … ห้ามมองลง"* · *swallows* = user *"กลืนน้ำลาย"* · A20 composition = user สั่ง (ซ้าย/ขวา)
 - roles `cf0238e3` 9 ภาพ + เสียง: `a25ac9b5` `ed8d0482` `d7225696` `f4cb7681` `65bb3ce9` `a747a525` `2aec936c` `b16a326b` `11a721d2` + `076ba975` · valid:true · ตรวจราคา 106 · key `sb03-39j-v2-20261127-b` (`-a` compact handle ใช้ไม่ได้ ไม่ได้เริ่ม) · รอ user ตรวจก่อนยิง
 - user *"ยิง"* · key `-b` held (admission_not_sent) → ตรวจราคาใหม่ `-c` 106 เท่าเดิม → ยิง 2026-11-27 · run `56d5e6a7-2ea4-4921-abf6-07ad9421855b` · 106 พอยต์
+- เสร็จ · asset `2bee816e` · insert `83cb945a` · 12.04 วิ · รอ user ดู
