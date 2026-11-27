@@ -80,3 +80,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A4/A1 *eyes go to the stockings once … back to her face / eyes stay on her face / swallows* = user *"ชำเลืองไปที่ถุงน่อง แล้วกลับมามองอลิซ … ห้ามมองลง"* *"กลืนน้ำลาย"* · A20 composition = user สั่ง (ซ้าย/ขวา)
 - A8/A13 SCENE *without them* → *on her bare legs* · *whispers* → *asks* (กระซิบอยู่ในแท็ก 凑近耳语 แล้ว)
 - roles `cf0238e3` 9 ภาพ + เสียง · valid:true · ตรวจราคา 79.5 · key `sb03-39j3-v1-20261127-a` · รอ user ตรวจก่อนยิง
+- user *"ยิง"* → ยิง 2026-11-27 · run `2ab38843-24dd-4888-8e12-6158bc0eb95a` · 79.5 พอยต์
