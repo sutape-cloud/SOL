@@ -47,7 +47,7 @@ Shot 2 — 2.4–9.0 s — CORNERED · over Win's shoulder, then the two of them
 Picture, in this order:
 - 1. 2.4–3.3 s: Over Win's shoulder: Aoy, from the waist up, comes closer and closer, finishing the first line.
 - 2. 3.3–3.8 s: Still coming, she pinches the stockings on her shoulder between two fingers of her right hand and draws them off.
-- 3. 3.8–6.0 s: She says the second line of @Audio1, the stockings dangling from her two fingers, teasing him: she is holding back a smile, sweet and cute, enjoying how flustered he is. Win, his back against the door, shuffles sideways along the wall toward the right of frame, small careful steps, to get away from her; the handheld camera backs away with them.
+- 3. 3.8–6.0 s: She says the second line of @Audio1, the stockings dangling from her two fingers, teasing him: she is holding back a smile, sweet and cute. Win, his back against the door, shuffles sideways along the wall toward the right of frame, small careful steps, to get away from her; the handheld camera backs away with them.
   - Aoy: "หรือลุงอยากเห็นว่าเวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊ยังไง"
   - Emotion: 憋笑逗弄，俏皮可爱.
 - 4. 6.0–8.3 s: Win's back meets the corner of the room; he is stuck. Aoy keeps coming and stops close in front of him; the handheld camera ends up on a two-shot of them facing each other, still handheld: Aoy on the right, facing left, her right hand lifting the stockings up so they hang in the middle of the frame between them; Win on the left, facing right, his eyes slipping to the stockings in her hand.
@@ -86,3 +86,4 @@ DIALOGUE, IN THIS ORDER
 - A8 SCENE *without them* → *on her bare legs*
 - roles `cf0238e3` 9 ภาพ + เสียง: `a25ac9b5` `ed8d0482` `f4cb7681` `d7225696` `65bb3ce9` `a747a525` `2aec936c` `b16a326b` `a2167781` + `ce7f5100` · valid:true · ตรวจราคา 79.5 · key `sb03-39j-v1-20261127-a` · รอ user ตรวจก่อนยิง
 - user *"handheld ต่อเนื่องจนจบ ตอนพูดประโยคหลัง "หรือว่า..." อลิซซ่อนยิ้มแกล้งวินนะ ไม่ดุ ทำหน้าน่ารักๆ"* → กล้อง handheld ถึงเฟรมสุดท้าย (ตัด "settles") · บีต 3 ซ่อนยิ้มแกล้ง น่ารัก · แท็ก `娇嗔挑逗，故意作弄` → `憋笑逗弄，俏皮可爱` · ราคา `-a` ใช้ไม่ได้ · รอ user ผ่านตารางก่อนตรวจราคา
+- A23 ตัด *enjoying how flustered he is* (ไม่ได้มาจาก user)
