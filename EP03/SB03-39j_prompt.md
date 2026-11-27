@@ -91,3 +91,4 @@ DIALOGUE, IN THIS ORDER
 - user *"หมวกมีในชุดแล้ว ไม่ต้องแยก"* → ตัด @Image9 หมวก `a2167781` · roles 8 ภาพ + เสียง
 - user *"อยากได้แต่งหน้าแบบ 3/4 มากกว่า และต้องบอก SD อย่าแอคติ้งเว่อตามการแต่งหน้า อลิซควรเล่นเหมือนคนๆเดิม ทำได้มั้ย?"* → @Image3 = 3/4 `d7225696` (ถือการแต่งหน้า) · @Image4 = หน้าตรง `f4cb7681` (ถือแค่รูปหน้า แต่งหน้าเอาจาก @3) · GLOBAL: แต่งหน้าอ่อนตาม @3 + *The makeup changes only how she looks: Aoy moves and acts exactly like her usual self, natural, small and real.* (เชิงบวก ไม่ใช้ประโยคห้าม) · roles สลับลำดับ
 - user *"ผ่าน ยิงเลย"* · ตรวจราคา 79.5 key `sb03-39j-v1-20261127-b` (roles 8 ภาพ+เสียง) → ยิง 2026-11-27 · run `d57589dc-053b-4fe9-81aa-228daceff809` · 79.5 พอยต์
+- เสร็จ · asset `8da78063` · insert `da96c700` · 9.04 วิ · รอ user ดู
