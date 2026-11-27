@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. In the dressing room, Aoy, made up and in her red qipao, was sticking a plaster on at the mirror, the black stockings she has taken off hanging over her left shoulder. Win, disguised as her old uncle, has just slipped in to hide and leans back against the shut door, caught. She asked him in the mirror what he was doing in here, and he stammered. She knows exactly who he is and is quietly amused.
 
 SCENE
-Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. On the way she draws the stockings off her shoulder with two fingers and asks whether he wants to see how revealing the dress looks on her bare legs. Win, his back to the door, shuffles away along the wall until he is stuck in the corner; she follows him in, holding the stockings up between them. He swallows, keeps trying to hold her eyes, and his eyes keep going to the stockings in her hand.
+Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. On the way she draws the stockings off her shoulder with two fingers and asks whether he wants to see how revealing the dress looks on her bare legs. Win, his back to the door, shuffles away along the wall until he is stuck in the corner; she follows him in, holding the stockings up between them. He swallows; his eyes flick to the stockings beside his face and straight back to hers.
 
 ACTIVE REFERENCES
 @Image1 — THE DRESSING ROOM, SEEN FROM BESIDE THE DRESSING TABLE, LOOKING BACK TOWARD THE DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -32,7 +32,7 @@ WHERE EVERYONE IS
 - The dressing room, as in @Image1 and @Image2: dark walnut walls; the walnut door with a tall vertical brass handle; the cream bouclé sofa, the round gold side table with pink peonies and the brass floor lamp beside the door; the dressing table with the round mirror ringed with bulbs at the other end of the room; herringbone parquet and a cream rug.
 - At the start: Aoy stands at the dressing table; Win stands with his back against the closed door at the far end of the room, facing her.
 - During the video: Aoy walks from the dressing table to Win. Win slides along the wall, away from the door, into the corner of the room. Aoy follows him into the corner.
-- AT THE END: A TWO-SHOT, THE TWO OF THEM FACING EACH OTHER IN THE CORNER: AOY ON THE RIGHT OF FRAME, FACING LEFT; WIN ON THE LEFT OF FRAME, FACING RIGHT.
+- AT THE END: CLOSE ON THEIR TWO FACES, NEAR EACH OTHER, IN THE CORNER: AOY ON THE RIGHT OF FRAME, FACING LEFT; WIN ON THE LEFT OF FRAME, FACING RIGHT.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–2.4 s — SHE COMES FOR HIM · from behind Aoy
@@ -50,13 +50,13 @@ Picture, in this order:
 - 3. 3.8–6.0 s: She says the second line of @Audio1, the stockings dangling from her two fingers, teasing him: she is holding back a smile, sweet and cute. Win, his back against the door, shuffles sideways along the wall toward the right of frame, small careful steps, to get away from her; the handheld camera backs away with them.
   - Aoy: "หรือลุงอยากเห็นว่าเวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊ยังไง"
   - Emotion: 憋笑逗弄，俏皮可爱.
-- 4. 6.0–8.3 s: Win's back meets the corner of the room; he is stuck. Aoy keeps coming and stops close in front of him; the handheld camera ends up on a two-shot of them facing each other, still handheld: Aoy on the right, facing left, her right hand lifting the stockings up so they hang in the middle of the frame between them; Win on the left, facing right, his eyes slipping to the stockings in her hand.
-- 5. 8.3–9.0 s: As she finishes, Win swallows. A beat. He tries to keep his eyes on her face, and they still slide to the stockings.
-Camera: MCU, 140 cm high, eye level, 50mm lens; handheld the whole way to the last frame, starting over Win's shoulder as he stands against the door, backing away with them as he slides along the wall, and ending on a two-shot of the two of them in the corner, still handheld.
-Composition: at the start, Win's shoulder and the pink hat soft in the foreground, Aoy from the waist up coming toward him; at the end, Aoy on the right of frame facing left, Win on the left of frame facing right, the black stockings hanging in the middle of the frame between their faces.
+- 4. 6.0–8.3 s: Win's back meets the corner of the room; he is stuck. Aoy keeps coming closer and closer, and she stops, her face close to his, just as she finishes her line. The handheld camera moves in with them to a close two-shot of their two faces: Aoy on the right, facing left; Win on the left, facing right; her right hand lifts the stockings up to the height of their faces, so they hang in the middle of the frame between them.
+- 5. 8.3–9.0 s: As she finishes, Win swallows; his eyes flick to the stockings beside his face for an instant and straight back to Aoy's eyes. A beat. His eyes stay level the whole time, on her face and on the stockings at face height.
+Camera: MCU, closing in to a CU of the two faces at the end, 140 cm high, eye level, 50mm lens; handheld the whole way to the last frame, starting over Win's shoulder as he stands against the door, backing away with them as he slides along the wall, and ending close on their two faces in the corner, still handheld.
+Composition: at the start, Win's shoulder and the pink hat soft in the foreground, Aoy from the waist up coming toward him; at the end, a close two-shot of their two faces, near each other: Aoy on the right of frame facing left, Win on the left of frame facing right, the black stockings hanging in the middle of the frame between their faces.
 
 THE LAST FRAME
-A two-shot in the corner of the dressing room: Win on the left of frame, facing right, his back to the corner, his eyes going to the stockings; Aoy on the right of frame, facing left, holding the black stockings up in her right hand in the middle of the frame between them.
+Close on the two faces, near each other, in the corner of the dressing room: Win on the left of frame, facing right, his back to the corner, his eyes on Aoy's eyes; Aoy on the right of frame, facing left, holding the black stockings up in her right hand at face height, in the middle of the frame between them.
 
 DIALOGUE, IN THIS ORDER
 1. Shots 1–2, @Audio1, AOY: "ลุงจะแอบเข้าห้องแต่งตัวผู้หญิงแบบนี้ไม่ได้นะ"
@@ -88,3 +88,4 @@ DIALOGUE, IN THIS ORDER
 - user *"handheld ต่อเนื่องจนจบ ตอนพูดประโยคหลัง "หรือว่า..." อลิซซ่อนยิ้มแกล้งวินนะ ไม่ดุ ทำหน้าน่ารักๆ"* → กล้อง handheld ถึงเฟรมสุดท้าย (ตัด "settles") · บีต 3 ซ่อนยิ้มแกล้ง น่ารัก · แท็ก `娇嗔挑逗，故意作弄` → `憋笑逗弄，俏皮可爱` · ราคา `-a` ใช้ไม่ได้ · รอ user ผ่านตารางก่อนตรวจราคา
 - A23 ตัด *enjoying how flustered he is* (ไม่ได้มาจาก user)
 - ด่านยกเว้น: A23 *teasing / holding back a smile / sweet and cute* = user *"อลิซซ่อนยิ้มแกล้งวินนะ ไม่ดุ ทำหน้าน่ารักๆ"*
+- user *"น่าจะแค่ชำเลืองไปที่ถุงน่อง แล้วกลับมามองอลิซ โดยเฉพาะตอนกลืนน้ำลาย แต่ห้ามมองลงเด็ดขาด ช็อตสุดท้าย เป็น CU หน้าทั้งสองค่อนข้างใกล้กันนะ คืออลิซเข้ามาใกล้ขึ้นเรื่อยๆ มาหยุดตอนพูดจบ"* → บีต 4: อลิซเข้าใกล้ขึ้นเรื่อยๆ หยุดตอนพูดจบ ถุงน่องชูระดับหน้า · กล้อง handheld เข้าไปจบ CU สองหน้าใกล้กัน · บีต 5: กลืนน้ำลาย ชำเลืองถุงน่องแวบเดียวแล้วกลับมามองตาอลิซ · "ห้ามมองลง" เขียนเชิงบวก = ตาอยู่ระดับหน้า (ถุงน่องอยู่ระดับหน้า)
