@@ -20,11 +20,10 @@ ACTIVE REFERENCES
 @Image6 — THE BLACK STOCKINGS. THIS REFERENCE IS THE AUTHORITY FOR THE STOCKINGS ITSELF.
 @Image7 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image8 is the authority for what he is wearing today.
 @Image8 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image7.
-@Image9 — THE PINK KNITTED HAT. THIS REFERENCE IS THE AUTHORITY FOR THE HAT ITSELF.
 @Audio1 — AOY'S VOICE, HER TWO LINES, IN SHOTS 1 AND 2.
-@Image3 and @Image4 carry Aoy's face; @Image5 carries her clothes. @Image6 is the stockings. @Image7 carries Win's face; @Image8 and @Image9 carry his clothes and the hat. @Image1 and @Image2 only tell what is where in the room.
+@Image3 and @Image4 carry Aoy's face; @Image5 carries her clothes. @Image6 is the stockings. @Image7 carries Win's face; @Image8 carries his clothes and the hat. @Image1 and @Image2 only tell what is where in the room.
 
-WHAT THEY WEAR, AS IN @Image3 TO @Image9
+WHAT THEY WEAR, AS IN @Image3 TO @Image8
 - Aoy: the short deep red jacquard qipao of @Image5 with pink and gold embroidery, gold piping, the mandarin collar with gold frog buttons, puffed three-quarter sleeves; bare legs; black patent pointed high heels; the sheer black stockings of @Image6 draped over her left shoulder: the legs of the stockings hang down her front, and the waistband end hangs down her back; a high black ponytail with the gold hairpin and its strands of red beads; red bead drop earrings; deep red lips.
 - Win: his jacket turned inside out, so it is now a glossy white nylon jacket with green trim; a white crew-neck T-shirt; black jeans; black leather boots. On his head, the pink knitted hat with a folded brim and a big knitted cream flower.
 
@@ -89,3 +88,4 @@ DIALOGUE, IN THIS ORDER
 - A23 ตัด *enjoying how flustered he is* (ไม่ได้มาจาก user)
 - ด่านยกเว้น: A23 *teasing / holding back a smile / sweet and cute* = user *"อลิซซ่อนยิ้มแกล้งวินนะ ไม่ดุ ทำหน้าน่ารักๆ"*
 - user *"น่าจะแค่ชำเลืองไปที่ถุงน่อง แล้วกลับมามองอลิซ โดยเฉพาะตอนกลืนน้ำลาย แต่ห้ามมองลงเด็ดขาด ช็อตสุดท้าย เป็น CU หน้าทั้งสองค่อนข้างใกล้กันนะ คืออลิซเข้ามาใกล้ขึ้นเรื่อยๆ มาหยุดตอนพูดจบ"* → บีต 4: อลิซเข้าใกล้ขึ้นเรื่อยๆ หยุดตอนพูดจบ ถุงน่องชูระดับหน้า · กล้อง handheld เข้าไปจบ CU สองหน้าใกล้กัน · บีต 5: กลืนน้ำลาย ชำเลืองถุงน่องแวบเดียวแล้วกลับมามองตาอลิซ · "ห้ามมองลง" เขียนเชิงบวก = ตาอยู่ระดับหน้า (ถุงน่องอยู่ระดับหน้า)
+- user *"หมวกมีในชุดแล้ว ไม่ต้องแยก"* → ตัด @Image9 หมวก `a2167781` · roles 8 ภาพ + เสียง
