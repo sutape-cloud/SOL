@@ -68,3 +68,4 @@ DIALOGUE, IN THIS ORDER
 - ด่านยกเว้น: A23 *putting on an innocent face … sweet and cute* = user *"แกล้งถามแบบใสซื่อ อินโนเซ็นส์"* (ก่อนหน้า *"ทำหน้าน่ารักๆ"*) · A4/A1 *eyes stay on her face* / *swallows* = user *"ห้ามมองลง"* *"วินกลืนน้ำลาย"* · A20 composition = user สั่ง (ซ้าย/ขวา)
 - roles `cf0238e3` 5 ภาพ + วิดีโอ + เสียง: `d7225696` `f4cb7681` `65bb3ce9` `2aec936c` `b16a326b` + `71409804` + `e0703816` · valid:true · ตรวจราคา 37 · key `sb03-39j2-v1-20261127-a` · รอ user ตรวจก่อนยิง
 - user *"ยิง"* → ยิง 2026-11-27 · run `f7c7575a-8acf-49d4-b180-ad96113e51cb` · 37 พอยต์
+- เสร็จ · asset `4990b4c9` · insert `e7b7ef9d` · 4.04 วิ · รอ user ดู
