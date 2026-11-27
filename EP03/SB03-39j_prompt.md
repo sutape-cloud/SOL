@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. In the dressing room, Aoy, made up and in her red qipao, was sticking a plaster on at the mirror, the black stockings she has taken off hanging over her left shoulder. Win, disguised as her old uncle, has just slipped in to hide and leans back against the shut door, caught. She asked him in the mirror what he was doing in here, and he stammered. She knows exactly who he is and is quietly amused.
 
 SCENE
-Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. On the way she draws the stockings off her shoulder with two fingers and asks whether he wants to see how revealing the dress looks without them. Win, his back to the door, shuffles away along the wall until he is stuck in the corner; she follows him in, holding the stockings up between them. He tries not to look down, swallows, and his eyes keep going to the stockings in her hand.
+Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. On the way she draws the stockings off her shoulder with two fingers and asks whether he wants to see how revealing the dress looks on her bare legs. Win, his back to the door, shuffles away along the wall until he is stuck in the corner; she follows him in, holding the stockings up between them. He swallows, keeps trying to hold her eyes, and his eyes keep going to the stockings in her hand.
 
 ACTIVE REFERENCES
 @Image1 — THE DRESSING ROOM, SEEN FROM BESIDE THE DRESSING TABLE, LOOKING BACK TOWARD THE DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -50,7 +50,7 @@ Picture, in this order:
 - 3. 3.8–6.0 s: She says the second line of @Audio1, the stockings dangling from her two fingers. Win, his back against the door, shuffles sideways along the wall toward the right of frame, small careful steps, to get away from her; the handheld camera backs away with them.
   - Aoy: "หรือลุงอยากเห็นว่าเวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊ยังไง"
   - Emotion from the script: 娇嗔挑逗，故意作弄.
-- 4. 6.0–8.3 s: Win's back meets the corner of the room; there is nowhere left to go. Aoy keeps coming and stops close in front of him; the camera settles into a two-shot of them facing each other: Aoy on the right, facing left, her right hand lifting the stockings up so they hang in the middle of the frame between them; Win on the left, facing right, his eyes slipping to the stockings in her hand.
+- 4. 6.0–8.3 s: Win's back meets the corner of the room; he is stuck. Aoy keeps coming and stops close in front of him; the camera settles into a two-shot of them facing each other: Aoy on the right, facing left, her right hand lifting the stockings up so they hang in the middle of the frame between them; Win on the left, facing right, his eyes slipping to the stockings in her hand.
 - 5. 8.3–9.0 s: As she finishes, Win swallows. A beat. He tries to keep his eyes on her face, and they still slide to the stockings.
 Camera: MCU, 140 cm high, eye level, 50mm lens; handheld, starting over Win's shoulder as he stands against the door, backing away with them as he slides along the wall, and ending on a two-shot of the two of them in the corner.
 Composition: at the start, Win's shoulder and the pink hat soft in the foreground, Aoy from the waist up coming toward him; at the end, Aoy on the right of frame facing left, Win on the left of frame facing right, the black stockings hanging in the middle of the frame between their faces.
@@ -82,3 +82,6 @@ DIALOGUE, IN THIS ORDER
 - "ตัดดำ (จบตอน)" = ตัดตอนตัดต่อ · ในวิดีโอจบที่บีตวินกลืนน้ำลาย 8.3–9.0
 - เรฟ: @1 `a25ac9b5` ห้องมองจากโต๊ะไปประตู · @2 `ed8d0482` ห้องมองจากประตู · @3 `f4cb7681` · @4 `d7225696` · @5 `65bb3ce9` · @6 `a747a525` ถุงน่อง v2 · @7 `2aec936c` วินหน้า · @8 `b16a326b` วินกลับเสื้อ · @9 `a2167781` หมวก · @Audio1 `ce7f5100`
 - ด่านยกเว้น: A4/A1 *eyes slipping to the stockings / tries to keep his eyes on her face* = user *"ชำเลืองมองไปที่ถุงน่อง"* *"พยายามไม่มองลง มองหน้า"* · *swallows* = user *"กลืนน้ำลาย"* · A20 composition = user สั่ง (ขวา/ซ้าย · ถุงน่องกลางเฟรม)
+- A8 SCENE *tries not to look down* → *keeps trying to hold her eyes* · *nowhere left to go* → *he is stuck*
+- A8 SCENE *without them* → *on her bare legs*
+- roles `cf0238e3` 9 ภาพ + เสียง: `a25ac9b5` `ed8d0482` `f4cb7681` `d7225696` `65bb3ce9` `a747a525` `2aec936c` `b16a326b` `a2167781` + `ce7f5100` · valid:true · ตรวจราคา 79.5 · key `sb03-39j-v1-20261127-a` · รอ user ตรวจก่อนยิง
