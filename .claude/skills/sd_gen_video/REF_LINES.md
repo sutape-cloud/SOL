@@ -162,6 +162,7 @@ THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR I
 ```
 
 ### AOY · แต่งหน้า C2 แบบ 3/4 เป็นหลัก (user เคาะ 2026-11-27 · SB03-39j)
+> ⚠️ ใช้เฉพาะซีนที่อลิซแต่งหน้า (ห้องแต่งตัวตึกทิน · ซีน 3-5 / 3-6) · user *"เฉพาะซีนที่อลิซแต่งหน้านะ น่าจะมีแค่ 2 ซีน"* · ซีนอื่นใช้บรรทัด AOY ปกติข้างบน
 ```
 AOY: 26, Thai, pretty, long straight jet-black hair, FROM THREE-QUARTER VIEW. 100% matches the reference, and @ImageN is the authority for what she is wearing today. THIS REFERENCE IS THE AUTHORITY FOR HER MAKEUP.
 HER FACE FROM THE FRONT. 100% matches the reference for the shape of her face. HER MAKEUP COMES ONLY FROM @ImageN.
