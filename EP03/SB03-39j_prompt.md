@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, a real place, natural skin. Two shots, 9 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The only light in the dressing room is the warm bulbs around the round mirror, the warm hidden lights along the edge of the ceiling, the downlights and the brass floor lamp; the air is clear and clean. Every face keeps its natural skin tone. Aoy's makeup is exactly the soft makeup of @Image3: light eye shadow, a thin eyeliner, soft red lips; her face, her high ponytail, the gold hairpin and the red bead earrings are exactly as in @Image3 and @Image4. The makeup changes only how she looks: Aoy moves and acts exactly like her usual self, natural, small and real. Whenever Aoy smiles, it is a closed-lip smile. Every shot of Aoy frames her from the waist up. Win wears the pink knitted hat on his head for the whole video. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, a real place, natural skin. Two shots, 12 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life: small and natural. Every reaction is small and real. The only light in the dressing room is the warm bulbs around the round mirror, the warm hidden lights along the edge of the ceiling, the downlights and the brass floor lamp; the air is clear and clean. Every face keeps its natural skin tone. Aoy's makeup is exactly the soft makeup of @Image3: light eye shadow, a thin eyeliner, soft red lips; her face, her high ponytail, the gold hairpin and the red bead earrings are exactly as in @Image3 and @Image4. The makeup changes only how she looks: Aoy moves and acts exactly like her usual self, natural, small and real. Whenever Aoy smiles, it is a closed-lip smile. Win wears the pink knitted hat on his head for the whole video. Every person has two arms and two legs, natural and correct. Each shot keeps one fixed focal length. The only sound is the real sound of the place.
 
 LIP SYNC
-Aoy speaks across both shots; Win stays silent. The voice file @Audio1 plays exactly once, from 0.0 s, and holds Aoy's two lines in order, with a short pause between them: the first line from 0.1 s to 3.3 s, the second from 3.8 s to 8.3 s. In Shot 1 she is seen from behind and her voice is heard; in Shot 2 her lips are synced to her voice. The file ends with a stretch of silence that is there only to make it long enough. Everything ends within 9 seconds.
+Aoy speaks in both shots; Win stays silent. The voice file @Audio1 plays exactly once, from 0.0 s, and holds Aoy's two lines in order, with a short pause between them: the first line from 0.1 s to 3.3 s, all of it in Shot 1; the second line from 3.5 s to 10.6 s, all of it in Shot 2. In Shot 1 she is seen from behind and her voice is heard; in Shot 2 her lips are synced to her voice. The voice file ends at 10.7 s, when she has finished speaking. After she finishes, from 10.6 s to 12.0 s, there is a silent beat in which Win swallows. Everything ends within 12 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. In the dressing room, Aoy, made up and in her red qipao, was sticking a plaster on at the mirror, the black stockings she has taken off hanging over her left shoulder. Win, disguised as her old uncle, has just slipped in to hide and leans back against the shut door, caught. She asked him in the mirror what he was doing in here, and he stammered. She knows exactly who he is and is quietly amused.
+All of this has already happened before the first frame. In the dressing room, Aoy, made up and in her red qipao, was sticking a plaster on at the mirror, the black stockings she has taken off hanging over her left shoulder. Win, disguised as her old uncle, has just slipped in to hide and leans back against the shut door, caught. She asked him in the mirror what he was doing in here, and he stammered. She knows exactly who he is.
 
 SCENE
-Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. On the way she draws the stockings off her shoulder with two fingers and asks whether he wants to see how revealing the dress looks on her bare legs. Win, his back to the door, shuffles away along the wall until he is stuck in the corner; she follows him in, holding the stockings up between them. He swallows; his eyes flick to the stockings beside his face and straight back to hers.
+Aoy walks slowly from the dressing table straight at Win, scolding him in fun for sneaking into a woman's dressing room. Then she comes up to him, draws the stockings off her shoulder with two fingers, holds them up at her chest and asks whether he wants to see how the dress looks on her bare legs. Win, his back to the wall, shuffles along it to get away from her. For the last words, whether it really looks revealing, she lowers the stockings and leans her face in close to his, asking as if she truly wants his honest opinion. Win swallows.
 
 ACTIVE REFERENCES
 @Image1 — THE DRESSING ROOM, SEEN FROM BESIDE THE DRESSING TABLE, LOOKING BACK TOWARD THE DOOR. THIS REFERENCE IS ONLY INFORMATION ABOUT THE PLACE, TO KNOW WHAT IS WHERE. EVERY SHOT HAS ITS OWN NEW, CINEMATIC CAMERA ANGLE.
@@ -20,8 +20,9 @@ ACTIVE REFERENCES
 @Image6 — THE BLACK STOCKINGS. THIS REFERENCE IS THE AUTHORITY FOR THE STOCKINGS ITSELF.
 @Image7 — WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image8 is the authority for what he is wearing today.
 @Image8 — HIS FULL BODY, IN THE JACKET TURNED INSIDE OUT AND THE PINK KNITTED HAT. 100% matches the reference for his clothes and the hat. THE BLUE PATCH OVER THE FACE IS ONLY A MASK: HIS FACE COMES FROM @Image7.
+@Image9 — THE FIRST FRAME OF SHOT 1. THIS REFERENCE IS THE AUTHORITY FOR THE CAMERA, THE FRAMING AND WHERE EVERYONE AND EVERYTHING IS AT THE START OF SHOT 1, AND FOR THE WALL TO THE LEFT OF THE DOOR.
 @Audio1 — AOY'S VOICE, HER TWO LINES, IN SHOTS 1 AND 2.
-@Image3 and @Image4 carry Aoy's face, and her makeup comes from @Image3; @Image5 carries her clothes. @Image6 is the stockings. @Image7 carries Win's face; @Image8 carries his clothes and the hat. @Image1 and @Image2 only tell what is where in the room.
+@Image3 and @Image4 carry Aoy's face, and her makeup comes from @Image3; @Image5 carries her clothes. @Image6 is the stockings. @Image7 carries Win's face; @Image8 carries his clothes and the hat. @Image1 and @Image2 only tell what is where in the room. @Image9 is the first frame of Shot 1.
 
 WHAT THEY WEAR, AS IN @Image3 TO @Image8
 - Aoy: the short deep red jacquard qipao of @Image5 with pink and gold embroidery, gold piping, the mandarin collar with gold frog buttons, puffed three-quarter sleeves; bare legs; black patent pointed high heels; the sheer black stockings of @Image6 draped over her left shoulder: the legs of the stockings hang down her front, and the waistband end hangs down her back; a high black ponytail with the gold hairpin and its strands of red beads; red bead drop earrings; the soft makeup of @Image3 with soft red lips.
@@ -29,37 +30,39 @@ WHAT THEY WEAR, AS IN @Image3 TO @Image8
 
 WHERE EVERYONE IS
 - The dressing room, as in @Image1 and @Image2: dark walnut walls; the walnut door with a tall vertical brass handle; the cream bouclé sofa, the round gold side table with pink peonies and the brass floor lamp beside the door; the dressing table with the round mirror ringed with bulbs at the other end of the room; herringbone parquet and a cream rug.
-- At the start: Aoy stands at the dressing table; Win stands with his back against the closed door at the far end of the room, facing her.
-- During the video: Aoy walks from the dressing table to Win. Win slides along the wall, away from the door, into the corner of the room. Aoy follows him into the corner.
-- AT THE END: CLOSE ON THEIR TWO FACES, NEAR EACH OTHER, IN THE CORNER: AOY ON THE RIGHT OF FRAME, FACING LEFT; WIN ON THE LEFT OF FRAME, FACING RIGHT.
+- The wall to the left of the door, as seen in @Image9, is one flat, smooth walnut wall that runs straight from the door to the corner of the room.
+- At the start: exactly as in @Image9: Aoy stands beside the dressing table and the mirror ringed with bulbs, her back to the camera; Win stands with his back against the closed door at the far end of the room, facing her.
+- During the video: Aoy walks from the dressing table to Win. Win slides sideways along the flat wall to the left of the door, his back flat against it. Aoy follows him along the wall.
+- IN SHOT 2: WIN ON THE LEFT OF FRAME, HIS BACK TO THE WALL, FACING RIGHT; AOY ON THE RIGHT OF FRAME, FACING LEFT.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–2.4 s — SHE COMES FOR HIM · from behind Aoy
+Shot 1 — 0.0–3.4 s — SHE COMES FOR HIM · from behind Aoy
 Picture, in this order:
-- 1. 0.0–2.4 s: From the very first frame, Aoy is already walking away from the dressing table toward Win at the far door, slowly, about a third slower than a normal walk, one deliberate step after another. Her back is to the camera; the stockings hang over her left shoulder, on the left of frame, and their waistband end lies down her back. As she walks she starts @Audio1, scolding him in fun.
+- 1. 0.0–3.4 s: The first frame is @Image9 exactly. From that very first frame, Aoy is already walking away from the dressing table toward Win at the far door, slowly, about a third slower than a normal walk, one deliberate step after another. Her back is to the camera; the stockings hang over her left shoulder, on the left of frame, and their waistband end lies down her back. As she walks she says the whole first line of @Audio1, scolding him in fun.
   - Aoy: "ลุงจะแอบเข้าห้องแต่งตัวผู้หญิงแบบนี้ไม่ได้นะ"
-  - Emotion from the script: 嗔怪数落，步步逼近.
-Camera: MS, from behind Aoy, 135 cm high, eye level, 35mm lens, locked-off; Aoy from the waist up in the foreground, her back to the camera; Win small and soft against the door at the far end of the room.
-Composition: Aoy's back from the waist up, a little right of the middle; the stockings over her left shoulder on the left of frame; the line of the room leading to Win at the door in the distance.
+  - Emotion from the script: 娇嗔责备.
+Camera: the camera of @Image9, the same height, lens and framing, locked-off; Aoy walks away from it, her back to the camera; Win against the door at the far end of the room.
+Composition: as in @Image9: Aoy right of the middle, the mirror ringed with bulbs on the right of frame, Win at the door on the left; the line of the room leads from her to him.
 
-Shot 2 — 2.4–9.0 s — CORNERED · over Win's shoulder, then the two of them
+Shot 2 — 3.4–12.0 s — CORNERED · the two of them, along the wall
 Picture, in this order:
-- 1. 2.4–3.3 s: Over Win's shoulder: Aoy, from the waist up, comes closer and closer, finishing the first line.
-- 2. 3.3–3.8 s: Still coming, she pinches the stockings on her shoulder between two fingers of her right hand and draws them off.
-- 3. 3.8–6.0 s: She says the second line of @Audio1, the stockings dangling from her two fingers, teasing him: she is holding back a smile, sweet and cute. Win, his back against the door, shuffles sideways along the wall toward the right of frame, small careful steps, to get away from her; the handheld camera backs away with them.
-  - Aoy: "หรือลุงอยากเห็นว่าเวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊ยังไง"
-  - Emotion: 憋笑逗弄，俏皮可爱.
-- 4. 6.0–8.3 s: Win's back meets the corner of the room; he is stuck. Aoy keeps coming closer and closer, and she stops, her face close to his, just as she finishes her line. The handheld camera moves in with them to a close two-shot of their two faces: Aoy on the right, facing left; Win on the left, facing right; her right hand lifts the stockings up to the height of their faces, so they hang in the middle of the frame between them.
-- 5. 8.3–9.0 s: As she finishes, Win swallows; his eyes flick to the stockings beside his face for an instant and straight back to Aoy's eyes. A beat. His eyes stay level the whole time, on her face and on the stockings at face height.
-Camera: MCU, closing in to a CU of the two faces at the end, 140 cm high, eye level, 50mm lens; handheld the whole way to the last frame, starting over Win's shoulder as he stands against the door, backing away with them as he slides along the wall, and ending close on their two faces in the corner, still handheld.
-Composition: at the start, Win's shoulder and the pink hat soft in the foreground, Aoy from the waist up coming toward him; at the end, a close two-shot of their two faces, near each other: Aoy on the right of frame facing left, Win on the left of frame facing right, the black stockings hanging in the middle of the frame between their faces.
+- 1. 3.4–5.1 s: A two-shot along the wall. Win is on the left of frame, his back flat against the walnut wall, facing right. In the first frame, Aoy is just at the right edge of frame, still walking in; she comes closer and closer. As she comes, she pinches the stockings on her shoulder between two fingers of her right hand and draws them off, slowly. Win starts to shuffle sideways along the wall toward the camera, his back flat against it, small careful steps, to get away from her; the handheld camera backs away along the wall with him.
+  - Aoy: "หรือลุงอยากเห็นว่า"
+  - Emotion from the script: 随即压低嗓音撩拨试探.
+- 2. 5.1–8.9 s: She holds the stockings up at the height of her chest, still a step away from him, and keeps following him. Win's eyes flick to the stockings once and come straight back to her face. He keeps shuffling toward the camera along the wall; the camera keeps backing away along the wall.
+  - Aoy: "เวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง"
+- 3. 8.9–10.6 s: The camera's back meets the wall of the corner, and it stops. Aoy slowly leans her face in close to Win's, lowering the hand with the stockings, and asks him, her face straight and sincere, as if she truly wants his honest opinion. The picture tightens to a close two-shot of their two faces: Win on the left of frame, facing right; Aoy on the right of frame, facing left.
+  - Aoy: "มันดูโป๊จริงมั้ย"
+- 4. 10.6–12.0 s: A beat. Win swallows. His eyes stay on her face.
+Camera: MCU two-shot, closing to a CU of the two faces at the end, 140 cm high, eye level, 50mm lens; handheld the whole way to the last frame. The camera is in the room, close to the flat wall to the left of the door, looking along the wall toward the door; it backs away along the wall as Win shuffles toward it, until its back meets the wall of the corner.
+Composition: Win on the left of frame, his back to the wall, facing right; Aoy on the right of frame, facing left, coming toward him; the space between them closes until their two faces are near each other.
 
 THE LAST FRAME
-Close on the two faces, near each other, in the corner of the dressing room: Win on the left of frame, facing right, his back to the corner, his eyes on Aoy's eyes; Aoy on the right of frame, facing left, holding the black stockings up in her right hand at face height, in the middle of the frame between them.
+Close on the two faces, near each other, against the walnut wall: Win on the left of frame, facing right, his back to the wall, his eyes on Aoy's face; Aoy on the right of frame, facing left, her face close to his.
 
 DIALOGUE, IN THIS ORDER
-1. Shots 1–2, @Audio1, AOY: "ลุงจะแอบเข้าห้องแต่งตัวผู้หญิงแบบนี้ไม่ได้นะ"
-2. Shot 2, @Audio1, AOY: "หรือลุงอยากเห็นว่าเวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊ยังไง"
+1. Shot 1, @Audio1, AOY: "ลุงจะแอบเข้าห้องแต่งตัวผู้หญิงแบบนี้ไม่ได้นะ"
+2. Shot 2, @Audio1, AOY: "หรือลุงอยากเห็นว่า เวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊จริงมั้ย"
 
 ---
 
@@ -67,8 +70,8 @@ DIALOGUE, IN THIS ORDER
 
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
-| `嗔怪数落，步步逼近` | ดุแบบแกล้ง เดินเข้าไปทีละก้าว | SB03-39 ช็อต 6 (บรีฟ user) |
-| `憋笑逗弄，俏皮可爱` | ซ่อนยิ้ม แกล้งหยอก น่ารัก | user 2026-11-27 *"ตอนพูดประโยคหลัง "หรือว่า..." อลิซซ่อนยิ้มแกล้งวินนะ ไม่ดุ ทำหน้าน่ารักๆ"* |
+| `娇嗔责备` | แกล้งดุหยอกเย้า | บท user 2026-11-27 *"(娇嗔责备，随即压低嗓音撩拨试探) (แกล้งดุหยอกเย้า ก่อนลดเสียงต่ำหยอดยั่วให้เขิน)"* |
+| `随即压低嗓音撩拨试探` | แล้วลดเสียงต่ำ หยอดยั่วให้เขิน | บท user 2026-11-27 (แท็กเดียวกัน ท่อนหลัง) · *"ลดเสียงต่ำตั้งแต่ "หรือลุง..."*" |
 
 ก๊อปจาก `SB03-39_prompt.md`
 
@@ -93,3 +96,14 @@ DIALOGUE, IN THIS ORDER
 - user *"ผ่าน ยิงเลย"* · ตรวจราคา 79.5 key `sb03-39j-v1-20261127-b` (roles 8 ภาพ+เสียง) → ยิง 2026-11-27 · run `d57589dc-053b-4fe9-81aa-228daceff809` · 79.5 พอยต์
 - เสร็จ · asset `8da78063` · insert `da96c700` · 9.04 วิ · รอ user ดู
 - V1 `8da78063` ❌ user *"SD ดันสลับอลิซไปซ้ายแทนตอนคัทแรก พอคัทสองก็เพิ่มให้มีช่องให้วินถอยเข้าไปอีก แทนที่จะสไลด็ตัวไปตามผนังห้อง แล้วอลิซก็ไม่มีลีลาให้การหยิบถุงน่องมาชูอวดเลย ยกขึ้นมาเหมือนของที่น่ากลัวน่าตกใจ"* · ผมไล่เฟรม (`EP03/frames/SB03-39j_V1_keys.jpg` `_contact.jpg`): คัท 1 0–2.5 ภาพกว้างเต็มตัวเห็นขา (สั่งครึ่งตัว) อลิซซ้ายกลาง กระจกขวา · หางม้ายาวถึงต้นขา ถุงน่องบนบ่าไม่ชัด (ปนกับผม) · คัท 2 วินถอยเข้าช่องเว้าผนัง · 8.8 ถุงน่องเป็นก้อนดำทึบชูข้างหน้า ไม่บาง ไม่มีลีลา
+
+### V2 (2026-11-27)
+- user *"SB03-39_V2 fix01 อย่างอื่นแก้ไงดี"* → @Image9 = fix01 `11a721d2` (`EP03/frames/SB03-39j_fix01.jpg`) เฟรมแรกคัท 1 + ผนังเรียบซ้ายประตู · ตัด "Every shot of Aoy frames her from the waist up" (คัท 1 ขนาดตาม fix01)
+- user *"ไม่ต้องแกว่งแค่ชูขึ้นมาระดับอกอย่างสูง ขนาดภาพเป็น MCU มีระยะห่างจากวิน จนตอนพูดว่า "มันดูโป๊ยังไง" ให้อลิซชิดหน้าเข้าไปใกล้แบบช้าๆ โดยลดมือที่ถือถุงน่องลงไปเลย … ไม่ยิ้มเว่อ … บีท ให้วินกลืนน้ำลายก็ไม่ได้ทำมาด้วย เพราะไปเสียเวลา เว้นระหว่างประโยคนานไป"*
+- user ส่งบทใหม่ *"อลิซ: ลุงจะแอบเข้าห้องแต่งตัวผู้หญิงแบบนี้ไม่ได้นะ หรือลุงอยากเห็นว่า เวลาหนูใส่ชุดนี้แบบไม่มีถุงน่อง มันดูโป๊จริงมั้ย (娇嗔责备，随即压低嗓音撩拨试探)"* + เสียงใหม่ `CH3_S6` (Mix Stage `076ba975` 10.71 วิ · ใช้ไฟล์ดิบ ไม่เติมเงียบ — user *"ไม่จำเป็นต้องเติมเสียงให้ครบนะ เขียนพร้อมป์ให้เคลีย ว่า พูดจบ วินกลืนน้ำลาย ดีกว่า"* · ไฟล์เติม 12 วิ `2bac0b59` ไม่ใช้) · ช่วงเสียง (silencedetect −32 dB): 0.12–3.26 · 3.50–5.09 · 5.26–8.86 (หยุด 7.21–7.50) · 9.23–10.57
+- user *"แก้คัท 2 จากผ่านไหล่เป็น 2 shot เลย อลิซเข้าเฟรมจากขวา MCU เฟรมแรกของคัทนี้ ให้อยู่ในเฟรมนิดๆแล้ว แต่เดินเข้ามาใกล้ขึ้นๆ แล้ววินก็กระดึ๊บเข้ามาหากล้อง กล้องถอยจนชนผนัง ตอนท้ายเป็น CU 2 คน อลิซต้องไม่ยิ้ม ถามเหมือนอยากให้วินช่วยดูให้จริงๆ วินถึงกลืนน้ำลาย เพิ่มเวลาตามสมควร 12 วิ?"*
+- user *"คัท 1 ให้จบ ไลน์แรกเลย คัท 2 เริ่มไลน์ 2"* → คัท 1 0.0–3.4 · คัท 2 3.4–12.0
+- สายตาวิน: ชำเลืองถุงน่องช่วงชูระดับอก (5.1–8.9) · ท้ายมองหน้าอลิซ (ถุงน่องลดพ้นเฟรมแล้ว) — ผมเสนอในตารางคัท user ผ่าน
+- ตัด *quietly amused* (BEFORE) · ตัดแท็ก `嗔怪数落，步步逼近` `憋笑逗弄，俏皮可爱` → แท็กบทใหม่
+- ด่านยกเว้น: A23 *face straight and sincere, as if she truly wants his honest opinion* = user *"อลิซต้องไม่ยิ้ม ถามเหมือนอยากให้วินช่วยดูให้จริงๆ"* · A4 *eyes flick to the stockings / stay on her face* = user *"ชำเลืองไปที่ถุงน่อง แล้วกลับมามองอลิซ … ห้ามมองลง"* · *swallows* = user *"กลืนน้ำลาย"* · A20 composition = user สั่ง (ซ้าย/ขวา)
+- roles `cf0238e3` 9 ภาพ + เสียง: `a25ac9b5` `ed8d0482` `d7225696` `f4cb7681` `65bb3ce9` `a747a525` `2aec936c` `b16a326b` `11a721d2` + `076ba975` · valid:true · ตรวจราคา 106 · key `sb03-39j-v2-20261127-b` (`-a` compact handle ใช้ไม่ได้ ไม่ได้เริ่ม) · รอ user ตรวจก่อนยิง
